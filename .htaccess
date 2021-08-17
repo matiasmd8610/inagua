@@ -1,0 +1,18 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^www.inagua.com.ar [NC]
+RewriteRule ^(.*)$ http://inagua.com.ar/$1 [L,R=301]
+
+RewriteBase /
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.html -f
+RewriteRule ^(.*)$ $1.html
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.*)$ $1.php
+
+<IfModule mod_rewrite.c>
+RewriteCond %{HTTPS} off
+RewriteRule (.*) https://inagua.com.ar/$1 [R=301,L,QSA]
+</IfModule>

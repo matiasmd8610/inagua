@@ -1,0 +1,722 @@
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td {  
+	margin:0; 
+	padding:0; 
+} 
+
+table { 
+	border-collapse:collapse; 
+	border-spacing:0; 
+} 
+
+fieldset,img {  
+	border:0; 
+} 
+
+address,caption,cite,code,dfn,em,strong,th,var { 
+	font-style:normal; 
+	font-weight:normal; 
+} 
+
+ol,ul { 
+	list-style:none; 
+} 
+
+caption,th { 
+	text-align:left; 
+} 
+
+h1,h2,h3,h4,h5,h6 { 
+	font-size:100%; 
+	font-weight:normal; 
+} 
+
+q:before,q:after { 
+	content:''; 
+} 
+
+abbr,acronym { 
+	border:0; 
+}
+
+/*----------------------FIN RESETEO---------------------------------------------*/
+
+
+html {
+margin:0;
+width:auto;
+}
+
+body {
+width:100%;
+margin:0 auto;
+background:url('../images/fondo-desagotes.jpg') repeat-x;
+background-color:white;
+font-family:arial,helvetica,sans-serif;
+color:#c1c3c3;
+}
+
+#contenedor {
+width:930px;
+background-color:white;
+position:relative;
+margin:0 auto;
+}
+
+a {outline:0;}
+
+#cabecera{
+width:930px;height:329px;position:relative;
+}
+
+#slider {background:#86c1df; width:930px; height:274px;}
+
+#botonera {height:55px; width:930px; background:url('../images/cabecera-top.jpg') no-repeat center center;}
+
+#botonera ul { width:255px; float:right; margin-top:25px;}
+
+#botonera ul li {display:inline-block;}
+#botonera ul li span {display:none;}
+#botonera ul li.home a:link {display:block;background:url('../images/home.jpg') no-repeat center center; width:67px; height:19px;}
+#botonera ul li.home a:hover {background:url('../images/home_roll.jpg') no-repeat center center;}
+#botonera ul li.servicio a:link {display:block;background:url('../images/servicios.jpg') no-repeat center center; width:87px; height:19px;}
+#botonera ul li.servicio a:hover {background:url('../images/servicios_roll.jpg') no-repeat center center;}
+#botonera ul li.contacto a:link {display:block;background:url('../images/contactos.jpg') no-repeat center center; width:87px; height:19px;}
+#botonera ul li.contacto a:hover {background:url('../images/contactos_roll.jpg') no-repeat center center;}
+
+
+#inagua span{
+display:none;
+}
+
+#inagua {width:274px; height:111px;background:url('../images/logo-top.png') no-repeat center center;position:absolute;z-index:9999;left:-10px;top:-8px;
+-moz-animation-name: animacion1;
+  -moz-animation-duration: 2s;
+  -webkit-animation-name: animacion1;
+  -webkit-animation-duration: 2s;
+  -o-animation-name: animacion1;
+  -o-animation-duration: 2s;}
+  
+  @-moz-keyframes animacion1 {
+  from {
+    top:-128px;
+  }
+  to {
+    top:-8px; 
+  }
+}
+
+@-webkit-keyframes animacion1 {
+  from {
+    top:-128px;
+  }
+  to {
+    top:-8px; 
+  }
+}
+
+@-o-keyframes animacion1 {
+  from {
+    top:-128px;
+  }
+  to {
+    top:-8px; 
+  }
+}
+
+
+
+
+
+/*-----------------------------PIE------------------------*/
+
+#pie  {
+height:56px;
+}
+
+#pie hr {
+height:14px;
+background:url('../images/linea.jpg');
+width:100%;
+float:left;
+}
+
+#pie1{
+float:left;
+width:100%;
+}
+
+#derechos {
+width:290px;
+height:19px;
+background:url('../images/derechos.jpg');
+margin-left:0px;
+margin-top:1px;
+margin-bottom:10px;
+}
+
+#derechos span {
+display:none;
+}
+
+
+#web {
+font-family:Futura Md BT, helvetica, sans-serif;
+font-size:12px;
+color:#666666;
+float:left;
+width:75px;
+height:9px;
+margin-left:285px;
+margin-top:13px;
+background:url('../images/web.jpg');
+}
+
+#web span {
+display:none;
+}
+
+
+
+/*---------------------------FIN PIE-------------------*/
+
+#cssmenu ul{
+	margin:0;
+	padding:0;
+	list-style-type:none;
+	width:auto;
+	position:relative;
+	display:block;
+	height:40px;
+	text-transform:uppercase;
+	font-size:13px;
+	font-weight:bold;
+	background:transparent url('../images/blue.jpg') repeat-x top left;
+	font-family:Helvetica,Arial,Verdana,sans-serif;
+}
+#cssmenu li{
+	display:block;
+	float:left;
+	margin:0;
+	padding:0;
+	/*border-right:1px solid #ffffff;*/
+	}
+	
+
+
+#cssmenu li a{
+	display:block;
+	float:left;
+color:#1778c8;
+	text-decoration:none;
+	padding:12px 20px 0 20px;
+	height:28px;
+	}
+	
+#menu-cont a {
+width:86px;
+}
+	
+.active {
+border-right:1px solid #ffffff;
+
+}
+
+#ultimo {
+padding:0px;
+}
+	
+#cssmenu li a:hover{
+	background:transparent url('../images/black.jpg') repeat-x top left;	
+	}
+	
+#sombra {
+height:10px;
+width:100%;
+background:url('../images/fondo_centro2.png') no-repeat;
+margin-top:0;
+padding-top:0;
+}
+
+
+#info {
+background:url('../images/fondo_centro_sin_sombra.jpg');
+width:930px;
+height:73px;
+margin-top:0px;
+padding-top:0px;
+
+}
+
+
+#info1 {
+width:70%;
+height:100%;
+float:left;
+margin-top:0;
+padding-top:0;
+
+}
+
+#info1 p {
+display:none;
+}
+
+#info2 {
+width:30%;
+height:100%;
+float:left;
+}
+
+#info2 p {
+display:none;
+}
+
+#centro {
+/*height:318px;*/
+width:100%;
+background-color: white;
+overflow: hidden; /*para que el div contenido se adapte al tamaño del div mas grande que tiene dentro*/
+margin-bottom:20px;
+margin-top:20px;
+}
+
+#sombra-divisoria {
+clear:left;
+width:100%;
+}
+
+#sombra-divisoria  img{
+margin-left:116px;
+margin-top:0px;
+}
+
+#relax {
+font-family:Futura Md BT, Futura Std book, helvetica, sans-serif;
+font-size:20px;
+color:white;
+margin-left:25px;
+margin-top:10px;
+}
+
+#nosotros {
+font-family:Futura Md BT, helvetica, sans-serif;
+font-size:25px;
+color:#a2e8fe;
+margin-left:25px;
+}
+
+#tel {
+font-family:Futura Md BT, Futura Std Medium, helvetica, sans-serif;
+font-size:35px;
+color:white;
+margin-left:70px;
+margin-top:7px;
+height:40px;
+}
+
+#llame {
+font-family:Futura Md BT, helvetica, sans-serif;
+font-size:14px;
+color:white;
+margin-left:70px;
+}
+
+#emp {
+display:none;
+}
+
+#columna-uno{
+float:left;
+width:641px;
+}
+
+#links-home, #links-home-2, #links-home-3{
+margin-left:52px;
+margin-top:15px;
+margin-bottom:15px;
+list-style-type: square;
+}
+
+#links-home, #links-home-2, #links-home-3 li{
+color:#4e4e4e;
+font-size:14px;
+}
+
+.bold{
+font-weight:bold;
+
+}
+
+#bold {
+font-weight:bold;
+text-decoration:underline;
+padding-bottom:15px;
+}
+
+.holis li{
+margin-bottom:5px;
+display:block;
+}
+
+.holis a:link {
+color:#00B2EA;
+font-weight:bold;
+font-size:13px;
+text-decoration:underline;
+}
+
+.holis a:visited {
+color:blue;
+}
+
+.holis a:hover {
+color:#449eb4;
+text-decoration:none;
+}
+
+.txt_empresa a:link {
+color:#00B2EA;
+font-weight:bold;
+font-size:13px;
+text-decoration:underline;
+}
+
+.txt_empresa a:visited {
+color:blue;
+}
+
+.txt_empresa a:hover {
+color:#449eb4;
+text-decoration:none;
+}
+
+
+
+#columna-dos{
+float:right;
+width:289px;
+}
+
+#centro img {
+float:right;
+clear:left;
+margin-top:10px;
+margin-bottom:10px;
+margin-right:32px;
+}
+
+
+
+
+#bloque_de_benners_largos {
+width:100%;
+background-color: white;
+overflow: hidden; /*para que el div contenido se adapte al tamaño del div mas grande que tiene dentro*/
+clear:left;
+}
+
+#bloque_de_benners_largos img{
+float:right;
+margin-bottom:10px;
+margin-right:32px;
+}
+
+div .fb-like-box{
+float:right;
+overflow: hidden; /*para que el div contenido se adapte al tamaño del div mas grande que tiene dentro*/
+margin-right:32px;
+}
+
+/*---------------------------RESETEO TEXTO DESAGOTE-------------------*/
+
+
+.txt_empresa{
+width:100%;
+text-align:justify;
+color:#4e4e4e;
+margin-bottom:10px;
+margin-top:10px;
+margin-left:32px;
+font-size:14px;
+}
+
+.texto-hom-bienvenida{
+margin-left:32px;
+margin-top:20px;
+font-size:14px;
+font-weight:bold;
+color:#4e4e4e;
+}
+
+h1{
+font:normal 22px trebuchet ms;
+color:#363535;
+padding-top:10px;
+clear:both;
+margin-left:32px;
+}
+
+h2{
+font:normal 22px trebuchet ms;
+color:#363535;
+padding-top:10px;
+clear:both;
+margin-left:32px;
+}
+
+.linea-divisoria-horizontal{
+margin-top:10px;
+margin-bottom:24px;
+height:1px;
+background-color:#c0c0c0;
+width:100%;
+margin-left:32px;
+}
+
+.link-1{
+clear:both;
+float:left;
+margin-left:20px;
+margin-top:10px;
+text-decoration:none;
+}
+#centro-servicios a:link{
+color:#00B2EA;
+font-weight:bold;
+font-size:13px;
+}
+
+#centro-servicios a:visited{
+color:#00B2EA;
+}
+
+#centro-servicios a:hover{
+color:#2D3392;
+}
+
+#centro-servicios a:active{
+color:#00B2EA;
+}
+
+.subrayado{
+text-decoration:underline;
+}
+
+/*-----------------------SECCION CONTACTO------------------------*/
+
+#centro-contacto {
+overflow: hidden; /*para que el div contenido se adapte al tamaño del div mas grande que tiene dentro*/
+width:100%;
+background:url('../images/fondo_centro2.jpg');
+}
+
+#centro1 {
+width:365px;
+height:100%;
+/*background:yellow;*/
+float:left;
+font-family:trebuchet ms,Futura Std Medium;
+font-size:14px;
+}
+
+#centro2 {
+width:565px;
+height:100%;
+float:left;
+font-family:trebuchet ms,Futura Std Medium;
+font-size:14px;
+}
+
+#formu5 {
+margin-left:25px;
+}
+
+#campos-oblig span {
+margin-left:4px;
+color:#4f4d4d;
+}
+
+#centro2 label {
+color:#4f4d4d;
+margin-right:4px;
+
+}
+
+.negrita {
+margin-left:25px;
+margin-top:17px;
+color:#4f4d4d;
+margin-bottom:10px;
+}
+
+.mail:link {
+color:#2e3192;
+}
+
+.mail:visited {
+color:#2e3192;
+}
+
+.mail:hover {
+color:black;
+}
+
+#formu1,#formu2,#formu3,#formu4,#formu6 {
+width:520px;
+height:50px;
+margin-left:25px;
+}
+
+#formu6 div {
+margin-top:20px;
+width:50%;
+float:left;
+height:100%;
+}
+
+#centro2 select {
+width:200px;
+}
+
+#formu1 p,#formu2 p,#formu4 p {
+width:50%;
+float:left;
+height:100%;
+}
+
+.boton-de-contacto {
+margin-left:85px;
+font-family:trebuchet ms;
+}
+
+/*-----------------------FIN SECCION CONTACTO------------------------*/
+
+#datafiscal{
+position:fixed;
+top:40%;
+right:0px;
+z-index:10;
+}
+
+#datafiscal img{
+width:120px;
+border:0;
+}
+
+.items-art {
+list-style-type:square;
+margin-left:45px;
+}
+
+.titulo-arti {
+text-decoration:underline;
+margin-bottom:10px;
+margin-top:10px;
+font-size:17px;
+}
+
+#columna-uno {
+font-family:trebuchet ms;
+}
+
+#columna-uno a:link{
+color:#00B2EA;
+font-weight:bold;
+font-size:13px;
+}
+
+#columna-uno a:visited{
+color:#00B2EA;
+}
+
+#columna-uno a:hover{
+color:#2D3392;
+text-decoration:underline;
+}
+
+#columna-uno a:active{
+color:#00B2EA;
+}
+
+#no-dude {
+clear:left;
+/*background:red;*/
+margin-left:32px;
+}
+
+#centro-arti {
+margin-left:0px;
+}
+
+#imagen-art {
+border-style:solid;
+border-width:2px;
+border-color:black;
+margin-left:0px;
+background-color:red;
+}
+
+#img-art {
+text-align:left;
+padding-top:15px;
+overflow:hidden;
+}
+
+#fb-share-button {
+margin-top:15px;
+}
+
+#fb-root {
+margin-bottom:5px;
+}
+
+#descripcion-larga {
+width:100%;
+text-align:justify;
+color:#4e4e4e;
+font-size:14px;
+margin-left:32px;
+clear:left;
+}
+
+#advertencias {
+margin-top:30px;
+}
+
+
+#indice {
+margin-top:30px;
+}
+
+#tel-inagua {
+margin-bottom:30px;
+float:left;
+margin-top:10px;
+text-align:justify;
+color:#4e4e4e;
+font-size:14px;
+}
+
+#no-dude2 {
+float:left;
+margin-top:10px;
+text-align:justify;
+color:#4e4e4e;
+font-size:14px;
+margin-right:0px;
+
+}
+
+#botones-face{
+clear:left;
+}
+
+#foot {
+clear:left;
+width:100%;
+}
+
+div .twitter-box{
+margin-top:25px;
+margin-left:32px;
+}

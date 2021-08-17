@@ -1,0 +1,558 @@
+/*---------------RESETEO HTML 5 --------------------------*/
+
+html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+abbr, address, cite, code,
+del, dfn, em, img, ins, kbd, q, samp,
+small, strong, sub, sup, var,
+b, i,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section, summary,
+time, mark, audio, video {
+margin:0;
+padding:0;
+border:0;
+outline:0;
+font-size:100%;
+vertical-align:baseline;
+background:transparent;
+}
+
+body {
+line-height:1;
+}
+
+article,aside,details,figcaption,figure,
+footer,header,hgroup,menu,nav,section {
+display:block;
+}
+
+nav ul {
+list-style:none;
+}
+
+blockquote, q {
+quotes:none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+content:'';
+content:none;
+}
+
+a {
+margin:0;
+padding:0;
+font-size:100%;
+vertical-align:baseline;
+background:transparent;
+}
+
+/* change colours to suit your needs */
+ins {
+background-color:#ff9;
+color:#000;
+text-decoration:none;
+}
+
+/* change colours to suit your needs */
+mark {
+background-color:#ff9;
+color:#000;
+font-style:italic;
+font-weight:bold;
+}
+
+del {
+text-decoration: line-through;
+}
+
+abbr[title], dfn[title] {
+border-bottom:1px dotted;
+cursor:help;
+}
+
+table {
+border-collapse:collapse;
+border-spacing:0;
+}
+
+/* change border colour to suit your needs */
+hr {
+display:block;
+height:1px;
+border:0;
+border-top:1px solid #cccccc;
+margin:1em 0;
+padding:0;
+}
+
+input, select {
+vertical-align:middle;
+}
+
+
+/*---------------FIN RESETEO HTML 5 --------------------------*/
+
+
+html {
+margin:0;
+width:auto;
+}
+
+body {
+width:100%;
+margin:0 auto;
+background:url('../images/fondo-desagotes.jpg') no-repeat center center fixed; 
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+font-family:arial,helvetica,sans-serif;
+color:black;
+}
+
+#contenedor {
+width:930px;
+background-color:white;
+position:relative;
+margin:0 auto;
+overflow:hidden;
+}
+
+a {outline:0;}
+
+
+header {
+width:100%;
+height:331px;
+background:url('images/cabecera.jpg');
+}
+
+#centro-panel {
+overflow:hidden;
+width:100%;
+padding-bottom:50px;
+}
+
+#izq {
+width:20%;
+float:left;
+height:100%;
+/*background:orange;*/
+}
+
+
+#der {
+width:80%;
+float:left;
+height:100%;
+padding-bottom:20px;
+/*background:orange;*/
+}
+
+#header1 {
+width:70%;
+height:100%;
+float:left;
+}
+
+#ureg {
+margin-top:19px;
+text-align:right;
+font-weight:bold;
+margin-right:12px;
+color:white;
+font-family:trebuchet ms;
+line-height:12px;
+}
+
+#salir {
+text-align:right;
+font-size:13px;
+margin-right:12px;
+}
+
+#header2 {
+width:30%;
+float:left;
+}
+
+
+#publicar_articulo {
+padding-top:15px;
+padding-bottom:15px;
+margin:0 auto;
+width:500px;
+background:orange;
+margin-top:20px;
+margin-bottom:50px;
+border-radius:15px;
+background:#b8dfdd;
+}
+
+#publicar_articulo div {
+margin-bottom:15px;
+margin-left:30px;
+}
+
+
+
+#publicar_articulo select {
+width:280px;
+height:23px;
+margin-top:4px;
+}
+
+
+#publicar_articulo textarea {
+resize:none;
+padding:0;
+margin-top:4px;
+}
+
+#publicar_articulo input {
+margin-top:4px;
+}
+
+#publicar_articulo label {
+margin-left:3px;
+font-size:14px;
+}
+
+#publicar_articulo input[type=submit] {
+width:140px;
+height:28px;
+}
+
+#publicar_articulo input[type=button] {
+width:140px;
+height:28px;
+}
+
+#exitosamente {
+text-align:center;
+color:green;
+font-size:14px;
+margin-bottom:30px;
+}
+
+#err_cat {
+text-align:center;
+color:red;
+font-size:14px;
+margin-bottom:30px;
+}
+
+
+.solo {
+color:black;
+margin-top:2px;
+font-size:12px;
+margin-left:3px;
+}
+
+.error_producto {
+color:red;
+font-size:13px;
+font-family:trebuchet ms, arial;
+margin-top:3px;
+margin-left:2px;
+}
+
+.error {
+color:red;
+font-size:14px;
+font-family:trebuchet ms, arial;
+margin-top:2px;
+margin-left:2px;
+margin-bottom:30px;
+text-align:center;
+}
+
+.error_login {
+color:red;
+font-size:15px;
+font-family:trebuchet ms, arial;
+margin-left:2px;
+text-align:center;
+}
+
+
+
+#ingresar_p,#listado_p {
+font-size:20px;
+/*background:red;*/
+text-align:center;
+margin-bottom:30px;
+margin-top:65px;
+}
+
+#acciones {
+margin-top:65px;
+margin-left:45px;
+
+}
+
+#acciones a {
+font-size:16px;
+}
+
+#acciones li {
+display:block;
+margin-bottom:5px;
+}
+
+#tabla_productos {
+background:#4ea3b8;
+margin-top:15px;
+margin-left:30px;
+width:650px;
+margin-bottom:30px;
+
+}
+
+
+.tabla_1 {
+width:30%;
+border-width:1px;
+border-style:solid;
+text-align:center;
+vertical-align:middle;
+border-color:#2288a2;
+}
+
+.tabla_2 {
+padding-left:20px;
+vertical-align:middle;
+padding-top:8px;
+width:50%;
+border-width:1px;
+border-style:solid;
+border-color:#2288a2;
+text-align:center;
+}
+
+.tabla_3 {
+padding-left:20px;
+vertical-align:middle;
+padding-top:8px;
+width:20%;
+border-width:1px;
+border-style:solid;
+text-align:center;
+border-color:#2288a2;
+}
+
+.tabla_1 img {
+border-style:solid;
+border-width:2px;
+border-color:white;
+margin-top:12px;
+margin-left:12px;
+margin-bottom:7px;
+}
+
+.inpar {
+background:#65c8e1;
+}
+
+.paginador {
+margin-left:30px;
+margin-bottom:30px;
+font-size:14px;
+}
+
+#fila1 th {
+text-align:center;
+font-size:15px;
+height:25px;
+vertical-align:middle;
+background:#7dbfd0;
+border-width:1px;
+border-style:solid;
+border-color:#2288a2;
+}
+
+
+.items li{
+margin-bottom:5px;
+display:block;
+}
+
+.items span{
+color:#c2412b;
+font-weight:bold;
+font-size:14px;
+}
+
+li .nombre_prod {
+color:black;
+font-size:16px;
+}
+
+a:link {
+color:blue;
+line-height:22px;
+text-decoration:underline;
+}
+
+a:visited {
+color:blue;
+}
+
+a:hover {
+color:#449eb4;
+text-decoration:underline;
+}
+
+#nombre_c {
+width:300px;
+}
+
+#nombre {
+width:350px;
+}
+
+
+#login {
+width:280px;
+height:140px;
+padding-top:40px;
+border-radius:20px;
+background:skyblue;
+margin:0 auto;
+margin-top:70px;
+margin-bottom:30px;
+}
+
+#login div {
+margin-left:35px;
+margin-bottom:10px;
+}
+
+#usuario {
+width:200px;
+height:20px;
+margin-bottom:3px;
+}
+
+input[type=text]:focus {
+-moz-box-shadow: 1px 1px 2px white;
+-webkit-box-shadow: 1px 1px 2px white;
+box-shadow: 1px 1px 2px white;
+}
+
+textarea:focus {
+-moz-box-shadow: 1px 1px 2px white;
+-webkit-box-shadow: 1px 1px 2px white;
+box-shadow: 1px 1px 2px white;
+}
+
+select:focus {
+-moz-box-shadow: 1px 1px 2px white;
+-webkit-box-shadow: 1px 1px 2px white;
+box-shadow: 1px 1px 2px white;
+}
+
+
+input[type=password]:focus {
+-moz-box-shadow: 1px 1px 2px white;
+-webkit-box-shadow: 1px 1px 2px white;
+box-shadow: 1px 1px 2px white;
+}
+
+
+#clave {
+width:200px;
+height:20px;
+margin-bottom:3px;
+}
+
+
+#header1 h1 {
+margin-left:430px;
+margin-top:25px;
+font-size:23px;
+color:white;
+font-family:trebuchet ms;
+}
+
+
+
+#enviar {
+/*background:blue;*/
+width:100px;
+height:30px;
+margin-left:45px;
+}
+
+/*-----------------------------PIE------------------------*/
+footer {
+height:56px;
+}
+
+footer hr {
+height:14px;
+background:url('images/linea.jpg');
+width:100%;
+
+}
+
+
+#pie1{
+float:left;
+width:50%;
+}
+
+#pie2{
+float:left;
+width:50%;
+
+}
+
+
+#derechos {
+width:290px;
+height:19px;
+background:url('images/derechos.jpg');
+margin-left:15px;
+margin-top:5px;
+}
+
+#derechos span {
+display:none;
+}
+
+
+#web {
+font-family:Futura Md BT, helvetica, sans-serif;
+font-size:12px;
+color:#666666;
+float:left;
+width:75px;
+height:9px;
+margin-left:285px;
+margin-top:13px;
+background:url('images/web.jpg');
+}
+
+#web span {
+display:none;
+}
+
+#dementes {
+display:block;
+float:left;
+margin-top:3px;
+margin-left:3px;
+}
+
+
+/*---------------------------FIN PIE-------------------*/
+
+

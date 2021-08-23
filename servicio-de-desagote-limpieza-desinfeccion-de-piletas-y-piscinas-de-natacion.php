@@ -395,66 +395,26 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         <img src="img/staff_1.png" alt="" class="staff_1">
                   </div>
                     
-                  <div class="col-md-6 wow slideInRight" datos-wow-duracion= "1s" data-wow-delay = "1s"">
-                      <p class="texto223"><b>DESTACAMOS EN</b> </p>
-
-                          <table width="100%" border="0" style="text-align:center; margin-bottom: 20px;">
-                              <tbody>
-                                
-                                
-                                  <td align="center" class="td08">
-                                    <table style="margin: auto; text-align:left; margin-top: 15px;">
-                                      <tbody>
-                                        <tr>
-                                          <td><img src="img/punto1.jpg" width="10" height="10" alt=""/></td>
-                                          <td width="5"></td>
-                                          <td >Puntualidad</td>
-                                        </tr>
-                                        <tr>
-                                          <td><img src="img/punto1.jpg" width="10" height="10" alt=""/></td>
-                                          <td width="5"></td>
-                                          <td>Educación</td>
-                                        </tr>
-                                        <tr>
-                                          <td><img src="img/punto1.jpg" width="10" height="10" alt=""/></td>
-                                          <td width="5"></td>
-                                          <td>Debidamente uniformados</td>
-                                        </tr>
-                                        <tr>
-                                          <td><img src="img/punto1.jpg" width="10" height="10" alt=""/></td>
-                                          <td width="5"></td>
-                                          <td>Conocimientos en limpieza de piscinas</td>
-                                        </tr>
-                                        <tr>
-                                          <td><img src="img/punto1.jpg" width="10" height="10" alt=""/></td>
-                                          <td width="5"></td>
-                                          <td>Seguridad personal y a terceros</td>
-                                        </tr>
-                                        <tr>
-                                          <td><img src="img/punto1.jpg" width="10" height="10" alt=""/></td>
-                                          <td width="5"></td>
-                                          <td>Equipamiento adecuado</td>
-                                        </tr>
-                                      </tbody>
-                                    </table>
-                                    <br>
-                                       <p class="texto_seguro_3"><i><b>Para su seguridad nuestro personal <br>se encuentra debidamente registrado <br> y cuentan con los seguros <br>  de vida obligatorio y ART</b></i></p>
-                                       <img src="img/logo_seguro.png" alt="" class="logo_seguro">
-
-                                       <p class="texto_seguro">Prevención ART - Vida Obligatorio</p>
-                                       <p class="texto_seguro_2"><b>N°471157 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;N°1291680</b></p>
-                                     
-              
-                                </td>
-                            
-                          </tbody>
-                        </table>
+                  <div class="col-md-6 wow slideInRight" datos-wow-duracion= "1s" data-wow-delay = "1s">
+                      <p class="texto223"><strong>NOS DESTACAMOS EN</strong></p>
+                      <ul class="destacamos-list">
+                        <li>Puntualidad</li>
+                        <li>Educación</li>
+                        <li>Debidamente uniformados</li>
+                        <li>Conocimientos en limpieza de piscinas</li>
+                        <li>Seguridad personal y a terceros</li>
+                        <li>Equipamiento adecuado</li>
+                      </ul>
                       
-                  </div>
+                      <br>
+                      <p class="texto_seguro_3"><i><b>Para su seguridad nuestro personal <br>se encuentra debidamente registrado <br> y cuentan con los seguros <br>  de vida obligatorio y ART</b></i></p>
+                      
+                      <img src="img/logo_seguro.png" alt="" class="logo_seguro">
+
+                      <p class="texto_seguro">Prevención ART - Vida Obligatorio</p>
+                      <p class="texto_seguro_2"><b>N°471157 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;N°1291680</b></p>
+                </div>
     
-            
-
-
           </div>
     </div>  
   

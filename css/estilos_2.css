@@ -1,18 +1,18 @@
 
 body {
-	
 	padding-top: 102px;
+}
 
+body p {
+	line-height: 1.4;
 }
 
 
 @media (max-width: 500px){
 
-body{
+	body {
 		padding-top: -100px;
-
 	}
-
 
 }
 
@@ -30,12 +30,9 @@ body{
 }
 
 
-
-
-@media  (max-width:675px){
+@media  (max-width:675px) {
 
 .botoner_completa{
-
 	width: 100%;
 	height: 100px;
 	
@@ -167,7 +164,6 @@ nav>ul>li:last-child a{
 }
 
 .menu a {
-
 	display: block;
 	padding: 15px 15px;
 	text-decoration: none;
@@ -175,7 +171,6 @@ nav>ul>li:last-child a{
 }
 
 .menu ul li:hover ul{
-
 	display: block;
 	position: absolute;
 	z-index: 15000000;
@@ -183,14 +178,18 @@ nav>ul>li:last-child a{
 	background: rgba(255, 255, 255, 1);
 	right: auto;
 	border: none;
-	
-
+	left: 0;
+    width: auto;
+    min-width: 270px;
+    top: 30px;
+	box-shadow: 1px 2px 8px #cac8c8;
 }
+
 @media (max-width: 1132px) {
-		.menu ul li:hover ul{
-	overflow-y: scroll;
-	width: 250px;
-	height: 350px;
+	.menu ul li:hover ul{
+		overflow-y: scroll;
+		width: 250px;
+		height: 350px;
 	}
 }
 
@@ -205,14 +204,12 @@ nav>ul>li:last-child a{
 
 
 .submenu{
-
 	display: flex;
-	justufy-content:center;
+	justify-content:center;
 	padding: 15px 20px;
-	
-		
-
+	position: relative;
 }
+
 @media (max-width: 1132px)  {
 	.submenu{
 		padding: 15px 13px;
@@ -424,15 +421,13 @@ label{
 }
 
 .sobre_nosotros_1{
-
 	margin-top: 50px;
-
-
 }
+
 .staff_1{
 	width: 100%;
 	margin-top: 50px;
-	}
+}
 
 
 .texto223{
@@ -447,54 +442,50 @@ label{
 	margin-top: 50px;
 	
 }
+
 @media (max-width:500px){
-
 	.texto223{
-
 		margin-left: -10px;
 	}
 	
-
-
 }
 
 
 .logo_seguro{
 	width: 40%;
 	margin: auto;
-	margin-top: -17.1px;
 	display: flex;
 	align-content:center;
-	
 }
-.texto_seguro{
 
+.texto_seguro{
 	text-align: center;
 	margin-top: 5px;
+	margin-bottom: 0;
 }
-.texto_seguro_2{
 
+.texto_seguro_2{
 	text-align: center;
-	margin-top: -17.1px;
 }
 
 .texto_seguro_3{
-
-	text-style: italic;
+	font-style: italic;
 	text-align: center;
 	font-size: 1em;
 }
 
+.separ-secciones{
+	padding: 40px 0 25px 0;
+}
+
 .separ-secciones_2{
 	padding: 80px 0 25px 0;
-
 }
 
 .span-separ-secciones_2{
 		background-color: #999;
 		height: 1px;
 		width: 100%;
-
 }
 
 .td06_2{
@@ -513,23 +504,15 @@ label{
 		}
 	}
 
-.lugar_char{
-
-	margin-top: 50px;
-}
-.chata_ind{
-
-		
+.chata_ind {
 	width: 100%;
 	margin: auto;
 	margin-top: 20px;
 }
 
 .texto_zona_1{
-
-margin-top: 30px;
-margin-bottom: 10px;
-
+	margin-top: 30px;
+	margin-bottom: 10px;
 }
 
 .boton-zona{
@@ -540,12 +523,11 @@ margin-bottom: 10px;
 	width: 100%;
 	color: #fff;
 	font-size:18px;
-	font-family:ikaros_regular, Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-family: 'ikaros_regular', Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
 	font-weight:300;
 	text-align:center;
 	margin-bottom:150px; 
 	margin: auto;
-	
 }
 
 .boton-zona2{
@@ -566,12 +548,10 @@ margin-bottom: 10px;
 	
 
 .boton-zona:hover{
-	    background-color: #2a58a4;
-
+	background-color: #2a58a4;
 }
 
 .btn_zona{
-
 	margin-top: 75px;
 }
 
@@ -580,30 +560,10 @@ margin-bottom: 10px;
 	margin-top: 25px;
 }
 
-
-.lugar_mapa{
-	margin-top: 40px;
-}
-
 .img_mapa_2{
-
-	
 	width: 90%;
 	margin:auto;
 	margin-top: 50px;
-	
-}
-
-@media (max-width: 1060px){
-
-	.img_mapa_2{
-
-	
-
-
-	}
-
-
 }
 
 .btn_zona p a {
@@ -619,13 +579,8 @@ color:white;
 
 
 .alineacion_ser{
-
 	margin-top: 40px;
-
-
-
 }
-
 
 .pileteros_profesionales{
 	margin-top: 50px;
@@ -640,29 +595,23 @@ color:white;
 
 @media (max-width: 900px){
  .pileteros_profesionales{
-
  	height: auto;
  	width: 90%;
  	margin-left: auto;
  	margin-right: auto;
-
  }
 
 }
 
 .td08_3{
 	font-size: 18px;
-	font-family:ikaros_light, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-family:'ikaros_light', "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
 	color: #333;
 	font-weight:100 italic;
 	letter-spacing: 0.04em;
-	/*padding-bottom: -18px;*/
-	/*background-color: lime;*/
-	
 	text-align: center;
 	padding: 20px 40px;
 	margin-top: -20px;
-
 }
 	
 @media (max-width: 450px){
@@ -672,7 +621,6 @@ color:white;
 	
 	       }
 }  
-
 
 
 .td08_4{
@@ -754,54 +702,42 @@ justify-content:center;
 }
 
 .seguinos_tex{
-
-
-	font-family: Conv_HelveticaNeueLTStd-Blk;
+	font-family: 'Conv_HelveticaNeueLTStd-Blk';
 	font-size: 20px;
 	text-align:left;
 	margin-top: 0px;
-	margin-bottom: 10px;
-	margin-left:-15px;
-
+	margin-bottom: 15px;
 }
 
 .seguinos_tex2{
-
-
-	font-family: Conv_HelveticaNeueLTStd-Blk;
+	font-family: 'Conv_HelveticaNeueLTStd-Blk';
 	font-size: 20px;
 	text-align:left;
 	margin-top: 0px;
 	margin-bottom:0px;
-
 }
 
 .texto_pie_lis{
-
-	font-size: 14px;
-	font-family:ikaros_regular, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-size: 15px;
+	font-family: 'ikaros_regular', "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
 	color: #333;
 	line-height:150%;
-
-
+	list-style: none;
 }
+
 .seguinos_tex2{
-
-
-	font-family: Conv_HelveticaNeueLTStd-Blk;
+	font-family: 'Conv_HelveticaNeueLTStd-Blk';
 	font-size: 20px;
 	margin-right:5px;
 	margin-top: 0px;
 	margin-bottom: 0px;
 }
+
 .seguinos2{
 	margin-top:0px;
-	/*margin-bottom:20px;*/
-
-
 }
-@media (max-width: 471px;){
 
+@media (max-width: 471px) {
 
 	.seguinos_tex{
 		margin-top: 60px;
@@ -815,15 +751,12 @@ justify-content:center;
 
 	}
 
-
-
 }
 
 
 
 .fondo_pie{
-
-	background: url("../img/fondo_nuevo_pie.png") no-repeat center center;
+	background: url("../img/fondo_nuevo_pie.jpg") no-repeat center center;
 	background-size: cover;
 	width: 100%;
 	height: 525px;
@@ -832,26 +765,21 @@ justify-content:center;
 
 @media(max-width:992px){
 
-.fondo_pie{
-
-	height:auto;
-
-}
+	.fondo_pie{
+		height:auto;
+	}
 
 }
 
 .logo_footer_1{
-
 	margin-top:50px;
-
 }
 
 
 .colum-1{
-
 	margin-top:50px;
 	text-align:left;
-	padding-left:50px;
+	padding-left: 30px;
 }
 
 .img-fiscal{
@@ -1111,7 +1039,7 @@ margin-left: 50px;
 	}
 
 .td08_casas{
-	font-family:ikaros_light, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-family: 'ikaros_light', "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
 	color: #333;
 	font-weight:lighter;
 	height: 18px;
@@ -1461,43 +1389,38 @@ align-items:center;
 @media (max-width:1200px){
 
 	.icon-sugeridos-tama{
-	
-		width:100%;
+		width: 100%;
 		padding-top: 20px;
-
 	}
-
-
 
 }
 
 .td07pp{
 	font-size: 10px;
-	font-family:Conv_HelveticaNeueLTStd-Blk, Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-family: 'Conv_HelveticaNeueLTStd-Blk', Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
 	color: #333;
-	font-weight:300;}
+	font-weight: 300;
+}
 
 
 .td08bac{
-	font-family:ikaros_regular, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-family: 'ikaros_regular', "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
 	color: #333;
 	font-weight:300;
 	padding-bottom: 10px;
-	/*background-color: lime;*/
 	text-align: center;
-	font-size: 10px;
-	}
+	font-size: 12px;
+}
+
 .icon-suge{
-
-width: 6em;
-
+	width: 6em;
 }
 
 
 .td06_22{
 	font-size: 26px;
 	text-align: center;
-	font-family:ikaros_light, Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-family: 'ikaros_light, Segoe', "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
 	color: #333;
 	font-weight:400;
 }
@@ -1518,24 +1441,18 @@ width: 6em;
 }
 
 .text_file2{
-
-	color: white;
+	color: #fff;
 	letter-spacing: 1px;
 	padding-top: 20px;
 	margin-left: 8px;
 	padding-right: 20px;
-
-
 }
 
 .icono_face_compa{
-
-
 	width: 80%;
 }
 
 .ir-arriba{
-
 	display: none;
 	cursor: pointer;
 	position: fixed;
@@ -1545,62 +1462,54 @@ width: 6em;
 }
 
 /* Horarios de atencion*/
-
 .contenedor_horario{
-
 	width:50%;
-
 }
 
 @media (max-width: 1265px){
-
-
-.contenedor_horario{
-
-	display:none;
-
-}	
-
+	.contenedor_horario{
+		display:none;
+	}	
 
 }
 
 .horario_atencion{
-
 	display:flex;
-	margin-top:5px; 
+	margin-top: 8px; 
 	margin-left:20px;
 	text-align:left;
 	width:auto;
-
-
+	align-items: center;
 }
+
 .horario_atencion_header_icon{
-	width:25px; 
-	height:25px; 
-	margin-top:8px;	
-	margin-left:10px;
-
-
-
+	width: 25px; 
+	height: 25px; 
+	margin-left: 10px;
+	margin-right: 5px;
 }
+
 .horario_atencion_header_tipos{
-
-	font-size:12px; 
-	line-height:8px; 
-	margin-top:11px; 
-	margin-right:20px; 
-	margin-left:5px;
-
+	display: flex;
+	font-size: 12px; 
+	margin-top: 8px; 
+	margin-right: 20px; 
+	margin-left: 5px;
 }
 
 
 .dias_atencion{
-	font-family:Conv_HelveticaNeueLTStd-Blk;
+	font-family: 'Conv_HelveticaNeueLTStd-Blk';
 }
 
 .horarios_atencion{
-	font-family:Conv_HelveticaNeueLTStd-Blk;
+	font-family: 'Conv_HelveticaNeueLTStd-Blk';
+}
 
+.horarios_atencion:before{
+	content: '|';
+	display: inline-block;
+	margin: 0 10px;
 }
 
 /* datos contacto*/
@@ -1630,66 +1539,49 @@ width: 6em;
 }
 
 .consulta_header{
-
-	font-family: ikaros_light;
-	margin-top:16px;
-
+	font-family: 'ikaros_light';
+	margin-top: 18px;
 }
 
 .tel_1{
-
 	text-decoration:none;
-	font-family: Conv_HelveticaNeueLTStd-Blk; 
+	font-family: 'Conv_HelveticaNeueLTStd-Blk'; 
 	margin-top:6px; 
 	color:white;
 }
+
 .tel_1:hover{
-
-color:white;
-
+	color:white;
 }
-.separador_tel_header{
-	
-	text-decoration:none;
-	font-family: Conv_HelveticaNeueLTStd-Blk;
-	margin-top:6px;
-	color:white; 
-	padding-left:6px;
-	
 
+.separador_tel_header{
+	text-decoration:none;
+	font-family: 'Conv_HelveticaNeueLTStd-Blk';
+	margin-top:6px;
+	color: #fff; 
+	padding-left:6px;
 }
 
 .tel_2{
 	text-decoration:none;
-	font-family: Conv_HelveticaNeueLTStd-Blk;
+	font-family: 'Conv_HelveticaNeueLTStd-Blk';
 	margin-top:6px; 
-	color:white;
-}
-.tel_2:hover{
-
-color:white;
-
-}
-
-.imagen_wh{
-
-width:27px;
-height:28px;
-margin-top:0.35em;
-margin-left:-0.7em;
-margin-right:1em;
-
-
+	color: #fff !important;
 }
 
 
-@media (max-width: 640px){
+.imagen_wh {
+	width: 27px;
+	height: 28px;
+	margin-top: 0.35em;
+	margin-left: -0.1em;
+	margin-right: 1em;
+}
 
-   
-  
-   
+
+@media (max-width: 640px) {
+
   .datos_contacto{
-  		
 		align-content:center;
 		align-items:center;
 		flex-direction:row;
@@ -1697,50 +1589,40 @@ margin-right:1em;
 		width:100%;
 	}
 	div p .daos_contacto{
-
 		font-size:0.5em;
 		width:100%;
 		text-align:center;
 	}
 
-.consulta_header{
-        font-size:0.5em;
-		width:auto;
-		margin-bottom: 2px;
-		text-align:center;
-}
-.tel_1{
-
-		text-align: center;
-		padding: 1px;	
-		font-size:10px;
-
-}
-.tel_2{
-
-
-	padding: 2px;
-	font-size:10px;
-
-}
-
-.separador_tel_header{
-
-
-	font-size: 7px;
+	.consulta_header{
+			font-size:0.6em;
+			width:auto;
+			margin-bottom: 2px;
+			text-align:center;
+	}
 	
-	
-	
-}
+	.tel_1{
+			text-align: center;
+			padding: 1px;	
+			font-size:10px;
+	}
+
+	.tel_2{
+		font-size: 14px;
+	}
+
+	.separador_tel_header{
+		font-size: 7px;
+	}
 
 
-.imagen_wh{
-	width: 15px;
-	height:15px;
-	margin-left: 1px;
-	margin-bottom: 1px;
-
-}
+	.imagen_wh{
+		width: 20px;
+		height: 20px;
+		margin-left: 1px;
+		margin-bottom: 1px;
+		margin-right: 0;
+	}
 
 
 }
@@ -1812,9 +1694,11 @@ background-size:cover;
 
 
 	.acordeon{
-
 		padding:20px;
+	}
 
+	.destacamos-list {
+		margin-left: 45px !important;
 	}
 
 
@@ -1845,14 +1729,14 @@ background-size:cover;
 
 
 }
+
 .acordeon__titulo:hover {
 	background: -moz-linear-gradient(top, #2f4598 20%, #2b54a1 49%, #226bb3 71%, #00a6e7 100%); /* FF3.6-15 */
-background: -webkit-linear-gradient(top, #2f4598 20%,#2b54a1 49%,#226bb3 71%,#00a6e7 100%); /* Chrome10-25,Safari5.1-6 */
-background: linear-gradient(to bottom, #2f4598 20%,#2b54a1 49%,#226bb3 71%,#00a6e7 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2f4598', endColorstr='#00a6e7',GradientType=0 ); /* IE6-9 */
-
-
+	background: -webkit-linear-gradient(top, #2f4598 20%,#2b54a1 49%,#226bb3 71%,#00a6e7 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, #2f4598 20%,#2b54a1 49%,#226bb3 71%,#00a6e7 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2f4598', endColorstr='#00a6e7',GradientType=0 ); /* IE6-9 */
 }
+
 .acordeon__contenido{
 
 	height: 0;
@@ -1862,17 +1746,26 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2f4598', end
 }
 
 .acordeon input:checked ~ .acordeon__contenido{
+	height:auto;
+	margin:15px,0;
+	padding:15px;
+	margin-bottom:20px;
+	margin-top:-0.5em;
+	color:#008CD1;
+	font-family: 'Conv_HelveticaNeueLTStd-Blk', Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	transition: height border font-family  0.5s ease-in-out;
+}
 
-height:auto;
-margin:15px,0;
-padding:15px;
-/*border:1px solid #008CD1;*/
-margin-bottom:20px;
-margin-top:-0.5em;
-color:#008CD1;
-font-family:Conv_HelveticaNeueLTStd-Blk, Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
-transition: height border font-family  0.5s ease-in-out;
- 
+.destacamos-list {
+	margin-left: 145px;
+	font-family: 'ikaros_light', Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-size: 16px;
+	margin-top: 30px;
+}
+
+.destacamos-list li::marker {
+	color: #0192d5;
+	font-size: 1.35em;
 }
 
 @media (max-width:1132px){
@@ -1936,32 +1829,24 @@ margin-left:-30px;
 }
 
 .redes_footer_2{
-
 	display:inline;
 }
 
 
 .horario_atencion2{
-
 	margin-top:5px; 
 	margin-left:20px;
 	text-align:center;
 	width:auto;
-
-
 }
+
 .horario_atencion_header_icon2{
 	width:35px; 
 	height:35px; 
-	margin-top:8px;	
 	margin-left:-20px;
-	
-
-
-
 }
-.horario_atencion_header_tipos2{
 
+.horario_atencion_header_tipos2{
 	font-size:16px; 
 	line-height:10px; 
 	margin-top:13px; 
@@ -2030,20 +1915,16 @@ border:none;
 }
 
 .acordeon2 input:checked ~ .acordeon__contenido2{
-
-height:auto;
-margin:15px,0;
-padding:15px;
-font-size:1em;
-/*border:1px solid #008CD1;*/
-margin-bottom:20px;
-margin-top:-0.5em;
-margin-left:10px;
-/*color:#008CD1;*/
-font-family:ikaros_light, Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
-transition: height border font-family  0.5s ease-in-out;
-text-align:left;
- 
+	height:auto;
+	margin:15px,0;
+	padding:15px;
+	font-size:1em;
+	margin-bottom:20px;
+	margin-top:-0.5em;
+	margin-left:10px;
+	font-family: 'ikaros_light', Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	transition: height border font-family  0.5s ease-in-out;
+	text-align:left;
 }
 
 }

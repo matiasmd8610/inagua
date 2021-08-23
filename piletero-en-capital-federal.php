@@ -23,7 +23,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<meta name="author" content="Administrator" />
 		<meta name="description" content="Servicios de limpieza y mantenimiento de piletas. Piletero profesional." />	
 		<title>Pileteros en Capital Federal</title>	
-		<meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo" />	    <link rel="icon" href="img/logo.png">
+		<meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo" />	    
+    <link rel="icon" href="img/logo.png">
 
 
     <!-- Bootstrap -->
@@ -41,28 +42,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <!-- <script src="js/bootstrap.min.js"></script> -->
 
     <script src="js/bootstrap-3.3.6.js"></script>
-
     <script type="text/javascript" src="js/modernizr.custom.79639.js"></script>
-
-    <!--[if lte IE 8]><style>.main{display:none;} .support-note .note-ie{display:block;}</style><![endif]-->
-
-
-
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-
-    <!--[if lt IE 9]>
-
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-
-    <![endif]-->
-
-
-
-
 
     <link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.min.css">
 
@@ -130,12 +110,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   
     
 <div class="botoner_completa animated slideInDown">
-     
-    
 
             <?php include "include/navegacion.php"; ?>
-            
-         
       
  </div> 
 <div class="imagen_cabesal">
@@ -144,13 +120,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
   
 </header>
-
-
-
-
-
-
-
 
 <section id="cobertura">
       <div class="container">
@@ -161,22 +130,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         <h2 class="texto2 wow slideInUp">Pileteros Profesionales</h2>
                     </div>
                     
-                  
-                 
-                
-                    
                     <div class="imagen-lugar">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d105073.44367018693!2d-58.503338223412456!3d-34.61566245827943!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcca3b4ef90cbd%3A0xa0b3812e88e88e87!2sBuenos+Aires%2C+CABA!5e0!3m2!1ses-419!2sar!4v1504503618843" width="963" height="515" frameborder="0" style="border:0" allowfullscreen class="img_mapa_2"></iframe>
+                      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d105073.44367018693!2d-58.503338223412456!3d-34.61566245827943!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcca3b4ef90cbd%3A0xa0b3812e88e88e87!2sBuenos+Aires%2C+CABA!5e0!3m2!1ses-419!2sar!4v1504503618843" width="963" height="515" frameborder="0" style="border:0" allowfullscreen class="img_mapa_2"></iframe>
                     </div>
-
-                
-                
-
 
                     <div class="div-texto">
                           <h5 class="texto3 wow slideInUp">
-                               Somos una empresa profesional de mantenimiento de piscinas. Brindamos servicios de limpieza y mantenimiento de piletas y piscinas en los
- siguientes <br>barrios de Capital Federal:
+                               Somos una empresa profesional de mantenimiento de piscinas. Brindamos servicios de limpieza y mantenimiento de piletas y piscinas en los siguientes <br>barrios de Capital Federal:
 
                           </h5>
                     </div>
@@ -187,6 +147,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </div> 
 </section>
 <br><br>
+
  <section>
    
       <div class="container">
@@ -288,6 +249,30 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </div>
       </div>
 
+ </section>
+
+ <section class="separ-secciones">
+    <div class="div-texto">
+        <h5 class="texto3 wow slideInUp">Otras Localidades</h5>
+    </div>
+    <br>
+    <div class="container">
+        <div class="row wow slideInUp">
+            <div class="col-md-3 barrios-a"><a href="piletero-en-san-isidro.php" class="texto3Zona" style="text-decoration: none;">San Isidro</a></div>
+            <div class="col-md-3 barrios-a"><a href="piletero-en-vicente-lopez.php" class="texto3Zona" style="text-decoration: none;">Vicente López</a></div>
+            <div class="col-md-3 barrios-a"><a href="piletero-en-avellaneda.php" class="texto3Zona" style="text-decoration: none;">Avellaneda</a></div>
+            <div class="col-md-3 barrios-a"><a href="piletero-en-lanus.php" class="texto3Zona" style="text-decoration: none;">Lanús</a></div>
+            <div class="col-md-3 barrios-a"><a href="piletero-en-lomas-de-zamora.php" class="texto3Zona" style="text-decoration: none;">Lomas de Zamora</a></div>
+            <div class="col-md-3 barrios-a"><a href="piletero-en-moron.php" class="texto3Zona" style="text-decoration: none;">Morón</a></div>
+            <div class="col-md-3 barrios-a"><a href="piletero-en-san-miguel.php" class="texto3Zona" style="text-decoration: none;">San Miguel</a></div>
+            <div class="col-md-3 barrios-a"><a href="piletero-en-hurlingham.php" class="texto3Zona" style="text-decoration: none;">Hurlingham</a></div>
+            <div class="col-md-3 barrios-a"><a href="piletero-en-ituizaingo.php" class="texto3Zona" style="text-decoration: none;">Ituizaingo</a></div>
+            <div class="col-md-3 barrios-a"><a href="piletero-en-ramos-mejia.php" class="texto3Zona" style="text-decoration: none;">Ramos Mejía</a></div>
+            <div class="col-md-3 barrios-a"><a href="piletero-en-tres-de-febrero.php" class="texto3Zona" style="text-decoration: none;">Tres de Febrero</a></div>
+            <div class="col-md-3 barrios-a"><a href="piletero-en-san-justo.php" class="texto3Zona" style="text-decoration: none;">San Justo</a></div>
+            <div class="col-md-3 barrios-a"><a href="piletero-en-la-tablada.php" class="texto3Zona" style="text-decoration: none;">La Tablada</a></div>
+        </div>
+      </div>
  </section>
 
 

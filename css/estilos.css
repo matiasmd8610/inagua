@@ -528,11 +528,8 @@ input.btn-primary {
 
 
 
-
-
-
 .td08{
-	// font-size: 16px;
+	font-size: 16px;
 	font-family:ikaros_light, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
 	color: #333;
 	font-weight:lighter;
@@ -541,19 +538,16 @@ input.btn-primary {
 	}
 
 	@media (max-width: 450px){
-	.td08{
-	font-size: 14px;
-
-	       }
+		.td08{
+			font-size: 14px;
+		}
 	}
 
 .td08b{
-	font-family:ikaros_regular, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-family: 'ikaros_regular', "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
 	color: #333;
 	font-weight:300;
 	letter-spacing: 0.04em;
-	/*padding-bottom: -18px;*/
-	/*background-color: lime;*/
 	height: 14px;
 	text-align: center;
 	}

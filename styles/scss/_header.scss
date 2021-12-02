@@ -10,6 +10,7 @@ header {
         color:white;
         animation-duration: 3s;
         animation-delay: 2s;
+        padding: 0.5rem 0;
 
         .horario_atencion {
             display: flex;
@@ -38,7 +39,7 @@ header {
         .datos_contacto {
             display: flex;
             align-items: center;
-            font-size: 1.2rem;
+            font-size: 1.75rem;
             
             @media (min-width: 991px) {
                 justify-content: flex-end;
@@ -46,6 +47,7 @@ header {
 
             a {
                 color: #fff;
+                margin-left: 1rem;
             }
 
             .consulta_header{
@@ -91,7 +93,6 @@ header {
         .menu {
             list-style: none;
             float: right;
-            margin-right: 20px;	
 
             @media (max-width: 991px) {
                 position: absolute;
@@ -137,8 +138,6 @@ header {
                     color:#000;
         
                     &:hover {
-                        background-image: -webkit-linear-gradient(left, rgb(0,166,231) 0%, rgb(34,107,179) 25%, rgb(43,84,161) 50%, rgb(47,69,152) 75%);
-                        background-image: -o-linear-gradient(left, rgb(0,166,231) 0%, rgb(34,107,179) 25%, rgb(43,84,161) 50%, rgb(47,69,152) 75%);
                         background-image: linear-gradient(to right, rgb(0,166,231) 0%, rgb(34,107,179) 25%, rgb(43,84,161) 50%, rgb(47,69,152) 75%);
                         box-shadow: 0px 0px 0px 0px rgba(2, 1, 0, 0.25);
                         color: #fff;
@@ -250,7 +249,6 @@ header {
     .logo_h {
         float: left;
         width: 15em;
-        margin-left: 20px;
         animation-duration: 6.5s;
         animation-delay: 3s;
     }

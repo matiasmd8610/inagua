@@ -43,49 +43,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <script src="js/bootstrap-3.3.6.js"></script>
 
     <script type="text/javascript" src="js/modernizr.custom.79639.js"></script>
-
-    <!--[if lte IE 8]><style>.main{display:none;} .support-note .note-ie{display:block;}</style><![endif]-->
-
-
-
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-
-    <!--[if lt IE 9]>
-
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-
-    <![endif]-->
-
-
-
-
-
     <link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.min.css">
-
-
-
-
-
-      <!--formulario -->
-	<link href="css/hover.css" rel="stylesheet"> 
+  	<link href="css/hover.css" rel="stylesheet"> 
    <script src="js/fileinput.js" type="text/javascript"></script>
     <link href="css/fileinput.css" rel="stylesheet">
-
-   
-
    <link href="css/estilos.css" rel="stylesheet">
-   <link href="css/estilos_2.css" rel="stylesheet">
-   <link href="css/fuentes.css" rel="stylesheet">
+   <link href="styles/css/main.css" rel="stylesheet">
     <!-- Animate-->
     <link rel="stylesheet" href="css/animate/animate.css">
         <script src="js/wow.js"></script>
     <script>new WOW().init();</script>
-
-
     <!-- Animate Fin-->
 
   <script>

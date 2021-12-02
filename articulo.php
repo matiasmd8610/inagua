@@ -83,7 +83,7 @@ function get_template( $id ) {
    
 
    <link href="css/estilos.css" rel="stylesheet">
-   <link href="css/estilos_2.css" rel="stylesheet">
+   <link href="styles/css/main.css" rel="stylesheet">
    <link href="css/fuentes.css" rel="stylesheet">
     <!-- Animate-->
     <link rel="stylesheet" href="css/animate/animate.css">

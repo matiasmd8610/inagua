@@ -24,6 +24,9 @@
   <link href="css/estilos.css" rel="stylesheet">
   <link rel="stylesheet" href="css/animate/animate.css">
   <link href="styles/css/main.css" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;600&family=Rubik:wght@300;400;600&display=swap" rel="stylesheet">
 
   <!-- Google Tag Manager -->
   <script>
@@ -87,7 +90,7 @@
 
 </head>
 
-<body class="animated bounceInRight">
+<body>
 
 
   <section>
@@ -151,7 +154,7 @@
                       </td>
                     </tr>
                     <tr>
-                      <td align="center" class="td08b" style="height: 150px; vertical-align: top;">
+                      <td align="center" class="td08b" style="height: 100px; vertical-align: top;">
                         <p>Si quiere mantener su pileta durante todo el año</p>
                       </td>
                     </tr>
@@ -180,7 +183,7 @@
                       </td>
                     </tr>
                     <tr>
-                      <td class="td08b" style="height: 150px; vertical-align: top;">
+                      <td class="td08b" style="height: 100px; vertical-align: top;">
                         <p>Especialistas en mantenimiento  de piletas de natación en consorcios</p>
                       </td>
                     </tr>
@@ -201,24 +204,26 @@
                 <table width="100%" border="0">
                   <tbody>
                     <tr>
-                      <td align="center"><img src="img/icon_desagote.png" width="138" height="129" alt="" /></td>
-                    </tr>
-                    <tr>
-                      <td align="center" class="td07">
-                        <p>DESAGOTE DE PISCINAS</p><br>
+                      <td align="center">
+                        <img src="img/icon_desagote.png" width="138" height="129" alt="">
                       </td>
                     </tr>
                     <tr>
-                      <td align="center" class="td08b" style="height: 150px; vertical-align: top;">
-                        <p>Vaciamos, limpiamos y desinfectamos su pileta de natación dejandola lista para llenar o
-                          pintar</p>
+                      <td align="center" class="td07">
+                        <p>DESAGOTE DE PISCINAS</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="center" class="td08b" style="height: 100px; vertical-align: top;">
+                        <p>Vaciamos, limpiamos y desinfectamos su pileta de natación dejandola lista para llenar o                        pintar</p>
                       </td>
                     </tr>
                     <tr>
                       <td align="center">
                         <a href="servicio-de-desagote-limpieza-desinfeccion-de-piletas-y-piscinas-de-natacion.php">
                           <p class="boton-click-aqui">MÁS INFO</p>
-                        </a></td>
+                        </a>
+                      </td>
                     </tr>
                   </tbody>
                 </table>
@@ -254,9 +259,6 @@
 
               </div>
 
-
-
-
             </div>
           </div>
 
@@ -274,11 +276,9 @@
 
         <div class="col-md-12">
           <img src="img/img_produ_ind.png" class="img_produc" alt="">
-
           <div class="td08b_2">
             <div class="presupuesto">
-              <a href="http://tienda.inagua.com.ar/" class="boton-presupuesto" style="text-decoration:none;"
-                target="new">VISITA NUESTRA TIENDA</a>
+              <a href="http://tienda.inagua.com.ar/" class="boton-presupuesto" style="text-decoration:none;"  target="_blank">VISITA NUESTRA TIENDA</a>
             </div>
           </div>
 

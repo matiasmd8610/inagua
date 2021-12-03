@@ -45,6 +45,9 @@
    <link href="css/estilos.css" rel="stylesheet">
    <link rel="stylesheet" href="css/animate/animate.css">
    <link href="styles/css/main.css" rel="stylesheet">
+   <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;600&family=Rubik:wght@300;400;600&display=swap" rel="stylesheet"> 
     <!-- Animate-->
     <script src="js/wow.js"></script>
     <script>new WOW().init();</script>
@@ -108,11 +111,6 @@
 </header>
 
 
-
-
-
-
-
 <section  id="nosotros">
       <div class="container">
               <div class="row">
@@ -123,30 +121,23 @@
                     </div>
                     <br>
                       <div class="div-texto">
-                            <h5 class="texto3n wow slideInUp">
-                                 INAGUA es una empresa con más de 15 años de experiencia en MANTENIMIENTO DE PISCINAS, brindando soluciones integrales a consorcios y particulares.
-                                 <br>
-                                 <br>
-
-                            </h5>
+                          <h5 class="texto3n wow slideInUp">INAGUA es una empresa con más de 15 años de experiencia en MANTENIMIENTO DE PISCINAS, brindando soluciones integrales a consorcios y particulares.<br>
+                          </h5>
                       </div>
 
                        <div class="div-texto">
-                            <h5 class="texto3n wow slideInUp">
-                                 En INAGUA cubrimos todas las necesidades de servicios de mantenimiento para su piscina, la venta de productos para cuidarla, y nos encargamos de las refacciones necesarias para un correcto funcionamiento.
-                                 <br>
-                                 <br>
-                            </h5>
+                          <h5 class="texto3n wow slideInUp">
+                                En INAGUA cubrimos todas las necesidades de servicios de mantenimiento para su piscina, la venta de productos para cuidarla, y nos encargamos de las refacciones necesarias para un correcto funcionamiento.
+                                <br>
+                          </h5>
                       </div>
 
                       <div class="div-texto">
-                            <h5 class="texto3n wow slideInUp">
-                                 Todo en un solo lugar, y con un equipo especializado.
-                                   <br>
-                                 <br>
-                            </h5>
+                          <h5 class="texto3n wow slideInUp">
+                              Todo en un solo lugar, y con un equipo especializado.
+                              <br>
+                          </h5>
                       </div>
-
                  
                   </div>  
                 
@@ -162,7 +153,7 @@
                     <table width="100%" border="0" style="margin-bottom: 50px;">
                       <tbody>
                         <tr>
-                          <td align="center"><img src="img/icon_casas.png" width="138" height="129" alt=""/></td>
+                          <td align="center"><img src="img/icon_casas.png" width="138" height="129" alt=""></td>
                         </tr>
                         <tr>
                           <td align="center" class="td07"><p>CASAS PARTICULARES</p><br></td>
@@ -195,16 +186,13 @@
                           </tr>
                         </tbody>
                       </table>
-                      
                   </div>
-
-
 
                  <div class="col-md-3 wow fadeIn" datos-wow-duracion= "3s" data-wow-delay = "3s">
                     <table width="100%" border="0">
                       <tbody>
                         <tr>
-                          <td align="center"><img src="img/icon_desagote.png" width="138" height="129" alt=""/></td>
+                          <td align="center"><img src="img/icon_desagote.png" width="138" height="129" alt=""></td>
                         </tr>
                         <tr>
                           <td align="center" class="td07"><p>DESAGOTE DE PISCINAS</p></td>
@@ -226,14 +214,14 @@
                           <td align="center"><img src="img/icon_filtro.png" width="138" height="129" alt=""/></td>
                         </tr>
                         <tr>
-                          <td align="center" class="td07"><p>REPARACION Y CAMBIO DE ARENA</p></td>
+                          <td align="center" class="td07"><p>REPARACIÓN Y CAMBIO DE ARENA</p></td>
                         </tr>
                         <tr>
-                          <td align="center" class="td08b"><p>Recuerde que un correcto filtrado
-                              dara por resultado agua cristalina<br><br> </p></td>
+                          <td align="center" class="td08b"><p>Recuerde que un correcto filtrado  dara por resultado agua cristalina<br><br></p>
+                        </td>
                         </tr>
                         <tr>
-                          <td align="center" style="padding-top: 39px;"><a href="cambio-de-arena-carga-filtrante-de-filtro.php"><p class="boton-click-aqui">MAS INFO</p></a></td>
+                          <td align="center"><a href="cambio-de-arena-carga-filtrante-de-filtro.php"><p class="boton-click-aqui">MAS INFO</p></a></td>
                         </tr>
                       </tbody>
                     </table>
@@ -351,7 +339,6 @@
             <div class="div-texto" style="margin-top: 50px;">
                             <h5 class="texto3n wow slideInUp">
                                  En INAGUA estos servicios han sido adaptados para cada cliente de acuerdo a las necesidades propias y dinámicas de los mismos, en donde le podemos ofrecer servicios de mantenimiento de piscinas específicos a:
-
                             </h5>
                       </div>
           
@@ -427,57 +414,14 @@
                   <div class="col-md-6 wow slideInRight" datos-wow-duracion= "1s" data-wow-delay = "1s">
                       <p class="texto223"><b>¿Por qué elegir INAGUA?</b> </p>
 
-                          <table width="100%" border="0" style="text-align:center; margin-bottom: 20px;">
-                              <tbody>
-                                
-                                
-                                  <td align="center" class="td08">
-                                    <table style="margin: auto; text-align:left; margin-top: 15px;">
-                                      <tbody>
-                                        <tr>
-                                          <td><img src="img/punto1.jpg" width="10" height="10" alt=""/></td>
-                                          <td width="5"></td>
-                                          <td >Tenemos más de 13 años de experiencia en el mantenimiento de piscinas.</td>
-                                        </tr>
-                                        <tr>
-                                          <td><img src="img/punto1.jpg" width="10" height="10" alt=""/></td>
-                                          <td width="5"></td>
-                                          <td>No solo cuidamos el agua de su pileta, sino que también brindamos soluciones a cualquier problema de funcionamiento y mantenimiento de la misma.</td>
-                                        </tr>
-                                        <tr>
-                                          <td><img src="img/punto1.jpg" width="10" height="10" alt=""/></td>
-                                          <td width="5"></td>
-                                          <td>Todos nuestros operadores son técnicos especializados, cuentan con protección de ART y brindan los servicios conforme todas las medidas de seguridad establecidas.</td>
-                                        </tr>
-                                        <tr>
-                                          <td><img src="img/punto1.jpg" width="10" height="10" alt=""/></td>
-                                          <td width="5"></td>
-                                          <td>Todos los productos que utilizamos para el tratamiento de piscinas están aprobados por la ANMAT (Administración Nacional de Medicamentos, Alimentos y Tecnología Médica).</td>
-                                        </tr>
-                                        <tr>
-                                          <td><img src="img/punto1.jpg" width="10" height="10" alt=""/></td>
-                                          <td width="5"></td>
-                                          <td>Acordamos con cada cliente un día y franja horaria que le sea cómodo para brindar el servicio.</td>
-                                        </tr>
-                                        <tr>
-                                          <td><img src="img/punto1.jpg" width="10" height="10" alt=""/></td>
-                                          <td width="5"></td>
-                                          <td>Si el día de la visita llueve o es feriado, intentamos reprogramarla para otra fecha cercana.</td>
-                                        </tr>
-                                      </tbody>
-                                    </table>
-                                    <br>
-                                         <p class="texto_seguro_3"><b>Para su seguridad nuestro personal <br>se encuentra debidamente registrado <br> y cuentan con los seguros <br>  de vida obligatorio y ART</b></p>
-                                       <img src="img/logo_seguro.png" alt="" class="logo_seguro">
-
-                                       <p class="texto_seguro">Prevención ART - Vida Obligatorio</p>
-                                       <p class="texto_seguro_2"><b>N°471157 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;N°1291680</b></p>
-                                     
-              
-                                </td>
-                            
-                          </tbody>
-                        </table>
+                        <ul class="destacamos-list">
+                          <li>Tenemos más de 13 años de experiencia en el mantenimiento de piscinas.</li>
+                          <li>No solo cuidamos el agua de su pileta, sino que también brindamos soluciones a cualquier problema de funcionamiento y mantenimiento de la misma.</li>
+                          <li>Todos nuestros operadores son técnicos especializados, cuentan con protección de ART y brindan los servicios conforme todas las medidas de seguridad establecidas.</li>
+                          <li>Todos los productos que utilizamos para el tratamiento de piscinas están aprobados por la ANMAT (Administración Nacional de Medicamentos, Alimentos y Tecnología Médica).</li>
+                          <li>Acordamos con cada cliente un día y franja horaria que le sea cómodo para brindar el servicio.</li>
+                          <li>Si el día de la visita llueve o es feriado, intentamos reprogramarla para otra fecha cercana.</li>
+                        </ul>
                       
                   </div>
     

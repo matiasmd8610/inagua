@@ -35,9 +35,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
    <script src="js/fileinput.js" type="text/javascript"></script>
     <link href="css/fileinput.css" rel="stylesheet">
    <link href="css/estilos.css" rel="stylesheet">
+   <link rel="stylesheet" href="css/animate/animate.css">
    <link href="styles/css/main.css" rel="stylesheet">
-    <link rel="stylesheet" href="css/animate/animate.css">
-        <script src="js/wow.js"></script>
+   <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;600&family=Rubik:wght@300;400;600&display=swap" rel="stylesheet">
+
+    <script src="js/wow.js"></script>
     <script>new WOW().init();</script>
 
   <script>

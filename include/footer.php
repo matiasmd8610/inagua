@@ -11,7 +11,7 @@
                	</div>	 
           </div>    --> 
 
-       <div class="row columnas-listas-pie" style="padding-top:80px;">
+       <div class="row columnas-listas-pie">
           			
           			<div class="col-md-3 colum-1">
           				<h2 class="seguinos_tex">SERVICIOS</h2>	
@@ -28,14 +28,14 @@
           			 	
           			</div>
           			<div class="col-md-3 colum-1">
-          				<h2 class="seguinos_tex">MAS LEIDOS</h2>	
+          				<h2 class="seguinos_tex">MÁS LEÍDOS</h2>	
                      <ul class="texto_pie_lis">
                      	<li><a href="articulo.php?id=28">Recomendaciones Limpieza</a></li>
                      	<li><a href="articulo.php?id=27">Bombas de Piscinas</a></li>
                      	<li><a href="articulo.php?id=35">Algas</a></li>
                      	<li><a href="articulo.php?id=26">Problemas Filtro</a></li>
                      	<li><a href="articulo.php?id=42">Cloro</a></li>
-                     	<li><a href="articulo.php?id=43">¿Que es el PH?</a></li>
+                     	<li><a href="articulo.php?id=43">¿Qué es el PH?</a></li>
                      	<li><a href="articulo.php?id=34">Pileteros</a></li>
                      	<li><a href="articulo.php?id=33">Glosario</a></li>
                      </ul>
@@ -51,64 +51,51 @@
                      	<li><a href="contacto-forma-parte-de-inagua.php">Empleo</a></li>
                      	<li><a href="https://inagua.com.ar/piscinas-piscina-piletas-pileta-pileteros-piletero.php">Notas</a></li>
                      	<li><a href="https://inagua.com.ar/pileteros-mantenimiento-piscinas-preguntas-frecuentes.php">Preguntas Frecuentes</a></li>
-                     	
-                     	
                      </ul>
           			 	
           			</div>
 
           				
           			<div class="col-md-3 colum-1" style="margin-top:40px;">
-          				   <div style="margin-left:-20px;">
-                    	
-                    
-                  
+						<div style="margin-left:-20px;">
                			<script type="text/javascript" src="https://v2.esmsv.com/form/show/AdministratorID/51598/FormID/2/format/widget"></script>
-                  
-                  
                   </div>
                      
-
-                                  
-                     
           			 	
-          			</div>
+				</div>
           			
           	</div>
 
 
           		<div class="acordeon2 acordeon__footer">
 
-								<div class="acordeon__item2">
-									<input type="checkbox" name="acordeon" id="item9">
-									<label for="item9" class="acordeon__titulo2">SERVICIOS</label>
-								 <ul class="texto_pie_lis acordeon__contenido2">
-			                     	<li><a href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-casas-countries-casas-quintas.php">Casas Particulares</a></li>
-                     	<li><a href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-edificios-consorcios-departamentos.php">Consorcios, Hoteles y Embajadas</a></li>
-                     	<li><a href="servicio-de-desagote-limpieza-desinfeccion-de-piletas-y-piscinas-de-natacion.php">Desagote de Piscinas</a></li>
-                     	<li><a href="cambio-de-arena-carga-filtrante-de-filtro.php">Reparacion de Filtros</a></li>
-                     	<li><a href="servicio-de-pastinado-de-piletas-revestidas.php">Empastinado de Piletas</a></li>
-                     	<li><a href="servicio-de-pintado-de-piletas-de-cemento-y-plastico-o-fibra-de-vidrio.php">Pintado de Piletas</a></li>
-                     	<li><a href="productos-quimicos-y-accesorios-para-piletas-y-piscinas-de-natacion.php">Venta de Productos</a></li>
-                     	<li><a href="analisis-bacteriologico-de-agua-de-piscinas-piletas.php">Analisis Bactereologico</a></li>
-			                     </ul>
-			          			 	
-			          			</div>
-								
-								
+					<div class="acordeon__item2">
+						<input type="checkbox" name="acordeon" id="item9">
+						<label for="item9" class="acordeon__titulo2">SERVICIOS</label>
+						<ul class="texto_pie_lis acordeon__contenido2">
+							<li><a href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-casas-countries-casas-quintas.php">Casas Particulares</a></li>
+							<li><a href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-edificios-consorcios-departamentos.php">Consorcios, Hoteles y Embajadas</a></li>
+							<li><a href="servicio-de-desagote-limpieza-desinfeccion-de-piletas-y-piscinas-de-natacion.php">Desagote de Piscinas</a></li>
+							<li><a href="cambio-de-arena-carga-filtrante-de-filtro.php">Reparacion de Filtros</a></li>
+							<li><a href="servicio-de-pastinado-de-piletas-revestidas.php">Empastinado de Piletas</a></li>
+							<li><a href="servicio-de-pintado-de-piletas-de-cemento-y-plastico-o-fibra-de-vidrio.php">Pintado de Piletas</a></li>
+							<li><a href="productos-quimicos-y-accesorios-para-piletas-y-piscinas-de-natacion.php">Venta de Productos</a></li>
+							<li><a href="analisis-bacteriologico-de-agua-de-piscinas-piletas.php">Analisis Bactereologico</a></li>
+						</ul>
+					</div>
 
 								<div class="acordeon__item2">
 									<input type="checkbox" name="acordeon2" id="item0">
 									<label for="item0" class="acordeon__titulo2">MAS LEIDO</label> 
 									<ul class="texto_pie_lis acordeon__contenido2">
-				                     		<li><a href="articulo.php?id=28">Recomendaciones Limpieza</a></li>
-                     	<li><a href="articulo.php?id=27">Bombas de Piscinas</a></li>
-                     	<li><a href="articulo.php?id=35">Algas</a></li>
-                     	<li><a href="articulo.php?id=26">Problemas Filtro</a></li>
-                     	<li><a href="articulo.php?id=42">Cloro</a></li>
-                     	<li><a href="articulo.php?id=43">¿Que es el PH?</a></li>
-                     	<li><a href="articulo.php?id=34">Pileteros</a></li>
-                     	<li><a href="articulo.php?id=33">Glosario</a></li>
+										<li><a href="articulo.php?id=28">Recomendaciones Limpieza</a></li>
+										<li><a href="articulo.php?id=27">Bombas de Piscinas</a></li>
+										<li><a href="articulo.php?id=35">Algas</a></li>
+										<li><a href="articulo.php?id=26">Problemas Filtro</a></li>
+										<li><a href="articulo.php?id=42">Cloro</a></li>
+										<li><a href="articulo.php?id=43">¿Que es el PH?</a></li>
+										<li><a href="articulo.php?id=34">Pileteros</a></li>
+										<li><a href="articulo.php?id=33">Glosario</a></li>
 				                     </ul>
 								
 								</div>

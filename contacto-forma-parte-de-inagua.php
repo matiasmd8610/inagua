@@ -23,7 +23,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<meta name="description" content="Empresa de mantenimiento y limpieza de piletas. Pileteros profesionales." />	
     <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo">
 		<title>TRABAJO DE PILETERO - INAGUA</title>	
-    
+
     <link rel="icon" href="img/logo.png">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
@@ -37,7 +37,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <link href="css/fileinput.css" rel="stylesheet">
    <link href="css/estilos.css" rel="stylesheet">
    <link href="styles/css/main.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/animate/animate.css">}   <link href="styles/css/main.css" rel="stylesheet">
+    <!-- Animate-->
     <link rel="stylesheet" href="css/animate/animate.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;600&family=Rubik:wght@300;400;600&display=swap" rel="stylesheet">
     <script src="js/wow.js"></script>
     <script>
       new WOW().init();

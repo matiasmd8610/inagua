@@ -31,15 +31,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-
-
-
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-
-    <!-- <script src="js/bootstrap.min.js"></script> -->
-
     <script src="js/bootstrap-3.3.6.js"></script>
-
     <script type="text/javascript" src="js/modernizr.custom.79639.js"></script>
     <link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.min.css">
   	<link href="css/hover.css" rel="stylesheet"> 
@@ -47,11 +39,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <link href="css/fileinput.css" rel="stylesheet">
    <link href="css/estilos.css" rel="stylesheet">
    <link href="styles/css/main.css" rel="stylesheet">
-    <!-- Animate-->
     <link rel="stylesheet" href="css/animate/animate.css">
-        <script src="js/wow.js"></script>
+    <link href="styles/css/main.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/animate/animate.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;600&family=Rubik:wght@300;400;600&display=swap" rel="stylesheet">
+  <script src="js/wow.js"></script>
     <script>new WOW().init();</script>
-    <!-- Animate Fin-->
 
   <script>
   $(function() {

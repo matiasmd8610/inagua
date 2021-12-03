@@ -30,15 +30,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
      <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 
-    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 
-
-
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-
-    <!-- <script src="js/bootstrap.min.js"></script> -->
 
     <script src="js/bootstrap-3.3.6.js"></script>
 

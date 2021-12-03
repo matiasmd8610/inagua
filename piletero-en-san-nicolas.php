@@ -25,38 +25,20 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<title>Piletero en San Nicolas</title>	
 		<meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo" />	    <link rel="icon" href="img/logo.png">
 
-
-    <!-- Bootstrap -->
-
-     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-
-    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
-
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-
-
-
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-
-    <!-- <script src="js/bootstrap.min.js"></script> -->
-
     <script src="js/bootstrap-3.3.6.js"></script>
-
     <script type="text/javascript" src="js/modernizr.custom.79639.js"></script>
-
-
-
     <link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.min.css">
 	 <link href="css/hover.css" rel="stylesheet"> 
    <script src="js/fileinput.js" type="text/javascript"></script>
     <link href="css/fileinput.css" rel="stylesheet">
    <link href="css/estilos.css" rel="stylesheet">
    <link href="styles/css/main.css" rel="stylesheet">
-    <!-- Animate-->
     <link rel="stylesheet" href="css/animate/animate.css">
-        <script src="js/wow.js"></script>
+    <script src="js/wow.js"></script>
     <script>new WOW().init();</script>
-    <!-- Animate Fin-->
 
   <script>
   $(function() {

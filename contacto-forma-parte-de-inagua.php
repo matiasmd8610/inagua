@@ -25,69 +25,21 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<title>TRABAJO DE PILETERO - INAGUA</title>	
 	<meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo">
     <link rel="icon" href="img/logo.png">
-
-
-    <!-- Bootstrap -->
-
-     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-
     <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
-
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-
-
-
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-
-    <!-- <script src="js/bootstrap.min.js"></script> -->
-
     <script src="js/bootstrap-3.3.6.js"></script>
-
     <script type="text/javascript" src="js/modernizr.custom.79639.js"></script>
-
-    <!--[if lte IE 8]><style>.main{display:none;} .support-note .note-ie{display:block;}</style><![endif]-->
-
-
-
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-
-    <!--[if lt IE 9]>
-
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-
-    <![endif]-->
-
-
-
-
-
     <link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.min.css">
-
-
-
-
-
-      <!--formulario -->
 	 <script src="form/custom.js" type="text/javascript"></script>
    <script src="js/fileinput.js" type="text/javascript"></script>
     <link href="css/fileinput.css" rel="stylesheet">
-
-   
-
    <link href="css/estilos.css" rel="stylesheet">
-   <link href="css/estilos_2.css" rel="stylesheet">
-   <link href="css/fuentes.css" rel="stylesheet">
-    <!-- Animate-->
+   <link href="styles/css/main.css" rel="stylesheet">
     <link rel="stylesheet" href="css/animate/animate.css">
-        <script src="js/wow.js"></script>
-    <script>new WOW().init();</script>
-
-
-    <!-- Animate Fin-->
+    <script src="js/wow.js"></script>
+    <script>
+      new WOW().init();
+    </script>
 
   <script>
   $(function() {
@@ -138,7 +90,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
      
     
        
-            <?php include "include/navegacion2.php"; ?>
+            <?php include "include/navegacion.php"; ?>
             
        
 

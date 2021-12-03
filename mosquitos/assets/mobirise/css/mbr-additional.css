@@ -660,6 +660,7 @@ a:hover {
 .form-active .form-control:invalid {
   border-color: red;
 }
+
 .mbr-overlay {
   background-color: #000;
   bottom: 0;
@@ -671,8 +672,8 @@ a:hover {
   z-index: 0;
   pointer-events: none;
 }
+
 blockquote {
-  font-style: italic;
   padding: 10px 0 10px 20px;
   font-size: 1.09rem;
   position: relative;

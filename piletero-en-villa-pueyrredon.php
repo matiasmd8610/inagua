@@ -25,55 +25,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<title>Piletero en Villa Puyrredon</title>	
 		<meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo" />	    <link rel="icon" href="img/logo.png">
 
-
-    <!-- Bootstrap -->
-
-     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-
      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-
-
-
     <script src="js/bootstrap-3.3.6.js"></script>
-
     <script type="text/javascript" src="js/modernizr.custom.79639.js"></script>
-
-    <!--[if lte IE 8]><style>.main{display:none;} .support-note .note-ie{display:block;}</style><![endif]-->
-
-
-
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-
-    <!--[if lt IE 9]>
-
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-
-    <![endif]-->
-
-
-
-
-
     <link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.min.css">
-
-
-
-
-
-      <!--formulario -->
-<link href="css/hover.css" rel="stylesheet"> 
-   <script src="js/fileinput.js" type="text/javascript"></script>
+    <link href="css/hover.css" rel="stylesheet"> 
+    <script src="js/fileinput.js" type="text/javascript"></script>
     <link href="css/fileinput.css" rel="stylesheet">
-
-   
-
    <link href="css/estilos.css" rel="stylesheet">
    <link href="css/estilos_2.css" rel="stylesheet">
    <link href="css/fuentes.css" rel="stylesheet">
@@ -378,8 +339,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
               <p class="td08_4">solo confie en pileteros profesionales</p>
 
-              <p class="td08_3"  style="padding-bottom: 50px;"><i>
-                ...”El tratamiento inadecuado del agua, por falta de conocimientos y experiencia, tiene efectos desagradables provocando irritaciones en la piel, ojos y mucosas y causando enfermedades transmitidas por microorganismos o agentes patógenos. Por todo esto le ofrecemos mantener su piscina y el agua en óptimas condiciones durante todo el año.”...</i></p>
+              <p class="td08_3"  style="padding-bottom: 50px;">
+                ...”El tratamiento inadecuado del agua, por falta de conocimientos y experiencia, tiene efectos desagradables provocando irritaciones en la piel, ojos y mucosas y causando enfermedades transmitidas por microorganismos o agentes patógenos. Por todo esto le ofrecemos mantener su piscina y el agua en óptimas condiciones durante todo el año.”...</p>
 
            </div>
         </div>

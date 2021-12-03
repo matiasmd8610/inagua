@@ -182,61 +182,61 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <br>
             </p>
 
-            <a href="articulo.php?id=20" class="texto311" style="text-decoration: none;"><i>Consejos para la prevención y lucha contra el Dengue </i><br><span class="boton-mas">Click Aquí</span></a>
+            <a href="articulo.php?id=20" class="texto311" style="text-decoration: none;">Consejos para la prevención y lucha contra el Dengue<br><span class="boton-mas">Click Aquí</span></a>
             <hr>
                         
-            <a href="articulo.php?id=22" class="texto311" style="text-decoration: none;"><i>Cloro vs Asma </i><br><span class="boton-mas">Click Aquí</span></a>
+            <a href="articulo.php?id=22" class="texto311" style="text-decoration: none;">Cloro vs Asma<br><span class="boton-mas">Click Aquí</span></a>
             <hr>
             
-            <a href="articulo.php?id=40" class="texto311" style="text-decoration: none;"><i>Productos para el cuidado del agua de la pileta :: FUENTE: ANMAT </i><br><span class="boton-mas">Click Aquí</span></a>
+            <a href="articulo.php?id=40" class="texto311" style="text-decoration: none;">Productos para el cuidado del agua de la pileta :: FUENTE: ANMAT<br><span class="boton-mas">Click Aquí</span></a>
             <hr>
 
-            <a href="articulo.php?id=44" class="texto311" style="text-decoration: none;"><i>Los mejores ejercicios de piscina para quemar calorías y aumentar la masa muscular </i><br><span class="boton-mas">Click Aquí</span></a>
+            <a href="articulo.php?id=44" class="texto311" style="text-decoration: none;">Los mejores ejercicios de piscina para quemar calorías y aumentar la masa muscular<br><span class="boton-mas">Click Aquí</span></a>
             <hr>
             
-            <a href="articulo.php?id=23" class="texto311" style="text-decoration: none;"><i>¿Tiene problemas con el agua de su piscina? </i><br><span class="boton-mas">Click Aquí</span></a>
+            <a href="articulo.php?id=23" class="texto311" style="text-decoration: none;">¿Tiene problemas con el agua de su piscina? <br><span class="boton-mas">Click Aquí</span></a>
             <hr>
             
-            <a href="articulo.php?id=26" class="texto311" style="text-decoration: none;"><i>Recomendaciones sobre filtros de piscinas </i><br><span class="boton-mas">Click Aquí</span></a>
+            <a href="articulo.php?id=26" class="texto311" style="text-decoration: none;">Recomendaciones sobre filtros de piscinas<br><span class="boton-mas">Click Aquí</span></a>
             <hr>
 
-            <a href="articulo.php?id=27" class="texto311" style="text-decoration: none;"><i>Soluciones sobre bombas </i><br><span class="boton-mas">Click Aquí</span></a>
+            <a href="articulo.php?id=27" class="texto311" style="text-decoration: none;">Soluciones sobre bombas<br><span class="boton-mas">Click Aquí</span></a>
             <hr>
             
-            <a href="articulo.php?id=28" class="texto311" style="text-decoration: none;"><i>Recomendaciones sobre mantenimiento de piscinas </i><br><span class="boton-mas">Click Aquí</span></a>
+            <a href="articulo.php?id=28" class="texto311" style="text-decoration: none;">Recomendaciones sobre mantenimiento de piscinas<br><span class="boton-mas">Click Aquí</span></a>
             <hr>
             
-            <a href="articulo.php?id=32" class="texto311" style="text-decoration: none;"><i>Algunas razones para mantener el agua de la piscina en otoño/invierno </i><br><span class="boton-mas">Click Aquí</span></a>
+            <a href="articulo.php?id=32" class="texto311" style="text-decoration: none;">Algunas razones para mantener el agua de la piscina en otoño/invierno<br><span class="boton-mas">Click Aquí</span></a>
             <hr>
     
-            <a href="articulo.php?id=33" class="texto311" style="text-decoration: none;"><i>Glosario de palabras afines al mundo de las piscinas </i><br><span class="boton-mas">Click Aquí</span></a>
+            <a href="articulo.php?id=33" class="texto311" style="text-decoration: none;">Glosario de palabras afines al mundo de las piscinas<br><span class="boton-mas">Click Aquí</span></a>
             <hr>
  
-            <a href="articulo.php?id=34" class="texto311" style="text-decoration: none;"><i>PILETEROS</i><br><span class="boton-mas">Click Aquí</span></a>
+            <a href="articulo.php?id=34" class="texto311" style="text-decoration: none;">PILETEROS<br><span class="boton-mas">Click Aquí</span></a>
             <hr>
 
-            <a href="articulo.php?id=35" class="texto311" style="text-decoration: none;"><i>¿Qué son las algas? ¿Por qué aparecen? </i><br><span class="boton-mas">Click Aquí</span></a>
+            <a href="articulo.php?id=35" class="texto311" style="text-decoration: none;">¿Qué son las algas? ¿Por qué aparecen?<br><span class="boton-mas">Click Aquí</span></a>
             <hr>
 
-            <a href="articulo.php?id=36" class="texto311" style="text-decoration: none;"><i>El agua se puso verde después de la lluvia </i><br><span class="boton-mas">Click Aquí</span></a>
+            <a href="articulo.php?id=36" class="texto311" style="text-decoration: none;">El agua se puso verde después de la lluvia <br><span class="boton-mas">Click Aquí</span></a>
             <hr>
 
-            <a href="articulo.php?id=37" class="texto311" style="text-decoration: none;"><i>¿Como identificar problemas en la bomba?</i><br><span class="boton-mas">Click Aquí</span></a>
+            <a href="articulo.php?id=37" class="texto311" style="text-decoration: none;">¿Como identificar problemas en la bomba?<br><span class="boton-mas">Click Aquí</span></a>
             <hr>
             
-            <a href="articulo.php?id=38" class="texto311" style="text-decoration: none;"><i>¿Cómo identificar problemas en el filtro?</i><br><span class="boton-mas">Click Aquí</span></a>
+            <a href="articulo.php?id=38" class="texto311" style="text-decoration: none;">¿Cómo identificar problemas en el filtro?<br><span class="boton-mas">Click Aquí</span></a>
             <hr>
 
-            <a href="articulo.php?id=39" class="texto311" style="text-decoration: none;"><i>¿HONGOS NEGROS EN EL PISO Y PARED DE LA PILETA? </i><br><span class="boton-mas">Click Aquí</span></a>
+            <a href="articulo.php?id=39" class="texto311" style="text-decoration: none;">¿HONGOS NEGROS EN EL PISO Y PARED DE LA PILETA<br><span class="boton-mas">Click Aquí</span></a>
             <hr>
             
-            <a href="articulo.php?id=41" class="texto311" style="text-decoration: none;"><i>Como pintar piletas nuevas o repintarlas, usando pinturas a base de caucho clorado.</i><br><span class="boton-mas">Click Aquí</span></a>
+            <a href="articulo.php?id=41" class="texto311" style="text-decoration: none;">Como pintar piletas nuevas o repintarlas, usando pinturas a base de caucho clorado.<br><span class="boton-mas">Click Aquí</span></a>
             <hr>
             
-            <a href="articulo.php?id=42" class="texto311" style="text-decoration: none;"><i>El Cloro</i><br><span class="boton-mas">Click Aquí</span></a>
+            <a href="articulo.php?id=42" class="texto311" style="text-decoration: none;">El Cloro<br><span class="boton-mas">Click Aquí</span></a>
             <hr>
             
-            <a href="articulo.php?id=43" class="texto311" style="text-decoration: none;"><i>¿Qué es el PH? </i><br><span class="boton-mas">Click Aquí</span></a>
+            <a href="articulo.php?id=43" class="texto311" style="text-decoration: none;">¿Qué es el PH?<br><span class="boton-mas">Click Aquí</span></a>
             <hr>
            
             
@@ -519,8 +519,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
               <p class="td08_4">solo confie en pileteros profesionales</p>
 
-              <p class="td08_3"  style="padding-bottom: 50px;"><i>
-                ...”El tratamiento inadecuado del agua, por falta de conocimientos y experiencia, tiene efectos desagradables provocando irritaciones en la piel, ojos y mucosas y causando enfermedades transmitidas por microorganismos o agentes patógenos. Por todo esto le ofrecemos mantener su piscina y el agua en óptimas condiciones durante todo el año.”...</i></p>
+              <p class="td08_3"  style="padding-bottom: 50px;">
+                ...”El tratamiento inadecuado del agua, por falta de conocimientos y experiencia, tiene efectos desagradables provocando irritaciones en la piel, ojos y mucosas y causando enfermedades transmitidas por microorganismos o agentes patógenos. Por todo esto le ofrecemos mantener su piscina y el agua en óptimas condiciones durante todo el año.”...</p>
 
            </div>
         </div>

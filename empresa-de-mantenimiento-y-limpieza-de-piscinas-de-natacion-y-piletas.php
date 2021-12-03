@@ -3,55 +3,41 @@
 
   <head>
      
-<!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-T4FLXK7');</script>
-<!-- End Google Tag Manager -->
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-T4FLXK7');</script>
+    <!-- End Google Tag Manager -->
       
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#2F4598">
-
-	<meta name="robots" content="index, follow, all">
-	<meta name="googlebot" content="index, follow, all">
-	<meta name="keywords" content="limpieza de piletas, piletas, piscinas, piletero, pileteros, desagotes, mantenimiento de piletas" />
-		<meta name="title" content="EMPRESA DE LIMPIEZA DE PILETAS - PILETEROS PROFESIONALES" />
+    <meta name="robots" content="index, follow, all">
+    <meta name="googlebot" content="index, follow, all">
+    <meta name="keywords" content="limpieza de piletas, piletas, piscinas, piletero, pileteros, desagotes, mantenimiento de piletas" />
+    <meta name="title" content="EMPRESA DE LIMPIEZA DE PILETAS - PILETEROS PROFESIONALES" />
 		<meta name="author" content="Administrator" />
 		<meta name="description" content="Piletero a domicilio. Pileteros en Capital Federal." />	
-		<title>EMPRESA DE LIMPIEZA DE PILETAS - PILETEROS PROFESIONALES</title>	
-	<meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo">
+	  <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo">
+		<title>EMPRESA DE LIMPIEZA DE PILETAS - PILETEROS PROFESIONALES</title>
+
     <link rel="icon" href="img/logo.png">
 
 
-    <!-- Bootstrap -->
-
-     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-
-    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 
-
-
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-
-    <!-- <script src="js/bootstrap.min.js"></script> -->
 
     <script src="js/bootstrap-3.3.6.js"></script>
 
     <script type="text/javascript" src="js/modernizr.custom.79639.js"></script>
     <link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.min.css">
 
-
-
-
-
-      <!--formulario -->
-	 <!-- <script src="form/custom.js" type="text/javascript"></script> -->
   
     <link href="css/fileinput.css" rel="stylesheet">
     <script src="js/fileinput.js" type="text/javascript"></script>
@@ -481,7 +467,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                       </tbody>
                                     </table>
                                     <br>
-                                         <p class="texto_seguro_3"><i><b>Para su seguridad nuestro personal <br>se encuentra debidamente registrado <br> y cuentan con los seguros <br>  de vida obligatorio y ART</b></i></p>
+                                         <p class="texto_seguro_3"><b>Para su seguridad nuestro personal <br>se encuentra debidamente registrado <br> y cuentan con los seguros <br>  de vida obligatorio y ART</b></p>
                                        <img src="img/logo_seguro.png" alt="" class="logo_seguro">
 
                                        <p class="texto_seguro">Prevención ART - Vida Obligatorio</p>
@@ -585,8 +571,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
               <p class="td08_4">solo confie en pileteros profesionales</p>
 
-              <p class="td08_3"  style="padding-bottom: 50px;"><i>
-                ...”El tratamiento inadecuado del agua, por falta de conocimientos y experiencia, tiene efectos desagradables provocando irritaciones en la piel, ojos y mucosas y causando enfermedades transmitidas por microorganismos o agentes patógenos. Por todo esto le ofrecemos mantener su piscina y el agua en óptimas condiciones durante todo el año.”...</i></p>
+              <p class="td08_3"  style="padding-bottom: 50px;">
+                ...”El tratamiento inadecuado del agua, por falta de conocimientos y experiencia, tiene efectos desagradables provocando irritaciones en la piel, ojos y mucosas y causando enfermedades transmitidas por microorganismos o agentes patógenos. Por todo esto le ofrecemos mantener su piscina y el agua en óptimas condiciones durante todo el año.”...</p>
 
            </div>
         </div>

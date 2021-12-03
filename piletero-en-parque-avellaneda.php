@@ -16,41 +16,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#2F4598">
 
- 		<meta name="robots" content="index, follow, all" />
-		<meta name="googlebot" content="index, follow, all" />	
-		<meta name="keywords" content="pileta, piletas, piscinas, piletero, pileteros, desagote, parque avellaneda" />
+ 		<meta name="robots" content="index, follow, all">
+		<meta name="googlebot" content="index, follow, all">	
+		<meta name="keywords" content="pileta, piletas, piscinas, piletero, pileteros, desagote, parque avellaneda">
 		<meta name="title" content="Piletero en Parque Avellaneda" />
 		<meta name="author" content="Administrator" />
 		<meta name="description" content="Servicios de limpieza y mantenimiento de piletas. Pileteros profesionales." />	
 		<title>Piletero en Parque Avellaneda</title>	
 		<meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo" />	    <link rel="icon" href="img/logo.png">
 
-
-    <!-- Bootstrap -->
-
-     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-
-    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
-
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-
-
-
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-
-    <!-- <script src="js/bootstrap.min.js"></script> -->
-
     <script src="js/bootstrap-3.3.6.js"></script>
-
     <script type="text/javascript" src="js/modernizr.custom.79639.js"></script>
-
     <link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.min.css">
-
-
-
-
-
-      <!--formulario -->
 	<link href="css/hover.css" rel="stylesheet"> 
    <script src="js/fileinput.js" type="text/javascript"></script>
     <link href="css/fileinput.css" rel="stylesheet">
@@ -365,8 +343,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
               <p class="td08_4">solo confie en pileteros profesionales</p>
 
-              <p class="td08_3"  style="padding-bottom: 50px;"><i>
-                ...”El tratamiento inadecuado del agua, por falta de conocimientos y experiencia, tiene efectos desagradables provocando irritaciones en la piel, ojos y mucosas y causando enfermedades transmitidas por microorganismos o agentes patógenos. Por todo esto le ofrecemos mantener su piscina y el agua en óptimas condiciones durante todo el año.”...</i></p>
+              <p class="td08_3"  style="padding-bottom: 50px;">
+                ...”El tratamiento inadecuado del agua, por falta de conocimientos y experiencia, tiene efectos desagradables provocando irritaciones en la piel, ojos y mucosas y causando enfermedades transmitidas por microorganismos o agentes patógenos. Por todo esto le ofrecemos mantener su piscina y el agua en óptimas condiciones durante todo el año.”...</p>
 
            </div>
         </div>

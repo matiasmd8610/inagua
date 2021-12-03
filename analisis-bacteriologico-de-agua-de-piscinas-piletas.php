@@ -481,7 +481,7 @@ INAGUA
                                       </tbody>
                                     </table>
                                     <br>
-                                       <p class="texto_seguro_3"><i><b>Para su seguridad nuestro personal <br>se encuentra debidamente registrado <br> y cuentan con los seguros <br>  de vida obligatorio y ART</b></i></p>
+                                       <p class="texto_seguro_3"><b>Para su seguridad nuestro personal <br>se encuentra debidamente registrado <br> y cuentan con los seguros <br>  de vida obligatorio y ART</b></p>
                                        <img src="img/logo_seguro.png" alt="" class="logo_seguro">
 
                                        <p class="texto_seguro">Prevención ART - Vida Obligatorio</p>
@@ -583,8 +583,8 @@ INAGUA
 
               <p class="td08_4">solo confie en pileteros profesionales</p>
 
-              <p class="td08_3"  style="padding-bottom: 50px;"><i>
-                ...”El tratamiento inadecuado del agua, por falta de conocimientos y experiencia, tiene efectos desagradables provocando irritaciones en la piel, ojos y mucosas y causando enfermedades transmitidas por microorganismos o agentes patógenos. Por todo esto le ofrecemos mantener su piscina y el agua en óptimas condiciones durante todo el año.”...</i></p>
+              <p class="td08_3"  style="padding-bottom: 50px;">
+                ...”El tratamiento inadecuado del agua, por falta de conocimientos y experiencia, tiene efectos desagradables provocando irritaciones en la piel, ojos y mucosas y causando enfermedades transmitidas por microorganismos o agentes patógenos. Por todo esto le ofrecemos mantener su piscina y el agua en óptimas condiciones durante todo el año.”...</p>
 
            </div>
         </div>

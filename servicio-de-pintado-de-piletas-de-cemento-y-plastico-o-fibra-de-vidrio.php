@@ -25,7 +25,9 @@
 		<title>Pintor de piletas</title>	
 		<meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo" />	    <link rel="icon" href="img/logo.png">
 
-    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <script src="js/bootstrap-3.3.6.js"></script>
@@ -389,7 +391,7 @@
                                       </tbody>
                                     </table>
                                     <br>
-                                         <p class="texto_seguro_3"><i><b>Para su seguridad nuestro personal <br>se encuentra debidamente registrado <br> y cuentan con los seguros <br>  de vida obligatorio y ART</b></i></p>
+                                         <p class="texto_seguro_3"><b>Para su seguridad nuestro personal <br>se encuentra debidamente registrado <br> y cuentan con los seguros <br>  de vida obligatorio y ART</b></p>
                                        <img src="img/logo_seguro.png" alt="" class="logo_seguro">
 
                                        <p class="texto_seguro">Prevención ART - Vida Obligatorio</p>
@@ -492,8 +494,8 @@
 
               <p class="td08_4">solo confie en pileteros profesionales</p>
 
-              <p class="td08_3"  style="padding-bottom: 50px;"><i>
-                ...”El tratamiento inadecuado del agua, por falta de conocimientos y experiencia, tiene efectos desagradables provocando irritaciones en la piel, ojos y mucosas y causando enfermedades transmitidas por microorganismos o agentes patógenos. Por todo esto le ofrecemos mantener su piscina y el agua en óptimas condiciones durante todo el año.”...</i></p>
+              <p class="td08_3"  style="padding-bottom: 50px;">
+                ...”El tratamiento inadecuado del agua, por falta de conocimientos y experiencia, tiene efectos desagradables provocando irritaciones en la piel, ojos y mucosas y causando enfermedades transmitidas por microorganismos o agentes patógenos. Por todo esto le ofrecemos mantener su piscina y el agua en óptimas condiciones durante todo el año.”...</p>
 
            </div>
         </div>

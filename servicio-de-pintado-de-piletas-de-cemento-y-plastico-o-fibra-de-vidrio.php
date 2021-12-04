@@ -350,7 +350,7 @@
                   </div>
                     
                   <div class="col-md-6 wow slideInRight" datos-wow-duracion= "1s" data-wow-delay = "1s">
-                      <p class="texto223"><b>DESTACAMOS EN</b> </p>
+                      <p class="texto223"><b>NOS DESTACAMOS EN</b> </p>
 
                           <table width="100%" border="0" style="text-align:center; margin-bottom: 20px;">
                               <tbody>

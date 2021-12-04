@@ -1,19 +1,9 @@
-* {
-	margin: 0;
-	padding: 0;
-
-}
-
 #contenedor_trabajo {
 	overflow: hidden;
 }
 
 html {
 	background: #2F4598;
-}
-
-section {
-	overflow: hidden;
 }
 
 .td01 {

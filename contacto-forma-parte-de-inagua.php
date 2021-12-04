@@ -121,7 +121,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                   <div class="col-md-12">   
                     <div class="div-texto">
                       <h1 class="texto1 wow zoomInDown" datos-wow-duracion= "2s" data-wow-delay = "1s">Trabaja con nosotros</h1>
-                        <h2 class="texto2 wow slideInUp">envianos tus datos</h2>
+                        <h2 class="texto2 wow slideInUp">Envianos tus datos</h2>
                     </div>
                     
                                     

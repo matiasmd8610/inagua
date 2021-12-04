@@ -150,7 +150,7 @@
                     </tr>
                     <tr>
                       <td align="center" class="td07">
-                        <p>CASAS PARTICULARES</p><br>
+                        <p>CASAS PARTICULARES</p>
                       </td>
                     </tr>
                     <tr>
@@ -243,7 +243,7 @@
                       </td>
                     </tr>
                     <tr>
-                      <td align="center" class="td08b" style="height: 150px; vertical-align: top;">
+                      <td align="center" class="td08b" style="height: 100px; vertical-align: top;">
                         <p>Recuerde que un correcto filtrado  dara por resultado agua cristalina</p>
                       </td>
                     </tr>

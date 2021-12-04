@@ -232,7 +232,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
  <section class="separ-secciones">
     <div class="div-texto">
-        <h5 class="texto3 wow slideInUp">Otras Localidades</h5>
+        <h5 class="texto3 wow slideInUp text-center">Otras Localidades</h5>
     </div>
     <br>
     <div class="container">

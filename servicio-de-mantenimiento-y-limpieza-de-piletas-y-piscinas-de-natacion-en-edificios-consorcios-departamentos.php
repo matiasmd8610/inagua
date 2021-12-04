@@ -87,70 +87,42 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <div id="top"></div>
 	
 <header>
-<div class="botoner_completa animated slideInDown">
-     
+  <div class="botoner_completa animated slideInDown">
+              <?php include "include/navegacion.php"; ?>
+  </div> 
+  <div class="imagen_cabesal">
+    <img src="img/sello_premiun.png" align="right" class="sello_premiun" alt="">
   
-
-            <?php include "include/navegacion.php"; ?>
-            
-          
-      
- </div> 
-<div class="imagen_cabesal">
-	<img src="img/sello_premiun.png" align="right" class="sello_premiun" alt="">
- 
-</div>
-  
+  </div>
 </header>
-
-
-
-
-
-
 
 
 <section id="embajadas">
       <div class="container">
               <div class="row">
                   <div class="col-md-12">   
-
-                  
-
                     <div class="div-texto-casa">
                       <h1 class="texto1 wow zoomInDown" datos-wow-duracion= "2s" data-wow-delay = "1s">Mantenimiento de piletas en consorcios, hoteles y embajadas </h1>
                         <h4 class="texto2 wow slideInUp">nos encargamos de mantener su pileta y el agua en óptimas condiciones durante todo el año</h4>
                     </div>
-                    <br><br>
-                    
+                    <br>
                     <img src="img/imagen-consorcios.png" alt="" class="imgen-moviles-casas212 wow slideInRight">
-                    
-
-
                     <div class="div-texto-casas-bac" style="padding-right: 50px; margin-top: 0px;">
                           <h5 class="texto3sc wow slideInUp">
                                 En INAGUA contamos con una larga experiencia brindando servicios para consorcios, hoteles y embajadas.
-
                           </h5>
-                          
-                            
-
                           <h5 class="texto3sc wow slideInUp" style="margin-top: 50px;">
                                 Conocemos la problemática de los mismos, por lo tanto hemos implementado un sistema a la medida de sus necesidades.
                           </h5>
-
-
                            <h5 class="texto3sc wow slideInUp" style="margin-top: 50px; margin-bottom: 50px;">
                                 Brindamos diferentes frecuencias de servicios de mantenimineto de piletas dependiendo de las necesidades de cada cliente.
                           </h5>
-                          
                           <h5 class="texto3sc wow slideInUp" style="margin-top: 50px; margin-bottom: 50px;">
                                 El personal de INAGUA 
                                 está capacitado con los niveles más altos del mercado 
                                 para realizar tareas de mantenimiento, limpieza 
                                 y desinfección de piscinas.
                           </h5>
-
                           <h5 class="texto3sc wow slideInUp" style="margin-top: 50px; margin-bottom: 50px;">
                                 Contamos con todos los SEGUROS necesarios:
                                 Prevención ART (Grupo Sancor Seguros) – ART del personal - Contrato N° 471157
@@ -160,11 +132,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                          
                     </div>
                     <div class="imagen-casas wow slideInRight">
-
-                    
-                      
-
-
                     </div>
 
                   </div>  
@@ -175,35 +142,27 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </div> 
 </section>
          
- 
 <section>
-  
   <div class="container">
     <div class="row">
       
        <div class="row text-center separ-secciones_2">
                 <div class="col-md-4">
                     <div class="span-separ-secciones_2"></div>
-                    
                 </div>
                 <div class="col-md-4">
                     <P class="td06_2">servicios sugeridos</P>
-                    
                 </div>
                 <div class="col-md-4">
                     <div class="span-separ-secciones_2"></div>
-                    
                 </div>
           </div>
-    
-            
 
      <div class="iconos-servicios">      
       <div class="container">
         <div class="row">
        
            <div class="col-md-12 servicios-sugeridos-icon" align="center">
-
                 <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion= "1s" data-wow-delay = "1s">
                     <table width="100%" border="0">
                       <tbody>
@@ -222,22 +181,25 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                       </tbody>
                     </table>
                 </div>
-
                          
                 <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion= "2s" data-wow-delay = "2s">
                     <table width="100%" border="0">
                       <tbody width="138" >
                         <tr>
-                          <td align="center"><img src="img/icon_desagote.png" class="icon-suge" alt=""/></td>
+                          <td align="center">
+                            <img src="img/icon_desagote.png" class="icon-suge" alt="">
+                          </td>
                         </tr>
                         <tr>
-                          <td align="center" class="td07pp"><p>DESAGOTE DE PISCINAS</p></td>
+                          <td align="center" class="td07pp">
+                            <p>DESAGOTE DE PISCINAS</p>
+                        </td>
                         </tr>
                         <tr>
                           <td align="center"  width="138"><p class="td08bac">Vaciamos, limpiamos y desinfectamos</p></td>
                         </tr>
                         <tr>
-                          <td align="center"><a href="servicio-de-desagote-limpieza-desinfeccion-de-piletas-y-piscinas-de-natacion.php"><p class="boton-click-aqui">MAS INFO</p></a></td>
+                          <td align="center"><a href="servicio-de-desagote-limpieza-desinfeccion-de-piletas-y-piscinas-de-natacion.php"><p class="boton-click-aqui">MÁS INFO</p></a></td>
                         </tr>
                       </tbody>
                     </table>
@@ -250,14 +212,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                           <td align="center"><img src="img/icon_filtro.png" class="icon-suge" alt=""/></td>
                         </tr>
                         <tr>
-                          <td align="center" class="td07pp"><p>REPARACION Y CAMBIO DE ARENA</p></td>
+                          <td align="center" class="td07pp"><p>REPARACIÓN Y CAMBIO DE ARENA</p></td>
                         </tr>
                         <tr>
-                          <td align="center" class="td08bac" width="138"><p>El filtrado
-                              dara agua cristalina </p></td>
+                          <td align="center" class="td08bac" width="138"><p>El filtrado dará agua cristalina </p></td>
                         </tr>
                         <tr>
-                          <td align="center"><a href="cambio-de-arena-carga-filtrante-de-filtro.php"><p class="boton-click-aqui">MAS INFO</p></a></td>
+                          <td align="center"><a href="cambio-de-arena-carga-filtrante-de-filtro.php"><p class="boton-click-aqui">MÁS INFO</p></a></td>
                         </tr>
                       </tbody>
                     </table>
@@ -277,7 +238,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                           <td align="center" class="td08bac" width="138"><p>Rejuvenecemos su pileta</p></td>
                         </tr>
                         <tr>
-                          <td align="center"><a href="servicio-de-pastinado-de-piletas-revestidas.php"><p class="boton-click-aqui">MAS INFO</p></a></td>
+                          <td align="center"><a href="servicio-de-pastinado-de-piletas-revestidas.php"><p class="boton-click-aqui">MÁS INFO</p></a></td>
                         </tr>
                       </tbody>
                     </table>

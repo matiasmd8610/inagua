@@ -119,31 +119,54 @@
                       <h1 class="texto1 wow zoomInDown" datos-wow-duracion= "2s" data-wow-delay = "1s">INAGUA - Mantenimiento de Piscinas</h1>
                         <h2 class="texto2 wow slideInUp">Somos especialistas</h2>
                     </div>
-                    <br>
                       <div class="div-texto">
                           <h5 class="texto3n wow slideInUp">INAGUA es una empresa con más de 15 años de experiencia en MANTENIMIENTO DE PISCINAS, brindando soluciones integrales a consorcios y particulares.<br>
                           </h5>
                       </div>
-
                        <div class="div-texto">
                           <h5 class="texto3n wow slideInUp">
                                 En INAGUA cubrimos todas las necesidades de servicios de mantenimiento para su piscina, la venta de productos para cuidarla, y nos encargamos de las refacciones necesarias para un correcto funcionamiento.
-                                <br>
                           </h5>
                       </div>
 
                       <div class="div-texto">
                           <h5 class="texto3n wow slideInUp">
                               Todo en un solo lugar, y con un equipo especializado.
-                              <br>
                           </h5>
                       </div>
-                 
                   </div>  
                 
-                </div>
+              </div>
         </div> 
 </section>
+
+<section>
+    <div class="container sobre_nosotros_1">
+        <div class="row">
+                <div class="div-texto">
+                  <h5 class="texto3n wow slideInUp">El personal de INAGUA está capacitado con los niveles más altos del mercado para realizar tareas de mantenimiento, limpieza y desinfección de piscinas.</h5>
+                </div>
+
+                <div class="col-md-6 wow slideInLeft" datos-wow-duracion= "0.5s" data-wow-delay = "0.5s">
+                      <img src="img/staff_1.png" alt="" class="staff_1">
+                </div>
+                    
+                <div class="col-md-6 wow slideInRight" datos-wow-duracion= "1s" data-wow-delay = "1s">
+                    <p class="texto223"><b>¿Por qué elegir INAGUA?</b> </p>
+
+                    <ul class="destacamos-list">
+                      <li>Tenemos más de 13 años de experiencia en el mantenimiento de piscinas.</li>
+                      <li>No solo cuidamos el agua de su pileta, sino que también brindamos soluciones a cualquier problema de funcionamiento y mantenimiento de la misma.</li>
+                      <li>Todos nuestros operadores son técnicos especializados, cuentan con protección de ART y brindan los servicios conforme todas las medidas de seguridad establecidas.</li>
+                      <li>Todos los productos que utilizamos para el tratamiento de piscinas están aprobados por la ANMAT (Administración Nacional de Medicamentos, Alimentos y Tecnología Médica).</li>
+                      <li>Acordamos con cada cliente un día y franja horaria que le sea cómodo para brindar el servicio.</li>
+                      <li>Si el día de la visita llueve o es feriado, intentamos reprogramarla para otra fecha cercana.</li>
+                    </ul>
+                </div>
+          </div>
+    </div>  
+</section>
+ <!-- FIN NOSOTROS -->
 
 <section>
       <div class="container">
@@ -227,10 +250,6 @@
                     </table>
                     
                 </div>
-
-                
-
-
           </div>
       </div>   
 </section>            
@@ -278,10 +297,6 @@
                     </table>
                   </div>
 
-                
-          
-
-
                  <div class="col-md-3 wow fadeIn" datos-wow-duracion= "3s" data-wow-delay = "3s">
                     <table width="100%" border="0">
                       <tbody>
@@ -319,28 +334,19 @@
                       </tbody>
                     </table>
                 </div>
-                 
-                  
-
-
           </div>
       </div>   
 </section>            
 
-
-                  
-
 <section>
-  
-
     <div class="container">
         <div class="row">
           
             <div class="div-texto" style="margin-top: 50px;">
-                            <h5 class="texto3n wow slideInUp">
-                                 En INAGUA estos servicios han sido adaptados para cada cliente de acuerdo a las necesidades propias y dinámicas de los mismos, en donde le podemos ofrecer servicios de mantenimiento de piscinas específicos a:
-                            </h5>
-                      </div>
+                <h5 class="texto3n wow slideInUp">
+                      En INAGUA estos servicios han sido adaptados para cada cliente de acuerdo a las necesidades propias y dinámicas de los mismos, en donde le podemos ofrecer servicios de mantenimiento de piscinas específicos a:
+                </h5>
+            </div>
           
             <div class="row" align="center">
               
@@ -356,13 +362,9 @@
               <div class="col-md-4 alineacion_ser wow slideInRight hvr-shrink">
                 <a href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-edificios-consorcios-departamentos.php"><img src="img/hoteles.png" alt="Mantenimiento de piscinas hoteles"></a>
               </div>
-
-
-
             </div>
 
-             <div class="row" align="center">
-              
+             <div class="row" align="center">             
 
               <div class="col-md-4 alineacion_ser wow slideInLeft hvr-shrink">
                 <a href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-edificios-consorcios-departamentos.php"><img src="img/emba.png" alt="Mantenimiento de piscinas embajadas"></a>
@@ -375,70 +377,13 @@
               <div class="col-md-4 alineacion_ser wow slideInRight hvr-shrink">
                 <a href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-edificios-consorcios-departamentos.php"><img src="img/depor.png" alt="Mantenimiento de piscinas instituciones deportivas"></a>
               </div>
-
-
-
             </div>
-
-
-
-
         </div>      
-
-
     </div>
-
-
-
 </section> 
  
 
-<section>
-    
-    <div class="container sobre_nosotros_1">
-              <div class="row">
-                   
-                <div class="div-texto" style="margin-top: 50px;">
-                            <h5 class="texto3n wow slideInUp">
-                                 El personal de INAGUA está capacitado con los niveles más altos del mercado para realizar tareas de mantenimiento, limpieza y desinfección de piscinas.
-
-                            </h5>
-                      </div>
-
-
-
-                  <div class="col-md-6 wow slideInLeft" datos-wow-duracion= "0.5s" data-wow-delay = "0.5s">
-                        <img src="img/staff_1.png" alt="" class="staff_1">
-                  </div>
-                    
-                  <div class="col-md-6 wow slideInRight" datos-wow-duracion= "1s" data-wow-delay = "1s">
-                      <p class="texto223"><b>¿Por qué elegir INAGUA?</b> </p>
-
-                        <ul class="destacamos-list">
-                          <li>Tenemos más de 13 años de experiencia en el mantenimiento de piscinas.</li>
-                          <li>No solo cuidamos el agua de su pileta, sino que también brindamos soluciones a cualquier problema de funcionamiento y mantenimiento de la misma.</li>
-                          <li>Todos nuestros operadores son técnicos especializados, cuentan con protección de ART y brindan los servicios conforme todas las medidas de seguridad establecidas.</li>
-                          <li>Todos los productos que utilizamos para el tratamiento de piscinas están aprobados por la ANMAT (Administración Nacional de Medicamentos, Alimentos y Tecnología Médica).</li>
-                          <li>Acordamos con cada cliente un día y franja horaria que le sea cómodo para brindar el servicio.</li>
-                          <li>Si el día de la visita llueve o es feriado, intentamos reprogramarla para otra fecha cercana.</li>
-                        </ul>
-                      
-                  </div>
-    
-            
-
-
-          </div>
-    </div>  
-  
-  
-</section>
- 
- <!-- FIN NOSOTROS -->
-
-  <!-- COBERTURA -->
-
-
+<!-- COBERTURA -->
 <section class="wow bounceInDown" datos-wow-duracion= "1s" data-wow-delay = "1s">
   <div class="container">
     <div class="row">
@@ -512,30 +457,18 @@
           <div class="row">
             <div class="col-md-12 wow tada" datos-wow-duracion= "3s" data-wow-delay = "2s">
             <div class="pileteros_profesionales">
-
               <p class="td08_4">solo confie en pileteros profesionales</p>
-
               <p class="td08_3"  style="padding-bottom: 50px;">
                 ...”El tratamiento inadecuado del agua, por falta de conocimientos y experiencia, tiene efectos desagradables provocando irritaciones en la piel, ojos y mucosas y causando enfermedades transmitidas por microorganismos o agentes patógenos. Por todo esto le ofrecemos mantener su piscina y el agua en óptimas condiciones durante todo el año.”...</p>
-
            </div>
         </div>
 
         </div>
     </div>
 
-<footer>
-
-
-
-       <?php include "include/footer.php"; ?>
-
-
-
-
-
-
-</footer>
+  <footer>
+        <?php include "include/footer.php"; ?>
+  </footer>
 
 <script>
 $(document).ready(function(){

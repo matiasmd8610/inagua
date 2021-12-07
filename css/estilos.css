@@ -1,4 +1,4 @@
-#contenedor_trabajo {
+/*#contenedor_trabajo {
 	overflow: hidden;
 }
 
@@ -274,7 +274,6 @@ html {
 @media (max-width: 500px) {
 	.texto311 {
 		font-size: 20px;
-		/*padding: 0 15px 0 15px;*/
 	}
 }
 
@@ -331,11 +330,8 @@ html {
 }
 
 
-/*----- FOrm -----------------------------*/
 #respuesta1 {
-
 	margin-top: 50px;
-
 }
 
 form {
@@ -379,7 +375,6 @@ form {
 @media (max-width: 500px) {
 	form {
 		width: 75%;
-
 	}
 }
 
@@ -391,7 +386,6 @@ form {
 	padding-top: 10px;
 	height: 38px;
 	font-size: 16px;
-	/*text-transform: uppercase;*/
 	line-height: 1.42857143;
 	letter-spacing: 1px;
 	color: #555;
@@ -450,23 +444,15 @@ input.btn-primary {
 }
 
 .container-news {
-
-	/*background: #00ff00;*/
 	width: 100%;
-	/*align-content:center;*/
-	/*position:absolute;*/
 	margin-top: 38px;
-
 }
 
 
 
 .well {
-	/*background: lime;*/
 	border: 0;
 	margin: auto !important;
-	/*margin-left: 150px;*/
-
 }
 
 .thumbnail {
@@ -476,7 +462,6 @@ input.btn-primary {
 .form-newsletter {
 
 	margin-top: 25px;
-	/*background: yellow;*/
 	padding: 0;
 	text-align: center;
 
@@ -565,7 +550,6 @@ input.btn-primary {
 	color: #333;
 	font-weight: 600;
 	letter-spacing: 0.01em;
-	/*background-color: yellow;*/
 	text-align: left;
 }
 
@@ -713,4 +697,4 @@ input.btn-primary {
 		visibility: visible;
 		opacity: 1;
 	}
-}
+}*/

@@ -15,14 +15,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#2F4598">
-    <title>INAGUA - LIMPIEZA Y MANTENIMIENTO DE PILETAS - Pileteros Profesionales-</title>
     <meta property="fb:app_id" content="383820332074788">
+    <title>INAGUA - LIMPIEZA Y MANTENIMIENTO DE PILETAS - Pileteros Profesionales-</title>
     <link rel="icon" href="img/logo.png">
-
-
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <script src="js/bootstrap-3.3.6.js"></script>
     <script type="text/javascript" src="js/modernizr.custom.79639.js"></script>
@@ -30,15 +27,14 @@
 	  <link href="css/hover.css" rel="stylesheet"> 
     <script src="js/fileinput.js" type="text/javascript"></script>
     <link href="css/fileinput.css" rel="stylesheet">
-    <link href="css/estilos.css" rel="stylesheet">
     <link href="styles/css/main.css" rel="stylesheet">
     <link rel="stylesheet" href="css/animate/animate.css">
     <link href="styles/css/main.css" rel="stylesheet">
     <!-- Animate-->
     <link rel="stylesheet" href="css/animate/animate.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;600&family=Rubik:wght@300;400;600&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;600&family=Rubik:wght@300;400;600&display=swap" rel="stylesheet">
     <script src="js/wow.js"></script>
     <script>new WOW().init();</script>
 
@@ -124,7 +120,7 @@
 					<div class="col-md-12">		
       <div class="div-texto">
           <h1 class="texto1 wow zoomInDown" datos-wow-duracion= "2s" data-wow-delay = "1s">Preguntas frecuentes sobre mantenimiento de piscinas</h1>
-          <h4 class="texto2 wow slideInUp">conoce mas sobre tu piscina</h4>
+          <h4 class="texto2 wow slideInUp">Conocé más sobre tu piscina</h4>
       </div>
     </div>
       <br><br>
@@ -492,12 +488,9 @@ Durante la noche las partículas suspendidas se depositan en el fondo. Se puede 
           <div class="row">
             <div class="col-md-12 wow tada" datos-wow-duracion= "3s" data-wow-delay = "2s">
             <div class="pileteros_profesionales">
-
               <p class="td08_4">solo confie en pileteros profesionales</p>
-
-              <p class="td08_3"  style="padding-bottom: 50px;">
+              <p class="td08_3">
                 ...”El tratamiento inadecuado del agua, por falta de conocimientos y experiencia, tiene efectos desagradables provocando irritaciones en la piel, ojos y mucosas y causando enfermedades transmitidas por microorganismos o agentes patógenos. Por todo esto le ofrecemos mantener su piscina y el agua en óptimas condiciones durante todo el año.”...</p>
-
            </div>
         </div>
 

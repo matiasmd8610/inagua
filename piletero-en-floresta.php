@@ -49,7 +49,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	 <link href="css/hover.css" rel="stylesheet"> 
    <script src="js/fileinput.js" type="text/javascript"></script>
     <link href="css/fileinput.css" rel="stylesheet">
-   <link href="css/estilos.css" rel="stylesheet">
    <link href="styles/css/main.css" rel="stylesheet">
     <!-- Animate-->
     <link rel="stylesheet" href="css/animate/animate.css">
@@ -162,7 +161,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                           <td align="center" class="td08b"><p>Si quiere mantener su pileta durante todo el año</p><br></td>
                         </tr>
                         <tr>
-                          <td align="center" style="padding-top: 41px;"><a href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-casas-countries-casas-quintas.php"><p class="boton-click-aqui" style="text-decoration: none;">MAS INFO</p></a></td>
+                          <td align="center" style="padding-top: 41px;"><a href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-casas-countries-casas-quintas.php"><p class="boton-click-aqui" style="text-decoration: none;">MÁS INFO</p></a></td>
                         </tr>
                       </tbody>
                     </table>
@@ -182,7 +181,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                           de piletas de natación en consorcios <br><br><br></p></td>
                         </tr>
                         <tr>
-                          <td align="center" style="padding-top: 20px;"><a href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-edificios-consorcios-departamentos.php"><p class="boton-click-aqui">MAS INFO</p></a></td>
+                          <td align="center" style="padding-top: 20px;"><a href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-edificios-consorcios-departamentos.php"><p class="boton-click-aqui">MÁS INFO</p></a></td>
                         </tr>
                       </tbody>
                     </table>
@@ -204,7 +203,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                           <td align="center" class="td08b"><p><br>Vaciamos, limpiamos y desinfectamos su pileta de natación dejandola lista para llenar o pintar <br><br></p></td>
                         </tr>
                         <tr>
-                          <td align="center" style="padding-top: 26px;"><a href="servicio-de-desagote-limpieza-desinfeccion-de-piletas-y-piscinas-de-natacion.php"><p class="boton-click-aqui">MAS INFO</p></a></td>
+                          <td align="center" style="padding-top: 26px;"><a href="servicio-de-desagote-limpieza-desinfeccion-de-piletas-y-piscinas-de-natacion.php"><p class="boton-click-aqui">MÁS INFO</p></a></td>
                         </tr>
                       </tbody>
                     </table>
@@ -224,7 +223,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                               dara por resultado agua cristalina<br><br> </p></td>
                         </tr>
                         <tr>
-                          <td align="center" style="padding-top: 39px;"><a href="cambio-de-arena-carga-filtrante-de-filtro.php"><p class="boton-click-aqui">MAS INFO</p></a></td>
+                          <td align="center" style="padding-top: 39px;"><a href="cambio-de-arena-carga-filtrante-de-filtro.php"><p class="boton-click-aqui">MÁS INFO</p></a></td>
                         </tr>
                       </tbody>
                     </table>
@@ -254,7 +253,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                           <td align="center" class="td08b"><p><br>Rejuvenecemos su pileta<br><br></p></td>
                         </tr>
                         <tr>
-                          <td align="center" style="padding-top: 43px;"><a href="servicio-de-pastinado-de-piletas-revestidas.php"><p class="boton-click-aqui">MAS INFO</p></a></td>
+                          <td align="center" style="padding-top: 43px;"><a href="servicio-de-pastinado-de-piletas-revestidas.php"><p class="boton-click-aqui">MÁS INFO</p></a></td>
                         </tr>
                       </tbody>
                     </table>
@@ -274,7 +273,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                           <td align="center" class="td08b"><br><br><p>Pintamos tu piscina de material o plastico <br><br><br></p></td>
                         </tr>
                         <tr>
-                          <td align="center" style="padding-top: 8px;"><a href="servicio-de-pintado-de-piletas-de-cemento-y-plastico-o-fibra-de-vidrio.php"><p class="boton-click-aqui">MAS INFO</p></a></td>
+                          <td align="center" style="padding-top: 8px;"><a href="servicio-de-pintado-de-piletas-de-cemento-y-plastico-o-fibra-de-vidrio.php"><p class="boton-click-aqui">MÁS INFO</p></a></td>
                         </tr>
                       </tbody>
                     </table>
@@ -297,7 +296,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                           <td align="center" class="td08b"><p><br><br>Marcas lideres de primera calidad <br><br><br></p></td>
                         </tr>
                         <tr>
-                          <td align="center" style="padding-top: 30px;"><a href="productos-quimicos-y-accesorios-para-piletas-y-piscinas-de-natacion.php"><p class="boton-click-aqui">MAS INFO</p></a></td>
+                          <td align="center" style="padding-top: 30px;"><a href="productos-quimicos-y-accesorios-para-piletas-y-piscinas-de-natacion.php"><p class="boton-click-aqui">MÁS INFO</p></a></td>
                         </tr>
                       </tbody>
                     </table>
@@ -316,7 +315,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                           <td align="center" class="td08b"><p>No corra riesgos de infecciones. Análisis bacterelógico y físico-químico</p></td>
                         </tr>
                         <tr>
-                          <td align="center" style="padding-top: 46px;"><a href="analisis-bacteriologico-de-agua-de-piscinas-piletas.php"><p class="boton-click-aqui" style="text-decoration: none;">MAS INFO</p></a></td>
+                          <td align="center" style="padding-top: 46px;"><a href="analisis-bacteriologico-de-agua-de-piscinas-piletas.php"><p class="boton-click-aqui" style="text-decoration: none;">MÁS INFO</p></a></td>
                         </tr>
                       </tbody>
                     </table>

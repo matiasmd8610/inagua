@@ -21,7 +21,6 @@
   <link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.min.css">
   <link href="css/fileinput.css" rel="stylesheet">
   <link href="css/hover.css" rel="stylesheet">
-  <link href="css/estilos.css" rel="stylesheet">
   <link rel="stylesheet" href="css/animate/animate.css">
   <link href="styles/css/main.css" rel="stylesheet">
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -406,7 +405,7 @@
 
           <p class="td08_4">solo confie en pileteros profesionales</p>
 
-          <p class="td08_3" style="padding-bottom: 50px;">
+          <p class="td08_3">
               ...”El tratamiento inadecuado del agua, por falta de conocimientos y experiencia, tiene efectos
               desagradables provocando irritaciones en la piel, ojos y mucosas y causando enfermedades transmitidas por
               microorganismos o agentes patógenos. Por todo esto le ofrecemos mantener su piscina y el agua en óptimas

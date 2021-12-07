@@ -42,22 +42,79 @@
 
         <li class="submenu" style="color:black;">SERVICIOS
           <ul>
-            <li><a
+            <!--<li><a
                 href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-casas-countries-casas-quintas.php">CASAS
-                PARTICULARES</a></li>
+                PARTICULARES</a>
+            </li>
             <li><a
                 href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-edificios-consorcios-departamentos.php">CONSORCIO
-                HOTELES EMBAJADAS</a> </li>
+                HOTELES EMBAJADAS</a> 
+            </li>
             <li><a href="servicio-de-desagote-limpieza-desinfeccion-de-piletas-y-piscinas-de-natacion.php">DESAGOTE de
-                PISCINAS</a></li>
-            <li><a href="cambio-de-arena-carga-filtrante-de-filtro.php">REPARACION de FILTROS</a></li>
-            <li><a href="servicio-de-pastinado-de-piletas-revestidas.php">EMPASTINADO de PILETAS</a></li>
+                PISCINAS</a>
+            </li>
+            <li>
+              <a href="cambio-de-arena-carga-filtrante-de-filtro.php">REPARACION de FILTROS</a>
+            </li>
+            <li>
+              <a href="servicio-de-pastinado-de-piletas-revestidas.php">EMPASTINADO de PILETAS</a>
+            </li>
             <li><a href="servicio-de-pintado-de-piletas-de-cemento-y-plastico-o-fibra-de-vidrio.php">PINTADO de
                 PILETAS</a></li>
-            <li><a href="destapaciones-de-barre-fonfo-skimmer-piscina-limpia-fondo-pileta.php">DESTAPACIONES</a></li>
-            <li><a href="productos-quimicos-y-accesorios-para-piletas-y-piscinas-de-natacion.php">VENTA de PRODUCTOS</a>
+            <li>
+              <a href="destapaciones-de-barre-fonfo-skimmer-piscina-limpia-fondo-pileta.php">DESTAPACIONES</a>
             </li>
-            <li><a href="analisis-bacteriologico-de-agua-de-piscinas-piletas.php">ANALISIS BACTERIOLOGICOS </a></li>
+            <li>
+              <a href="productos-quimicos-y-accesorios-para-piletas-y-piscinas-de-natacion.php">VENTA de PRODUCTOS</a>
+            </li>
+            <li>
+              <a href="analisis-bacteriologico-de-agua-de-piscinas-piletas.php">ANALISIS BACTERIOLOGICOS </a>
+            </li>-->
+
+            <li>
+              <a
+                href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-casas-countries-casas-quintas-edificios-consorcios-departamentos-hoteles-embajadas.php">SERVICIO DE MANTENIMIENTO</a>
+            </li>
+            <li>
+              <a
+                href="servicio-de-desagote-limpieza-desinfeccion-de-piletas-y-piscinas-de-natacion.php">DESAGOTE Y DESINFECCIÓN</a>
+            </li>
+            <li>
+              <a
+                href="cambio-de-arena-carga-filtrante-de-filtro.php">CAMBIO DE ARENA</a>
+            </li>
+            <li>
+              <a
+                href="reparacion-de-bomas-autocebantes-de-piletas.php">REPARACION DE BOMBA</a>
+            </li>
+            <li>
+              <a
+                href="reparacion-de-bomas-autocebantes-de-piletas.php">REPARACION DE BOMBA</a>
+            </li>
+            <li>
+              <a
+                href="cambio-de-multivalvula-selectora-de-filtro.php">CAMBIO DE MULTIVALVULA Y CONEXIONES</a>
+            </li>
+            <li>
+              <a
+                href="servicio-de-pastinado-de-piletas-revestidas.php">PASTINADO DE PISCINAS</a>
+            </li>
+            <li>
+              <a
+                href="servicio-de-pintado-de-piletas-de-cemento-y-plastico-o-fibra-de-vidrio.php">PINTURA DE PISCINAS</a>
+            </li>
+            <li>
+              <a
+                href="productos-quimicos-y-accesorios-para-piletas-y-piscinas-de-natacion.php">VENTA DE PRODUCTOS Y ACCESORIOS</a>
+            </li>
+            <li>
+              <a
+                href="analisis-bacteriologico-de-agua-de-piscinas-piletas.php">ANALISIS BACTERIOLOGICO</a>
+            </li>
+            <li>
+              <a
+                href="servicio-integrales-de-mantenimiento-de-piletas-y-afines.php">OTROS SERVICIOS</a>
+            </li>
           </ul>
         </li>
         <li><a href="http://tienda.inagua.com.ar/" target="_new">TIENDA</a></li>

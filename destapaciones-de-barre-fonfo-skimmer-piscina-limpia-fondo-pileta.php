@@ -36,7 +36,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   	<link href="css/hover.css" rel="stylesheet"> 
     <script src="js/fileinput.js" type="text/javascript"></script>
     <link href="css/fileinput.css" rel="stylesheet">
-    <link href="css/estilos.css" rel="stylesheet">
     <link href="styles/css/main.css" rel="stylesheet">
     <link rel="stylesheet" href="css/animate/animate.css">
     <link href="styles/css/main.css" rel="stylesheet">
@@ -163,7 +162,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             <br>
                             <br>
 
-                          <!--<h2 class="texto3" style="font-weight: bold; font-size: 30px;">¡DESAGOTE SU PILETA CON NOSOTROS, SOMOS ESPECIALISTAS!</h2> -->
                           </div>
                              <div class="col-md-12 presupuesto-ser wow slideInUp">
                            <a href="#contacto" class="boton-presupuesto" style="text-decoration:none;">SOLICITAR PRESUPUESTO</a>                     
@@ -215,7 +213,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                           <td align="center" class="td08bac" width="138"><p>Si quiere mantener su pileta durante todo el año</p></td>
                         </tr>
                         <tr>
-                          <td align="center"><a href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-casas-countries-casas-quintas.php"><p class="boton-click-aqui" style="text-decoration: none;">MAS INFO</p></a></td>
+                          <td align="center"><a href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-casas-countries-casas-quintas.php"><p class="boton-click-aqui" style="text-decoration: none;">MÁS INFO</p></a></td>
                         </tr>
                       </tbody>
                     </table>
@@ -234,7 +232,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                           <td class="td08bac" width="138"><p>Especialistas en consorcios </p></td>
                         </tr>
                         <tr>
-                          <td align="center" ><a href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-edificios-consorcios-departamentos.php"><p class="boton-click-aqui">MAS INFO</p></a></td>
+                          <td align="center" ><a href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-edificios-consorcios-departamentos.php"><p class="boton-click-aqui">MÁS INFO</p></a></td>
                         </tr>
                       </tbody>
                     </table>
@@ -256,7 +254,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                               dara agua cristalina </p></td>
                         </tr>
                         <tr>
-                          <td align="center"><a href="cambio-de-arena-carga-filtrante-de-filtro.php"><p class="boton-click-aqui">MAS INFO</p></a></td>
+                          <td align="center"><a href="cambio-de-arena-carga-filtrante-de-filtro.php"><p class="boton-click-aqui">MÁS INFO</p></a></td>
                         </tr>
                       </tbody>
                     </table>
@@ -276,7 +274,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                           <td align="center" class="td08bac" width="138"><p>Rejuvenecemos su pileta</p></td>
                         </tr>
                         <tr>
-                          <td align="center"><a href="servicio-de-pastinado-de-piletas-revestidas.php"><p class="boton-click-aqui">MAS INFO</p></a></td>
+                          <td align="center"><a href="servicio-de-pastinado-de-piletas-revestidas.php"><p class="boton-click-aqui">MÁS INFO</p></a></td>
                         </tr>
                       </tbody>
                     </table>
@@ -296,7 +294,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                           <td align="center" class="td08bac" width="138"><p>Pintamos tu piscina de material o plastico </p></td>
                         </tr>
                         <tr>
-                          <td align="center"><a href="servicio-de-pintado-de-piletas-de-cemento-y-plastico-o-fibra-de-vidrio.php"><p class="boton-click-aqui">MAS INFO</p></a></td>
+                          <td align="center"><a href="servicio-de-pintado-de-piletas-de-cemento-y-plastico-o-fibra-de-vidrio.php"><p class="boton-click-aqui">MÁS INFO</p></a></td>
                         </tr>
                       </tbody>
                     </table>
@@ -315,7 +313,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                           <td align="center" class="td08bac"  width="138"><p>Marcas lideres de primera calidad </p></td>
                         </tr>
                         <tr>
-                          <td align="center"><a href="productos-quimicos-y-accesorios-para-piletas-y-piscinas-de-natacion.php"><p class="boton-click-aqui">MAS INFO</p></a></td>
+                          <td align="center"><a href="productos-quimicos-y-accesorios-para-piletas-y-piscinas-de-natacion.php"><p class="boton-click-aqui">MÁS INFO</p></a></td>
                         </tr>
                       </tbody>
                     </table>
@@ -334,7 +332,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                           <td align="center" class="td08bac" width="138"><p>No corra riesgos de infecciones.</p></td>
                         </tr>
                         <tr>
-                          <td align="center"><a href="analisis-bacteriologico-de-agua-de-piscinas-piletas.php"><p class="boton-click-aqui" style="text-decoration: none;">MAS INFO</p></a></td>
+                          <td align="center"><a href="analisis-bacteriologico-de-agua-de-piscinas-piletas.php"><p class="boton-click-aqui" style="text-decoration: none;">MÁS INFO</p></a></td>
                         </tr>
                       </tbody>
                     </table>

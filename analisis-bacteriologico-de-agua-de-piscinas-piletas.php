@@ -29,7 +29,6 @@
     <link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.min.css">
 	  <link href="css/hover.css" rel="stylesheet"> 
     <link href="css/fileinput.css" rel="stylesheet">
-   <link href="css/estilos.css" rel="stylesheet">
    <link href="styles/css/main.css" rel="stylesheet">
    <link href="css/fuentes.css" rel="stylesheet">
     <link rel="stylesheet" href="css/animate/animate.css">
@@ -87,140 +86,59 @@
     <?php include "include/chat.php"; ?>
   
   </section>
-  	<header>
-
-  
-    
-<div class="botoner_completa animated slideInDown">
-     
-   
-
-      
-
-            <?php include "include/navegacion.php"; ?>
-            
-        
-
-      
- </div> 
-<div class="imagen_cabesal">
-	<img src="img/sello_premiun.png" align="right" class="sello_premiun" alt="">
- 
-</div>
-  
-</header>
-
-
-
-
-
-
+  	
+  <header>
+    <div class="botoner_completa animated slideInDown">
+        <?php include "include/navegacion.php"; ?>
+    </div> 
+    <div class="imagen_cabesal">
+      <img src="img/sello_premiun.png" align="right" class="sello_premiun" alt="">
+    </div>
+  </header>
 
 
 <section id="analisis">
       <div class="container">
               <div class="row">
-                  <div class="col-md-12">   
-                    <div class="div-texto">
+
+                    <div class="col-lg-6">
+                      <div class="div-texto-casas-bac">
+                            <h5 class="texto3sc wow slideInUp">Los microorganismos causantes de problemas principalmente son los 
+                                  provenientes del cuerpo de los bañistas . Las infecciones potenciales pueden ser de oídos, vías respiratorias superiores, piel, aparato digestivo y urinario.</h5>
+
+                            <h5 class="texto3sc wow slideInUp">Para verificar la seguridad del agua de su piscina brindamos el servicio de toma de muestras para llevar a cabo los análisis en laboratorio y determinar el nivel de cloruros (debe ser menor a 200 ppm) y microbiológico, donde se avaluará:</h5>
+
+                            <ul class="destacamos-list">
+                              <li>microorganismos aerobios mesófilos</li>
+                              <li>Coliformes totales</li>
+                              <li>Colifecales (Escherichia coli)</li>
+                              <li>Pseudomonas aeruginosa</li>
+                              <li>Enterococos fecales</li>
+                            </ul>
+                            
+                            <h5 class="texto3sc wow slideInUp">También ofrecemos el servicio de medición de cloro y pH del agua de su piscina.</h5>
+                            <h5 class="texto3sc wow slideInUp">Ante cualquier duda no dude en comunicarse con INAGUA</h5>
+                      </div>
+                    </div>
+
+                    <div class="col-lg-6">
+                      <img src="img/imagen-muestra.png" alt="" class="imgen-moviles-casas212">
+                    </div> 
+                    
+
+                  <div class="div-texto">
                       <h1 class="texto1 wow zoomInDown" datos-wow-duracion= "2s" data-wow-delay = "1s">Análisis microbiológico y de cloruros del agua de piscinas</h1>
                         <h4 class="texto2 wow slideInUp">sientase libre de microorganismos y agentes patógenos</h4>
                     </div>
-                    
-                    
-                 
-                  
-                    
-                    <img src="img/imagen-muestra.png" alt="" class="imgen-moviles-casas212 wow slideInRight" style="margin-top:52px;">
-                    
 
-
-                    <div class="div-texto-casas-bac" style="padding: 15px;">
-                          <h5 class="texto3sc wow slideInUp">
-                                Los microorganismos causantes de problemas principalmente son los 
-                                provenientes del cuerpo de los bañistas . Las infecciones 
-                                potenciales pueden ser de oídos, vías respiratorias superiores, 
-                                piel, aparato digestivo y urinario.
-
-                          </h5>
-
-                           <h5 class="texto3sc wow slideInUp">
-                                Para verificar la seguridad del agua de su piscina brindamos el servicio de toma de muestras para llevar a cabo los análisis en laboratorio y determinar el nivel de cloruros (debe ser menor a 200 ppm) y microbiológico, donde se avaluará:
-
-                          </h5>
-                          
-                             <table width="100%" border="0" class="wow slideInLeft" heigth="50">
-                              <tbody>
-                                
-                                
-                                  <td align="left" class="td08_casas">
-                                    <table style="text-align:left;">
-                                      <tbody>
-                                        <tr>
-                                          <td><img src="img/punto1.jpg" width="10" height="10" alt=""/></td>
-                                          <td width="30" height="30"></td>
-                                          <td>microorganismos aerobios mesófilos</td>
-                                        </tr>
-                                          
-                                        <tr>
-                                          <td><img src="img/punto1.jpg" width="10" height="10" alt=""/></td>
-                                          <td width="5" height="30"></td>
-                                          <td>coliformes totales</td>
-                                        </tr>
-                                        <tr>
-                                          <td><img src="img/punto1.jpg" width="10" height="10" alt=""/></td>
-                                          <td width="5" height="30"></td>
-                                          <td>colifecales (Escherichia coli)</td>
-                                        </tr>
-                                        <tr>
-                                          <td><img src="img/punto1.jpg" width="10" height="10" alt=""/></td>
-                                          <td width="5" height="30"></td>
-                                          <td>Pseudomonas aeruginosa</td>
-                                        </tr>
-                                        <tr>
-                                          <td><img src="img/punto1.jpg" width="10" height="10" alt=""/></td>
-                                          <td width="5" height="30"></td>
-                                          <td>Enterococos fecales</td>
-                                        </tr>
-                                      </tbody>
-                                    </table>
-                                     
-                                                                            
-              
-                                </td>
-                            
-                          </tbody>
-                        </table>
-                           <h5 class="texto3sc wow slideInUp">
-                                También ofrecemos el servicio de medición de cloro y pH del agua de su piscina.
-
-                          </h5>
-
-                          <h5 class="texto3sc wow slideInUp" style="margin-top: 50px;">
-                               Ante cualquier duda no dude en comunicarse con 
-INAGUA 
-                          </h5>
-                        
-                    </div>
-                   <!--  <div class="imagen-casas wow slideInRight">
-
-                      <img src="img/imagen-muestra.png" alt="">
-                      
-
-
-                    </div> -->
-
-                  </div>
-                  <br>  
                     <div class="col-md-12 presupuesto-ser wow slideInUp">
-                           <a href="#contacto" class="boton-presupuesto" style="text-decoration:none;">SOLICITAR PRESUPUESTO</a>                     
-                          </div>
+                           <a href="#contacto" class="boton-presupuesto">SOLICITAR PRESUPUESTO</a>                     
+                    </div>
                 </div>
-          
 
-
-                  </div>  
+              </div>  
                 
-                </div>
+            </div>
         </div> 
 </section>
 
@@ -265,7 +183,7 @@ INAGUA
                           <td align="center" class="td08bac" width="138"><p>Si quiere mantener su pileta durante todo el año</p></td>
                         </tr>
                         <tr>
-                          <td align="center"><a href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-casas-countries-casas-quintas.php"><p class="boton-click-aqui" style="text-decoration: none;">MAS INFO</p></a></td>
+                          <td align="center"><a href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-casas-countries-casas-quintas.php"><p class="boton-click-aqui" style="text-decoration: none;">MÁS INFO</p></a></td>
                         </tr>
                       </tbody>
                     </table>
@@ -284,7 +202,7 @@ INAGUA
                           <td class="td08bac" width="138"><p>Especialistas en consorcios </p></td>
                         </tr>
                         <tr>
-                          <td align="center" ><a href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-edificios-consorcios-departamentos.php"><p class="boton-click-aqui">MAS INFO</p></a></td>
+                          <td align="center" ><a href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-edificios-consorcios-departamentos.php"><p class="boton-click-aqui">MÁS INFO</p></a></td>
                         </tr>
                       </tbody>
                     </table>
@@ -304,7 +222,7 @@ INAGUA
                           <td align="center"  width="138"><p class="td08bac">Vaciamos, limpiamos y desinfectamos</p></td>
                         </tr>
                         <tr>
-                          <td align="center"><a href="servicio-de-desagote-limpieza-desinfeccion-de-piletas-y-piscinas-de-natacion.php"><p class="boton-click-aqui">MAS INFO</p></a></td>
+                          <td align="center"><a href="servicio-de-desagote-limpieza-desinfeccion-de-piletas-y-piscinas-de-natacion.php"><p class="boton-click-aqui">MÁS INFO</p></a></td>
                         </tr>
                       </tbody>
                     </table>
@@ -324,7 +242,7 @@ INAGUA
                               dara agua cristalina </p></td>
                         </tr>
                         <tr>
-                          <td align="center"><a href="cambio-de-arena-carga-filtrante-de-filtro.php"><p class="boton-click-aqui">MAS INFO</p></a></td>
+                          <td align="center"><a href="cambio-de-arena-carga-filtrante-de-filtro.php"><p class="boton-click-aqui">MÁS INFO</p></a></td>
                         </tr>
                       </tbody>
                     </table>
@@ -344,7 +262,7 @@ INAGUA
                           <td align="center" class="td08bac" width="138"><p>Rejuvenecemos su pileta</p></td>
                         </tr>
                         <tr>
-                          <td align="center"><a href="servicio-de-pastinado-de-piletas-revestidas.php"><p class="boton-click-aqui">MAS INFO</p></a></td>
+                          <td align="center"><a href="servicio-de-pastinado-de-piletas-revestidas.php"><p class="boton-click-aqui">MÁS INFO</p></a></td>
                         </tr>
                       </tbody>
                     </table>
@@ -364,7 +282,7 @@ INAGUA
                           <td align="center" class="td08bac" width="138"><p>Pintamos tu piscina de material o plastico </p></td>
                         </tr>
                         <tr>
-                          <td align="center"><a href="servicio-de-pintado-de-piletas-de-cemento-y-plastico-o-fibra-de-vidrio.php"><p class="boton-click-aqui">MAS INFO</p></a></td>
+                          <td align="center"><a href="servicio-de-pintado-de-piletas-de-cemento-y-plastico-o-fibra-de-vidrio.php"><p class="boton-click-aqui">MÁS INFO</p></a></td>
                         </tr>
                       </tbody>
                     </table>
@@ -383,7 +301,7 @@ INAGUA
                           <td align="center" class="td08bac"  width="138"><p>Marcas lideres de primera calidad </p></td>
                         </tr>
                         <tr>
-                          <td align="center"><a href="productos-quimicos-y-accesorios-para-piletas-y-piscinas-de-natacion.php"><p class="boton-click-aqui">MAS INFO</p></a></td>
+                          <td align="center"><a href="productos-quimicos-y-accesorios-para-piletas-y-piscinas-de-natacion.php"><p class="boton-click-aqui">MÁS INFO</p></a></td>
                         </tr>
                       </tbody>
                     </table>
@@ -447,74 +365,36 @@ INAGUA
                   <div class="col-md-6 wow slideInRight" datos-wow-duracion= "1s" data-wow-delay = "1s"">
                       <p class="texto223"><b>NOS DESTACAMOS EN</b> </p>
 
-                          <table width="100%" border="0" style="text-align:center; margin-bottom: 20px;">
-                              <tbody>
-                                
-                                
-                                  <td align="center" class="td08">
-                                    <table style="margin: auto; text-align:left; margin-top: 15px;">
-                                      <tbody>
-                                        <tr>
-                                          <td><img src="img/punto1.jpg" width="10" height="10" alt=""/></td>
-                                          <td width="5"></td>
-                                          <td >Puntualidad</td>
-                                        </tr>
-                                        <tr>
-                                          <td><img src="img/punto1.jpg" width="10" height="10" alt=""/></td>
-                                          <td width="5"></td>
-                                          <td>Educación</td>
-                                        </tr>
-                                        <tr>
-                                          <td><img src="img/punto1.jpg" width="10" height="10" alt=""/></td>
-                                          <td width="5"></td>
-                                          <td>Debidamente uniformados</td>
-                                        </tr>
-                                        <tr>
-                                          <td><img src="img/punto1.jpg" width="10" height="10" alt=""/></td>
-                                          <td width="5"></td>
-                                          <td>Conocimientos en limpieza de piscinas</td>
-                                        </tr>
-                                        <tr>
-                                          <td><img src="img/punto1.jpg" width="10" height="10" alt=""/></td>
-                                          <td width="5"></td>
-                                          <td>Seguridad personal y a terceros</td>
-                                        </tr>
-                                        <tr>
-                                          <td><img src="img/punto1.jpg" width="10" height="10" alt=""/></td>
-                                          <td width="5"></td>
-                                          <td>Equipamiento adecuado</td>
-                                        </tr>
-                                      </tbody>
-                                    </table>
-                                    <br>
-                                       <p class="texto_seguro_3"><b>Para su seguridad nuestro personal <br>se encuentra debidamente registrado <br> y cuentan con los seguros <br>  de vida obligatorio y ART</b></p>
-                                       <img src="img/logo_seguro.png" alt="" class="logo_seguro">
+                      <ul class="destacamos-list">
+                        <li>Puntualidad</li>
+                        <li>Educación</li>
+                        <li>Debidamente uniformados</li>
+                        <li>Conocimientos en limpieza de piscinas</li>
+                        <li>Seguridad personal y a terceros</li>
+                        <li>Equipamiento adecuado</li>
+                      </ul>
 
-                                       <p class="texto_seguro">Prevención ART - Vida Obligatorio</p>
-                                       <p class="texto_seguro_2"><b>N°471157 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;N°1291680</b></p>
-                                     
-              
-                                </td>
-                            
-                          </tbody>
-                        </table>
+                      <table width="100%" border="0" style="text-align:center; margin-bottom: 20px;">
+                          <tbody>
+                            <td align="center" class="td08">
+                              <p class="texto_seguro_3"><b>Para su seguridad nuestro personal se encuentra debidamente registrado  y cuentan con los seguros de vida obligatorio y ART</b></p>
+                              <img src="img/logo_seguro.png" alt="" class="logo_seguro">
+                              <p class="texto_seguro">Prevención ART - Vida Obligatorio</p>
+                              <p class="texto_seguro_2"><b>N°471157 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;N°1291680</b></p>
+                            </td>
+                      </tbody>
+                    </table>
                       
                   </div>
-    
-            
-
 
           </div>
     </div>  
   
   
 </section>
- 
- <!-- FIN NOSOTROS -->
+<!-- FIN NOSOTROS -->
 
-  <!-- COBERTURA -->
-
-
+<!-- COBERTURA -->
 <section class="wow bounceInDown" datos-wow-duracion= "1s" data-wow-delay = "1s">
   <div class="container">
     <div class="row">
@@ -522,24 +402,18 @@ INAGUA
         <div class="row text-center separ-secciones_2">
                 <div class="col-md-4">
                     <div class="span-separ-secciones_2"></div>
-                    
                 </div>
                 <div class="col-md-4">
-                    <P class="td06_2">zona de cobertura</P>
-                    
+                    <p class="td06_2">zona de cobertura</p>
                 </div>
                 <div class="col-md-4">
                     <div class="span-separ-secciones_2"></div>
-                    
                 </div>
           </div>
           
       <div class="col-md-6 lugar_char" align="center">
-        
         <div>  
-          
             <img src="img/partner_2.jpg" class="chata_ind" alt="">
-        
         </div>
 
           <div class="texto_zona_1">
@@ -551,64 +425,40 @@ INAGUA
           <div class="btn_zona">
               <p class="boton-zona">
               <a href="piletero-en-capital-federal.php">CONSULTA POR SERVICIOS EN TU ZONA</a>
-
               </p>
           </div>
-        
-
+  
       </div>
      
-
-
-
       <div class="col-md-6 ">
         <div class="lugar_mapa" align="center">
-
          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d105073.44367018693!2d-58.503338223412456!3d-34.61566245827943!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcca3b4ef90cbd%3A0xa0b3812e88e88e87!2sBuenos+Aires%2C+CABA!5e0!3m2!1ses-419!2sar!4v1504503618843" width="430" height="460" frameborder="0" style="border:0" allowfullscreen class="img_mapa_2"></iframe>
-
         </div>
-
       </div>
-
     </div>
   </div>
 </section>
 
 
 <section id="contacto">
-
- <?php include "include/formulario.php"; ?>
-
+  <?php include "include/formulario.php"; ?>
 </section>
 
 
 	 <div class="container">
-          <div class="row">
+      <div class="row">
             <div class="col-md-12 wow tada" datos-wow-duracion= "3s" data-wow-delay = "2s">
             <div class="pileteros_profesionales">
-
               <p class="td08_4">solo confie en pileteros profesionales</p>
-
-              <p class="td08_3"  style="padding-bottom: 50px;">
+              <p class="td08_3">
                 ...”El tratamiento inadecuado del agua, por falta de conocimientos y experiencia, tiene efectos desagradables provocando irritaciones en la piel, ojos y mucosas y causando enfermedades transmitidas por microorganismos o agentes patógenos. Por todo esto le ofrecemos mantener su piscina y el agua en óptimas condiciones durante todo el año.”...</p>
-
            </div>
         </div>
-
         </div>
     </div>
 
 <footer>
-
-
-
-       <?php include "include/footer.php"; ?>
-
-
-
-
-
-
+    <?php include "include/footer.php"; ?>
 </footer>
 
 <script>
@@ -626,13 +476,14 @@ $(document).ready(function(){
 });
 
 </script>
+
 <script src="js/menu.js"></script>
     <!-- jQuery slider Inicio -->
 
  <script>
-$(document).on('ready', function() {
-    $("#input-b5").fileinput({showCaption: false});
-});
+    $(document).on('ready', function() {
+        $("#input-b5").fileinput({showCaption: false});
+    });
 </script>
 
   </body>

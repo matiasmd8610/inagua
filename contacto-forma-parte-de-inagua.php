@@ -35,9 +35,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	 <script src="form/custom.js" type="text/javascript"></script>
    <script src="js/fileinput.js" type="text/javascript"></script>
     <link href="css/fileinput.css" rel="stylesheet">
-   <link href="css/estilos.css" rel="stylesheet">
    <link href="styles/css/main.css" rel="stylesheet">
-    <link rel="stylesheet" href="css/animate/animate.css">}   <link href="styles/css/main.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/animate/animate.css">
+    <link href="styles/css/main.css" rel="stylesheet">
     <!-- Animate-->
     <link rel="stylesheet" href="css/animate/animate.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -90,29 +90,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 <header>
+  <div class="botoner_completa animated slideInDown">
+      <?php include "include/navegacion.php"; ?>
+  </div> 
 
-  
-    
-<div class="botoner_completa animated slideInDown">
-     
-    
-       
-            <?php include "include/navegacion.php"; ?>
-            
-       
-
-      
-</div> 
-
+  <div class="imagen_cabesal">
+    <img src="img/sello_premiun.png" align="right" class="sello_premiun" alt="">
+  </div>
 </header>
-<div class="imagen_cabesal">
-	<img src="img/sello_premiun.png" align="right" class="sello_premiun" alt="">
- 
-</div>
-  
-
-
-
 
 <div id="contenedor_trabajo">
 <section id="contacto">
@@ -177,22 +162,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                       <div class="btn_file" style="margin-bottom: 30px;">
                         
                         <p class="text_file" style="cursor: pointer;">AGREGAR CV</p>     
-                        <input type="file" multiple="true" id="imagen" class="file" name="imagen[]" value="adjuntar"  multiple 
-    data-show-upload="false" style="cursor: pointer;">
+                        <input type="file" multiple="true" id="imagen" class="file" name="imagen[]" value="adjuntar" multiple data-show-upload="false" style="cursor: pointer;">
                       </div>
-                         <div class="btn_file2" style="">
+                         <div class="btn_file2">
                         <p class="text_file2" align="center" onClick="location.reload();">BORRAR   
                         <input type="reset" class="adjuntar"></p> 
                       </div>
                       <button type="submit" class="btn-submit wow shake" datos-wow-duracion= "5s" data-wow-delay = "1s" data-wow-iteration ="10">ENVIANOS SUS REFERENCIAS</button>
-
-
-                     
-
                       <div id="respuesta1" style="display: none;"></div>
                     </form>
-
-        
            </div>
       
 
@@ -204,19 +182,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 	 <div class="container">
-          <div class="row">
+      <div class="row">
             <div class="col-md-12 wow tada" datos-wow-duracion= "3s" data-wow-delay = "2s">
             <div class="pileteros_profesionales">
-
-              <p class="td08_4">solo confie en pileteros profesionales</p>
-
-              <p class="td08_3"  style="padding-bottom: 50px;">
+              <p class="td08_4">Solo confie en pileteros profesionales</p>
+              <p class="td08_3">
                 ...”El tratamiento inadecuado del agua, por falta de conocimientos y experiencia, tiene efectos desagradables provocando irritaciones en la piel, ojos y mucosas y causando enfermedades transmitidas por microorganismos o agentes patógenos. Por todo esto le ofrecemos mantener su piscina y el agua en óptimas condiciones durante todo el año.”...</p>
-
            </div>
         </div>
 
-        </div>
+      </div>
     </div>
 
 <footer>

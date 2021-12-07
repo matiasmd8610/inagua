@@ -4,7 +4,7 @@
     <div class="col-md-12">		
       <div class="div-texto">
           <h1 class="texto1 wow zoomInDown" datos-wow-duracion= "2s" data-wow-delay = "1s">PILETEROS</h1>
-          <h4 class="texto2 wow slideInUp">conoce mas sobre tu piscina</h4>
+          <h4 class="texto2 wow slideInUp">Conocé más sobre tu piscina</h4>
       </div>
     </div>
       <br><br>
@@ -25,38 +25,38 @@
              
                    
             <b>Como trabaja una empresa profesional de mantenimiento de piletas: </b> 
-<br>
+            <br>
             Se debe encarga de mantener su pileta y el agua de su pileta en óptimas condiciones durante todo el año
-<br><br>
+            <br><br>
             
            <b>¿Como? </b> 
-<br>
-            <img src="img/punto1.jpg" width="10" height="10" alt=""/ > <i>Aspirando el fondo de su pileta</i>
+            <br>
+            <img src="img/punto1.jpg" width="10" height="10" alt=""> <i>Aspirando el fondo de su pileta</i>
 <br><br>
             
-            <img src="img/punto1.jpg" width="10" height="10" alt=""/ > <i>Limpiando los canastos del skimmer y bomba </i>
+            <img src="img/punto1.jpg" width="10" height="10" alt=""> <i>Limpiando los canastos del skimmer y bomba </i>
 <br><br>
 
-            <img src="img/punto1.jpg" width="10" height="10" alt=""/ > <i>Limpiando el elemento flotante (pasar el saca hojas en criollo) </i>
+            <img src="img/punto1.jpg" width="10" height="10" alt=""> <i>Limpiando el elemento flotante (pasar el saca hojas en criollo) </i>
 
 <br><br>
-            <img src="img/punto1.jpg" width="10" height="10" alt=""/ > <i>Controlando los niveles de Cloro y PH del agua</i>
+            <img src="img/punto1.jpg" width="10" height="10" alt=""> <i>Controlando los niveles de Cloro y PH del agua</i>
 
-<br><br>                
+            <br><br>                
 
-            <img src="img/punto1.jpg" width="10" height="10" alt=""/ > <i>Aplicando los productos químicos</i>
+            <img src="img/punto1.jpg" width="10" height="10" alt=""><i>Aplicando los productos químicos</i>
 
-<br><br>
-            <img src="img/punto1.jpg" width="10" height="10" alt=""/ > <i>Cepillado paredes y piso de la pileta</i>
+            <br><br>
+            <img src="img/punto1.jpg" width="10" height="10" alt=""><i>Cepillado paredes y piso de la pileta</i>
 
-<br><br>
-            <img src="img/punto1.jpg" width="10" height="10" alt=""/ > <i>Limpiando los bordes para la prevención de la formación de larvas de mosquitos</i>
+            <br><br>
+            <img src="img/punto1.jpg" width="10" height="10" alt=""><i>Limpiando los bordes para la prevención de la formación de larvas de mosquitos</i>
 
-<br><br>                
+            <br><br>                
 
-            <img src="img/punto1.jpg" width="10" height="10" alt=""/ > <i>Retrolavando y enjuagando el sistema de filtrado. </i>
+            <img src="img/punto1.jpg" width="10" height="10" alt=""><i>Retrolavando y enjuagando el sistema de filtrado. </i>
 
-<br><br>
+        <br><br>
              
          Para realizar este servicio profesional se puede utilizar su equipo o deberian contar con el propio si usted no posee o no funciona.
  

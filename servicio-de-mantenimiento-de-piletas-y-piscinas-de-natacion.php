@@ -27,7 +27,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
    <script src="js/fileinput.js" type="text/javascript"></script>
     <link href="css/fileinput.css" rel="stylesheet">
      <link href="css/hover.css" rel="stylesheet"> 
-   <link href="css/estilos.css" rel="stylesheet">
    <link href="styles/css/main.css" rel="stylesheet">
     <link rel="stylesheet" href="css/animate/animate.css">
     <link href="styles/css/main.css" rel="stylesheet">
@@ -410,44 +409,27 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   </div>
 </section>
 
-
-
 <section id="contacto">
-
-
-<?php include "include/formulario.php"; ?>
-
+  <?php include "include/formulario.php"; ?>
 </section>
 
 
 	 <div class="container">
           <div class="row">
-            <div class="col-md-12 wow tada" datos-wow-duracion= "3s" data-wow-delay = "2s">
+            <div class="col-md-12 wow tada" datos-wow-duracion="3s" data-wow-delay="2s">
             <div class="pileteros_profesionales">
-
               <p class="td08_4">solo confie en pileteros profesionales</p>
-
-              <p class="td08_3"  style="padding-bottom: 50px;">
+              <p class="td08_3">
                 ...”El tratamiento inadecuado del agua, por falta de conocimientos y experiencia, tiene efectos desagradables provocando irritaciones en la piel, ojos y mucosas y causando enfermedades transmitidas por microorganismos o agentes patógenos. Por todo esto le ofrecemos mantener su piscina y el agua en óptimas condiciones durante todo el año.”...</p>
-
            </div>
         </div>
 
         </div>
     </div>
 
-<footer>
-
-
-
-       <?php include "include/footer.php"; ?>
-
-
-
-
-
-
-</footer>
+    <footer>
+        <?php include "include/footer.php"; ?>
+    </footer>
 
 <script>
 $(document).ready(function(){

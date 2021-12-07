@@ -4,7 +4,7 @@
     <div class="col-md-12">		
       <div class="div-texto">
           <h1 class="texto1 wow zoomInDown" datos-wow-duracion= "2s" data-wow-delay = "1s">Como pintar piletas nuevas o repintarlas, usando pinturas a base de caucho clorado</h1>
-          <h4 class="texto2 wow slideInUp">conoce mas sobre tu piscina</h4>
+          <h4 class="texto2 wow slideInUp">Conocé más sobre tu piscina</h4>
       </div>
     </div>
       <br><br>
@@ -14,7 +14,6 @@
             <div class="col-md-12 wow slideInLeft" align="center">
                 <img src="img/tratamiento-acido.png" alt="cloro-vs-asma" class="img_produc_pintura">
             </div>
-            
         </div>
       </div>
             <br>
@@ -25,9 +24,9 @@
               En primer lugar, debemos tener en cuenta que la superficie debe estar libre de óxido, grasa, polvillo, pintura en mal estado (suelta, ampollada, descascarada, etc), alcalinidad, etc. 
                  
           
-<br><br>
+             <br><br>
              <b> Atención:</b><i> si bien la preparación de superficie es importante en todos los trabajos de pintura, en el caso de piletas de natación es fundamental ya que las superficies están sometidas a condiciones extremas y el éxito del esquema depende totalmente de la calidad de la preparación del sustrato.</i>
-<br><br>
+            <br><br>
 
             <b>Preparación </b> 
 <br>

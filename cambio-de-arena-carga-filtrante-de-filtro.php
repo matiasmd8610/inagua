@@ -52,7 +52,6 @@
   <link href="css/hover.css" rel="stylesheet">
   <script src="js/fileinput.js" type="text/javascript"></script>
   <link href="css/fileinput.css" rel="stylesheet">
-  <link href="css/estilos.css" rel="stylesheet">
   <link href="styles/css/main.css" rel="stylesheet">
   <link rel="stylesheet" href="css/animate/animate.css">
   <link href="styles/css/main.css" rel="stylesheet">
@@ -224,7 +223,7 @@
 
           </div>
           <div class="col-md-4">
-            <P class="td06_2">servicios sugeridos</P>
+            <P class="td06_2">Servicios sugeridos</P>
 
           </div>
           <div class="col-md-4">
@@ -260,7 +259,7 @@
                       <tr>
                         <td align="center"><a
                             href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-casas-countries-casas-quintas.php">
-                            <p class="boton-click-aqui" style="text-decoration: none;">MAS INFO</p>
+                            <p class="boton-click-aqui" style="text-decoration: none;">MÁS INFO</p>
                           </a></td>
                       </tr>
                     </tbody>
@@ -286,7 +285,7 @@
                       <tr>
                         <td align="center"><a
                             href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-edificios-consorcios-departamentos.php">
-                            <p class="boton-click-aqui">MAS INFO</p>
+                            <p class="boton-click-aqui">MÁS INFO</p>
                           </a></td>
                       </tr>
                     </tbody>
@@ -313,7 +312,7 @@
                       <tr>
                         <td align="center"><a
                             href="servicio-de-desagote-limpieza-desinfeccion-de-piletas-y-piscinas-de-natacion.php">
-                            <p class="boton-click-aqui">MAS INFO</p>
+                            <p class="boton-click-aqui">MÁS INFO</p>
                           </a></td>
                       </tr>
                     </tbody>
@@ -339,7 +338,7 @@
                       </tr>
                       <tr>
                         <td align="center"><a href="servicio-de-pastinado-de-piletas-revestidas.php">
-                            <p class="boton-click-aqui">MAS INFO</p>
+                            <p class="boton-click-aqui">MÁS INFO</p>
                           </a></td>
                       </tr>
                     </tbody>
@@ -366,7 +365,7 @@
                       <tr>
                         <td align="center"><a
                             href="servicio-de-pintado-de-piletas-de-cemento-y-plastico-o-fibra-de-vidrio.php">
-                            <p class="boton-click-aqui">MAS INFO</p>
+                            <p class="boton-click-aqui">MÁS INFO</p>
                           </a></td>
                       </tr>
                     </tbody>
@@ -392,7 +391,7 @@
                       <tr>
                         <td align="center"><a
                             href="productos-quimicos-y-accesorios-para-piletas-y-piscinas-de-natacion.php">
-                            <p class="boton-click-aqui">MAS INFO</p>
+                            <p class="boton-click-aqui">MÁS INFO</p>
                           </a></td>
                       </tr>
                     </tbody>
@@ -417,7 +416,7 @@
                       </tr>
                       <tr>
                         <td align="center"><a href="analisis-bacteriologico-de-agua-de-piscinas-piletas.php">
-                            <p class="boton-click-aqui" style="text-decoration: none;">MAS INFO</p>
+                            <p class="boton-click-aqui" style="text-decoration: none;">MÁS INFO</p>
                           </a></td>
                       </tr>
                     </tbody>
@@ -477,67 +476,17 @@
                         <img src=" img/staff_1.png" alt="" class="staff_1">
         </div>
 
-        <div class="col-md-6 wow slideInRight" datos-wow-duracion="1s" data-wow-delay="1s"">
-                      <p class=" texto223"><b>NOS DESTACAMOS EN</b> </p>
-
-          <table width="100%" border="0" style="text-align:center; margin-bottom: 20px;">
-            <tbody>
-
-
-              <td align="center" class="td08">
-                <table style="margin: auto; text-align:left; margin-top: 15px;">
-                  <tbody>
-                    <tr>
-                      <td><img src="img/punto1.jpg" width="10" height="10" alt="" /></td>
-                      <td width="5"></td>
-                      <td>Puntualidad</td>
-                    </tr>
-                    <tr>
-                      <td><img src="img/punto1.jpg" width="10" height="10" alt="" /></td>
-                      <td width="5"></td>
-                      <td>Educación</td>
-                    </tr>
-                    <tr>
-                      <td><img src="img/punto1.jpg" width="10" height="10" alt="" /></td>
-                      <td width="5"></td>
-                      <td>Debidamente uniformados</td>
-                    </tr>
-                    <tr>
-                      <td><img src="img/punto1.jpg" width="10" height="10" alt="" /></td>
-                      <td width="5"></td>
-                      <td>Conocimientos en limpieza de piscinas</td>
-                    </tr>
-                    <tr>
-                      <td><img src="img/punto1.jpg" width="10" height="10" alt="" /></td>
-                      <td width="5"></td>
-                      <td>Seguridad personal y a terceros</td>
-                    </tr>
-                    <tr>
-                      <td><img src="img/punto1.jpg" width="10" height="10" alt="" /></td>
-                      <td width="5"></td>
-                      <td>Equipamiento adecuado</td>
-                    </tr>
-                  </tbody>
-                </table>
-                <br>
-                <p class="texto_seguro_3"><b>Para su seguridad nuestro personal <br>se encuentra debidamente
-                      registrado <br> y cuentan con los seguros <br> de vida obligatorio y ART</b></p>
-                <img src="img/logo_seguro.png" alt="" class="logo_seguro">
-
-                <p class="texto_seguro">Prevención ART - Vida Obligatorio</p>
-                <p class="texto_seguro_2"><b>N°471157
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;N°1291680</b></p>
-
-
-              </td>
-
-            </tbody>
-          </table>
-
+        <div class="col-md-6 wow slideInRight" datos-wow-duracion="1s" data-wow-delay="1s">
+            <p class=" texto223"><b>NOS DESTACAMOS EN</b></p>
+            <ul class="destacamos-list">
+              <li>Puntualidad</li>
+              <li>Educación</li>
+              <li>Debidamente uniformados</li>
+              <li>Conocimientos en limpieza de piscinas</li>
+              <li>Seguridad personal y a terceros</li>
+              <li>Equipamiento adecuado</li>
+            </ul>
         </div>
-
-
-
 
       </div>
     </div>
@@ -625,18 +574,14 @@
     <div class="row">
       <div class="col-md-12 wow tada" datos-wow-duracion="3s" data-wow-delay="2s">
         <div class="pileteros_profesionales">
-
           <p class="td08_4">solo confie en pileteros profesionales</p>
-
-          <p class="td08_3" style="padding-bottom: 50px;">
+          <p class="td08_3">
               ...”El tratamiento inadecuado del agua, por falta de conocimientos y experiencia, tiene efectos
               desagradables provocando irritaciones en la piel, ojos y mucosas y causando enfermedades transmitidas por
               microorganismos o agentes patógenos. Por todo esto le ofrecemos mantener su piscina y el agua en óptimas
               condiciones durante todo el año.”...</p>
-
         </div>
       </div>
-
     </div>
   </div>
 

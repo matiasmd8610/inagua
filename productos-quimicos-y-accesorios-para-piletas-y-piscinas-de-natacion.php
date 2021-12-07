@@ -3,96 +3,46 @@
 
   <head>
      
-<!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-T4FLXK7');</script>
-<!-- End Google Tag Manager -->
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-T4FLXK7');</script>
+    <!-- End Google Tag Manager -->
       
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#2F4598">
-
-	<meta name="robots" content="index, follow, all">
-	<meta name="googlebot" content="index, follow, all">
-	<meta name="keywords" content="limpieza de piletas, piletas, piscinas, piletero, pileteros, desagotes, mantenimiento de piletas" />
+    <meta name="robots" content="index, follow, all">
+    <meta name="googlebot" content="index, follow, all">
+    <meta name="keywords" content="limpieza de piletas, piletas, piscinas, piletero, pileteros, desagotes, mantenimiento de piletas" />
 		<meta name="title" content="CLORO - PASTILLAS - CLARIFICADOR - ALGUICIDA" />
 		<meta name="author" content="Administrator" />
 		<meta name="description" content="Vendemos productos químicos para el mantenimiento de piletas." />	
-		<title>CLORO - PASTILLAS - CLARIFICADOR - ALGUICIDA</title>	
-	<meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo">
+	  <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo">
+		<title>CLORO - PASTILLAS - CLARIFICADOR - ALGUICIDA</title>
+
     <link rel="icon" href="img/logo.png">
-
-
-    <!-- Bootstrap -->
-
-     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-
-    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
-
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-
-
-
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-
-    <!-- <script src="js/bootstrap.min.js"></script> -->
-
     <script src="js/bootstrap-3.3.6.js"></script>
-
     <script type="text/javascript" src="js/modernizr.custom.79639.js"></script>
-
-    <!--[if lte IE 8]><style>.main{display:none;} .support-note .note-ie{display:block;}</style><![endif]-->
-
-
-
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-
-    <!--[if lt IE 9]>
-
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-
-    <![endif]-->
-
-
-
-
-
     <link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.min.css">
-
-
-
-
-
-      <!--formulario -->
-	 <link href="css/hover.css" rel="stylesheet"> 
-   <script src="js/fileinput.js" type="text/javascript"></script>
+	  <link href="css/hover.css" rel="stylesheet"> 
+    <script src="js/fileinput.js" type="text/javascript"></script>
     <link href="css/fileinput.css" rel="stylesheet">
-
-   
-
-   <link href="css/estilos.css" rel="stylesheet">
-   <link href="styles/css/main.css" rel="stylesheet">
-    <!-- Animate-->
+    <link href="styles/css/main.css" rel="stylesheet">
     <link rel="stylesheet" href="css/animate/animate.css">
     <link href="styles/css/main.css" rel="stylesheet">
-    <!-- Animate-->
     <link rel="stylesheet" href="css/animate/animate.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;600&family=Rubik:wght@300;400;600&display=swap" rel="stylesheet">
-        <script src="js/wow.js"></script>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;600&family=Rubik:wght@300;400;600&display=swap" rel="stylesheet">
+    <script src="js/wow.js"></script>
     <script>new WOW().init();</script>
-
-
-    <!-- Animate Fin-->
 
   <script>
   $(function() {
@@ -123,7 +73,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </script>    
 
 </head>
-  <body class="animated bounceInRight">
+
+  <body>
 
     <section>
 
@@ -131,33 +82,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   
   </section>
 	<span class="ir-arriba"><img src="img/up.png" alt=""></span>
-  <header>
 
-  
-    
-<div class="botoner_completa animated slideInDown">
-     
-    
-
-           <?php include "include/navegacion.php"; ?>
-           
-          
-
-      
- </div> 
-<div class="imagen_cabesal">
-	<img src="img/sello_premiun.png" align="right" class="sello_premiun" alt="">
- 
-</div>
+<header>
+  <div class="botoner_completa animated slideInDown">
+    <?php include "include/navegacion.php"; ?>
+  </div> 
+  <div class="imagen_cabesal">
+    <img src="img/sello_premiun.png" align="right" class="sello_premiun" alt="">
+  </div>
 </header>
-
-
-
-
-
-
-
-
 
 <section id="productos">
       <div class="container">
@@ -449,75 +382,24 @@ INAGUA
                     
                   <div class="col-md-6 wow slideInRight" datos-wow-duracion= "1s" data-wow-delay = "1s">
                       <p class="texto223"><b>NOS DESTACAMOS EN</b> </p>
-
-                          <table width="100%" border="0" style="text-align:center; margin-bottom: 20px;">
-                              <tbody>
-                                
-                                
-                                  <td align="center" class="td08">
-                                    <table style="margin: auto; text-align:left; margin-top: 15px;">
-                                      <tbody>
-                                        <tr>
-                                          <td><img src="img/punto1.jpg" width="10" height="10" alt=""/></td>
-                                          <td width="5"></td>
-                                          <td >Puntualidad</td>
-                                        </tr>
-                                        <tr>
-                                          <td><img src="img/punto1.jpg" width="10" height="10" alt=""/></td>
-                                          <td width="5"></td>
-                                          <td>Educación</td>
-                                        </tr>
-                                        <tr>
-                                          <td><img src="img/punto1.jpg" width="10" height="10" alt=""/></td>
-                                          <td width="5"></td>
-                                          <td>Debidamente uniformados</td>
-                                        </tr>
-                                        <tr>
-                                          <td><img src="img/punto1.jpg" width="10" height="10" alt=""/></td>
-                                          <td width="5"></td>
-                                          <td>Conocimientos en limpieza de piscinas</td>
-                                        </tr>
-                                        <tr>
-                                          <td><img src="img/punto1.jpg" width="10" height="10" alt=""/></td>
-                                          <td width="5"></td>
-                                          <td>Seguridad personal y a terceros</td>
-                                        </tr>
-                                        <tr>
-                                          <td><img src="img/punto1.jpg" width="10" height="10" alt=""/></td>
-                                          <td width="5"></td>
-                                          <td>Equipamiento adecuado</td>
-                                        </tr>
-                                      </tbody>
-                                    </table>
-                                    <br>
-                                      <p class="texto_seguro_3"><b>Para su seguridad nuestro personal <br>se encuentra debidamente registrado <br> y cuentan con los seguros <br>  de vida obligatorio y ART</b></p>
-                                       <img src="img/logo_seguro.png" alt="" class="logo_seguro">
-
-                                       <p class="texto_seguro">Prevención ART - Vida Obligatorio</p>
-                                       <p class="texto_seguro_2"><b>N°471157 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;N°1291680</b></p>
-                                     
-              
-                                </td>
-                            
-                          </tbody>
-                        </table>
+                      <ul class="destacamos-list">
+                        <li>Puntualidad</li>
+                        <li>Educación</li>
+                        <li>Debidamente uniformados</li>
+                        <li>Conocimientos en limpieza de piscinas</li>
+                        <li>Seguridad personal y a terceros</li>
+                        <li>Equipamiento adecuado</li>
+                      </ul>
                       
                   </div>
-    
-            
-
-
           </div>
     </div>  
   
   
 </section>
- 
- <!-- FIN NOSOTROS -->
+<!-- FIN NOSOTROS -->
 
-  <!-- COBERTURA -->
-
-
+<!-- COBERTURA -->
 <section class="wow bounceInDown" datos-wow-duracion= "1s" data-wow-delay = "1s">
   <div class="container">
     <div class="row">

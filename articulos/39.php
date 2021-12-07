@@ -4,7 +4,7 @@
     <div class="col-md-12">		
       <div class="div-texto">
           <h1 class="texto1 wow zoomInDown" datos-wow-duracion= "2s" data-wow-delay = "1s">¿HONGOS NEGROS EN EL PISO Y PARED DE LA PILETA?</h1>
-          <h4 class="texto2 wow slideInUp">conoce mas sobre tu piscina</h4>
+          <h4 class="texto2 wow slideInUp">Conocé más sobre tu piscina</h4>
       </div>
     </div>
       <br><br>

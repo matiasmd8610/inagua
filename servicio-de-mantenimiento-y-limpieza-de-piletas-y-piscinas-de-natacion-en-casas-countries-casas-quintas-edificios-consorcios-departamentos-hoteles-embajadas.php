@@ -34,7 +34,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
    <link href="css/hover.css" rel="stylesheet"> 
    <script src="js/fileinput.js" type="text/javascript"></script>
     <link href="css/fileinput.css" rel="stylesheet">
-   <link href="css/estilos.css" rel="stylesheet">
    <link href="styles/css/main.css" rel="stylesheet">
     <link rel="stylesheet" href="css/animate/animate.css">
     <link href="styles/css/main.css" rel="stylesheet">
@@ -75,7 +74,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </script>  
 
 </head>
-  <body class="animated bounceInLeft">
+  <body>
 
     <section>
 
@@ -85,131 +84,52 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <span class="ir-arriba"><img src="img/up.png" alt=""></span>
     <div id="top"></div>
 	
+<!-- HEADER: Begin -->
 <header>
-
-  
-    
-<div class="botoner_completa animated slideInDown">
-     
-       
-
-              <?php include "include/navegacion.php"; ?>
-
-
-    
-
-      
- </div> 
-<div class="imagen_cabesal">
-	<img src="img/sello_premiun.png" align="right" class="sello_premiun" alt="">
- 
-</div>  
+    <div class="botoner_completa animated slideInDown">
+        <?php include "include/navegacion.php"; ?>
+    </div> 
+    <div class="imagen_cabesal">
+        <img src="img/sello_premiun.png" align="right" class="sello_premiun" alt="Sello Premium">
+    </div>  
 </header>
-
-
-
-
-
-
+<!-- HEADER: End -->
 
 <section id="casas">
       <div class="container">
-              <div class="row">
-                  <div class="col-md-12">   
-
-                  
-
+            <div class="row">
+                <div class="col-md-12">   
                     <div class="div-texto">
                       <h1 class="texto1 wow zoomInDown" datos-wow-duracion= "2s" data-wow-delay = "1s">Mantenimiento de piletas en casas y residencias particulares</h1>
-                        <h4 class="texto2 wow slideInUp">en INAGUA nos encargamos de mantener su pileta y el agua en óptimas condiciones durante todo el año</h4>
+                        <h4 class="texto2 wow slideInUp">En INAGUA nos encargamos de mantener su pileta y el agua en óptimas condiciones durante todo el año</h4>
                     </div>
-                    <br><br>
                     
                     <img src="img/imagen-casas.png" alt="" class="imgen-moviles-casas212 wow slideInRight">
-                    
 
+                    <div class="div-texto-casas-bac">
+                          <h5 class="texto3sc wow slideInUp">¿Qué incluye el servicio?</h5>
 
-                    <div class="div-texto-casas-bac" style="margin-top: -10px; padding: 20px;">
-                          <h5 class="texto3sc wow slideInUp">
-                                ¿Que incluye el servicio?
-                          </h5>
+                          <ul class="destacamos-list">
+                              <li>Aspirado del fondo de la piscina</li>
+                              <li>Limpieza de canastos del skimmer y bomba</li>
+                              <li>Limpieza del elemento flotante (sacahojas)</li>
+                              <li>Control de niveles de Cloro y PH del agua</li>
+                              <li>Aplicación de productos químicos</li>
+                              <li>Cepillado de bordes</li>
+                              <li>Retrolavado y enjuague del sistema de filtrado</li>
+                          </ul>
                           
-                             <table width="100%" border="0" class="wow slideInLeft" heigth="50">
-                              <tbody>
-                                
-                                
-                                  <td align="left" class="td08_casas">
-                                    <table style="text-align:left; margin-top: 15px;">
-                                      <tbody>
-                                        <tr>
-                                          <td><img src="img/punto1.jpg" width="10" height="10" alt=""/></td>
-                                          <td width="30"></td>
-                                          <td>Aspirado del fondo de la piscina</td>
-                                        </tr>
-                                          
-                                        <tr>
-                                          <td><img src="img/punto1.jpg" width="10" height="10" alt=""/></td>
-                                          <td width="5"></td>
-                                          <td>Limpieza de canastos del skimmer y bomba</td>
-                                        </tr>
-                                        <tr>
-                                          <td><img src="img/punto1.jpg" width="10" height="10" alt=""/></td>
-                                          <td width="5"></td>
-                                          <td>Limpieza del elemento flotante (sacahojas)</td>
-                                        </tr>
-                                        <tr>
-                                          <td><img src="img/punto1.jpg" width="10" height="10" alt=""/></td>
-                                          <td width="5"></td>
-                                          <td>Control de niveles de Cloro y PH del agua</td>
-                                        </tr>
-                                        <tr>
-                                          <td><img src="img/punto1.jpg" width="10" height="10" alt=""/></td>
-                                          <td width="5"></td>
-                                          <td>Aplicación de productos químicos</td>
-                                        </tr>
-                                        <tr>
-                                          <td><img src="img/punto1.jpg" width="10" height="10" alt=""/></td>
-                                          <td width="5"></td>
-                                          <td>Cepillado de bordes</td>
-                                        </tr>
-                                        <tr>
-                                          <td><img src="img/punto1.jpg" width="10" height="10" alt=""/></td>
-                                          <td width="5"></td>
-                                          <td>Retrolavado y enjuague del sistema de filtrado</td>
-                                        </tr>
-                                      </tbody>
-                                    </table>
-                                     
-                                                                            
-              
-                                </td>
-                            
-                          </tbody>
-                        </table>
+                          <h5 class="texto3sc wow slideInUp" style="margin-top: 50px;">Para realizar este servicio podemos utilizar su equipo o contamos con el propio.</h5>
 
-                          <h5 class="texto3sc wow slideInUp" style="margin-top: 50px;">
-                                Para realizar este servicio podemos utilizar su equipo o contamos con el propio.
-                          </h5>
-
-
-                           <h5 class="texto3sc wow slideInUp" style="margin-top: 50px; margin-bottom: 50px;">
-                                El personal de INAGUA está capacitado con los niveles más altos del mercado para realizar tareas de mantenimiento, limpieza y desinfección de piscinas."
-                          </h5>
-
-                         
+                           <h5 class="texto3sc wow slideInUp" style="margin-top: 50px; margin-bottom: 50px;">El personal de INAGUA está capacitado con los niveles más altos del mercado para realizar tareas de mantenimiento, limpieza y desinfección de piscinas."</h5>
                     </div>
                     <div class="imagen-casas wow slideInRight">
-
-                     
-                      
-
-
                     </div>
 
                   </div>  
                     <div class="col-md-12 presupuesto-ser wow slideInUp">
-                           <a href="#contacto" class="boton-presupuesto" style="text-decoration:none;">SOLICITAR PRESUPUESTO</a>                     
-                          </div>
+                        <a href="#contacto" class="boton-presupuesto" style="text-decoration:none;">SOLICITAR PRESUPUESTO</a>                     
+                    </div>
                 </div>
         </div> 
 </section>
@@ -248,7 +168,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <table width="100%" border="0" >
                       <tbody>
                         <tr>
-                          <td align="center"><img src="img/icon_consorcio.png" class="icon-suge" alt=""/></td>
+                          <td align="center">
+                              <img src="img/icon_consorcio.png" class="icon-suge" alt="">
+                            </td>
                         </tr>
                         <tr>
                           <td class="td07pp" align="center"><p>CONSORCIOS, HOTELES Y EMBAJADAS</p></td>
@@ -257,7 +179,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                           <td class="td08bac" width="138"><p>Especialistas en consorcios </p></td>
                         </tr>
                         <tr>
-                          <td align="center" ><a href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-edificios-consorcios-departamentos.php"><p class="boton-click-aqui">MAS INFO</p></a></td>
+                          <td align="center" ><a href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-edificios-consorcios-departamentos.php"><p class="boton-click-aqui">MÁS INFO</p></a></td>
                         </tr>
                       </tbody>
                     </table>
@@ -274,10 +196,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                           <td align="center" class="td07pp"><p>DESAGOTE DE PISCINAS</p></td>
                         </tr>
                         <tr>
-                          <td align="center"  width="138"><p class="td08bac">Vaciamos, limpiamos y desinfectamos</p></td>
+                          <td align="center"  width="138">
+                              <p class="td08bac">Vaciamos, limpiamos y desinfectamos</p>
+                            </td>
                         </tr>
                         <tr>
-                          <td align="center"><a href="servicio-de-desagote-limpieza-desinfeccion-de-piletas-y-piscinas-de-natacion.php"><p class="boton-click-aqui">MAS INFO</p></a></td>
+                          <td align="center"><a href="servicio-de-desagote-limpieza-desinfeccion-de-piletas-y-piscinas-de-natacion.php"><p class="boton-click-aqui">MÁS INFO</p></a></td>
                         </tr>
                       </tbody>
                     </table>
@@ -290,14 +214,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                           <td align="center"><img src="img/icon_filtro.png" class="icon-suge" alt=""/></td>
                         </tr>
                         <tr>
-                          <td align="center" class="td07pp"><p>REPARACION Y CAMBIO DE ARENA</p></td>
+                          <td align="center" class="td07pp"><p>REPARACIÓN Y CAMBIO DE ARENA</p></td>
                         </tr>
                         <tr>
-                          <td align="center" class="td08bac" width="138"><p>El filtrado
-                              dara agua cristalina </p></td>
+                          <td align="center" class="td08bac" width="138">
+                              <p>El filtrado dará agua cristalina </p>
+                            </td>
                         </tr>
                         <tr>
-                          <td align="center"><a href="cambio-de-arena-carga-filtrante-de-filtro.php"><p class="boton-click-aqui">MAS INFO</p></a></td>
+                          <td align="center"><a href="cambio-de-arena-carga-filtrante-de-filtro.php"><p class="boton-click-aqui">MÁS INFO</p></a></td>
                         </tr>
                       </tbody>
                     </table>
@@ -311,13 +236,21 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                           <td align="center"><img src="img/iconos_servicios_venecitas.png" class="icon-suge" alt=""/></td>
                         </tr>
                         <tr>
-                          <td align="center" class="td07pp"><p>PASTINADO DE PILETAS CON VENECITAS</p></td>
+                          <td align="center" class="td07pp">
+                              <p>PASTINADO DE PILETAS CON VENECITAS</p>
+                            </td>
                         </tr>
                         <tr>
-                          <td align="center" class="td08bac" width="138"><p>Rejuvenecemos su pileta</p></td>
+                        <td align="center" class="td08bac" width="138">
+                              <p>Rejuvenecemos su pileta</p>
+                        </td>
                         </tr>
                         <tr>
-                          <td align="center"><a href="servicio-de-pastinado-de-piletas-revestidas.php"><p class="boton-click-aqui">MAS INFO</p></a></td>
+                            <td align="center">
+                                <a href="servicio-de-pastinado-de-piletas-revestidas.php">
+                                    <p class="boton-click-aqui">MÁS INFO</p>
+                                </a>
+                            </td>
                         </tr>
                       </tbody>
                     </table>
@@ -328,7 +261,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <table width="100%" border="0">
                       <tbody>
                         <tr>
-                          <td align="center"><img src="img/iconos_servicios_pintura.png" class="icon-suge" alt=""/></td>
+                          <td align="center"><img src="img/iconos_servicios_pintura.png" class="icon-suge" alt=""></td>
                         </tr>
                         <tr>
                           <td align="center" class="td07pp"><p>PINTURA DE PILETAS</p></td>
@@ -337,7 +270,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                           <td align="center" class="td08bac" width="138"><p>Pintamos tu piscina de material o plastico </p></td>
                         </tr>
                         <tr>
-                          <td align="center"><a href="servicio-de-pintado-de-piletas-de-cemento-y-plastico-o-fibra-de-vidrio.php"><p class="boton-click-aqui">MAS INFO</p></a></td>
+                          <td align="center"><a href="servicio-de-pintado-de-piletas-de-cemento-y-plastico-o-fibra-de-vidrio.php"><p class="boton-click-aqui">MÁS INFO</p></a></td>
                         </tr>
                       </tbody>
                     </table>
@@ -356,7 +289,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                           <td align="center" class="td08bac"  width="138"><p>Marcas lideres de primera calidad </p></td>
                         </tr>
                         <tr>
-                          <td align="center"><a href="productos-quimicos-y-accesorios-para-piletas-y-piscinas-de-natacion.php"><p class="boton-click-aqui">MAS INFO</p></a></td>
+                          <td align="center"><a href="productos-quimicos-y-accesorios-para-piletas-y-piscinas-de-natacion.php"><p class="boton-click-aqui">MÁS INFO</p></a></td>
                         </tr>
                       </tbody>
                     </table>
@@ -369,24 +302,24 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                           <td align="center"><img src="img/icon_analisis.png" class="icon-suge" alt=""/></td>
                         </tr>
                         <tr>
-                          <td align="center" class="td07pp"><p>ANALISIS BACTERIOLOGICO</p></td>
+                          <td align="center" class="td07pp"><p>ANÁLISIS BACTERIOLOGICO</p></td>
                         </tr>
                         <tr>
-                          <td align="center" class="td08bac" width="138"><p>No corra riesgos de infecciones.</p></td>
+                            <td align="center" class="td08bac" width="138">
+                              <p>No corra riesgos de infecciones.</p>
+                            </td>
                         </tr>
                         <tr>
-                          <td align="center"><a href="analisis-bacteriologico-de-agua-de-piscinas-piletas.php"><p class="boton-click-aqui" style="text-decoration: none;">MAS INFO</p></a></td>
+                          <td align="center"><a href="analisis-bacteriologico-de-agua-de-piscinas-piletas.php">
+                              <p class="boton-click-aqui">MÁS INFO</p></a>
+                            </td>
                         </tr>
                       </tbody>
                     </table>
                 </div>
-          
-
 
               </div> 
                  
-                  
-
 
           </div>
         </div>   
@@ -470,12 +403,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   
   
 </section>
- 
  <!-- FIN NOSOTROS -->
 
-  <!-- COBERTURA -->
-
-
+<!-- COBERTURA -->
 <section class="wow bounceInDown" datos-wow-duracion= "1s" data-wow-delay = "1s">
   <div class="container">
     <div class="row">
@@ -483,24 +413,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <div class="row text-center separ-secciones_2">
                 <div class="col-md-4">
                     <div class="span-separ-secciones_2"></div>
-                    
                 </div>
                 <div class="col-md-4">
                     <p class="td06_2">zona de cobertura</p>
-                    
                 </div>
                 <div class="col-md-4">
                     <div class="span-separ-secciones_2"></div>
-                    
                 </div>
           </div>
           
-      <div class="col-md-6 lugar_char" align="center">
-        
+        <div class="col-md-6 lugar_char" align="center">
         <div>  
-          
             <img src="img/partner_2.jpg" class="chata_ind" alt="">
-        
         </div>
 
           <div class="texto_zona_1">
@@ -557,18 +481,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </div>
     </div>
 
-<footer>
+    <!-- FOOTER: Begin -->
+    <footer>
+           <?php include "include/footer.php"; ?>
+    </footer>
+    <!-- FOOTER: End -->
 
-
-
-       <?php include "include/footer.php"; ?>
-
-
-
-
-
-
-</footer>
 
 <script>
 $(document).ready(function(){
@@ -586,12 +504,12 @@ $(document).ready(function(){
 
 </script>
 <script src="js/menu.js"></script>
-    <!-- jQuery slider Inicio -->
+<!-- jQuery slider Inicio -->
 
  <script>
-$(document).on('ready', function() {
-    $("#input-b5").fileinput({showCaption: false});
-});
+    $(document).on('ready', function() {
+        $("#input-b5").fileinput({showCaption: false});
+    });
 </script>
 
   </body>

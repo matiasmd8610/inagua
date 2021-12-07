@@ -38,7 +38,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<link href="css/hover.css" rel="stylesheet"> 
    <script src="js/fileinput.js" type="text/javascript"></script>
     <link href="css/fileinput.css" rel="stylesheet">
-   <link href="css/estilos.css" rel="stylesheet">
    <link href="styles/css/main.css" rel="stylesheet">
     <link rel="stylesheet" href="css/animate/animate.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -125,10 +124,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 </div>
         </div> 
 </section>
-<br><br>
 
  <section>
-   
       <div class="container">
         <div class="row wow slideInUp">
           <div class="col-md-3 barrios-a"><a href="piletero-en-agronomia.php" class="texto3Zona" style="text-decoration: none;">Agronomía</a></div>
@@ -268,54 +265,41 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <div class="row">
             <div class="col-md-12 wow tada" datos-wow-duracion= "3s" data-wow-delay = "2s">
             <div class="pileteros_profesionales">
-
               <p class="td08_4">solo confie en pileteros profesionales</p>
-
-              <p class="td08_3"  style="padding-bottom: 50px;">
+              <p class="td08_3">
                 ...”El tratamiento inadecuado del agua, por falta de conocimientos y experiencia, tiene efectos desagradables provocando irritaciones en la piel, ojos y mucosas y causando enfermedades transmitidas por microorganismos o agentes patógenos. Por todo esto le ofrecemos mantener su piscina y el agua en óptimas condiciones durante todo el año.”...</p>
-
            </div>
         </div>
-
         </div>
     </div>
 
-<footer>
+    <footer>
+          <?php include "include/footer.php"; ?>
+    </footer>
 
+    <script>
+    $(document).ready(function(){
+      var altura = $('.menu').offset().top;
+      
+      $(window).on('scroll', function(){
+        if ( $(window).scrollTop() > altura ){
+          $('.menu').addClass('menu-fixed');
+        } else {
+          $('.menu').removeClass('menu-fixed');
+        }
+      });
+    
+    });
 
+    </script>
+    <script src="js/menu.js"></script>
+        <!-- jQuery slider Inicio -->
 
-       <?php include "include/footer.php"; ?>
-
-
-
-
-
-
-</footer>
-
-<script>
-$(document).ready(function(){
-  var altura = $('.menu').offset().top;
-  
-  $(window).on('scroll', function(){
-    if ( $(window).scrollTop() > altura ){
-      $('.menu').addClass('menu-fixed');
-    } else {
-      $('.menu').removeClass('menu-fixed');
-    }
-  });
- 
-});
-
-</script>
-<script src="js/menu.js"></script>
-    <!-- jQuery slider Inicio -->
-
- <script>
-$(document).on('ready', function() {
-    $("#input-b5").fileinput({showCaption: false});
-});
-</script>
+    <script>
+    $(document).on('ready', function() {
+        $("#input-b5").fileinput({showCaption: false});
+    });
+    </script>
 
   </body>
 

@@ -23,8 +23,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<meta name="author" content="Administrator" />
 		<meta name="description" content="Servicios de limpieza y mantenimiento de piletas. Pileteros profesionales." />	
 		<title>Piletero en Parque Avellaneda</title>	
-		<meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo" />	    <link rel="icon" href="img/logo.png">
-
+		<meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo" />	    
+    <link rel="icon" href="img/logo.png">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <script src="js/bootstrap-3.3.6.js"></script>
     <script type="text/javascript" src="js/modernizr.custom.79639.js"></script>
@@ -104,11 +106,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
          
       
  </div> 
-<div class="imagen_cabesal">
-	<img src="img/sello_premiun.png" align="right" class="sello_premiun" alt="">
- 
-</div>
-  
 </header>
 
 

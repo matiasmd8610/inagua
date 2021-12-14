@@ -45,7 +45,7 @@
     <script src="js/wow.js"></script>
     <script>new WOW().init();</script>
 
-    <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
+    <!-- <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
     <link rel="stylesheet" href="mosquitos/assets/tether/tether.min.css">
     <link rel="stylesheet" href="mosquitos/assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="mosquitos/assets/bootstrap/css/bootstrap-grid.min.css">
@@ -53,7 +53,7 @@
     <link rel="stylesheet" href="mosquitos/assets/dropdown/css/style.css">
     <link rel="stylesheet" href="mosquitos/assets/socicon/css/styles.css">
     <link rel="stylesheet" href="mosquitos/assets/theme/css/style.css">
-    <link rel="stylesheet" href="mosquitos/assets/mobirise/css/mbr-additional.css" type="text/css">
+    <link rel="stylesheet" href="mosquitos/assets/mobirise/css/mbr-additional.css" type="text/css"> -->
 
   <script>
   $(function() {
@@ -98,9 +98,6 @@
         <div class="botoner_completa animated slideInDown">
             <?php include "include/navegacion.php"; ?>
         </div> 
-        <div class="imagen_cabesal">
-            <img src="img/sello_premiun.png" align="right" class="sello_premiun" alt="">
-        </div>
     </header>
 
 
@@ -110,7 +107,7 @@
             
             <div class="col-lg-12">   
                 <div class="div-texto">
-                    <h2 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Destapaciones</h2>
+                    <h2 class="texto1 wow zoomInDown text-start" datos-wow-duracion="2s" data-wow-delay="1s">Destapaciones</h2>
                 </div>
                 <div class="div-texto">
                     <h5 class="texto3 wow slideInUp">Las destapaciones que realizamos son de tomas de agua de bomba de piscinas.
@@ -120,7 +117,7 @@
 
             <div class="col-lg-12">   
                 <div class="div-texto">
-                    <h2 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Corte de cesped</h2>
+                    <h2 class="texto1 wow zoomInDown text-start" datos-wow-duracion="2s" data-wow-delay="1s">Corte de cesped</h2>
                 </div>
                 <div class="div-texto">
                     <h5 class="texto3 wow slideInUp">En esta parte solo poner una imagen de una máquina cortando césped. <br>
@@ -131,7 +128,7 @@
 
             <div class="col-lg-12">   
                 <div class="div-texto">
-                    <h2 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Fumigación de mosquitos</h2>
+                    <h2 class="texto1 wow zoomInDown text-start" datos-wow-duracion="2s" data-wow-delay="1s">Fumigación de mosquitos</h2>
                 </div>
                 <div class="div-texto">
                     <h5 class="texto3 wow slideInUp">¡Fumigue Ya!<br>
@@ -139,155 +136,15 @@
                     Brindamos el servicio de Fumigación De Mosquitos en todos los barrios de Capital Federal y alrededores.</h5>
                 </div>
             </div>
-
+      <div class="col-lg-12 presupuesto-ser wow slideInUp mt-5" style="visibility: visible; animation-name: slideInUp;">
+                <a target="_blank" href="https://inagua.com.ar/mosquitos/FumigaciondeExteriores.html" class="boton-presupuesto">VER MÁS SOBRE ESTE SERVICIO</a>                     
+      </div>
+      
         </div>
     </div> 
 </section>
 
-<section class="mbr-section content4 cid-rZ5aIogtqm" id="content4-u">
-        <div class="container">
-            <div class="media-container-row">
-                <div class="title col-12 col-md-8">
-                    <h2 class="align-center pb-3 mbr-fonts-style display-2">Equipos y Poductos Utilizados</h2>
-                    <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-5">Usamos herramientas y productos de primera calidad. Fumigamos con equipos atomizadores <strong>STIHL SR420</strong>.<br><div><br></div><div><span style="font-size: 1.5rem;">Cilindrada: 56,5 cm³</span></div><div><span style="font-size: 1.5rem;">Potencia: 3,5 Hp</span></div><div><span style="font-size: 1.5rem;">Potencia: 2,6 Kw</span></div><div><span style="font-size: 1.5rem;">Alcance horizontal: 12 m</span></div><div><span style="font-size: 1.5rem;">Alcance en vertical: 9,5 m</span></div></h3>
-                    
-                </div>
-            </div>
-        </div>
-    </section>
 
-    <section class="cid-rZ5egk0MMJ" id="image1-w">
-        <figure class="mbr-figure container">
-            <div class="image-block" style="width: 66%;">
-                <img src="mosquitos/assets/images/st-1-608x219.png" width="1400" alt="Mobirise" title="">
-                
-            </div>
-        </figure>
-    </section>
-
-    <section class="mbr-section content4 cid-rZ5lZoQqWM" id="content4-z">
-        <div class="container">
-            <div class="media-container-row">
-                <div class="title col-12 col-md-8">
-                    <h2 class="align-center pb-3 mbr-fonts-style display-2">Utilizamos insecticida<br><strong>DEMOLEDOR</strong></h2>
-                    <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-5"><strong>DEMOLEDOR</strong> es un insecticida de amplio espectro, que controla los estadios de plagas y regula su crecimiento. Cuando se aplica, tiene un efecto residual excelente. Este producto <strong>NO DEJA OLOR NI TIENE SOLVENTES</strong>.<br><br><div><a href="http://www.anmat.gob.ar/boletin_anmat/diciembre_2018/Dispo_MSYDS_2851-18.pdf" target="_blank" class="text-white">APROBADO POR ANMAT</a></div></h3>
-                    
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <section class="cid-rZ5lN180PI mt-0" id="image1-x">
-        <figure class="mbr-figure container">
-            <div class="image-block" style="width: 66%;">
-                <img src="mosquitos/assets/images/imagen-1-734x586.png" width="1400" alt="Mobirise" title="">
-                
-            </div>
-        </figure>
-    </section>
-
-    <section class="mbr-section article content1 cid-rZ5m0aVtAL mt-0" id="content1-10">
-        <div class="container">
-            <div class="media-container-row">
-                <div class="mbr-text col-12 mbr-fonts-style display-7 col-md-8">
-                    <p><strong>DEMOLEDOR</strong> contiene dos ingredientes activos que producen una acción dual: Betacipermetrina (piretroide) y regulador de crecimiento, actúan por contacto e ingestión otorgándole poder sobre insectos adultos y acción de inhibición sobre el proceso de las mudas de formas juveniles.</p><p><strong>Modo de Acción:</strong> Interrumpe la sinapsis neuronal e inhibe la formación de quitina atacando el Sistema Nervioso y el Sistema Endocrino de los insectos.&nbsp;</p><p><strong>Actúa por contacto e ingestión.</strong></p><p><strong>Acción dual: 2 activos trabajando JUNTOS.</strong></p><p><strong>Producto sin olor, no mancha.</strong></p>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <section class="mbr-section content7 cid-rZ0WX9TLFq" id="content7-s">
-        <div class="container">
-            <div class="media-container-row">
-                <div class="col-12 col-md-8">
-                    <div class="media-container-row">
-                        <div class="media-content">
-                            <div class="mbr-section-text">
-                                <p class="mbr-text align-right mb-0 mbr-fonts-style display-2"><strong>&nbsp;¡Sin Mosquito<br>No Hay Dengue!</strong></p>
-                            </div>
-                        </div>
-                        <div class="mbr-figure" style="width: 60%;">
-                        <img src="mosquitos/assets/images/mosqito-2-436x436.png" alt="Mobirise" title="">  
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <section class="mbr-section content4 cid-rZ0KBu4QCv" id="content4-q">
-        <div class="container">
-            <div class="media-container-row">
-                <div class="title col-12 col-md-8">
-                    <h2 class="align-center pb-3 mbr-fonts-style display-2"><strong>¿Qué es el Dengue?</strong></h2>
-                    
-                    
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <section class="mbr-section content6 cid-rZ0yl4qGno" id="content6-9">
-        <div class="container">
-            <div class="media-container-row">
-                <div class="col-12 col-md-8">
-                    <div class="media-container-row">
-                        <div class="mbr-figure" style="width: 60%;">
-                        <img src="mosquitos/assets/images/unnamed-1-436x436.png" alt="Mobirise" title="">  
-                        </div>
-                        <div class="media-content">
-                            <div class="mbr-section-text">
-                                <p class="mbr-text mb-0 mbr-fonts-style display-7"><br> <br>Según la <strong>Organización Mundial de la Salud (OMS)</strong>, el dengue es una infección vírica transmitida por la picadura de las hembras infectadas de mosquitos del género Aedes. Hay cuatro serotipos de virus del dengue (DEN 1, DEN 2, DEN 3 y DEN 4). Los síntomas aparecen 3–14 días (promedio de 4–7 días) después de la picadura infectiva. El dengue es una enfermedad similar a la gripe que afecta a lactantes, niños pequeños y adultos.<br><br>Los síntomas son fiebre elevada (40ºC) acompañada de dos de los síntomas siguientes sintomas: dolor de cabeza muy intenso, dolor detrás de los globos oculares, dolores musculares y articulares, náuseas, vómitos, agrandamiento de ganglios linfáticos o sarpullido</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <section class="mbr-section article content1 cid-rZ0DqCN9St" id="content1-i">
-        <div class="container">
-            <div class="media-container-row">
-                <div class="mbr-text col-12 mbr-fonts-style display-7 col-md-8"><p><strong>Recomendaciones para prevenir el dengue (Ministerio de Salud de la República Argentina)</strong></p></div>
-            </div>
-        </div>
-    </section>
-
-    <section class="mbr-section article content12 cid-rZ0CXEqfF7" id="content12-e">
-        <div class="container">
-            <div class="media-container-row">
-                <div class="mbr-text counter-container col-12 col-md-8 mbr-fonts-style display-7">
-                    <ul>
-                        <li>Eliminá todos los recipientes en desuso que puedan acumular agua (latas, botellas, neumáticos).</li>
-                        <li>Da vuelta los objetos que estén en el exterior y puedan acumular agua de lluvia (baldes, palanganas, tambores).</li>
-                        <li>Cambiá el agua de bebederos de animales, colectores de desagües de aire acondicionado o lluvia, dentro y fuera de la casa, cada tres días. Frotá las paredes de los recipientes con una esponja para desprender los huevos de mosquito que puedan estar adheridos.</li><li>Rellená los floreros y portamacetas con arena húmeda.</li><li>Mantené los patios limpios y ordenados, así como los jardines desmalezados.</li><li>Limpiá las canaletas y los desagües de lluvia que están en los techos.</li><li>Tapá los tanques y recipientes que se usan para recolectar agua.</li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <section class="mbr-section article content1 cid-rZ0DoqXU9h" id="content1-g">
-        <div class="container">
-            <div class="media-container-row">
-                <div class="mbr-text col-12 mbr-fonts-style display-7 col-md-8"><p>También se puede prevenir la picadura del mosquito:</p></div>
-            </div>
-        </div>
-    </section>
-
-    <section class="mbr-section article content12 cid-rZ0Dp3gRkl" id="content12-h">
-        <div class="container">
-            <div class="media-container-row">
-                <div class="mbr-text counter-container col-12 col-md-8 mbr-fonts-style display-7">
-                    <ul>
-                        <li>Con el uso de repelentes corporales y ambientales (tabletas y espirales) según las recomendaciones que figuren en el envase.</li><li>Con el uso de ropa clara que cubra los brazos y las piernas especialmente cuando se realizen las actividades al aire libre.</li><li>Con la colocación de mosquiteros en puertas y ventanas, y cuando sea posible, con ventiladores o aire acondicionado.</li></ul><ul>
-                        <li><span style="font-size: 1rem;">Con el uso de proctectores para cunas y cochecitos de bebés con telas mosquiteras.</span></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </section>
          
 <section style="background-color: #fff;">
   <div class="container">
@@ -488,7 +345,7 @@
 
  <section>
      <div class="container">
-     <div class="col-lg-12 presupuesto-ser wow slideInUp">
+     <div class="col-lg-12 presupuesto-ser wow slideInUp mt-5">
                 <a href="#contacto" class="boton-presupuesto">SOLICITAR PRESUPUESTO</a>                     
             </div>
      </div>

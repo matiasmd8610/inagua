@@ -15,37 +15,29 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#2F4598">
-
- 		<meta name="robots" content="index, follow, all" />
+ 		<meta name="robots" content="index, follow, all">
 		<meta name="googlebot" content="index, follow, all" />	
-		<meta name="keywords" content="pileta, piletas, piscinas, piletero, pileteros, desagote, colegiales" />
-		<meta name="title" content="Piletero en Colegiales" />
-		<meta name="author" content="Administrator" />
-		<meta name="description" content="Servicios de limpieza y mantenimiento de piletas. Pileteros profesionales." />	
+		<meta name="keywords" content="pileta, piletas, piscinas, piletero, pileteros, desagote, colegiales">
+		<meta name="title" content="Piletero en Colegiales">
+		<meta name="author" content="Administrator">
+		<meta name="description" content="Servicios de limpieza y mantenimiento de piletas. Pileteros profesionales.">	
 		<title>Piletero en Colegiales</title>	
-		<meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo" />	    <link rel="icon" href="img/logo.png">
-
-
-    <!-- Bootstrap -->
-
-     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-
-    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
-
+		<meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo">	    
+    <link rel="icon" href="img/logo.png">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <script src="js/bootstrap-3.3.6.js"></script>
     <script type="text/javascript" src="js/modernizr.custom.79639.js"></script>
     <link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.min.css">
-	 <link href="css/hover.css" rel="stylesheet"> 
-   <script src="js/fileinput.js" type="text/javascript"></script>
+    <script src="js/fileinput.js" type="text/javascript"></script>
     <link href="css/fileinput.css" rel="stylesheet">
-   <link href="styles/css/main.css" rel="stylesheet">
-    <!-- Animate-->
+    <link href="styles/css/main.css" rel="stylesheet">
     <link rel="stylesheet" href="css/animate/animate.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;600&family=Rubik:wght@300;400;600&display=swap" rel="stylesheet">
-        <script src="js/wow.js"></script>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;600&family=Rubik:wght@300;400;600&display=swap" rel="stylesheet">
+    <script src="js/wow.js"></script>
     <script>new WOW().init();</script>
 
 
@@ -111,11 +103,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
          
       
  </div> 
-<div class="imagen_cabesal">
-	<img src="img/sello_premiun.png" align="right" class="sello_premiun" alt="">
- 
-</div>
-  
 </header>
 
 

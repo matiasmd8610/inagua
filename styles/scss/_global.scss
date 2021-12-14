@@ -3,9 +3,9 @@ html {
 }
 
 body {
-    font-family: 'Rubik', sans-serif;
+    font-family: $primary-font;
     font-weight: 300;
-	padding-top: 75px;
+    padding-top: 110px;
 }
 
 a {
@@ -19,4 +19,9 @@ section {
     @media(max-width: 767px) {
         margin-top: 1.5rem;
     }
+}
+
+.container {
+    padding-left: 15px !important;
+    padding-right: 15px !important;
 }

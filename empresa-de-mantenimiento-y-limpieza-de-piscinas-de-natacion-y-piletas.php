@@ -31,17 +31,11 @@
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-
-
     <script src="js/bootstrap-3.3.6.js"></script>
-
     <script type="text/javascript" src="js/modernizr.custom.79639.js"></script>
     <link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.min.css">
-
-  
     <link href="css/fileinput.css" rel="stylesheet">
     <script src="js/fileinput.js" type="text/javascript"></script>
-    <link href="css/hover.css" rel="stylesheet"> 
    <link rel="stylesheet" href="css/animate/animate.css">
    <link href="styles/css/main.css" rel="stylesheet">
    <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -81,45 +75,33 @@
     
 
 </head>
-  <body class="animated bounceInRight">
-    <section>
-
+  <body>
+    
+  <section>
     <?php include "include/chat.php"; ?>
-  
   </section>
-    <span class="ir-arriba"><img src="img/up.png" alt=""></span>
+
+  <span class="ir-arriba"><img src="img/up.png" alt=""></span>
 	<div id="top"></div>
+
+<!-- HEADER: Begin -->
 <header>
-
-  
-    
-<div class="botoner_completa animated slideInDown">
-     
-    
-
-           <?php include "include/navegacion.php"; ?>
-           
-          
-      
- </div> 
-<div class="imagen_cabesal">
-	<img src="img/sello_premiun.png" align="right" class="sello_premiun" alt="">
- 
-</div>
-  
+  <div class="botoner_completa animated slideInDown">
+      <?php include "include/navegacion.php"; ?>
+  </div> 
 </header>
-
+<!-- HEADER: End -->
 
 <section  id="nosotros">
       <div class="container">
               <div class="row">
                   <div class="col-md-12">   
                     <div class="div-texto">
-                      <h1 class="texto1 wow zoomInDown" datos-wow-duracion= "2s" data-wow-delay = "1s">INAGUA - Mantenimiento de Piscinas</h1>
+                      <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay ="1s">INAGUA - Mantenimiento de Piscinas</h1>
                         <h2 class="texto2 wow slideInUp">Somos especialistas</h2>
                     </div>
                       <div class="div-texto">
-                          <h5 class="texto3n wow slideInUp">INAGUA es una empresa con más de 15 años de experiencia en MANTENIMIENTO DE PISCINAS, brindando soluciones integrales a consorcios y particulares.<br>
+                          <h5 class="texto3n wow slideInUp">INAGUA es una empresa con más de 13 años de experiencia en MANTENIMIENTO DE PISCINAS, brindando soluciones integrales a consorcios y particulares.<br>
                           </h5>
                       </div>
                        <div class="div-texto">

@@ -1,4 +1,5 @@
 footer {
+
     .fondo_pie {
         background: url("../../img/fondo_nuevo_pie.jpg") no-repeat center center;
         background-size: cover;
@@ -8,10 +9,11 @@ footer {
         
         @media(max-width: 992px){
             height: auto;
+            padding-bottom: 75px;
         }
 
         .seguinos_tex {
-            font-family: 'Oswald', sans-serif;
+            font-family: $secondary-font;
             font-size: 20px;
             text-align:left;
             margin-top: 0px;
@@ -20,37 +22,25 @@ footer {
         }
         
         .seguinos_tex2 {
-            font-family: 'Oswald', sans-serif;
+            font-family: $secondary-font;
             font-size: 20px;
-            text-align:left;
-            margin-top: 0;
-            margin-bottom:0;
             font-weight: 600;
+            margin-right: 1rem;
         }
         
         .texto_pie_lis {
             font-size: 15px;
-            font-family: 'Rubik', sans-serif, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+            font-family: $primary-font;
             color: #333;
             line-height:150%;
             list-style: none;
             padding: 0;
         }
-        
-        .seguinos_tex2{
-            font-family: 'Oswald', sans-serif;
-            font-size: 20px;
-            margin-right: 5px;
-            margin-top: 0;
-            margin-bottom: 0;
-            font-weight: 600;
-        }
-        
+              
         .seguinos2{
             margin-top:0px;
         }
 
-            
         .sello_premiun2{
             text-align:center;
             margin:auto;
@@ -79,10 +69,10 @@ footer {
         .acordeon__titulo2{
             display: block;
             padding: 11px;
-            border:solid 3px #008CD1;
+            border: solid 3px #008CD1;
             color:#363636;
             font-size:15px;
-            font-family: 'Oswald', "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+            font-family: $secondary-font;
             text-align:left;
             cursor: pointer;
             width: 100%;
@@ -90,16 +80,15 @@ footer {
         }
         
         .acordeon__titulo2:hover {
-            background: linear-gradient(to bottom, #2f4598 20%,#2b54a1 49%,#226bb3 71%,#00a6e7 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-            color:white;
-            border:none;
+            background: linear-gradient(to bottom, #2f4598 20%,#2b54a1 49%,#226bb3 71%,#00a6e7 100%);
+            color:#fff;
+            border: none;
         }
 
         .acordeon__contenido2{
             height: 0;
             overflow:hidden;
             margin: 0;
-        
         }
         
         .acordeon2 input:checked ~ .acordeon__contenido2{
@@ -110,9 +99,9 @@ footer {
             margin-bottom:20px;
             margin-top:-0.5em;
             margin-left:10px;
-            font-family: 'Rubik', "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+            font-family: $primary-font;
             transition: height border font-family  0.5s ease-in-out;
-            text-align:left;
+            text-align: left;
         }
 
         .columnas-listas-pie {
@@ -132,6 +121,40 @@ footer {
                             color: #008CD1;
                         }
                     }
+                }
+            }
+        }
+
+        .footer-images {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-direction: column;
+
+            @media(min-width: 768px) {
+                flex-direction: row;
+                align-items: flex-start;
+            }
+
+            &>div {
+                display: flex;
+            }
+
+            .sello_premiun {
+                @media(min-width: 768px) {
+                    transform: translateY(-2.5rem);
+                }
+            }
+
+            .img-fiscal2 {
+                margin-bottom: 2rem;
+            }
+
+            .sello_premiun {
+                margin-top: 2rem;
+
+                @media(min-width: 768px) {
+                    margin: 0;
                 }
             }
         }

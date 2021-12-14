@@ -96,19 +96,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   
     
 <div class="botoner_completa animated slideInDown">
-     
-    
-
-            <?php include "include/navegacion.php"; ?>
-            
-         
-      
+    <?php include "include/navegacion.php"; ?>
  </div> 
-<div class="imagen_cabesal">
-	<img src="img/sello_premiun.png" align="right" class="sello_premiun" alt="">
- 
-</div>
-  
 </header>
 
 

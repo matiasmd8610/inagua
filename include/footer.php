@@ -58,21 +58,27 @@
 			</div>
 		</div>
 
-		<div class="col-md-12 img-fiscal mt-5">
-			<div style="float:left">
-				<a href="http://qr.afip.gob.ar/?qr=1qt4s-TexwFKbGmlAD-3kA,," target="new"><img src="img/data_fiscal.png"
-						width="44" heigth="59" alt="" class="hvr-grow img-fiscal2"></a><img src="" alt="">
+		<div class="footer-images mt-5">
+			<div>
+				<a href="http://qr.afip.gob.ar/?qr=1qt4s-TexwFKbGmlAD-3kA,," target="new">
+					<img src="img/data_fiscal.png" width="44" heigth="59" alt="Data Fiscal" class="hvr-grow img-fiscal2">
+				</a>
 			</div>
-			<div style="padding-left:10px; float:left;">
+			<div>
 				<p class="seguinos_tex2">SEGUINOS</p>
-				<a href="https://www.facebook.com/Inagua.Mantenimiento.de.Piscinas/" target="new"><img
-						src="img/logo_face.png" alt="" class="hvr-grow"></a>
+				<a href="https://www.facebook.com/Inagua.Mantenimiento.de.Piscinas/" target="new">
+					<img src="img/logo_face.png" alt="Facebook" class="hvr-grow"></a>
 				<a href="https://twitter.com/InaguaPileteros" target="new"><img src="img/logo_tw.png" alt=""
 						class="hvr-grow"></a>
-				<a href="https://www.instagram.com/inagua.mantenimiento/" target="new"><img src="img/logo_ins.png"
-						alt="" class="hvr-grow"></a>
-				<a href="http://piletero.blogspot.com.ar/" target="new"><img src="img/blogger.png" alt=""
-						class="hvr-grow"></a>
+				<a href="https://www.instagram.com/inagua.mantenimiento/" target="new">
+					<img src="img/logo_ins.png"	alt="Instagram" class="hvr-grow">
+				</a>
+				<a href="http://piletero.blogspot.com.ar/" target="new">
+					<img src="img/blogger.png" alt="Blogger" class="hvr-grow">
+				</a>
+			</div>
+			<div>
+				<img src="img/sello_premiun.png" align="right" class="sello_premiun" alt="Sello Premium">
 			</div>
 		</div>
 	</div>

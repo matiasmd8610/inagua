@@ -49,17 +49,17 @@
   <script type="text/javascript" src="js/modernizr.custom.79639.js"></script>
 
   <link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.min.css">
-  <link href="css/hover.css" rel="stylesheet">
   <script src="js/fileinput.js" type="text/javascript"></script>
   <link href="css/fileinput.css" rel="stylesheet">
   <link href="styles/css/main.css" rel="stylesheet">
   <link rel="stylesheet" href="css/animate/animate.css">
   <link href="styles/css/main.css" rel="stylesheet">
-    <!-- Animate-->
-    <link rel="stylesheet" href="css/animate/animate.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
+  <!-- Animate-->
+  <link rel="stylesheet" href="css/animate/animate.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;600&family=Rubik:wght@300;400;600&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;600&family=Rubik:wght@300;400;600&display=swap"
+    rel="stylesheet">
   <script src="js/wow.js"></script>
   <script>
     new WOW().init();
@@ -123,11 +123,6 @@
 
 
     </div>
-    <div class="imagen_cabesal">
-      <img src="img/sello_premiun.png" align="right" class="sello_premiun" alt="">
-
-    </div>
-
   </header>
 
 
@@ -477,15 +472,15 @@
         </div>
 
         <div class="col-md-6 wow slideInRight" datos-wow-duracion="1s" data-wow-delay="1s">
-            <p class=" texto223"><b>NOS DESTACAMOS EN</b></p>
-            <ul class="destacamos-list">
-              <li>Puntualidad</li>
-              <li>Educación</li>
-              <li>Debidamente uniformados</li>
-              <li>Conocimientos en limpieza de piscinas</li>
-              <li>Seguridad personal y a terceros</li>
-              <li>Equipamiento adecuado</li>
-            </ul>
+          <p class=" texto223"><b>NOS DESTACAMOS EN</b></p>
+          <ul class="destacamos-list">
+            <li>Puntualidad</li>
+            <li>Educación</li>
+            <li>Debidamente uniformados</li>
+            <li>Conocimientos en limpieza de piscinas</li>
+            <li>Seguridad personal y a terceros</li>
+            <li>Equipamiento adecuado</li>
+          </ul>
         </div>
 
       </div>
@@ -576,10 +571,10 @@
         <div class="pileteros_profesionales">
           <p class="td08_4">solo confie en pileteros profesionales</p>
           <p class="td08_3">
-              ...”El tratamiento inadecuado del agua, por falta de conocimientos y experiencia, tiene efectos
-              desagradables provocando irritaciones en la piel, ojos y mucosas y causando enfermedades transmitidas por
-              microorganismos o agentes patógenos. Por todo esto le ofrecemos mantener su piscina y el agua en óptimas
-              condiciones durante todo el año.”...</p>
+            ...”El tratamiento inadecuado del agua, por falta de conocimientos y experiencia, tiene efectos
+            desagradables provocando irritaciones en la piel, ojos y mucosas y causando enfermedades transmitidas por
+            microorganismos o agentes patógenos. Por todo esto le ofrecemos mantener su piscina y el agua en óptimas
+            condiciones durante todo el año.”...</p>
         </div>
       </div>
     </div>

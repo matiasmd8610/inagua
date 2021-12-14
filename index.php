@@ -20,7 +20,6 @@
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.min.css">
   <link href="css/fileinput.css" rel="stylesheet">
-  <link href="css/hover.css" rel="stylesheet">
   <link rel="stylesheet" href="css/animate/animate.css">
   <link href="styles/css/main.css" rel="stylesheet">
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -105,10 +104,6 @@
     <div class="botoner_completa animated slideInDown">
       <!-- INCLUDE NAVEGACIÓN -->
       <?php include "include/navegacion.php"; ?>
-    </div>
-
-    <div class="imagen_cabesal">
-      <img src="img/sello_premiun.png" align="right" class="sello_premiun" alt="Sello Premium">
     </div>
   </header>
 
@@ -274,10 +269,10 @@
       <div class="row">
 
         <div class="col-md-12">
-          <img src="img/img_produ_ind.png" class="img_produc" alt="">
+          <img src="img/nataclor-producto.jpg" class="img_produc" alt="Nataclor producto">
           <div class="td08b_2">
             <div class="presupuesto">
-              <a href="http://tienda.inagua.com.ar/" class="boton-presupuesto" style="text-decoration:none;"  target="_blank">VISITA NUESTRA TIENDA</a>
+              <a href="http://tienda.inagua.com.ar/" class="boton-presupuesto" style="text-decoration:none;"  target="_blank">VISITÁ NUESTRA TIENDA</a>
             </div>
           </div>
 

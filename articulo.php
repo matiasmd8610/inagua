@@ -35,7 +35,6 @@ function get_template( $id ) {
     integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.min.css">
-  <link href="css/hover.css" rel="stylesheet">
   <link href="css/fileinput.css" rel="stylesheet">
   <link href="styles/css/main.css" rel="stylesheet">
   
@@ -130,11 +129,6 @@ function get_template( $id ) {
 
 
     </div>
-    <div class="imagen_cabesal">
-      <img src="img/sello_premiun.png" align="right" class="sello_premiun" alt="">
-
-    </div>
-
   </header>
 
 

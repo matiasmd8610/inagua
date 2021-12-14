@@ -118,9 +118,6 @@ function get_template( $id ) {
     <div class="botoner_completa animated slideInDown">
       <?php include "include/navegacion.php"; ?>
     </div>
-    <div class="imagen_cabesal">
-      <img src="img/sello_premiun.png" align="right" class="sello_premiun" alt="">
-    </div>
   </header>
 
   <section id="cambio_arena">

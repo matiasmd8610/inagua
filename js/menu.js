@@ -2,11 +2,10 @@ $(document).ready(main);
 
 var contador = 1;
 
-function main(){
-	$('#btn-menu').click(function(){
-		// $('nav').toggle();
+function main() {
+	$('#btn-menu').click(function () {
 
-		if(contador == 1){
+		if (contador == 1) {
 			$('nav').animate({
 				right: '0'
 			});
@@ -23,29 +22,35 @@ function main(){
 };
 
 
-$ (document).ready(function(){
+$(document).ready(function () {
 
-
-		$('.ir-arriba').click(function(){
-
-
-			$('body,html').animate({
-				scrollTop:'0px'
-			}, 1000);
+	if ($(window).width() < 768) {
+		$('.submenu').click(function(){
+			$('.submenu ul').toggle();
 		});
+	}
 
-		$(window).scroll(function(){
+
+	$('.ir-arriba').click(function () {
 
 
-				if($(this).scrollTop()>0){
+		$('body,html').animate({
+			scrollTop: '0px'
+		}, 1000);
+	});
 
-				$('.ir-arriba').slideDown(1000);
+	$(window).scroll(function () {
 
-				}else{
 
-				$('.ir-arriba').slideUp(1000);				
-				};
+		if ($(this).scrollTop() > 0) {
 
-		});	
+			$('.ir-arriba').slideDown(1000);
+
+		} else {
+
+			$('.ir-arriba').slideUp(1000);
+		};
+
+	});
 
 });

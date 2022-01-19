@@ -47,12 +47,10 @@
           <ul>
             <li>
               <a
-                href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-casas-countries-casas-quintas-edificios-consorcios-departamentos-hoteles-embajadas.php">SERVICIO
-                DE MANTENIMIENTO</a>
+                href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-casas-countries-casas-quintas-edificios-consorcios-departamentos-hoteles-embajadas.php">SERVICIO DE MANTENIMIENTO</a>
             </li>
             <li>
-              <a href="servicio-de-desagote-limpieza-desinfeccion-de-piletas-y-piscinas-de-natacion.php">DESAGOTE Y
-                DESINFECCIÓN</a>
+              <a href="servicio-de-desagote-limpieza-desinfeccion-de-piletas-y-piscinas-de-natacion.php">DESAGOTE Y DESINFECCIÓN</a>
             </li>
             <li>
               <a href="cambio-de-arena-carga-filtrante-de-filtro.php">CAMBIO DE ARENA</a>

@@ -31,20 +31,18 @@
   <meta name="keywords"
     content="destapacion, destapaciones, desobstruccion, limpia fondo, barre fondo, skimmer, camara de fondo, destapa cañerias">
   <meta name="title"
-    content="DESTAPACIONES DE BARRE FONDO, LIMPIA FONDO, SKIMMER Y CAMARA DE FONDO DE PISCINAS Y PILETAS DE NATACION">
+    content="DESTAPACIONES DE BARRE FONDO, LIMPIA FONDO, SKIMMER Y CAMARA DE FONDO DE PISCINAS Y PISCINAS DE NATACIÓN">
   <meta name="author" content="Administrator">
-  <meta name="description" content="Especialistas en destapaciones de cañerias de piscinas y piletas de natacion." />
+  <meta name="description" content="Especialistas en destapaciones de cañerias de piscinas y piscinas de natación." />
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo" />
-  <title>DESTAPACIONES DE BARRE FONDO, LIMPIA FONDO, SKIMMER Y CAMARA DE FONDO DE PISCINAS Y PILETAS DE NATACION</title>
-
+  <title>DESTAPACIONES DE BARRE FONDO, LIMPIA FONDO, SKIMMER Y CAMARA DE FONDO DE PISCINAS Y PISCINAS DE NATACIÓN</title>
   <link rel="icon" href="img/logo.png">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
   <script src="js/bootstrap-3.3.6.js"></script>
-  <script type="text/javascript" src="js/modernizr.custom.79639.js"></script>
+  <!-- <script type="text/javascript" src="js/modernizr.custom.79639.js"></script> -->
   <link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.min.css">
   <link href="css/hover.css" rel="stylesheet">
   <script src="js/fileinput.js" type="text/javascript"></script>
@@ -121,19 +119,12 @@
     </div>
   </header>
 
-
-
-
-
-
-
   <section id="desagote">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
           <div class="div-texto">
-            <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Destapación de Cañerias de
-              Piletas</h1>
+            <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Destapación de Cañerias de Piscinas</h1>
             <h4 class="texto2 wow slideInUp">destapamos camara de fondo, barrefondo y skimmers de piscinas </h4>
           </div>
         </div>
@@ -179,7 +170,7 @@
         <br>
         <br>
         <h5 class="texto3 wow slideInUp">
-          Llámenos, somos especialistas en destapaciones de barre fondo, skimmer, y cámara de fondo de pileta.
+          Llámenos, somos especialistas en destapaciones de barre fondo, skimmer, y cámara de fondo de piscina.
         </h5>
         <br>
         <br>
@@ -235,7 +226,7 @@
                       </tr>
                       <tr>
                         <td align="center" class="td08bac" width="138">
-                          <p>Si quiere mantener su pileta durante todo el año</p>
+                          <p>Si quiere mantener su piscina durante todo el año</p>
                         </td>
                       </tr>
                       <tr>
@@ -312,12 +303,12 @@
                       </tr>
                       <tr>
                         <td align="center" class="td07pp">
-                          <p>PASTINADO DE PILETAS CON VENECITAS</p>
+                          <p>PASTINADO DE PISCINAS CON VENECITAS</p>
                         </td>
                       </tr>
                       <tr>
                         <td align="center" class="td08bac" width="138">
-                          <p>Rejuvenecemos su pileta</p>
+                          <p>Rejuvenecemos su piscina</p>
                         </td>
                       </tr>
                       <tr>
@@ -338,7 +329,7 @@
                       </tr>
                       <tr>
                         <td align="center" class="td07pp">
-                          <p>PINTURA DE PILETAS</p>
+                          <p>PINTURA DE PISCINAS</p>
                         </td>
                       </tr>
                       <tr>
@@ -527,41 +518,30 @@
         </div>
 
         <div class="col-md-6 lugar_char" align="center">
-
           <div>
-
             <img src="img/partner_2.jpg" class="chata_ind" alt="">
-
           </div>
 
           <div class="texto_zona_1">
             <p class="td08">
-              Brindamos servicios de mantenimiento de piletas en todos los barrios de Capital Federal y alrededores.
+              Brindamos servicios de mantenimiento de piscinas en todos los barrios de Capital Federal y alrededores.
             </p>
           </div>
 
           <div class="btn_zona">
             <p class="boton-zona">
               <a href="piletero-en-capital-federal.php">CONSULTA POR SERVICIOS EN TU ZONA</a>
-
             </p>
           </div>
 
-
         </div>
 
-
-
-
         <div class="col-md-6 ">
-          <div class="lugar_mapa" align="center">
-
+          <div class="lugar_mapa">
             <iframe
               src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d105073.44367018693!2d-58.503338223412456!3d-34.61566245827943!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcca3b4ef90cbd%3A0xa0b3812e88e88e87!2sBuenos+Aires%2C+CABA!5e0!3m2!1ses-419!2sar!4v1504503618843"
               width="430" height="460" frameborder="0" style="border:0" allowfullscreen class="img_mapa_2"></iframe>
-
           </div>
-
 
         </div>
 
@@ -570,9 +550,7 @@
   </section>
 
   <section id="contacto">
-
     <?php include "include/formulario.php"; ?>
-
   </section>
 
 

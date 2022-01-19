@@ -3,27 +3,27 @@
 
   <head>
      
-<!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-T4FLXK7');</script>
-<!-- End Google Tag Manager -->
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-T4FLXK7');</script>
+    <!-- End Google Tag Manager -->
       
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#2F4598">
-
- 		<meta name="robots" content="index, follow, all" />
-		<meta name="googlebot" content="index, follow, all" />	
-		<meta name="keywords" content="pileta, piletas, piscinas, piletero, pileteros, desagote, Coghlan" />
-		<meta name="title" content="Piletero en Coghlan" />
+ 		<meta name="robots" content="index, follow, all">
+		<meta name="googlebot" content="index, follow, all">	
+		<meta name="keywords" content="piscina, piscinas, piletero, pileteros, desagote, Coghlan">
+		<meta name="title" content="Piletero en Coghlan">
 		<meta name="author" content="Administrator" />
-		<meta name="description" content="Servicios de limpieza y mantenimiento de piletas. Pileteros profesionales." />	
+		<meta name="description" content="Servicios de limpieza y mantenimiento de piscinas. Pileteros profesionales.">	
 		<title>Piletero en Coghlan</title>	
-		<meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo" />	    <link rel="icon" href="img/logo.png">
+		<meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo">	    
+    <link rel="icon" href="img/logo.png">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
@@ -37,13 +37,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
    <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;600&family=Rubik:wght@300;400;600&display=swap" rel="stylesheet">
-    <!-- Animate-->
-    <link rel="stylesheet" href="css/animate/animate.css">
-        <script src="js/wow.js"></script>
-    <script>new WOW().init();</script>
+  <link rel="stylesheet" href="css/animate/animate.css">
+  <script src="js/wow.js"></script>
+  <script>new WOW().init();</script>
 
-
-    <!-- Animate Fin-->
 
   <script>
   $(function() {
@@ -84,13 +81,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </script> 
 
 </head>
-  <body class="animated bounceInRight">
+  <body>
     <section>
 
     <?php include "include/chat.php"; ?>
   
   </section>
-    <span class="ir-arriba"><img src="img/up.png" alt=""></span>
+    <span class="ir-arriba"><img src="img/up.png" alt="Ir arriba"></span>
 	<div id="top"></div>
 <header>
 
@@ -243,16 +240,22 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <table width="100%" border="0">
                       <tbody>
                         <tr>
-                          <td align="center"><img src="img/iconos_servicios_pintura.png" width="138" height="129" alt=""/></td>
+                          <td align="center">
+                            <img src="img/iconos_servicios_pintura.png" width="138" height="129" alt="">
+                          </td>
                         </tr>
                         <tr>
-                          <td align="center" class="td07"><p>PINTURA DE PILETAS</p></td>
+                          <td align="center" class="td07"><p>PINTURA DE PISCINAS</p></td>
                         </tr>
                         <tr>
-                          <td align="center" class="td08b"><br><br><p>Pintamos tu piscina de material o plastico <br><br><br></p></td>
+                          <td align="center" class="td08b">
+                            <p>Pintamos tu piscina de material o plástico</p>
+                          </td>
                         </tr>
                         <tr>
-                          <td align="center" style="padding-top: 8px;"><a href="servicio-de-pintado-de-piletas-de-cemento-y-plastico-o-fibra-de-vidrio.php"><p class="boton-click-aqui">MÁS INFO</p></a></td>
+                          <td align="center">
+                            <a href="servicio-de-pintado-de-piletas-de-cemento-y-plastico-o-fibra-de-vidrio.php"><p class="boton-click-aqui">MÁS INFO</p></a>
+                          </td>
                         </tr>
                       </tbody>
                     </table>

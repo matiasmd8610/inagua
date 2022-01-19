@@ -152,7 +152,7 @@
 
 </head>
 
-<body class="animated bounceInRight">
+<body>
   <section>
 
     <?php include "include/chat.php"; ?>
@@ -516,6 +516,6 @@
     });
   </script>
 
-</body>
+</bodyclass=>
 
 </html>

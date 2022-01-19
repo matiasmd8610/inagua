@@ -38,7 +38,6 @@
   <link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.min.css">
   <script src="js/fileinput.js" type="text/javascript"></script>
   <link href="css/fileinput.css" rel="stylesheet">
-  <link href="css/hover.css" rel="stylesheet">
   <link href="styles/css/main.css" rel="stylesheet">
   <link rel="stylesheet" href="css/animate/animate.css">
   <link href="styles/css/main.css" rel="stylesheet">
@@ -87,7 +86,7 @@
 
 </head>
 
-<body class="animated bounceInRight">
+<body>
 
   <section>
 
@@ -117,18 +116,14 @@
       <div class="row">
         <div class="col-md-12">
           <div class="div-texto">
-            <h2 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Mantenimiento de Piletas
-              "INAGUA"</h2>
+            <h2 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Mantenimiento de Piletas "INAGUA"</h2>
             <h4 class="texto2 wow slideInUp">pileteros profesionales</h4>
           </div>
 
           <div class="div-texto">
-            <h5 class="texto3 wow slideInUp">
-              Le damos la bienvenida a nuestro sitio web donde podrá acceder a toda la información sobre los servicios
+            <h5 class="texto3 wow slideInUp">Le damos la bienvenida a nuestro sitio web donde podrá acceder a toda la información sobre los servicios
               que ofrece nuestra empresa de mantenimiento de piletas y todo lo referido al trabajo de pileteros
-              profesionales en la Ciudad Autónoma de Buenos Aires.
-
-            </h5>
+              profesionales en la Ciudad Autónoma de Buenos Aires.</h5>
           </div>
 
         </div>
@@ -136,6 +131,8 @@
       </div>
     </div>
   </section>
+
+
   <section>
     <div class="container">
       <div class="row">
@@ -148,7 +145,7 @@
                 <table width="100%" border="0" style="margin-bottom: 50px;">
                   <tbody>
                     <tr>
-                      <td align="center"><img src="img/icon_casas.png" width="138" height="129" alt="" /></td>
+                      <td align="center"><img src="img/icon_casas.png" width="138" height="129" alt=""></td>
                     </tr>
                     <tr>
                       <td align="center" class="td07">
@@ -161,9 +158,9 @@
                       </td>
                     </tr>
                     <tr>
-                      <td align="center" style="padding-top: 41px;"><a
-                          href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-casas-countries-casas-quintas.php">
-                          <p class="boton-click-aqui" style="text-decoration: none;">MAS INFO</p>
+                      <td align="center">
+                        <a href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-casas-countries-casas-quintas.php">
+                          <p class="boton-click-aqui" style="text-decoration: none;">MÁS INFO</p>
                         </a></td>
                     </tr>
                   </tbody>
@@ -204,7 +201,7 @@
                 <table width="100%" border="0">
                   <tbody>
                     <tr>
-                      <td align="center"><img src="img/icon_desagote.png" width="138" height="129" alt="" /></td>
+                      <td align="center"><img src="img/icon_desagote.png" width="138" height="129" alt=""></td>
                     </tr>
                     <tr>
                       <td align="center" class="td07">
@@ -213,14 +210,13 @@
                     </tr>
                     <tr>
                       <td align="center" class="td08b">
-                        <p><br>Vaciamos, limpiamos y desinfectamos su pileta de natación dejandola lista para llenar o
-                          pintar <br><br></p>
+                        <p>Vaciamos, limpiamos y desinfectamos su pileta de natación dejandola lista para llenar o pintar</p>
                       </td>
                     </tr>
                     <tr>
-                      <td align="center" style="padding-top: 26px;"><a
+                      <td align="center"><a
                           href="servicio-de-desagote-limpieza-desinfeccion-de-piletas-y-piscinas-de-natacion.php">
-                          <p class="boton-click-aqui">MAS INFO</p>
+                          <p class="boton-click-aqui">MÁS INFO</p>
                         </a></td>
                     </tr>
                   </tbody>
@@ -231,23 +227,22 @@
                 <table width="100%" border="0">
                   <tbody>
                     <tr>
-                      <td align="center"><img src="img/icon_filtro.png" width="138" height="129" alt="" /></td>
+                      <td align="center"><img src="img/icon_filtro.png" width="138" height="129" alt=""></td>
                     </tr>
                     <tr>
                       <td align="center" class="td07">
-                        <p>REPARACION Y CAMBIO DE ARENA</p>
+                        <p>REPARACIÓN Y CAMBIO DE ARENA</p>
                       </td>
                     </tr>
                     <tr>
                       <td align="center" class="td08b">
-                        <p>Recuerde que un correcto filtrado
-                          dara por resultado agua cristalina<br><br> </p>
+                        <p>Recuerde que un correcto filtrado darÁ por resultado agua cristalina</p>
                       </td>
                     </tr>
                     <tr>
-                      <td align="center" style="padding-top: 39px;"><a
-                          href="cambio-de-arena-carga-filtrante-de-filtro.php">
-                          <p class="boton-click-aqui">MAS INFO</p>
+                      <td align="center">
+                        <a href="cambio-de-arena-carga-filtrante-de-filtro.php">
+                          <p class="boton-click-aqui">MÁS INFO</p>
                         </a></td>
                     </tr>
                   </tbody>
@@ -513,6 +508,6 @@
     });
   </script>
 
-</body>
+</bodyclass=>
 
 </html>

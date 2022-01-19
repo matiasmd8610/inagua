@@ -74,7 +74,7 @@ if (!$mail->send()) {
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<title>INAGUA - LIMPIEZA Y MANTENIMIENTO DE PILETAS - Pileteros Profesionales- </title>
+<title>INAGUA - LIMPIEZA Y MANTENIMIENTO DE PISCINAS - Pileteros Profesionales- </title>
 <meta http-equiv='refresh' content='4;url=index.php'>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -89,23 +89,14 @@ if (!$mail->send()) {
 
 </head>
 
-<body style="background:#white;" class="woo slide">
+<body class="woo slide">
 
     <table width="100%" border="0" cellspacing="0" cellpadding="0">
-     <!--  <tr>
-        <td height="100%" align="center"><img src="img/logo.png"  /></td>
-      </tr>
-      <tr>
-            <td height="65" colspan="2"><p style=" text-align:center; font-family:Verdana, Geneva, sans-serif; font-size:18px; color:#1fcdff;">Hemos recibido su mensaje</p></td>
-          </tr>
-      <tr> -->
        <tr>
             <td colspan="2"><p style=" text-align:center; font-family:Verdana, Geneva, sans-serif; font-size:16px; color:#333; font-style:italic">Espere a que se vuelva a cargar la pagina, lo redireccionaremos al inicio. <br> El envio del CV a sido exitoso, gracias por comunicarse. En el caso que estemos en alguna busqueda, nos pondremos en contacto a la brevedad. De no ser asi, su información sera guardada en nuestra base de datos por futuras vacantes. 
               </p></td>
           </tr>	
         <td height="44" align="center">
-        
-      
       </tr>
       <tr>
         <td align="center"></td>

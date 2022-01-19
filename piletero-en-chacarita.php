@@ -81,7 +81,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </script>    
 
 </head>
-  <body class="animated bounceInRight">
+  <body>
     <section>
 
     <?php include "include/chat.php"; ?>
@@ -216,20 +216,24 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
       <div class="container">
         <div class="row text-center cont-iconos">
-                <div class="col-md-3 wow fadeIn" datos-wow-duracion= "1s" data-wow-delay = "1s">
+                <div class="col-md-3 wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
                     <table width="100%" border="0">
                       <tbody>
                         <tr>
-                          <td align="center"><img src="img/iconos_servicios_venecitas.png" width="138" height="129" alt=""/></td>
+                          <td align="center">
+                            <img src="img/iconos_servicios_venecitas.png" width="138" height="129" alt="">
+                          </td>
                         </tr>
                         <tr>
-                          <td align="center" class="td07"><p>PASTINADO DE PILETAS CON VENECITAS</p></td>
+                          <td align="center" class="td07"><p>PASTINADO DE PISCINAS CON VENECITAS</p></td>
                         </tr>
                         <tr>
-                          <td align="center" class="td08b"><p><br>Rejuvenecemos su pileta<br><br></p></td>
+                          <td align="center" class="td08b"><p><br>Rejuvenecemos su piscina</p></td>
                         </tr>
                         <tr>
-                          <td align="center" style="padding-top: 43px;"><a href="servicio-de-pastinado-de-piletas-revestidas.php"><p class="boton-click-aqui">MÁS INFO</p></a></td>
+                          <td align="center">
+                            <a href="servicio-de-pastinado-de-piletas-revestidas.php"><p class="boton-click-aqui">MÁS INFO</p></a>
+                          </td>
                         </tr>
                       </tbody>
                     </table>
@@ -243,21 +247,21 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                           <td align="center"><img src="img/iconos_servicios_pintura.png" width="138" height="129" alt=""/></td>
                         </tr>
                         <tr>
-                          <td align="center" class="td07"><p>PINTURA DE PILETAS</p></td>
+                          <td align="center" class="td07"><p>PINTURA DE PISCINAS</p></td>
                         </tr>
                         <tr>
-                          <td align="center" class="td08b"><br><br><p>Pintamos tu piscina de material o plastico <br><br><br></p></td>
+                          <td align="center" class="td08b">
+                            <p>Pintamos tu piscina de material o plástico</p>
+                          </td>
                         </tr>
                         <tr>
-                          <td align="center" style="padding-top: 8px;"><a href="servicio-de-pintado-de-piletas-de-cemento-y-plastico-o-fibra-de-vidrio.php"><p class="boton-click-aqui">MÁS INFO</p></a></td>
+                          <td align="center">
+                            <a href="servicio-de-pintado-de-piletas-de-cemento-y-plastico-o-fibra-de-vidrio.php"><p class="boton-click-aqui">MÁS INFO</p></a>
+                        </td>
                         </tr>
                       </tbody>
                     </table>
                   </div>
-
-                
-          
-
 
                  <div class="col-md-3 wow fadeIn" datos-wow-duracion= "3s" data-wow-delay = "3s">
                     <table width="100%" border="0">
@@ -380,7 +384,7 @@ $(document).on('ready', function() {
 });
 </script>
 
-  </body>
+  </bodyclass=>
 
 </html>
 

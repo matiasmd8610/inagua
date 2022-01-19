@@ -14,11 +14,24 @@ header {
         .horario_atencion {
             display: flex;
             align-items: center;
-            font-size: 1rem;
+
+            @media(max-width: 767px) {
+                display: none;
+            }
+
+            @media(min-width: 768px) {
+                flex-direction: row;
+                font-size: .9rem;
+                margin-bottom: 0;
+            }
 
             img {
                 width: 25px;
                 margin-right: .5rem;
+
+                @media(max-width: 767px) {
+                    display: none;
+                }
             }
 
             &_header_tipos {
@@ -28,6 +41,12 @@ header {
 
                 p {
                     text-transform: uppercase;
+                }
+
+                .dias_atencion {
+                    font-family: $secondary-font;
+                    margin: 0;
+                    font-weight: 600;
                 }
 
             }
@@ -101,7 +120,7 @@ header {
                 z-index: 10;
                 display: flex;
                 justify-content:flex-start;
-                transition: all 1s;
+                transition: all 1s ease;
             }
         
             ul {
@@ -162,7 +181,7 @@ header {
                     display: block;
                     position: absolute;
                     z-index: 15000000;
-                    margin-top: 13px;
+                    margin-top: 11px;
                     background: rgba(255, 255, 255, 1);
                     right: auto;
                     border: none;
@@ -172,10 +191,11 @@ header {
                     top: 30px;
                     box-shadow: 1px 2px 8px #cac8c8;
 
-                    @media (max-width: 991px) {
+                    @media (max-width: 768px) {
                         overflow-y: scroll;
                         width: 250px;
                         height: 350px;
+                        margin-top: 20px;
                     }
                 }
             }

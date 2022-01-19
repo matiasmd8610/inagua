@@ -81,14 +81,17 @@
 		font-family: $secondary-font;
 		font-weight: 600;
 		text-transform: uppercase;
-		margin-top: 40px;
+		//margin-top: 40px;
 	}
 
 }
 
 .staff_1 {
 	width: 100%;
-	margin-top: 50px;
+
+	@media(min-width: 768x) {
+		margin-top: 50px;
+	}
 }
 
 .logo_seguro {
@@ -99,7 +102,6 @@
 .texto_seguro {
 	margin-bottom: 0;
 }
-
 
 .texto_seguro_3 {
 	font-size: 1em;
@@ -167,7 +169,6 @@
 	text-align: center;
 	margin-bottom: 50px;
 	margin: left;
-
 }
 
 
@@ -180,14 +181,13 @@
 }
 
 .btn_zona2 {
-
 	margin-top: 25px;
 }
 
 .img_mapa_2 {
 	width: 90%;
 	margin: auto;
-	margin-top: 50px;
+	margin-top: 2rem;
 }
 
 .btn_zona p a {
@@ -503,7 +503,7 @@
 		display: inline-flex;
 		width: 100%;
 		align-content: center;
-		margin-bottom: 50px;
+		margin-bottom: 2rem;
 	}
 
 }
@@ -824,15 +824,16 @@
 	height: 50px;
 	margin-bottom: 30px;
 	margin-top: -80px;
-	margin-left: 175px;
+	margin-left: 180px;
+	border-radius: 0.5rem;
 }
 
 .text_file2 {
 	color: #fff;
 	letter-spacing: 1px;
-	padding-top: 20px;
-	margin-left: 8px;
-	padding-right: 20px;
+	padding: 12px;
+	font-family: $secondary-font;
+	border-radius: .5rem;
 }
 
 .icono_face_compa {
@@ -846,33 +847,6 @@
 	bottom: 20px;
 	left: 25px;
 	z-index: 3000;
-}
-
-/*Horarios de atencion*/
-.contenedor_horario {
-	width: 50%;
-}
-
-@media (max-width: 1265px) {
-	.contenedor_horario {
-		display: none;
-	}
-
-}
-
-.horario_atencion_header_tipos {
-	display: flex;
-	font-size: 14px;
-	margin-right: 20px;
-	margin-left: 5px;
-	align-items: center;
-}
-
-
-.dias_atencion {
-	font-family: $secondary-font;
-	margin: 0;
-	font-weight: 600;
 }
 
 .horarios_atencion {
@@ -892,10 +866,6 @@
 	text-align: right;
 	display: flex;
 	justify-content: flex-end;
-
-	@media (max-width: 991px) {
-		width: 100%;
-	}
 
 	@media(max-width: 767px) {
 		width: 60%;
@@ -996,6 +966,7 @@
 
 .acordeon__titulo {
 	padding: .25rem 0;
+	font-weight: 400;
 
 	&:hover {
 		color: #2b54a1;
@@ -1018,8 +989,9 @@
 	margin: 15px 0;
 	margin-bottom: 10px;
 	color: #008CD1;
-	font-family: $secondary-font;
+	font-family: $primary-font;
 	transition: all 0.5s ease-in-out;
+	font-weight: 400;
 }
 
 .destacamos-list {
@@ -1202,6 +1174,10 @@ html {
 	letter-spacing: 0.1em;
 	text-decoration: none;
 	border-radius: .5rem;
+
+	&:hover {
+		background-color: #2a58a4;
+	}
 }
 
 
@@ -1314,15 +1290,6 @@ html {
 	font-family: $primary-font;
 	font-weight: 400;
 	text-align: left;
-	margin-left: 20px;
-	margin-right: 20px;
-	padding: 50px;
-
-	@media (max-width: 767px) {
-		font-size: 20px;
-		padding: 0 15px 0 15px;
-	}
-
 }
 
 .texto313 {
@@ -1332,12 +1299,6 @@ html {
 	font-weight: 400;
 	text-align: left;
 	margin-right: 20px;
-
-	@media (max-width: 500px) {
-		font-size: 20px;
-		padding: 0 15px 0 15px;
-	}
-
 }
 
 .texto311 {
@@ -1345,15 +1306,6 @@ html {
 	font-size: 18px;
 	font-family: $primary-font;
 	font-weight: 400;
-
-
-}
-
-@media (max-width: 500px) {
-	.texto311 {
-		font-size: 20px;
-		/*padding: 0 15px 0 15px;*/
-	}
 }
 
 .texto4 {
@@ -1365,13 +1317,6 @@ html {
 	margin-top: 45px;
 	text-decoration: underline;
 	letter-spacing: 0.04em;
-}
-
-@media (max-width: 500px) {
-	.texto4 {
-		font-size: 22px;
-		padding: 0 15px 0 15px;
-	}
 }
 
 .texto5 {
@@ -1449,19 +1394,18 @@ form {
 
 .form-control {
 	display: block;
-	padding: 20px 10px 1px 10px;
 	width: 100%;
-	padding-top: 10px;
-	height: 38px;
+	height: 40px;
 	font-size: 16px;
 	line-height: 1.42857143;
 	letter-spacing: 1px;
 	color: #555;
 	background-image: none;
-	border: 1px solid #0192d5;
+	border: 1px solid #888;
 	border-radius: 0;
 	box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
 	transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+	margin-bottom: 1.5rem;
 
 	&:focus {
 		border-color: #66afe9;
@@ -1487,7 +1431,6 @@ input:-ms-input-placeholder {
 
 .btn-submit {
 	background-color: #0192d5;
-	width: 100%;
 	border: 0;
 	padding: 15px 20px;
 	font-size: 18px;
@@ -1522,18 +1465,10 @@ input.btn-primary {
 }
 
 .form-newsletter {
-
 	margin-top: 25px;
 	padding: 0;
 	text-align: center;
-
-	width: 80%;
-}
-
-@media (max-width: 400px) {
-	.form-newsletter {
-		width: 90%;
-	}
+	width: 90%;
 }
 
 .input-group {
@@ -1548,15 +1483,9 @@ input.btn-primary {
 	font-size: 16px;
 	font-family: $primary-font;
 	color: #333;
-	font-weight: lighter;
+	font-weight: 300;
 	height: 14px;
 	text-align: left;
-}
-
-@media (max-width: 450px) {
-	.td08 {
-		font-size: 14px;
-	}
 }
 
 .td08b {
@@ -1566,6 +1495,8 @@ input.btn-primary {
 	letter-spacing: 0.04em;
 	height: 14px;
 	text-align: center;
+	vertical-align: top;
+	height: 85px;
 }
 
 .separ-01 {
@@ -1587,12 +1518,12 @@ input.btn-primary {
 
 .link-td09 {
 	color: #333;
+	&:hover {
+		color: #0192d5;
+		text-decoration: none;
+	}
 }
 
-.link-td09:hover {
-	color: #0192d5;
-	text-decoration: none;
-}
 
 .td10 {
 	font-size: 14px;
@@ -1610,18 +1541,17 @@ input.btn-primary {
 	color: #333;
 	font-weight: 600;
 	letter-spacing: 0.01em;
-	/*background-color: yellow;*/
-	text-align: left;
 }
 
 .link-td11 {
 	color: #333;
+	&:hover {
+		color: #0192d5;
+		text-decoration: none;
+	}
+	
 }
 
-.link-td11:hover {
-	color: #0192d5;
-	text-decoration: none;
-}
 
 .boton-mas {
 	margin-top: 10px;
@@ -1632,6 +1562,7 @@ input.btn-primary {
 	text-decoration: none;
 	font-size: 1rem;
 	letter-spacing: 0.1em;
+	border-radius: 0.5rem;
 
 	&:hover {
 		background-color: #2a58a4;

@@ -152,7 +152,7 @@
 
 </head>
 
-<body class="animated bounceInRight">
+<body>
   <span class="ir-arriba"><img src="img/up.png" alt=""></span>
   <div id="top"></div>
   <header>
@@ -511,6 +511,6 @@
     });
   </script>
 
-</body>
+</bodyclass=>
 
 </html>

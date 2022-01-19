@@ -12,10 +12,10 @@
 							Hoteles y Embajadas</a></li>
 					<li><a href="servicio-de-desagote-limpieza-desinfeccion-de-piletas-y-piscinas-de-natacion.php">Desagote
 							de Piscinas</a></li>
-					<li><a href="cambio-de-arena-carga-filtrante-de-filtro.php">Reparacion de Filtros</a></li>
-					<li><a href="servicio-de-pastinado-de-piletas-revestidas.php">Empastinado de Piletas</a></li>
+					<li><a href="cambio-de-arena-carga-filtrante-de-filtro.php">Reparación de Filtros</a></li>
+					<li><a href="servicio-de-pastinado-de-piletas-revestidas.php">Empastinado de Piscinas</a></li>
 					<li><a href="servicio-de-pintado-de-piletas-de-cemento-y-plastico-o-fibra-de-vidrio.php">Pintado de
-							Piletas</a></li>
+							Piscinas</a></li>
 					<li><a href="productos-quimicos-y-accesorios-para-piletas-y-piscinas-de-natacion.php">Venta de
 							Productos</a></li>
 					<li><a href="analisis-bacteriologico-de-agua-de-piscinas-piletas.php">Analisis Bactereologico</a>

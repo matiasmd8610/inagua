@@ -104,7 +104,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </script> 
 
 </head>
-  <body class="animated bounceInRight">
+  <body>
     <section>
 
     <?php include "include/chat.php"; ?>
@@ -404,7 +404,7 @@ $(document).on('ready', function() {
 });
 </script>
 
-  </body>
+  </bodyclass=>
 
 </html>
 

@@ -30,11 +30,11 @@
   <meta name="robots" content="index, follow, all">
   <meta name="googlebot" content="index, follow, all">
   <meta name="keywords"
-    content="limpieza de piletas, piletas, piscinas, piletero, pileteros, desagotes, mantenimiento de piletas">
-  <meta name="title" content="INAGUA - MANTENIMIENTO DE PILETAS - DESAGOTES">
+    content="limpieza de piscina piscinas, piletero, pileteros, desagotes, mantenimiento de piscinas">
+  <meta name="title" content="INAGUA - MANTENIMIENTO DE PISCINAS - DESAGOTES">
   <meta name="author" content="Administrator">
-  <meta name="description" content="Empresa de Mantenimiento y Limpieza de Piletas. Pileteros profesionales." />
-  <title>INAGUA - MANTENIMIENTO DE PILETAS - DESAGOTES</title>
+  <meta name="description" content="Empresa de Mantenimiento y Limpieza de piscinas. Pileteros profesionales." />
+  <title>INAGUA - MANTENIMIENTO DE PISCINAS - DESAGOTES</title>
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo">
   <link rel="icon" href="img/logo.png">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
@@ -91,7 +91,7 @@
 
 </head>
 
-<body class="animated bounceInRight">
+<body>
 
   <section>
 
@@ -125,17 +125,15 @@
       <div class="row">
         <div class="col-md-12">
           <div class="div-texto">
-            <h2 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Mantenimiento de Piletas
-              "INAGUA"</h2>
+            <h2 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Mantenimiento de Piscinas "INAGUA"</h2>
             <h4 class="texto2 wow slideInUp">pileteros profesionales</h4>
           </div>
 
           <div class="div-texto">
             <h5 class="texto3 wow slideInUp">
               Le damos la bienvenida a nuestro sitio web donde podrá acceder a toda la información sobre los servicios
-              que ofrece nuestra empresa de mantenimiento de piletas y todo lo referido al trabajo de pileteros
+              que ofrece nuestra empresa de mantenimiento de piscinas y todo lo referido al trabajo de pileteros
               profesionales en la Ciudad Autónoma de Buenos Aires.
-
             </h5>
           </div>
 
@@ -160,18 +158,18 @@
                     </tr>
                     <tr>
                       <td align="center" class="td07">
-                        <p>CASAS PARTICULARES</p><br>
+                        <p>CASAS PARTICULARES</p>
                       </td>
                     </tr>
                     <tr>
                       <td align="center" class="td08b">
-                        <p>Si quiere mantener su pileta durante todo el año</p><br>
+                        <p>Si quiere mantener su piscina durante todo el año</p>
                       </td>
                     </tr>
                     <tr>
-                      <td align="center" style="padding-top: 41px;"><a
-                          href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-casas-countries-casas-quintas.php">
-                          <p class="boton-click-aqui" style="text-decoration: none;">MAS INFO</p>
+                      <td align="center">
+                        <a href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-casas-countries-casas-quintas.php">
+                          <p class="boton-click-aqui">MÁS INFO</p>
                         </a></td>
                     </tr>
                   </tbody>
@@ -179,10 +177,10 @@
               </div>
 
               <div class="col-md-3 wow fadeIn" datos-wow-duracion="2s" data-wow-delay="2s">
-                <table width="100%" border="0" style="text-align:center; margin-bottom: 50px;">
+                <table width="100%" border="0">
                   <tbody>
                     <tr>
-                      <td align="center"><img src="img/icon_consorcio.png" width="138" height="129" alt="" /></td>
+                      <td align="center"><img src="img/icon_consorcio.png" width="138" height="129" alt=""></td>
                     </tr>
                     <tr>
                       <td class="td07">
@@ -191,22 +189,19 @@
                     </tr>
                     <tr>
                       <td class="td08b">
-                        <p>Especialistas en mantenimiento
-                          de piletas de natación en consorcios <br><br><br></p>
+                        <p>Especialistas en mantenimiento de piscinas de natación en consorcios</p>
                       </td>
                     </tr>
                     <tr>
-                      <td align="center" style="padding-top: 20px;"><a
-                          href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-edificios-consorcios-departamentos.php">
-                          <p class="boton-click-aqui">MAS INFO</p>
+                      <td align="center">
+                        <a href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-edificios-consorcios-departamentos.php">
+                          <p class="boton-click-aqui">MÁS INFO</p>
                         </a></td>
                     </tr>
                   </tbody>
                 </table>
 
               </div>
-
-
 
               <div class="col-md-3 wow fadeIn" datos-wow-duracion="3s" data-wow-delay="3s">
                 <table width="100%" border="0">
@@ -221,7 +216,7 @@
                     </tr>
                     <tr>
                       <td align="center" class="td08b">
-                        <p><br>Vaciamos, limpiamos y desinfectamos su pileta de natación dejandola lista para llenar o
+                        <p><br>Vaciamos, limpiamos y desinfectamos su piscina de natación dejandola lista para llenar o
                           pintar <br><br></p>
                       </td>
                     </tr>
@@ -243,7 +238,7 @@
                     </tr>
                     <tr>
                       <td align="center" class="td07">
-                        <p>REPARACION Y CAMBIO DE ARENA</p>
+                        <p>REPARACIÓN Y CAMBIO DE ARENA</p>
                       </td>
                     </tr>
                     <tr>
@@ -263,20 +258,8 @@
 
               </div>
 
-
-
-
             </div>
           </div>
-
-
-
-
-
-
-
-
-
 
         </div>
 
@@ -297,7 +280,7 @@
 
           <div class="td08b_2">
             <p>
-              Consegui tus producto para el mantenimiento del agua de tu pileta <br> y tambien accesorios de primera
+              Consegui tus producto para el mantenimiento del agua de tu piscina y tambien accesorios de primera
               calidad y de marcas lideres.
             </p>
 
@@ -316,17 +299,6 @@
 
   </section>
 
-
-
-
-
-
-
-
-
-
-
-
   <section>
 
     <div class="container sobre_nosotros_1">
@@ -342,38 +314,36 @@
 
           <table width="100%" border="0" style="text-align:center; margin-bottom: 20px;">
             <tbody>
-
-
               <td align="center" class="td08">
                 <table style="margin: auto; text-align:left; margin-top: 15px;">
                   <tbody>
                     <tr>
-                      <td><img src="img/punto1.jpg" width="10" height="10" alt="" /></td>
+                      <td><img src="img/punto1.jpg" width="10" height="10" alt=""></td>
                       <td width="5"></td>
                       <td>Puntualidad</td>
                     </tr>
                     <tr>
-                      <td><img src="img/punto1.jpg" width="10" height="10" alt="" /></td>
+                      <td><img src="img/punto1.jpg" width="10" height="10" alt=""></td>
                       <td width="5"></td>
                       <td>Educación</td>
                     </tr>
                     <tr>
-                      <td><img src="img/punto1.jpg" width="10" height="10" alt="" /></td>
+                      <td><img src="img/punto1.jpg" width="10" height="10" alt=""></td>
                       <td width="5"></td>
                       <td>Debidamente uniformados</td>
                     </tr>
                     <tr>
-                      <td><img src="img/punto1.jpg" width="10" height="10" alt="" /></td>
+                      <td><img src="img/punto1.jpg" width="10" height="10" alt=""></td>
                       <td width="5"></td>
                       <td>Conocimientos en limpieza de piscinas</td>
                     </tr>
                     <tr>
-                      <td><img src="img/punto1.jpg" width="10" height="10" alt="" /></td>
+                      <td><img src="img/punto1.jpg" width="10" height="10" alt=""></td>
                       <td width="5"></td>
                       <td>Seguridad personal y a terceros</td>
                     </tr>
                     <tr>
-                      <td><img src="img/punto1.jpg" width="10" height="10" alt="" /></td>
+                      <td><img src="img/punto1.jpg" width="10" height="10" alt=""></td>
                       <td width="5"></td>
                       <td>Equipamiento adecuado</td>
                     </tr>

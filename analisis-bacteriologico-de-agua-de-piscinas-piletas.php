@@ -26,16 +26,13 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#2F4598">
-  <meta name="googlebot" content="index, follow, all" />
-  <meta name="keywords"
-    content="limpieza de piletas, piletas, piscinas, piletero, pileteros, desagotes, mantenimiento de piletas" />
-  <meta name="title" content="ANALISIS BACTEREOLOGICO Y FISICO-QUIMICO DE AGUA DE PILETAS" />
-  <meta name="author" content="Administrator" />
-  <meta name="description"
-    content="Toma de muestra de agua de pileta a domicilio. Analisis de cloruros y microbiologicos." />
+  <meta name="googlebot" content="index, follow, all">
+  <meta name="keywords" content="limpieza de piscina, piscinas, piletero, pileteros, desagotes, mantenimiento de piscinas">
+  <meta name="title" content="ANALISIS BACTEREOLOGICO Y FISICO-QUIMICO DE AGUA DE PISCINAS">
+  <meta name="author" content="Administrator">
+  <meta name="description"  content="Toma de muestra de agua de piscina a domicilio. Análisis de cloruros y microbiologicos.">
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo">
-  <title>ANALISIS BACTEREOLOGICO Y FISICO-QUIMICO DE AGUA DE PILETAS</title>
-
+  <title>ANÁLISIS BACTEREOLOGICO Y FÍSICO-QUÍMICO DE AGUA DE PISCINAS</title>
   <link rel="icon" href="img/logo.png">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
@@ -52,18 +49,13 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;600&family=Rubik:wght@300;400;600&display=swap"
     rel="stylesheet">
-
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
   <script src="js/bootstrap-3.3.6.js"></script>
-  <script type="text/javascript" src="js/modernizr.custom.79639.js"></script>
   <script src="js/fileinput.js" type="text/javascript"></script>
   <script src="js/wow.js"></script>
   <script>
     new WOW().init();
   </script>
-
-
-  <!-- Animate Fin-->
 
   <script>
     $(function () {
@@ -98,8 +90,8 @@
   </script>
 
 </head>
+<body>
 
-<body class="animated bounceInLeft">
   <section>
 
     <?php include "include/chat.php"; ?>
@@ -203,7 +195,7 @@
                       </tr>
                       <tr>
                         <td align="center" class="td08bac" width="138">
-                          <p>Si quiere mantener su pileta durante todo el año</p>
+                          <p>Si quiere mantener su piscina durante todo el año</p>
                         </td>
                       </tr>
                       <tr>
@@ -305,12 +297,12 @@
                       </tr>
                       <tr>
                         <td align="center" class="td07pp">
-                          <p>PASTINADO DE PILETAS CON VENECITAS</p>
+                          <p>PASTINADO DE PISCINAS CON VENECITAS</p>
                         </td>
                       </tr>
                       <tr>
                         <td align="center" class="td08bac" width="138">
-                          <p>Rejuvenecemos su pileta</p>
+                          <p>Rejuvenecemos su piscina</p>
                         </td>
                       </tr>
                       <tr>
@@ -331,7 +323,7 @@
                       </tr>
                       <tr>
                         <td align="center" class="td07pp">
-                          <p>PINTURA DE PILETAS</p>
+                          <p>PINTURA DE PISCINAS</p>
                         </td>
                       </tr>
                       <tr>
@@ -488,7 +480,7 @@
 
           <div class="texto_zona_1">
             <p class="td08">
-              Brindamos servicios de mantenimiento de piletas en todos los barrios de Capital Federal y alrededores.
+              Brindamos servicios de mantenimiento de piscinas en todos los barrios de Capital Federal y alrededores.
             </p>
           </div>
 

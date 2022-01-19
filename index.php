@@ -9,11 +9,11 @@
   <meta name="theme-color" content="#2F4598">
   <meta name="robots" content="index, follow, all">
   <meta name="googlebot" content="index, follow, all">
-  <meta name="keywords" content="pileta, piletas, piscinas, piletero, pileteros, desagote">
-  <meta name="title" content="PILETEROS - LIMPIEZA DE PILETAS - DESAGOTES DE PISCINAS">
+  <meta name="keywords" content="piscina, piscinas, piletero, pileteros, desagote">
+  <meta name="title" content="PILETEROS - LIMPIEZA DE PISCINAS - DESAGOTES DE PISCINAS">
   <meta name="author" content="Administrator">
-  <meta name="description" content="Empresa profesional de Limpieza y desagote de pileta. Piletero en Capital Federal.">
-  <title>PILETEROS - LIMPIEZA DE PILETAS - DESAGOTES DE PISCINAS</title>
+  <meta name="description" content="Empresa profesional de Limpieza y desagote de piscina. Piletero en Capital Federal.">
+  <title>PILETEROS - LIMPIEZA DE PISCINAS - DESAGOTES DE PISCINAS</title>
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo">
   <link rel="shortcut icon" href="img/logo.png">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
@@ -127,142 +127,10 @@
       </div>
     </div>
   </section>
-  <section>
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12">
 
-
-          <div class="container">
-            <div class="row text-center cont-iconos">
-              <div class="col-md-3 wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
-                <table width="100%" border="0">
-                  <tbody>
-                    <tr>
-                      <td align="center"><img src="img/icon_casas.png" width="138" height="129" alt="Casas">
-                    </td>
-                    </tr>
-                    <tr>
-                      <td align="center" class="td07">
-                        <p>CASAS PARTICULARES</p>
-                      </td>
-                    </tr>
-                    <tr>
-                      <td align="center" class="td08b" style="height: 100px; vertical-align: top;">
-                        <p>Si quiere mantener su pileta durante todo el año</p>
-                      </td>
-                    </tr>
-                    <tr>
-                      <td align="center">
-                        <a
-                          href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-casas-countries-casas-quintas.php">
-                          <p class="boton-click-aqui" style="text-decoration: none;">MÁS INFO</p>
-                        </a></td>
-                    </tr>
-                  </tbody>
-                </table>
-              </div>
-
-              <div class="col-md-3 wow fadeIn" datos-wow-duracion="2s" data-wow-delay="2s">
-                <table width="100%" border="0" style="text-align:center;">
-                  <tbody>
-                    <tr>
-                      <td align="center">
-                        <img src="img/icon_consorcio.png" width="138" height="129" alt="">
-                    </td>
-                    </tr>
-                    <tr>
-                      <td class="td07">
-                        <p>CONSORCIOS, HOTELES Y EMBAJADAS</p>
-                      </td>
-                    </tr>
-                    <tr>
-                      <td class="td08b" style="height: 100px; vertical-align: top;">
-                        <p>Especialistas en mantenimiento  de piletas de natación en consorcios</p>
-                      </td>
-                    </tr>
-                    <tr>
-                      <td align="center">
-                        <a
-                          href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-edificios-consorcios-departamentos.php">
-                          <p class="boton-click-aqui">MÁS INFO</p>
-                        </a>
-                      </td>
-                    </tr>
-                  </tbody>
-                </table>
-
-              </div>
-
-              <div class="col-md-3 wow fadeIn" datos-wow-duracion="3s" data-wow-delay="3s">
-                <table width="100%" border="0">
-                  <tbody>
-                    <tr>
-                      <td align="center">
-                        <img src="img/icon_desagote.png" width="138" height="129" alt="">
-                      </td>
-                    </tr>
-                    <tr>
-                      <td align="center" class="td07">
-                        <p>DESAGOTE DE PISCINAS</p>
-                      </td>
-                    </tr>
-                    <tr>
-                      <td align="center" class="td08b" style="height: 100px; vertical-align: top;">
-                        <p>Vaciamos, limpiamos y desinfectamos su pileta de natación dejandola lista para llenar o                        pintar</p>
-                      </td>
-                    </tr>
-                    <tr>
-                      <td align="center">
-                        <a href="servicio-de-desagote-limpieza-desinfeccion-de-piletas-y-piscinas-de-natacion.php">
-                          <p class="boton-click-aqui">MÁS INFO</p>
-                        </a>
-                      </td>
-                    </tr>
-                  </tbody>
-                </table>
-              </div>
-
-              <div class="col-md-3 wow fadeIn" datos-wow-duracion="4s" data-wow-delay="4s">
-                <table width="100%" border="0">
-                  <tbody>
-                    <tr>
-                      <td align="center">
-                        <img src="img/icon_filtro.png" width="138" height="129" alt="">
-                      </td>
-                    </tr>
-                    <tr>
-                      <td align="center" class="td07">
-                        <p>REPARACIÓN Y CAMBIO DE ARENA</p>
-                      </td>
-                    </tr>
-                    <tr>
-                      <td align="center" class="td08b" style="height: 100px; vertical-align: top;">
-                        <p>Recuerde que un correcto filtrado  dara por resultado agua cristalina</p>
-                      </td>
-                    </tr>
-                    <tr>
-                      <td align="center">
-                      <a href="cambio-de-arena-carga-filtrante-de-filtro.php">
-                          <p class="boton-click-aqui">MÁS INFO</p>
-                        </a>
-                      </td>
-                    </tr>
-                  </tbody>
-                </table>
-
-              </div>
-
-            </div>
-          </div>
-
-        </div>
-
-      </div>
-    </div>
-
-  </section>
-
+  <!-- SERVICIOS SUGERIDOS: Begin -->
+  <?php include "include/servicios-sugeridos.php"; ?>
+  <!-- SERVICIOS SUGERIDOS: End -->
 
   <section class="wow bounceInUp mt-5" datos-wow-duracion="4s" data-wow-delay="2s">
     <div class="container">
@@ -421,7 +289,7 @@
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
   <script src="js/bootstrap-3.3.6.js"></script>
-  <script type="text/javascript" src="js/modernizr.custom.79639.js"></script>
+  <!-- <script type="text/javascript" src="js/modernizr.custom.79639.js"></script> -->
   <script src="js/loaders.css.js"></script>
   <script src="js/fileinput.js" type="text/javascript"></script>
   <script src="js/wow.js"></script>

@@ -84,23 +84,15 @@ if (!$mail->send()) {
 
 </head>
 
-<body style="background:#white;" class="woo slide">
+<body class="woo slide">
 
     <table width="100%" border="0" cellspacing="0" cellpadding="0">
-     <!--  <tr>
-        <td height="100%" align="center"><img src="img/logo.png"  /></td>
-      </tr>
-      <tr>
-            <td height="65" colspan="2"><p style=" text-align:center; font-family:Verdana, Geneva, sans-serif; font-size:18px; color:#1fcdff;">Hemos recibido su mensaje</p></td>
-          </tr>
-      <tr> -->
        <tr>
-            <td colspan="2"><p style=" text-align:center; font-family:Verdana, Geneva, sans-serif; font-size:16px; color:#333; font-style:italic">Espere a que se vuelva a cargar la pagina, lo redireccionaremos al inicio. <br> Muchas gracias por su mensaje, a la brevedad nos podremos en contacto. 
+            <td colspan="2">
+              <p style="text-align:center; font-family:Verdana, Geneva, sans-serif; font-size:16px; color:#333; font-style:italic">Espere a que se vuelva a cargar la pagina, lo redireccionaremos al inicio. <br> Muchas gracias por su mensaje, a la brevedad nos podremos en contacto. 
               </p></td>
           </tr>	
         <td height="44" align="center">
-        
-      
       </tr>
       <tr>
         <td align="center"></td>

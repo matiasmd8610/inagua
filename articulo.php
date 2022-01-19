@@ -21,15 +21,13 @@ function get_template( $id ) {
   <meta name="theme-color" content="#2F4598">
   <meta name="robots" content="index, follow, all">
   <meta name="googlebot" content="index, follow, all">
-  <meta name="keywords" content="pileta, piletas, piscinas, piletero, pileteros, desagote">
-  <meta name="title" content="PILETEROS - LIMPIEZA DE PILETAS - DESAGOTES DE PISCINAS">
+  <meta name="keywords" content="piscina, piscinas, piletero, pileteros, desagote">
+  <meta name="title" content="PILETEROS - LIMPIEZA DE PISCINAS - DESAGOTES DE PISCINAS">
   <meta name="author" content="Administrator">
-  <meta name="description"
-    content="Empresa profesional de Limpieza y desagote de pileta. Piletero en Capital Federal." />
+  <meta name="description" content="Empresa profesional de Limpieza y desagote de piscina. Piletero en Capital Federal.">
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo">
   <meta property="fb:app_id" content="383820332074788" />
-  <title>PILETEROS - LIMPIEZA DE PILETAS - DESAGOTES DE PISCINAS</title>
-
+  <title>PILETEROS - LIMPIEZA DE PISCINAS - DESAGOTES DE PISCINAS</title>
   <link rel="icon" href="img/logo.png">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
@@ -37,7 +35,6 @@ function get_template( $id ) {
   <link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.min.css">
   <link href="css/fileinput.css" rel="stylesheet">
   <link href="styles/css/main.css" rel="stylesheet">
-  
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
   <script src="js/bootstrap-3.3.6.js"></script>
   <script type="text/javascript" src="js/modernizr.custom.79639.js"></script>
@@ -91,7 +88,7 @@ function get_template( $id ) {
 
 </head>
 
-<body class="animated bounceInRight">
+<body>
   <section>
 
     <?php include "include/chat.php"; ?>
@@ -187,8 +184,8 @@ function get_template( $id ) {
                     </td>
                   </tr>
                   <tr>
-                    <td align="center" style="padding-top: 41px;"><a
-                        href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-casas-countries-casas-quintas.php">
+                    <td align="center">
+                      <a href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-casas-countries-casas-quintas.php">
                         <p class="boton-click-aqui" style="text-decoration: none;">MÁS INFO</p>
                       </a></td>
                   </tr>
@@ -209,13 +206,12 @@ function get_template( $id ) {
                   </tr>
                   <tr>
                     <td class="td08b">
-                      <p>Especialistas en mantenimiento
-                        de piletas de natación en consorcios <br><br><br></p>
+                      <p>Especialistas en mantenimiento de piscinas de natación en consorcios</p>
                     </td>
                   </tr>
                   <tr>
-                    <td align="center" style="padding-top: 20px;"><a
-                        href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-edificios-consorcios-departamentos.php">
+                    <td align="center">
+                      <a href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-edificios-consorcios-departamentos.php">
                         <p class="boton-click-aqui">MÁS INFO</p>
                       </a></td>
                   </tr>
@@ -239,7 +235,7 @@ function get_template( $id ) {
                   </tr>
                   <tr>
                     <td align="center" class="td08b">
-                      <p><br>Vaciamos, limpiamos y desinfectamos su pileta de natación dejandola lista para llenar o
+                      <p><br>Vaciamos, limpiamos y desinfectamos su piscina de natación dejandola lista para llenar o
                         pintar <br><br></p>
                     </td>
                   </tr>
@@ -300,7 +296,7 @@ function get_template( $id ) {
                   </tr>
                   <tr>
                     <td align="center" class="td07">
-                      <p>PASTINADO DE PILETAS CON VENECITAS</p>
+                      <p>PASTINADO DE PISCINAS CON VENECITAS</p>
                     </td>
                   </tr>
                   <tr>
@@ -328,7 +324,7 @@ function get_template( $id ) {
                   </tr>
                   <tr>
                     <td align="center" class="td07">
-                      <p>PINTURA DE PILETAS</p>
+                      <p>PINTURA DE PISCINAS</p>
                     </td>
                   </tr>
                   <tr>

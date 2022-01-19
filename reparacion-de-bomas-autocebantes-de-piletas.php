@@ -92,7 +92,7 @@ function get_template( $id ) {
 
 </head>
 
-<body class="animated bounceInRight">
+<body>
   <section>
 
     <?php include "include/chat.php"; ?>
@@ -522,6 +522,6 @@ function get_template( $id ) {
     });
   </script>
 
-</body>
+</bodyclass=>
 
 </html>

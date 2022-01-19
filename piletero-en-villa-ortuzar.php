@@ -126,7 +126,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </script> 
 
 </head>
-  <body class="animated bounceInRight">
+  <body>
     <section>
 
     <?php include "include/chat.php"; ?>
@@ -177,10 +177,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                           <td align="center"><img src="img/icon_casas.png" width="138" height="129" alt=""/></td>
                         </tr>
                         <tr>
-                          <td align="center" class="td07"><p>CASAS PARTICULARES</p><br></td>
+                          <td align="center" class="td07"><p>CASAS PARTICULARES</p></td>
                         </tr>
                         <tr>
-                          <td align="center" class="td08b"><p>Si quiere mantener su pileta durante todo el año</p><br></td>
+                          <td align="center" class="td08b"><p>Si quiere mantener su pileta durante todo el año</p></td>
                         </tr>
                         <tr>
                           <td align="center" style="padding-top: 41px;"><a href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-casas-countries-casas-quintas.php"><p class="boton-click-aqui" style="text-decoration: none;">MAS INFO</p></a></td>
@@ -200,17 +200,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         </tr>
                         <tr>
                           <td class="td08b"><p>Especialistas en mantenimiento
-                          de piletas de natación en consorcios <br><br><br></p></td>
+                          de piletas de natación en consorcios</p></td>
                         </tr>
                         <tr>
-                          <td align="center" style="padding-top: 20px;"><a href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-edificios-consorcios-departamentos.php"><p class="boton-click-aqui">MAS INFO</p></a></td>
+                          <td align="center">
+                            <a href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-edificios-consorcios-departamentos.php"><p class="boton-click-aqui">MÁS INFO</p></a>
+                          </td>
                         </tr>
                       </tbody>
                     </table>
                     
                 </div>
-
-
 
                  <div class="col-md-3 wow fadeIn" datos-wow-duracion= "3s" data-wow-delay = "3s">
                     <table width="100%" border="0">
@@ -222,10 +222,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                           <td align="center" class="td07"><p>DESAGOTE DE PISCINAS</p></td>
                         </tr>
                         <tr>
-                          <td align="center" class="td08b"><p><br>Vaciamos, limpiamos y desinfectamos su pileta de natación dejandola lista para llenar o pintar <br><br></p></td>
+                          <td align="center" class="td08b">
+                            <p>Vaciamos, limpiamos y desinfectamos su pileta de natación dejandola lista para llenar o pintar</p></td>
                         </tr>
                         <tr>
-                          <td align="center" style="padding-top: 26px;"><a href="servicio-de-desagote-limpieza-desinfeccion-de-piletas-y-piscinas-de-natacion.php"><p class="boton-click-aqui">MAS INFO</p></a></td>
+                          <td align="center">
+                          <a href="servicio-de-desagote-limpieza-desinfeccion-de-piletas-y-piscinas-de-natacion.php"><p class="boton-click-aqui">MÁS INFO</p></a></td>
                         </tr>
                       </tbody>
                     </table>
@@ -238,7 +240,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                           <td align="center"><img src="img/icon_filtro.png" width="138" height="129" alt=""/></td>
                         </tr>
                         <tr>
-                          <td align="center" class="td07"><p>REPARACION Y CAMBIO DE ARENA</p></td>
+                          <td align="center" class="td07"><p>REPARACIÓN Y CAMBIO DE ARENA</p></td>
                         </tr>
                         <tr>
                           <td align="center" class="td08b"><p>Recuerde que un correcto filtrado
@@ -423,7 +425,7 @@ $(document).on('ready', function() {
 });
 </script>
 
-  </body>
+  </bodyclass=>
 
 </html>
 

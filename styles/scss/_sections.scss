@@ -154,12 +154,14 @@
 	margin-bottom: 150px;
 	margin: auto;
 	border-radius: .5rem;
+
+	&:hover {
+		background-color: #2a58a4;
+	}
 }
 
 .boton-zona2 {
-	padding: 20px 10px 1px 10px;
-	padding-top: 20px;
-	padding-bottom: 5px;
+	padding: 10px;
 	background-color: #0192d5;
 	width: 100%;
 	color: #fff;
@@ -168,13 +170,8 @@
 	font-weight: 300;
 	text-align: center;
 	margin-bottom: 50px;
-	margin: left;
 }
 
-
-.boton-zona:hover {
-	background-color: #2a58a4;
-}
 
 .btn_zona {
 	margin-top: 75px;
@@ -192,7 +189,7 @@
 
 .btn_zona p a {
 	text-decoration: none;
-	color: white;
+	color: #fff;
 }
 
 .img_mapa_2 img {
@@ -211,28 +208,23 @@
 	padding: 20px;
 	border: solid 1px;
 	border-color: #000;
-}
-
-@media (max-width: 900px) {
-	.pileteros_profesionales {
+	
+	@media (max-width: 900px) {
 		height: auto;
-		width: 90%;
 		margin-left: auto;
 		margin-right: auto;
 	}
-
 }
 
 .td08_3 {
 	font-size: 18px;
 	font-family: $primary-font;
 	color: #333;
-	letter-spacing: 0.04em;
-	padding: 20px 40px;
+	padding: 20px 30px;
 	margin-top: -20px;
 
 	@media(max-width: 450px) {
-		font-size: 14px;
+		font-size: 15px;
 		padding: 20px;
 	}
 }
@@ -242,7 +234,7 @@
 	font-size: 30px;
 	font-family: $secondary-font;
 	color: #333;
-	letter-spacing: 0.04em;
+	letter-spacing: 0.02em;
 	text-align: center;
 	margin-top: 20px;
 	opacity: 0.8;
@@ -282,8 +274,6 @@
 		display: flex;
 		flex-direction: column;
 		justify-content: center;
-
-
 	}
 
 	.afi_lo2>img {
@@ -328,7 +318,6 @@
 	margin-top: 50px;
 }
 
-
 .colum-1 {
 	margin-top: 30px;
 	text-align: left;
@@ -346,16 +335,12 @@
 	align-self: center;
 	margin-top: 100px;
 
-}
-
-@media (max-width:991px) {
-	.seguinos {
+	@media (max-width:991px) {
 		margin-top: -60px;
-
 	}
 
-
 }
+
 
 @media (max-width:471px) {
 	.seguinos {
@@ -392,19 +377,15 @@
 	display: flex;
 	justify-content: flex-end;
 	align-self: center;
-
-}
-
-@media (max-width:471px) {
-	.seguinos2 {
+	
+	@media (max-width:471px) {
 		margin-top: 0px;
 		justify-content: center;
-
 	}
 }
 
-.seguinos20 {
 
+.seguinos20 {
 	display: flex;
 	justify-content: flex-start;
 	align-self: center;
@@ -422,7 +403,7 @@
 	}
 }
 
-/*servicios*/
+//Servicios
 .texto3n {
 	color: #333333;
 	font-size: 18px;
@@ -444,14 +425,13 @@
 .div-texto-casas {
 	float: left;
 	width: 50%;
-}
-
-@media (max-width:500px) {
-	.div-texto-casas {
+	
+	@media (max-width:500px) {
 		width: 100%;
 		margin-left: 0;
 	}
 }
+
 
 .div-texto-casas-bac {
 	margin-top: 30px;
@@ -584,7 +564,7 @@
 }
 
 .presupuesto-ser {
-	margin-top: 50px;
+	margin-top: 40px;
 	text-align: center;
 	clear: both;
 }
@@ -666,8 +646,6 @@
 	}
 }
 
-
-
 .imagen-produc0 {
 	max-width: 100%;
 
@@ -677,28 +655,16 @@
 		text-align: left;
 		margin-right: 150px;
 	}
-
 }
-
-
 
 .imagen-produc2 {
 	width: 50%;
 	float: left;
 	text-align: left;
 
-}
-
-@media (max-width:500px) {
-
-	.imagen-produc2 {
-
+	@media (max-width:500px) {
 		display: none;
-
 	}
-
-
-
 }
 
 .imagen-produc23 {
@@ -711,8 +677,6 @@
 	}
 
 }
-
-
 
 .mapa-ima {
 	width: 80%;
@@ -742,15 +706,6 @@
 	text-decoration: none;
 }
 
-@media (max-width: 500px) {
-	.texto3 {
-		font-size: 20px;
-		padding: 0 15px 0 15px;
-		line-height: 30px;
-	}
-}
-
-
 @media screen and (max-width : 768px) {
 	.animated {
 		transition-property: none !important;
@@ -761,12 +716,16 @@
 }
 
 .servicios-sugeridos-icon {
-	display: flex;
-	justify-content: space-between;
-	align-items: center;
+	display: grid;
+	grid-template-columns: repeat(1, 1fr);
+	grid-gap: 15px;
 
-	@media (max-width: 1200px) {
-		display: block;
+	@media (min-width: 1200px) {
+		grid-template-columns: repeat(5, 1fr);
+	}
+
+	.icon-sugeridos-tama {
+		min-width: 30%;
 	}
 }
 
@@ -781,11 +740,15 @@
 }
 
 .td07pp {
-	font-size: 14px;
+	font-size: 15px;
 	font-family: $secondary-font;
 	color: #333;
 	font-weight: 600;
 	line-height: 1.3;
+
+	p {
+		margin-bottom: 0.5rem;
+	}
 }
 
 
@@ -796,7 +759,7 @@
 	padding-bottom: 10px;
 	text-align: center;
 	font-size: 14px;
-	line-height: 1.1;
+	line-height: 1.2;
 }
 
 .icon-suge {
@@ -998,7 +961,6 @@
 	margin-left: .5rem;
 	font-family: $primary-font;
 	font-size: 16px;
-	margin-top: 1rem;
 	padding-left: 1rem;
 
 	li::marker {
@@ -1061,10 +1023,6 @@
 
 #contenedor_trabajo {
 	overflow: hidden;
-}
-
-html {
-	background: #2F4598;
 }
 
 .td01 {
@@ -1153,7 +1111,7 @@ html {
 }
 
 .td07 {
-	font-size: 16px;
+	font-size: 17px;
 	font-family: $secondary-font;
 	color: #333;
 	font-weight: 600;
@@ -1174,6 +1132,7 @@ html {
 	letter-spacing: 0.1em;
 	text-decoration: none;
 	border-radius: .5rem;
+	margin-bottom: 1rem;
 
 	&:hover {
 		background-color: #2a58a4;
@@ -1205,8 +1164,6 @@ html {
 
 .contenedor-slider {
 	width: 100%;
-	-webkit-box-shadow: 2px 8px 5px -5px rgba(0, 0, 0, 0.75);
-	-moz-box-shadow: 2px 8px 5px -5px rgba(0, 0, 0, 0.75);
 	box-shadow: 2px 8px 5px -5px rgba(0, 0, 0, 0.75);
 
 	@media(max-width: 767px) {
@@ -1226,7 +1183,7 @@ html {
 	font-family: $secondary-font;
 	font-weight: 600;
 	text-align: center;
-	margin-top: 1.5rem;
+	margin: 1.5rem 0 1rem;
 	text-transform: uppercase;
 
 	@media(max-width: 767px) {
@@ -1241,6 +1198,10 @@ html {
 	font-weight: 600;
 	text-align: center;
 	padding: 0 15px 15px 15px;
+
+	@media(max-width: 767px) {
+		font-size: 1.25rem;
+	}
 }
 
 .cont-items {
@@ -1277,11 +1238,10 @@ html {
 	font-family: $primary-font;
 	font-weight: 400;
 
-	@media(max-width: 500px) {
+	@media (max-width: 500px) {
 		font-size: 20px;
-		padding: 0 15px 0 15px;
+		line-height: 26px;
 	}
-
 }
 
 .texto31 {
@@ -1492,8 +1452,6 @@ input.btn-primary {
 	font-family: $primary-font;
 	color: #333;
 	font-weight: 300;
-	letter-spacing: 0.04em;
-	height: 14px;
 	text-align: center;
 	vertical-align: top;
 	height: 85px;
@@ -1680,4 +1638,28 @@ input.btn-primary {
 		visibility: visible;
 		opacity: 1;
 	}
+}
+
+//CLORADORES SALINOS
+.cloradores-img {
+	max-width: 600px;
+    margin: 0 auto 3rem;
+    display: block;
+	width: 100%;
+}
+
+.cloradores-instalaciones-wrapper {
+	display: grid;
+	grid-template-columns: repeat(1, 1fr);
+	grid-gap: 20px;
+	margin: 1rem 0 3rem;
+	
+	@media(min-width: 992px) {
+		grid-template-columns: repeat(3, 1fr);
+
+	}
+}
+
+.cloradores-img-instalaciones {
+	width: 100%;
 }

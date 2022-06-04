@@ -40,7 +40,6 @@
   <link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.min.css">
   <link href="css/fileinput.css" rel="stylesheet">
   <link href="styles/css/main.css" rel="stylesheet">
-  <link href="css/fuentes.css" rel="stylesheet">
   <link rel="stylesheet" href="css/animate/animate.css">
   <link href="styles/css/main.css" rel="stylesheet">
   <!-- Animate-->
@@ -182,7 +181,7 @@
 
               <div class="col-md-12 servicios-sugeridos-icon" align="center">
 
-                <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
+                <!-- <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
                   <table width="100%" border="0">
                     <tbody>
                       <tr>
@@ -206,9 +205,9 @@
                       </tr>
                     </tbody>
                   </table>
-                </div>
+                </div> -->
 
-                <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1.5s" data-wow-delay="1.5s">
+                <!-- <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1.5s" data-wow-delay="1.5s">
                   <table width="100%" border="0">
                     <tbody>
                       <tr>
@@ -232,7 +231,32 @@
                       </tr>
                     </tbody>
                   </table>
+                </div> -->
 
+                <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
+                  <table width="100%" border="0">
+                    <tbody>
+                      <tr>
+                        <td align="center"><img src="img/icon_casas.png" class="icon-suge" alt="" /></td>
+                      </tr>
+                      <tr>
+                        <td align="center" class="td07pp">
+                          <p>SERVICIOS DE MANTENIMIENTO</p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="center" class="td08bac" width="138">
+                          <p>Mantenimiento de piletas en casas y residencias particulares</p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="center"><a
+                            href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-casas-countries-casas-quintas-edificios-consorcios-departamentos-hoteles-embajadas.php">
+                            <p class="boton-click-aqui" style="text-decoration: none;">MÁS INFO</p>
+                          </a></td>
+                      </tr>
+                    </tbody>
+                  </table>
                 </div>
 
                 <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="2s" data-wow-delay="2s">
@@ -274,8 +298,7 @@
                       </tr>
                       <tr>
                         <td align="center" class="td08bac" width="138">
-                          <p>El filtrado
-                            dara agua cristalina </p>
+                          <p>El filtrado dará agua cristalina </p>
                         </td>
                       </tr>
                       <tr>
@@ -292,7 +315,7 @@
                   <table width="100%" border="0">
                     <tbody>
                       <tr>
-                        <td align="center"><img src="img/iconos_servicios_venecitas.png" class="icon-suge" alt="" />
+                        <td align="center"><img src="img/iconos_servicios_venecitas.png" class="icon-suge" alt="">
                         </td>
                       </tr>
                       <tr>

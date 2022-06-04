@@ -56,7 +56,7 @@
               <a href="cambio-de-arena-carga-filtrante-de-filtro.php">CAMBIO DE ARENA</a>
             </li>
             <li>
-              <a href="reparacion-de-bomas-autocebantes-de-piletas.php">REPARACIÓN DE BOMBA</a>
+              <a href="reparacion-de-bombas-autocebantes-de-piletas.php">REPARACIÓN DE BOMBA</a>
             </li>
             <li>
               <a href="cambio-de-multivalvula-selectora-de-filtro.php">CAMBIO DE MULTIVALVULA Y CONEXIONES</a>
@@ -74,6 +74,9 @@
             </li>
             <li>
               <a href="analisis-bacteriologico-de-agua-de-piscinas-piletas.php">ANÁLISIS BACTERIOLÓGICO</a>
+            </li>
+            <li>
+              <a href="cloradores-salinos.php">Cloradores Salinos</a>
             </li>
             <li>
               <a href="servicio-integrales-de-mantenimiento-de-piletas-y-afines.php">OTROS SERVICIOS</a>

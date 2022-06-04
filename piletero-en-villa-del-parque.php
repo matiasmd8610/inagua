@@ -186,7 +186,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     </table>
                 </div>
           
-            <div class="col-md-3 wow fadeIn" datos-wow-duracion= "2s" data-wow-delay = "2s">
+                <!-- <div class="col-md-3 wow fadeIn" datos-wow-duracion= "2s" data-wow-delay = "2s">
                     <table width="100%" border="0" style="text-align:center; margin-bottom: 50px;">
                       <tbody>
                         <tr>
@@ -204,8 +204,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         </tr>
                       </tbody>
                     </table>
-                    
-                </div>
+                </div> -->
 
 
 

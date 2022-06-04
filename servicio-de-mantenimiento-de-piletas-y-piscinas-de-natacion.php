@@ -141,7 +141,8 @@
 
           <div class="container">
             <div class="row text-center cont-iconos">
-              <div class="col-md-3 wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
+              
+            <!-- <div class="col-md-3 wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
                 <table width="100%" border="0" style="margin-bottom: 50px;">
                   <tbody>
                     <tr>
@@ -165,9 +166,9 @@
                     </tr>
                   </tbody>
                 </table>
-              </div>
+              </div> -->
 
-              <div class="col-md-3 wow fadeIn" datos-wow-duracion="2s" data-wow-delay="2s">
+              <!-- <div class="col-md-3 wow fadeIn" datos-wow-duracion="2s" data-wow-delay="2s">
                 <table width="100%" border="0" style="text-align:center; margin-bottom: 50px;">
                   <tbody>
                     <tr>
@@ -192,10 +193,7 @@
                     </tr>
                   </tbody>
                 </table>
-
-              </div>
-
-
+              </div> -->
 
               <div class="col-md-3 wow fadeIn" datos-wow-duracion="3s" data-wow-delay="3s">
                 <table width="100%" border="0">

@@ -21,8 +21,7 @@
 
                         <div class="col-md-12 servicios-sugeridos-icon" align="center">
 
-
-                            <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1.5s" data-wow-delay="1.5s">
+                            <!-- <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1.5s" data-wow-delay="1.5s">
                                 <table width="100%" border="0">
                                     <tbody>
                                         <tr>
@@ -48,19 +47,48 @@
                                         </tr>
                                     </tbody>
                                 </table>
+                            </div> -->
 
+                            <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
+                                <table width="100%" border="0">
+                                    <tbody>
+                                        <tr>
+                                            <td align="center"><img src="img/icon_casas.png" class="icon-suge" alt="" />
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td align="center" class="td07pp">
+                                                <p>SERVICIOS DE MANTENIMIENTO</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td align="center" class="td08bac" width="138">
+                                                <p>Mantenimiento de piletas en casas y residencias particulares</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td align="center"><a
+                                                    href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-casas-countries-casas-quintas-edificios-consorcios-departamentos-hoteles-embajadas.php">
+                                                    <p class="boton-click-aqui" style="text-decoration: none;">MÁS INFO
+                                                    </p>
+                                                </a>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
                             </div>
 
                             <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="2s" data-wow-delay="2s">
                                 <table width="100%" border="0">
                                     <tbody width="138">
                                         <tr>
-                                            <td align="center"><img src="img/icon_desagote.png" class="icon-suge"
-                                                    alt=""></td>
+                                            <td align="center">
+                                                <img src="img/icon_desagote.png" class="icon-suge" alt="">
+                                            </td>
                                         </tr>
                                         <tr>
                                             <td align="center" class="td07pp">
-                                                <p>DESAGOTE DE PISCINAS</p>
+                                                <p>DESAGOTE Y DESINFECCIÓN</p>
                                             </td>
                                         </tr>
                                         <tr>
@@ -89,7 +117,7 @@
                                         </tr>
                                         <tr>
                                             <td align="center" class="td07pp">
-                                                <p>REPARACIÓN Y CAMBIO DE ARENA</p>
+                                                <p>CAMBIO DE ARENA</p>
                                             </td>
                                         </tr>
                                         <tr>
@@ -104,7 +132,64 @@
                                         </tr>
                                     </tbody>
                                 </table>
+                            </div>
 
+                            <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="2.5s" data-wow-delay="2.5s">
+                                <table width="100%" border="0">
+                                    <tbody width="138">
+                                        <tr>
+                                            <td align="center"><img src="img/icon_filtro.png" class="icon-suge"
+                                                    alt="filtro">
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td align="center" class="td07pp">
+                                                <p>REPARACIÓN DE BOMBA</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td align="center" class="td08bac" width="138">
+                                                <p>El filtrado dará agua cristalina</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td align="center"><a
+                                                    href="reparacion-de-bomas-autocebantes-de-piletas.php">
+                                                    <p class="boton-click-aqui">MÁS INFO</p>
+                                                </a>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                            <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="2.5s" data-wow-delay="2.5s">
+                                <table width="100%" border="0">
+                                    <tbody width="138">
+                                        <tr>
+                                            <td align="center"><img src="img/icon_filtro.png" class="icon-suge"
+                                                    alt="filtro">
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td align="center" class="td07pp">
+                                                <p>CAMBIO DE MULTIVALVULA Y CONEXIONES</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td align="center" class="td08bac" width="138">
+                                                <p>El filtrado dará agua cristalina</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td align="center"><a
+                                                    href="cambio-de-multivalvula-selectora-de-filtro.php">
+                                                    <p class="boton-click-aqui">MÁS INFO</p>
+                                                </a>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
                             </div>
 
                             <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="3s" data-wow-delay="3s">
@@ -211,6 +296,34 @@
                                         <tr>
                                             <td align="center"><a
                                                     href="analisis-bacteriologico-de-agua-de-piscinas-piletas.php">
+                                                    <p class="boton-click-aqui">MÁS INFO</p>
+                                                </a>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                            <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="4s" data-wow-delay="4s">
+                                <table width="100%" border="0">
+                                    <tbody>
+                                        <tr>
+                                            <td align="center"><img src="img/icon_analisis.png" class="icon-suge"
+                                                    alt="" /></td>
+                                        </tr>
+                                        <tr>
+                                            <td align="center" class="td07pp">
+                                                <p>OTROS SERVICIOS</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td align="center" class="td08bac" width="138">
+                                                <p>Destapaciones, cortes de cesped, fumigación de mosquoitos</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td align="center"><a
+                                                    href="servicio-integrales-de-mantenimiento-de-piletas-y-afines.php">
                                                     <p class="boton-click-aqui">MÁS INFO</p>
                                                 </a>
                                             </td>

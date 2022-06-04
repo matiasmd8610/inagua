@@ -125,7 +125,7 @@
 
           <div class="div-texto">
             <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Cambio de arena y multivalvula de filtro de piscinas</h1>
-            <h4 class="texto2 wow slideInUp">reemplazo de filtros y cañerias</h4>
+            <h4 class="texto2 wow slideInUp">Reemplazo de filtros y cañerias</h4>
           </div>
           <br><br>
           <div class="container">
@@ -166,12 +166,8 @@
           </div>
           <br>
           <div class="div-texto">
-            <h5 class="texto3 wow slideInUp">
-              Recuerde que un correcto filtrado del agua dara por resultado agua cristalina.
-
-            </h5>
+            <h5 class="texto3 wow slideInUp">Recuerde que un correcto filtrado del agua dara por resultado agua cristalina.</h5>
           </div>
-
 
         </div>
 

@@ -213,7 +213,7 @@
 
               <div class="col-md-12 servicios-sugeridos-icon" align="center">
 
-                <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
+                <!-- <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
                   <table width="100%" border="0">
                     <tbody>
                       <tr>
@@ -237,9 +237,9 @@
                       </tr>
                     </tbody>
                   </table>
-                </div>
+                </div> -->
 
-                <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1.5s" data-wow-delay="1.5s">
+                <!-- <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1.5s" data-wow-delay="1.5s">
                   <table width="100%" border="0">
                     <tbody>
                       <tr>
@@ -263,8 +263,7 @@
                       </tr>
                     </tbody>
                   </table>
-
-                </div>
+                </div> -->
 
 
                 <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="2.5s" data-wow-delay="2.5s">

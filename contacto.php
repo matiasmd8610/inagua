@@ -176,7 +176,7 @@
                 </table>
               </div>
 
-              <div class="col-md-3 wow fadeIn" datos-wow-duracion="2s" data-wow-delay="2s">
+              <!-- <div class="col-md-3 wow fadeIn" datos-wow-duracion="2s" data-wow-delay="2s">
                 <table width="100%" border="0">
                   <tbody>
                     <tr>
@@ -200,8 +200,7 @@
                     </tr>
                   </tbody>
                 </table>
-
-              </div>
+              </div> -->
 
               <div class="col-md-3 wow fadeIn" datos-wow-duracion="3s" data-wow-delay="3s">
                 <table width="100%" border="0">

@@ -140,7 +140,8 @@
 
           <div class="container">
             <div class="row text-center cont-iconos">
-              <div class="col-md-3 wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
+              
+            <!-- <div class="col-md-3 wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
                 <table width="100%" border="0" style="margin-bottom: 50px;">
                   <tbody>
                     <tr>
@@ -164,9 +165,9 @@
                     </tr>
                   </tbody>
                 </table>
-              </div>
+              </div> -->
 
-              <div class="col-md-3 wow fadeIn" datos-wow-duracion="2s" data-wow-delay="2s">
+              <!-- <div class="col-md-3 wow fadeIn" datos-wow-duracion="2s" data-wow-delay="2s">
                 <table width="100%" border="0" style="text-align:center; margin-bottom: 50px;">
                   <tbody>
                     <tr>
@@ -191,10 +192,33 @@
                     </tr>
                   </tbody>
                 </table>
+              </div> -->
 
-              </div>
-
-
+              <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
+                  <table width="100%" border="0">
+                    <tbody>
+                      <tr>
+                        <td align="center"><img src="img/icon_casas.png" class="icon-suge" alt="" /></td>
+                      </tr>
+                      <tr>
+                        <td align="center" class="td07pp">
+                          <p>SERVICIOS DE MANTENIMIENTO</p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="center" class="td08bac" width="138">
+                          <p>Mantenimiento de piletas en casas y residencias particulares</p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="center"><a
+                            href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-casas-countries-casas-quintas-edificios-consorcios-departamentos-hoteles-embajadas.php">
+                            <p class="boton-click-aqui" style="text-decoration: none;">MÁS INFO</p>
+                          </a></td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
 
               <div class="col-md-3 wow fadeIn" datos-wow-duracion="3s" data-wow-delay="3s">
                 <table width="100%" border="0">

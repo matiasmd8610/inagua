@@ -97,50 +97,29 @@
 
 </head>
 
-<body">
-
+<body>
   <section>
-
     <?php include "include/chat.php"; ?>
-
   </section>
   <span class="ir-arriba"><img src="img/up.png" alt=""></span>
   <div id="top"></div>
 
+  <!-- HEADER: Begin -->
   <header>
-
-
-
     <div class="botoner_completa animated slideInDown">
-
-
-
       <?php include "include/navegacion.php"; ?>
-
-
-
-
     </div>
   </header>
-
-
-
-
-
-
-
+  <!-- HEADER: End -->
 
   <section id="cambio_arena">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
-
-
-
           <div class="div-texto">
             <h2 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s"> Pastinado de piletas
               revestidas con venecitas</h2>
-            <h4 class="texto2 wow slideInUp">rejuvenecemos su pileta</h4>
+            <h4 class="texto2 wow slideInUp">Rejuvenecemos su pileta</h4>
           </div>
           <br><br>
           <div class="container">
@@ -341,6 +320,6 @@
     });
   </script>
 
-</body>
+  </body>
 
 </html>

@@ -1,18 +1,12 @@
-RewriteEngine On
-RewriteCond %{HTTP_HOST} ^www.inagua.com.ar [NC]
-RewriteRule ^(.*)$ http://inagua.com.ar/$1 [L,R=301]
+RewriteEngine on
 
-RewriteBase /
-RewriteEngine On
-RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{THE_REQUEST} /([^.]+)\.html [NC]
+RewriteRule ^ /%1 [NC,L,R]
+
 RewriteCond %{REQUEST_FILENAME}.html -f
-RewriteRule ^(.*)$ $1.html
+RewriteRule ^ %{REQUEST_URI}.html [NC,L]
 
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{REQUEST_FILENAME}.php -f
-RewriteRule ^(.*)$ $1.php
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
 
-<IfModule mod_rewrite.c>
-RewriteCond %{HTTPS} off
-RewriteRule (.*) https://inagua.com.ar/$1 [R=301,L,QSA]
-</IfModule>
+ErrorDocument 404 /404.html

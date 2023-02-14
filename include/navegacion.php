@@ -79,6 +79,9 @@
               <a href="cloradores-salinos.php">Cloradores Salinos</a>
             </li>
             <li>
+              <a href="servicio-de-limpieza-y-pintura-de-bordes-atermicos.php">Servicio de limpieza y pintura de bordes atérmicos</a>
+            </li>
+            <li>
               <a href="servicio-integrales-de-mantenimiento-de-piletas-y-afines.php">OTROS SERVICIOS</a>
             </li>
           </ul>

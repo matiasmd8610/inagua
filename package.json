@@ -1,0 +1,24 @@
+{
+  "name": "inagua",
+  "version": "1.0.0",
+  "description": "Inagua - Mantenimiento de piscinas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass-dev": "sass --watch --update --style=expanded styles/scss:styles/css",
+    "sass-prod": "sass --no-source-map --style=compressed styles/scss:styles/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matiasmd8610/inagua.git"
+  },
+  "author": "Matias Di Iorio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matiasmd8610/inagua/issues"
+  },
+  "homepage": "https://github.com/matiasmd8610/inagua#readme",
+  "devDependencies": {
+    "sass": "^1.58.1"
+  }
+}

@@ -18,37 +18,7 @@
             <div class="iconos-servicios">
                 <div class="container">
                     <div class="row">
-
                         <div class="col-md-12 servicios-sugeridos-icon" align="center">
-
-                            <!-- <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1.5s" data-wow-delay="1.5s">
-                                <table width="100%" border="0">
-                                    <tbody>
-                                        <tr>
-                                            <td align="center">
-                                                <img src="img/icon_consorcio.png" class="icon-suge" alt="">
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td class="td07pp" align="center">
-                                                <p>CONSORCIOS, HOTELES Y EMBAJADAS</p>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td class="td08bac" width="138">
-                                                <p>Especialistas en consorcios</p>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td align="center"><a
-                                                    href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-edificios-consorcios-departamentos.php">
-                                                    <p class="boton-click-aqui">MÁS INFO</p>
-                                                </a></td>
-                                        </tr>
-                                    </tbody>
-                                </table>
-                            </div> -->
-
                             <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
                                 <table width="100%" border="0">
                                     <tbody>
@@ -182,8 +152,7 @@
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td align="center"><a
-                                                    href="cambio-de-multivalvula-selectora-de-filtro.php">
+                                            <td align="center"><a href="cambio-de-multivalvula-selectora-de-filtro.php">
                                                     <p class="boton-click-aqui">MÁS INFO</p>
                                                 </a>
                                             </td>
@@ -220,8 +189,6 @@
                                     </tbody>
                                 </table>
                             </div>
-
-
                             <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="3.5s" data-wow-delay="3.5s">
                                 <table width="100%" border="0">
                                     <tbody>
@@ -248,7 +215,6 @@
                                     </tbody>
                                 </table>
                             </div>
-
                             <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="4s" data-wow-delay="4s">
                                 <table width="100%" border="0">
                                     <tbody>
@@ -258,7 +224,7 @@
                                         </tr>
                                         <tr>
                                             <td align="center" class="td07pp">
-                                                <p>VENTA DE PRODUCTOS</p>
+                                                <p>VENTA DE PRODUCTOS Y ACCESORIOS</p>
                                             </td>
                                         </tr>
                                         <tr>
@@ -275,13 +241,12 @@
                                     </tbody>
                                 </table>
                             </div>
-
                             <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="4s" data-wow-delay="4s">
                                 <table width="100%" border="0">
                                     <tbody>
                                         <tr>
                                             <td align="center"><img src="img/icon_analisis.png" class="icon-suge"
-                                                    alt="" /></td>
+                                                    alt=""></td>
                                         </tr>
                                         <tr>
                                             <td align="center" class="td07pp">
@@ -303,7 +268,58 @@
                                     </tbody>
                                 </table>
                             </div>
-
+                            <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="3.5s" data-wow-delay="3.5s">
+                                <table width="100%" border="0">
+                                    <tbody>
+                                        <tr>
+                                            <td align="center"><img src="img/iconos_servicios_pintura.png"
+                                                    class="icon-suge" alt=""></td>
+                                        </tr>
+                                        <tr>
+                                            <td align="center" class="td07pp">
+                                                <p>SERVICIO DE LIMPIEZA Y PINTURA DE BORDES ATÉRMICOS</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td align="center" class="td08bac" width="138">
+                                                <p>Mantené tus pisos atérmicos siempre como nuevos</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td align="center"><a
+                                                    href="servicio-de-limpieza-y-pintura-de-bordes-atermicos.php">
+                                                    <p class="boton-click-aqui">MÁS INFO</p>
+                                                </a></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                            <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="3.5s" data-wow-delay="3.5s">
+                                <table width="100%" border="0">
+                                    <tbody>
+                                        <tr>
+                                            <td align="center"><img src="img/iconos_servicios_pintura.png"
+                                                    class="icon-suge" alt=""></td>
+                                        </tr>
+                                        <tr>
+                                            <td align="center" class="td07pp">
+                                                <p>CLORADORES SALINOS</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td align="center" class="td08bac" width="138">
+                                                <p>Nuevo tratamiento alternativo para el cuidado, mantenimiento y desinfección del agua</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td align="center"><a
+                                                    href="cloradores-salinos.php">
+                                                    <p class="boton-click-aqui">MÁS INFO</p>
+                                                </a></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
                             <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="4s" data-wow-delay="4s">
                                 <table width="100%" border="0">
                                     <tbody>
@@ -331,10 +347,7 @@
                                     </tbody>
                                 </table>
                             </div>
-
                         </div>
-
-
                     </div>
                 </div>
             </div>

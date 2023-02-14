@@ -43,22 +43,8 @@
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-
-
-
-  <!-- Include all compiled plugins (below), or include individual files as needed -->
-
-  <!-- <script src="js/bootstrap.min.js"></script> -->
-
   <script src="js/bootstrap-3.3.6.js"></script>
-
-  <script type="text/javascript" src="js/modernizr.custom.79639.js"></script>
   <link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.min.css">
-
-
-
-
-
   <!--formulario -->
   <link href="css/hover.css" rel="stylesheet">
   <script src="js/fileinput.js" type="text/javascript"></script>

@@ -51,8 +51,6 @@
 
   <script src="js/bootstrap-3.3.6.js"></script>
 
-  <script type="text/javascript" src="js/modernizr.custom.79639.js"></script>
-
   <link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.min.css">
 
 

@@ -37,7 +37,6 @@ function get_template( $id ) {
   <link href="styles/css/main.css" rel="stylesheet">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
   <script src="js/bootstrap-3.3.6.js"></script>
-  <script type="text/javascript" src="js/modernizr.custom.79639.js"></script>
   <script src="js/fileinput.js" type="text/javascript"></script>
   <link rel="stylesheet" href="css/animate/animate.css">
   <link href="styles/css/main.css" rel="stylesheet">

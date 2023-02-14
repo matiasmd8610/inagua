@@ -5,64 +5,6 @@
             <div class="container">
                 <div class="row text-center cont-iconos">
 
-                    <!-- <div class="col-md-3 wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
-                        <table width="100%" border="0">
-                            <tbody>
-                                <tr>
-                                    <td align="center"><img src="img/icon_casas.png" width="138" height="129" role="presentation">
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td align="center" class="td07">
-                                        <p>CASAS PARTICULARES</p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td align="center" class="td08b">
-                                        <p>Si quiere mantener su pileta durante todo el año</p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td align="center">
-                                        <a
-                                            href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-casas-countries-casas-quintas.php">
-                                            <p class="boton-click-aqui">MÁS INFO</p>
-                                        </a></td>
-                                </tr>
-                            </tbody>
-                        </table>
-                    </div> -->
-
-                    <!-- <div class="col-md-3 wow fadeIn" datos-wow-duracion="2s" data-wow-delay="2s">
-                        <table width="100%" border="0" style="text-align:center;">
-                            <tbody>
-                                <tr>
-                                    <td align="center">
-                                        <img src="img/icon_consorcio.png" width="138" height="129" role="presentation">
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td class="td07">
-                                        <p>CONSORCIOS, HOTELES Y EMBAJADAS</p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td class="td08b">
-                                        <p>Especialistas en mantenimiento de piletas de natación en consorcios</p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td align="center">
-                                        <a
-                                            href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-edificios-consorcios-departamentos.php">
-                                            <p class="boton-click-aqui">MÁS INFO</p>
-                                        </a>
-                                    </td>
-                                </tr>
-                            </tbody>
-                        </table>
-                    </div> -->
-
                     <div class="col-md-3 wow fadeIn" datos-wow-duracion="3s" data-wow-delay="3s">
                         <table width="100%" border="0">
                             <tbody>
@@ -102,7 +44,7 @@
                                 </tr>
                                 <tr>
                                     <td align="center" class="td07">
-                                        <p>DESAGOTE y DESINFECCIÓN</p>
+                                        <p>DESAGOTE Y DESINFECCIÓN</p>
                                     </td>
                                 </tr>
                                 <tr>
@@ -300,7 +242,6 @@
                             </tbody>
                         </table>
                     </div>
-
                     <div class="col-md-3 wow fadeIn" datos-wow-duracion="4s" data-wow-delay="4s">
                         <table width="100%" border="0">
                             <tbody>
@@ -329,7 +270,62 @@
                             </tbody>
                         </table>
                     </div>
-
+                    <div class="col-md-3 wow fadeIn" datos-wow-duracion="4s" data-wow-delay="4s">
+                        <table width="100%" border="0">
+                            <tbody>
+                                <tr>
+                                    <td align="center">
+                                        <img src="img/iconos_servicios_pintura.png" width="138" height="129" role="presentation">
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td align="center" class="td07">
+                                        <p>CLORADORES SALINOS</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td align="center" class="td08b">
+                                        <p>Nuevo tratamiento alternativo para el cuidado, mantenimiento y desinfección del agua</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td align="center">
+                                        <a href="cloradores-salinos.php">
+                                            <p class="boton-click-aqui">MÁS INFO</p>
+                                        </a>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <div class="col-md-3 wow fadeIn" datos-wow-duracion="4s" data-wow-delay="4s">
+                        <table width="100%" border="0">
+                            <tbody>
+                                <tr>
+                                    <td align="center">
+                                        <img src="img/iconos_servicios_pintura.png" width="138" height="129" role="presentation">
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td align="center" class="td07">
+                                        <p>SERVICIO DE LIMPIEZA Y PINTURA DE BORDES ATÉRMICOS</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td align="center" class="td08b">
+                                        <p>Mantené tus pisos atérmicos siempre como nuevos</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td align="center">
+                                        <a href="servicio-de-limpieza-y-pintura-de-bordes-atermicos.php">
+                                            <p class="boton-click-aqui">MÁS INFO</p>
+                                        </a>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
                     <div class="col-md-3 wow fadeIn" datos-wow-duracion="4s" data-wow-delay="4s">
                         <table width="100%" border="0">
                             <tbody>

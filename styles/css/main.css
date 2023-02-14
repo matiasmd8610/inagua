@@ -54,7 +54,7 @@ html {
 body {
   font-family: "Rubik", sans-serif;
   font-weight: 300;
-  padding-top: 110px;
+  padding-top: 100px;
   line-height: 1.4;
 }
 
@@ -1913,9 +1913,15 @@ input.btn-primary {
 **********************************************************/
 .bordes-atermicos-wrapper {
   display: grid;
-  grid-gap: 2rem;
-  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 1rem;
+  grid-template-columns: repeat(1, 1fr);
   margin: 2rem 0 2rem;
+}
+@media (min-width: 992px) {
+  .bordes-atermicos-wrapper {
+    grid-gap: 2rem;
+    grid-template-columns: repeat(3, 1fr);
+  }
 }
 .bordes-atermicos-wrapper img {
   width: 100%;

@@ -15,7 +15,7 @@
   <meta name="description" content="Empresa profesional de Limpieza y desagote de piscina. Piletero en Capital Federal.">
   <title>PILETEROS - LIMPIEZA DE PISCINAS - DESAGOTES DE PISCINAS</title>
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo">
-  <link rel="icon" type="image/png" href="img/logo.png">
+  <link rel="icon" href="img/logo.png">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.min.css">
@@ -226,25 +226,17 @@
           <div class="btn_zona">
             <p class="boton-zona">
               <a href="piletero-en-capital-federal.php">CONSULTA POR SERVICIOS EN TU ZONA</a>
-
             </p>
           </div>
 
-
         </div>
-
-
-
 
         <div class="col-md-6 ">
           <div class="lugar_mapa" align="center">
-
             <iframe
               src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d105073.44367018693!2d-58.503338223412456!3d-34.61566245827943!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcca3b4ef90cbd%3A0xa0b3812e88e88e87!2sBuenos+Aires%2C+CABA!5e0!3m2!1ses-419!2sar!4v1504503618843"
               width="430" height="460" frameborder="0" style="border:0" allowfullscreen class="img_mapa_2"></iframe>
-
           </div>
-
         </div>
 
       </div>
@@ -254,10 +246,7 @@
 
 
   <section id="contacto">
-
-
     <?php include "include/formulario.php"; ?>
-
   </section>
 
 
@@ -265,15 +254,12 @@
     <div class="row">
       <div class="col-md-12 wow tada" datos-wow-duracion="3s" data-wow-delay="2s">
         <div class="pileteros_profesionales">
-
           <p class="td08_4">solo confie en pileteros profesionales</p>
-
           <p class="td08_3">
               ...”El tratamiento inadecuado del agua, por falta de conocimientos y experiencia, tiene efectos
               desagradables provocando irritaciones en la piel, ojos y mucosas y causando enfermedades transmitidas por
               microorganismos o agentes patógenos. Por todo esto le ofrecemos mantener su piscina y el agua en óptimas
               condiciones durante todo el año.”...</p>
-
         </div>
       </div>
 
@@ -315,11 +301,11 @@
     });
   </script>
 
-<script>
+<!-- <script>
     document.addEventListener('DOMContentLoaded', function () {
       document.querySelector('main').className += 'loaded';
     });
-  </script>
+  </script> -->
 
 
   <script>

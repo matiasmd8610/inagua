@@ -142,10 +142,10 @@
           <div class="bordes-atermicos-wrapper">
             <img src="img/servicios/servicio_de_limpieza_y_pintura_de_bordes_atermicos_01.jpeg" alt="">
             <img src="img/servicios/servicio_de_limpieza_y_pintura_de_bordes_atermicos_02.jpeg" alt="">
-            <img src="img/servicios/servicio_de_limpieza_y_pintura_de_bordes_atermicos_07.jpeg" alt="">
             <img src="img/servicios/servicio_de_limpieza_y_pintura_de_bordes_atermicos_05.jpeg" alt="">
             <img src="img/servicios/servicio_de_limpieza_y_pintura_de_bordes_atermicos_06.jpeg" alt="">
             <img src="img/servicios/servicio_de_limpieza_y_pintura_de_bordes_atermicos_04.jpeg" alt="">
+            <img src="img/servicios/servicio_de_limpieza_y_pintura_de_bordes_atermicos_07.jpeg" alt="">
           </div>
           <img src="img/servicios/servicio_de_limpieza_y_pintura_de_bordes_atermicos_03.jpeg" class="w-100" alt="">
         </div>

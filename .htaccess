@@ -3,10 +3,23 @@ RewriteEngine on
 RewriteCond %{THE_REQUEST} /([^.]+)\.html [NC]
 RewriteRule ^ /%1 [NC,L,R]
 
+
 RewriteCond %{REQUEST_FILENAME}.html -f
 RewriteRule ^ %{REQUEST_URI}.html [NC,L]
 
+RewriteBase /
+
+RewriteCond %{ENV:REDIRECT_STATUS} ^$
+##using THE_REQUEST variable for condition check.
+RewriteCond %{THE_REQUEST} \s/([^.]*)\.php/?\s [NC]
+##Performing external redirect here.
+RewriteRule ^  %1? [R=301,L]
+
+##Performing rewrite for non-existing pages.
 RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule ^([^\.]+)$ $1.php [NC,L]
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{DOCUMENT_ROOT}/$1.php -f
+RewriteRule ^(.*)/?$ /$1.php [QSA,L]
 
 ErrorDocument 404 /404.html
+

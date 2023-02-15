@@ -29,10 +29,10 @@
     <meta name="theme-color" content="#2F4598">
     <meta name="robots" content="index, follow, all">
     <meta name="googlebot" content="index, follow, all">
-    <meta name="keywords" content="cloradores, cloración, innowater, cloración salina, clorador salino, piscinas, piletas, mantenimiento piscinas, natación, agua">
-    <meta name="title" content="Cloradores Salinos para el mantenimiento del agua de piscinas en Capital Federal.">
+    <meta name="keywords" content="servicio de limpieza, bordes atérmicos, pisos perimetrales, propiedades atérmicas y antideslizantes, formación de manchas y algas, mantenimiento">
+    <meta name="title" content="Servicio de limpieza y pintura de bordes atérmicos">
     <meta name="author" content="Administrator">
-    <meta name="description" content="Cloradores Salinos Innowater en Buenos Aires para el mantenimiento del agua de piletas.">
+    <meta name="description" content="Mantené tus pisos atérmicos siempre como nuevos">
     <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo">
     <meta property="fb:app_id" content="383820332074788">
     <title>PILETEROS - LIMPIEZA DE PILETAS - DESAGOTES DE PISCINAS</title>
@@ -121,7 +121,7 @@
     </div>
   </header>
 
-  <section id="cloradores-salinos">
+  <section>
     <div class="container">
       <div class="row">
 
@@ -144,7 +144,6 @@
             <img src="img/servicios/servicio_de_limpieza_y_pintura_de_bordes_atermicos_05.jpeg" alt="">
             <img src="img/servicios/servicio_de_limpieza_y_pintura_de_bordes_atermicos_06.jpeg" alt="">
             <img src="img/servicios/servicio_de_limpieza_y_pintura_de_bordes_atermicos_04.jpeg" alt="">
-            <img src="img/servicios/servicio_de_limpieza_y_pintura_de_bordes_atermicos_07.jpeg" alt="">
           </div>
           <img src="img/servicios/servicio_de_limpieza_y_pintura_de_bordes_atermicos_03.jpeg" class="w-100" alt="">
         </div>

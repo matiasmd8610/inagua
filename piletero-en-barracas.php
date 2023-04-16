@@ -46,33 +46,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;600&family=Rubik:wght@300;400;600&display=swap"
     rel="stylesheet">
-  <!-- Animate-->
   <link rel="stylesheet" href="css/animate/animate.css">
-  <script src="js/wow.js"></script>
-  <script>
-    new WOW().init();
-  </script>
-
-
-  <!-- Animate Fin-->
-
-  <script>
-    $(function () {
-      $('a[href*="#"]:not([href="#"])').click(function () {
-        if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname ==
-          this.hostname) {
-          var target = $(this.hash);
-          target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
-          if (target.length) {
-            $('html, body').animate({
-              scrollTop: target.offset().top
-            }, 1000);
-            return false;
-          }
-        }
-      });
-    });
-  </script>
 
   <script type="text/javascript">
     (function (i, s, o, g, r, a, m) {
@@ -181,23 +155,27 @@
 
   </footer>
 
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="js/bootstrap-3.3.6.js"></script>
+  <script src="js/menu.js"></script>
+  <script src="js/fileinput.js" type="text/javascript"></script>
   <script>
-    $(document).ready(function () {
-      var altura = $('.menu').offset().top;
-
-      $(window).on('scroll', function () {
-        if ($(window).scrollTop() > altura) {
-          $('.menu').addClass('menu-fixed');
-        } else {
-          $('.menu').removeClass('menu-fixed');
+    $(function () {
+      $('a[href*="#"]:not([href="#"])').click(function () {
+        if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname ==
+          this.hostname) {
+          var target = $(this.hash);
+          target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+          if (target.length) {
+            $('html, body').animate({
+              scrollTop: target.offset().top
+            }, 1000);
+            return false;
+          }
         }
       });
-
     });
   </script>
-  <script src="js/menu.js"></script>
-  <!-- jQuery slider Inicio -->
-
   <script>
     $(document).on('ready', function () {
       $("#input-b5").fileinput({
@@ -205,6 +183,11 @@
       });
     });
   </script>
+    <script src="js/wow.js"></script>
+  <script>
+    new WOW().init();
+  </script>
+
 
 </body>
 

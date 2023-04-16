@@ -26,18 +26,18 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#2F4598">
-
-  <meta name="robots" content="index, follow, all" />
-  <meta name="googlebot" content="index, follow, all" />
-  <meta name="keywords"
-    content="limpieza de piletas, piletas, piscinas, piletero, pileteros, desagotes, mantenimiento de piletas">
-  <meta name="title" content="LIMPIEZA DE PILETAS EN CASAS - PILETERO A DOMICILIO" />
-  <meta name="author" content="Administrator" />
-  <meta name="description"
-    content="Aspirado del fondo de la piscina, limpieza de canastos del skimmer y bomba, limpieza del elemento flotante, control de Cloro y PH agua, aplicación de productos químicos, cepillado del natatorio, limpieza de bordes para la prevención de la formación de larvas de mosquitos, retrolavado y enjuague del sistema de filtrado." />
-  <title>LIMPIEZA DE PILETAS EN CASAS - PILETERO A DOMICILIO</title>
+  <meta name="robots" content="index, follow, all">
+  <meta name="googlebot" content="index, follow, all">
+  <meta name="keywords" content="limpieza de piscina, piscinas, piletero, pileteros, desagotes, mantenimiento de piscinas">
+  <meta name="title" content="SERVICIO DE LIMPIEZA Y DESINFECCIÓN DE TANQUES DE AGUA">
+  <meta name="author" content="Administrator">
+  <meta name="description" content="CUIDAMOS EL AGUA DE SU HOGAR. Su tanque acumula sedimentos y suciedad. Evite la contaminación del agua que utiliza su familia.
+">
+  <title>SERVICIO DE LIMPIEZA Y DESINFECCIÓN DE TANQUES DE AGUA</title>
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo">
   <link rel="icon" href="img/logo.png">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
   <script src="js/bootstrap-3.3.6.js"></script>
@@ -47,6 +47,7 @@
   <link href="styles/css/main.css" rel="stylesheet">
   <link rel="stylesheet" href="css/animate/animate.css">
   <link href="styles/css/main.css" rel="stylesheet">
+  <!-- Animate-->
   <link rel="stylesheet" href="css/animate/animate.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -73,13 +74,12 @@
 </head>
 
 <body>
-
   <section>
 
     <?php include "include/chat.php"; ?>
 
   </section>
-  <span class="ir-arriba"><img src="img/up.png" alt="Ir arriba"></span>
+  <span class="ir-arriba"><img src="img/up.png" alt=""></span>
   <div id="top"></div>
 
   <!-- HEADER: Begin -->
@@ -90,48 +90,52 @@
   </header>
   <!-- HEADER: End -->
 
-  <section id="casas">
+  <section id="cambio_arena">
     <div class="container">
-
-      <div class="div-texto mb-3">
-        <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Mantenimiento de piletas en
-          casas y residencias particulares</h1>
-        <h4 class="texto2 wow slideInUp">En INAGUA nos encargamos de mantener su pileta y el agua en óptimas
-          condiciones durante todo el año</h4>
-      </div>
-
       <div class="row">
-        <div class="col-lg-6 div-texto-casas-bac">
-          <h5 class="texto3sc wow slideInUp">¿Qué incluye el servicio?</h5>
+        <div class="col-md-12">
 
-          <ul class="destacamos-list">
-            <li>Aspirado del fondo de la piscina</li>
-            <li>Limpieza de canastos del skimmer y bomba</li>
-            <li>Limpieza del elemento flotante (sacahojas)</li>
-            <li>Control de niveles de Cloro y PH del agua</li>
-            <li>Aplicación de productos químicos</li>
-            <li>Cepillado de bordes</li>
-            <li>Retrolavado y enjuague del sistema de filtrado</li>
-          </ul>
+          <div class="div-texto">
+            <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">SERVICIO DE LIMPIEZA Y DESINFECCIÓN DE TANQUES DE AGUA</h1>
+            <h4 class="texto2 wow slideInUp">CUIDAMOS EL AGUA DE SU HOGAR</h4>
+            <p class="text-center">Su tanque acumula sedimentos y suciedad. Evite la contaminación del agua que utiliza su familia.</p>
+          </div>
+          <br><br>
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-12">
+                <img src="img/servicios/limpieza_de_tanques.png" alt="Limpieza de tanques de agua" width="580" class="img-fluid mx-auto d-block">
+              </div>
+            </div>
+          </div>
 
-          <h5 class="texto3sc wow slideInUp">Para realizar este servicio podemos utilizar su
-            equipo o contamos con el propio.</h5>
+          <br><br>
 
-          <h5 class="texto3sc wow slideInUp">El personal de INAGUA está
-            capacitado con los niveles más altos del mercado para realizar tareas de mantenimiento, limpieza y
-            desinfección de piscinas."</h5>
-        </div>
+          <div class="div-texto">
+            <h5 class="texto3 wow slideInUp">¿Por qué es necesario limpiar el tanque de agua?</h5>
+            <p>Porque es muy importante mantener la calidad del agua que bebemos y utilizamos para cocinar, bañarnos y lavarnos los dientes y manos. El agua que utilizamos todos los días en nuestro hogar, puede contaminarse si no se limpia y desinfecta periódicamente el tanque. </p>
+          </div>
+          <br>
+          <div class="div-texto">
+            <h5 class="texto3 wow slideInUp">¿Cada cuánto es recomendable limpiar el tanque de agua?</h5>
+            <p>Se recomienda realizar la limpieza del tanque de agua al menos una vez al año. </p>
+          </div>
+          <br>
+          <div class="div-texto">
+            <h5 class="texto3 wow slideInUp">¿Por qué elegir INAGUA?</h5>
+            <p>Porque todos nuestros operadores son técnicos especializados, cuentan con protección de ART y brindan los servicios conforme todas las medidas de seguridad establecidas.</p>
+          </div>
 
-        <div class="col-lg-6">
-          <img src="img/imagen-casas.png" alt="" class="imgen-moviles-casas212 wow slideInRight">
-        </div>
-
-        <div class="imagen-casas wow slideInRight">
+          <div class="banner-ventas">
+            <p>Para conocer más sobre INAGUA, puede contactarnos a <a href="mailto:ventas@inagua.com.ar">ventas@inagua.com.ar</a> o a nuestro equipo de ventas al <a href="tel:+1564420848">156-442-0848</a>.
+              </p>
+          </div>
         </div>
 
       </div>
+
       <div class="col-md-12 presupuesto-ser wow slideInUp">
-        <a href="#contacto" class="boton-presupuesto">SOLICITAR PRESUPUESTO</a>
+        <a href="#contacto" class="boton-presupuesto" style="text-decoration:none;">SOLICITAR PRESUPUESTO</a>
       </div>
     </div>
     </div>
@@ -142,57 +146,36 @@
   <!-- SERVICIOS SUGERIDOS SMALL: End -->
 
   <section>
-
     <div class="container sobre_nosotros_1">
       <div class="row">
 
-        <div class="col-md-6 wow slideInLeft" datos-wow-duracion="0.5s" data-wow-delay="0.5s">
-          <img src="img/staff_1.png" alt="" class="staff_1">
+        <div class="col-md-6 wow slideInLeft" datos-wow-duracion="0.5s" data-wow-delay="0.5s"">
+                        <img src=" img/staff_1.png" alt="" class="staff_1">
         </div>
 
         <div class="col-md-6 wow slideInRight" datos-wow-duracion="1s" data-wow-delay="1s">
-          <p class="texto223"><b>NOS DESTACAMOS EN</b></p>
-
-          <table width="100%" border="0" style="text-align:center; margin-bottom: 20px;">
-            <tbody>
-
-              <td class="td08">
-                <ul class="destacamos-list">
-                  <li>Puntualidad</li>
-                  <li>Educación</li>
-                  <li>Debidamente uniformados</li>
-                  <li>Conocimientos en limpieza de piscinas</li>
-                  <li>Seguridad personal y a terceros</li>
-                  <li>Equipamiento adecuado</li>
-                </ul>
-
-                <br>
-                <p class="texto_seguro_3"><b>Para su seguridad nuestro personal se encuentra debidamente registrado y
-                    cuentan con los seguros de vida obligatorio y ART</b></p>
-                <img src="img/logo_seguro.png" alt="" class="logo_seguro">
-                <p class="texto_seguro">Prevención ART - Vida Obligatorio</p>
-                <p class="texto_seguro_2"><b>N°471157
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;N°1291680</b></p>
-
-
-              </td>
-
-            </tbody>
-          </table>
-
+          <p class=" texto223"><b>NOS DESTACAMOS EN</b></p>
+          <ul class="destacamos-list">
+            <li>Puntualidad</li>
+            <li>Educación</li>
+            <li>Debidamente uniformados</li>
+            <li>Conocimientos en limpieza de piscinas</li>
+            <li>Seguridad personal y a terceros</li>
+            <li>Equipamiento adecuado</li>
+          </ul>
         </div>
-
-
-
 
       </div>
     </div>
 
 
   </section>
+
   <!-- FIN NOSOTROS -->
 
   <!-- COBERTURA -->
+
+
   <section class="wow bounceInDown" datos-wow-duracion="1s" data-wow-delay="1s">
     <div class="container">
       <div class="row">
@@ -200,18 +183,24 @@
         <div class="row text-center separ-secciones_2">
           <div class="col-md-4">
             <div class="span-separ-secciones_2"></div>
+
           </div>
           <div class="col-md-4">
             <p class="td06_2">zona de cobertura</p>
+
           </div>
           <div class="col-md-4">
             <div class="span-separ-secciones_2"></div>
+
           </div>
         </div>
 
         <div class="col-md-6 lugar_char" align="center">
+
           <div>
+
             <img src="img/partner_2.jpg" class="chata_ind" alt="">
+
           </div>
 
           <div class="texto_zona_1">
@@ -242,13 +231,17 @@
 
           </div>
 
+
         </div>
 
       </div>
     </div>
   </section>
 
+
   <section id="contacto">
+
+
     <?php include "include/formulario.php"; ?>
 
   </section>
@@ -258,27 +251,29 @@
     <div class="row">
       <div class="col-md-12 wow tada" datos-wow-duracion="3s" data-wow-delay="2s">
         <div class="pileteros_profesionales">
-
           <p class="td08_4">solo confie en pileteros profesionales</p>
-
-          <p class="td08_3" style="padding-bottom: 50px;">
+          <p class="td08_3">
             ...”El tratamiento inadecuado del agua, por falta de conocimientos y experiencia, tiene efectos
             desagradables provocando irritaciones en la piel, ojos y mucosas y causando enfermedades transmitidas por
             microorganismos o agentes patógenos. Por todo esto le ofrecemos mantener su piscina y el agua en óptimas
             condiciones durante todo el año.”...</p>
-
         </div>
       </div>
-
     </div>
   </div>
 
-  <!-- FOOTER: Begin -->
   <footer>
-    <?php include "include/footer.php"; ?>
-  </footer>
-  <!-- FOOTER: End -->
 
+
+
+    <?php include "include/footer.php"; ?>
+
+
+
+
+
+
+  </footer>
 
   <script src="js/menu.js"></script>
   <script src="js/scripts.js"></script>

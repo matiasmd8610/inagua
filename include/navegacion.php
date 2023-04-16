@@ -42,15 +42,17 @@
         <li>
           <a href="empresa-de-mantenimiento-y-limpieza-de-piscinas-de-natacion-y-piletas.php"
             class="nosotros">NOSOTROS</a>
-          </li>
+        </li>
         <li class="submenu">SERVICIOS
           <ul>
             <li>
               <a
-                href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-casas-countries-casas-quintas-edificios-consorcios-departamentos-hoteles-embajadas.php">SERVICIO DE MANTENIMIENTO</a>
+                href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-casas-countries-casas-quintas-edificios-consorcios-departamentos-hoteles-embajadas.php">SERVICIO
+                DE MANTENIMIENTO</a>
             </li>
             <li>
-              <a href="servicio-de-desagote-limpieza-desinfeccion-de-piletas-y-piscinas-de-natacion.php">DESAGOTE Y DESINFECCIÓN</a>
+              <a href="servicio-de-desagote-limpieza-desinfeccion-de-piletas-y-piscinas-de-natacion.php">DESAGOTE Y
+                DESINFECCIÓN</a>
             </li>
             <li>
               <a href="cambio-de-arena-carga-filtrante-de-filtro.php">CAMBIO DE ARENA</a>
@@ -79,8 +81,14 @@
               <a href="cloradores-salinos.php">Cloradores Salinos</a>
             </li>
             <li>
-              <a href="servicio-de-limpieza-y-pintura-de-bordes-atermicos.php">Servicio de limpieza y pintura de bordes atérmicos</a>
+              <a href="servicio-de-limpieza-y-pintura-de-bordes-atermicos.php">Servicio de limpieza y pintura de bordes
+                atérmicos</a>
             </li>
+            <li><a
+                href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-edificios-consorcios-departamentos.php">Consorcios,
+                Hoteles y Embajadas</a></li>
+            <li><a href="servicio-de-limpieza-y-desinfeccion-de-tanques-de-agua.php">Servicio de limpieza y desinfección
+                de tanques de agua</a></li>
             <li>
               <a href="servicio-integrales-de-mantenimiento-de-piletas-y-afines.php">OTROS SERVICIOS</a>
             </li>

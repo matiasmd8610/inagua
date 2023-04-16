@@ -13,6 +13,11 @@ body {
 a {
     text-decoration: none;
     transition: all 0.3s ease;
+    color: $color-blue-main;
+    &:hover {
+        color: $color-blue-dark;
+        text-decoration: underline;
+    }
 }
 
 

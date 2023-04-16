@@ -59,27 +59,6 @@
     new WOW().init();
   </script>
 
-
-  <!-- Animate Fin-->
-
-  <script>
-    $(function () {
-      $('a[href*="#"]:not([href="#"])').click(function () {
-        if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname ==
-          this.hostname) {
-          var target = $(this.hash);
-          target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
-          if (target.length) {
-            $('html, body').animate({
-              scrollTop: target.offset().top
-            }, 1000);
-            return false;
-          }
-        }
-      });
-    });
-  </script>
-
   <script type="text/javascript">
     (function (i, s, o, g, r, a, m) {
       i['GoogleAnalyticsObject'] = r;
@@ -452,22 +431,8 @@
 
   </footer>
 
-  <script>
-    $(document).ready(function () {
-      var altura = $('.menu').offset().top;
-
-      $(window).on('scroll', function () {
-        if ($(window).scrollTop() > altura) {
-          $('.menu').addClass('menu-fixed');
-        } else {
-          $('.menu').removeClass('menu-fixed');
-        }
-      });
-
-    });
-  </script>
   <script src="js/menu.js"></script>
-  <!-- jQuery slider Inicio -->
+  <script src="js/scripts.js"></script>
 
   <script>
     $(document).on('ready', function () {
@@ -477,6 +442,6 @@
     });
   </script>
 
-</bodyclass=>
+</body>
 
 </html>

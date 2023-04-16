@@ -29,8 +29,6 @@
   <meta property="fb:app_id" content="383820332074788">
   <title>INAGUA - LIMPIEZA Y MANTENIMIENTO DE PILETAS - Pileteros Profesionales-</title>
   <link rel="icon" href="img/logo.png">
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
-    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
   <script src="js/bootstrap-3.3.6.js"></script>
@@ -50,24 +48,6 @@
   <script src="js/wow.js"></script>
   <script>
     new WOW().init();
-  </script>
-
-  <script>
-    $(function () {
-      $('a[href*="#"]:not([href="#"])').click(function () {
-        if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname ==
-          this.hostname) {
-          var target = $(this.hash);
-          target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
-          if (target.length) {
-            $('html, body').animate({
-              scrollTop: target.offset().top
-            }, 1000);
-            return false;
-          }
-        }
-      });
-    });
   </script>
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -324,22 +304,9 @@
     <?php include "include/footer.php"; ?>
   </footer>
 
-  <script>
-    $(document).ready(function () {
-      var altura = $('.menu').offset().top;
 
-      $(window).on('scroll', function () {
-        if ($(window).scrollTop() > altura) {
-          $('.menu').addClass('menu-fixed');
-        } else {
-          $('.menu').removeClass('menu-fixed');
-        }
-      });
-
-    });
-  </script>
   <script src="js/menu.js"></script>
-  <!-- jQuery slider Inicio -->
+  <script src="js/scripts.js"></script>
 
   <script>
     $(document).on('ready', function () {

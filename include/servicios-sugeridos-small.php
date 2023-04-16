@@ -47,8 +47,7 @@
                                     </tbody>
                                 </table>
                             </div>
-
-                            <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="2s" data-wow-delay="2s">
+                            <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
                                 <table width="100%" border="0">
                                     <tbody width="138">
                                         <tr>
@@ -77,13 +76,12 @@
                                     </tbody>
                                 </table>
                             </div>
-
-                            <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="2.5s" data-wow-delay="2.5s">
+                            <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
                                 <table width="100%" border="0">
                                     <tbody width="138">
                                         <tr>
                                             <td align="center"><img src="img/icon_filtro.png" class="icon-suge"
-                                                    alt="" /></td>
+                                                    alt=""></td>
                                         </tr>
                                         <tr>
                                             <td align="center" class="td07pp">
@@ -103,8 +101,7 @@
                                     </tbody>
                                 </table>
                             </div>
-
-                            <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="2.5s" data-wow-delay="2.5s">
+                            <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
                                 <table width="100%" border="0">
                                     <tbody width="138">
                                         <tr>
@@ -132,8 +129,7 @@
                                     </tbody>
                                 </table>
                             </div>
-
-                            <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="2.5s" data-wow-delay="2.5s">
+                            <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
                                 <table width="100%" border="0">
                                     <tbody width="138">
                                         <tr>
@@ -160,8 +156,7 @@
                                     </tbody>
                                 </table>
                             </div>
-
-                            <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="3s" data-wow-delay="3s">
+                            <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="2s" data-wow-delay="2s">
                                 <table width="100%" border="0">
                                     <tbody>
                                         <tr>
@@ -189,7 +184,7 @@
                                     </tbody>
                                 </table>
                             </div>
-                            <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="3.5s" data-wow-delay="3.5s">
+                            <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="2s" data-wow-delay="2s">
                                 <table width="100%" border="0">
                                     <tbody>
                                         <tr>
@@ -215,7 +210,7 @@
                                     </tbody>
                                 </table>
                             </div>
-                            <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="4s" data-wow-delay="4s">
+                            <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="2s" data-wow-delay="2s">
                                 <table width="100%" border="0">
                                     <tbody>
                                         <tr>
@@ -241,7 +236,7 @@
                                     </tbody>
                                 </table>
                             </div>
-                            <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="4s" data-wow-delay="4s">
+                            <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="2s" data-wow-delay="2s">
                                 <table width="100%" border="0">
                                     <tbody>
                                         <tr>
@@ -268,7 +263,7 @@
                                     </tbody>
                                 </table>
                             </div>
-                            <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="3.5s" data-wow-delay="3.5s">
+                            <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="2s" data-wow-delay="2s">
                                 <table width="100%" border="0">
                                     <tbody>
                                         <tr>
@@ -294,7 +289,7 @@
                                     </tbody>
                                 </table>
                             </div>
-                            <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="3.5s" data-wow-delay="3.5s">
+                            <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="3s" data-wow-delay="3s">
                                 <table width="100%" border="0">
                                     <tbody>
                                         <tr>
@@ -320,7 +315,7 @@
                                     </tbody>
                                 </table>
                             </div>
-                            <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="4s" data-wow-delay="4s">
+                            <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="3s" data-wow-delay="3s">
                                 <table width="100%" border="0">
                                     <tbody>
                                         <tr>
@@ -347,6 +342,59 @@
                                     </tbody>
                                 </table>
                             </div>
+
+                            <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="3s" data-wow-delay="3s">
+                                <table width="100%" border="0">
+                                  <tbody>
+                                    <tr>
+                                      <td align="center"><img src="img/icon_consorcio.png" class="icon-suge" alt="" /></td>
+                                    </tr>
+                                    <tr>
+                                      <td class="td07pp" align="center">
+                                        <p>CONSORCIOS, HOTELES Y EMBAJADAS</p>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td class="td08bac" width="138">
+                                        <p>Especialistas en consorcios </p>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td align="center"><a
+                                          href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-edificios-consorcios-departamentos.php">
+                                          <p class="boton-click-aqui">MÁS INFO</p>
+                                        </a></td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                            </div>
+
+                            <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="3s" data-wow-delay="3s">
+                                <table width="100%" border="0">
+                                  <tbody>
+                                    <tr>
+                                      <td align="center"><img src="img/icon_tanque.png" class="icon-suge" alt="Tanque"></td>
+                                    </tr>
+                                    <tr>
+                                      <td class="td07pp" align="center">
+                                        <p>SERVICIO DE LIMPIEZA Y DESINFECCIÓN DE TANQUES DE AGUA</p>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td class="td08bac" width="138">
+                                        <p>Su tanque acumula sedimentos y suciedad. Evite la contaminación del agua que utiliza su familia.</p>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td align="center"><a
+                                          href="servicio-de-limpieza-y-desinfeccion-de-tanques-de-agua.php">
+                                          <p class="boton-click-aqui">MÁS INFO</p>
+                                        </a></td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                            </div>
+
                         </div>
                     </div>
                 </div>

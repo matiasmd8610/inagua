@@ -20,5 +20,8 @@
   "homepage": "https://github.com/matiasmd8610/inagua#readme",
   "devDependencies": {
     "sass": "^1.58.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.3"
   }
 }

@@ -20,6 +20,9 @@
 							Productos</a></li>
 					<li><a href="analisis-bacteriologico-de-agua-de-piscinas-piletas.php">Analisis Bactereologico</a>
 					</li>
+					<li><a href="servicio-de-limpieza-y-desinfeccion-de-tanques-de-agua.php">Servicio de limpieza y
+							desinfección
+							de tanques de agua</a></li>
 				</ul>
 			</div>
 			<div class="col-md-3 colum-1">
@@ -53,6 +56,19 @@
 
 			</div>
 			<div class="col-md-3 colum-1">
+				<!-- Widget portal de piscinas: Begin -->
+				<div id="js_widget" class="ie-common-widget ie-reviews">
+					<script type="text/javascript"
+						src="https://www.piletas.com.ar/widget/review?com=140919&amp;h=1c7aa97ee6958c722a0c7c1a99ec0410&amp;v=10">
+					</script>
+					<div class="portal-by">
+						<a id="js_portal_by" href="https://www.piletas.com.ar"
+							style="text-decoration:none; color:#5d5d5d;">
+							Por <span style='color:#139CE8;'>Piletas.com.ar</span>
+						</a>
+					</div>
+				</div>
+				<!-- Widget portal de piscinas: End -->
 				<script type="text/javascript"
 					src="https://v2.esmsv.com/form/show/AdministratorID/51598/FormID/2/format/widget"></script>
 			</div>
@@ -61,7 +77,8 @@
 		<div class="footer-images mt-5">
 			<div>
 				<a href="http://qr.afip.gob.ar/?qr=1qt4s-TexwFKbGmlAD-3kA,," target="new">
-					<img src="img/data_fiscal.png" width="44" heigth="59" alt="Data Fiscal" class="hvr-grow img-fiscal2">
+					<img src="img/data_fiscal.png" width="44" heigth="59" alt="Data Fiscal"
+						class="hvr-grow img-fiscal2">
 				</a>
 			</div>
 			<div>
@@ -71,7 +88,7 @@
 				<a href="https://twitter.com/InaguaPileteros" target="new"><img src="img/logo_tw.png" alt=""
 						class="hvr-grow"></a>
 				<a href="https://www.instagram.com/inagua.mantenimiento/" target="new">
-					<img src="img/logo_ins.png"	alt="Instagram" class="hvr-grow">
+					<img src="img/logo_ins.png" alt="Instagram" class="hvr-grow">
 				</a>
 				<a href="http://piletero.blogspot.com.ar/" target="new">
 					<img src="img/blogger.png" alt="Blogger" class="hvr-grow">

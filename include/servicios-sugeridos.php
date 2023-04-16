@@ -123,7 +123,7 @@
                         </table>
                     </div>
 
-                    <div class="col-md-3 wow fadeIn" datos-wow-duracion="4s" data-wow-delay="4s">
+                    <div class="col-md-3 wow fadeIn" datos-wow-duracion="3s" data-wow-delay="3s">
                         <table width="100%" border="0">
                             <tbody>
                                 <tr>
@@ -354,6 +354,56 @@
                             </tbody>
                         </table>
                     </div>
+                    <div class="col-md-3 wow fadeIn" datos-wow-duracion="4s" data-wow-delay="4s">
+                        <table width="100%" border="0">
+                          <tbody>
+                            <tr>
+                              <td align="center"><img src="img/icon_consorcio.png" class="icon-suge" alt="" /></td>
+                            </tr>
+                            <tr>
+                              <td class="td07" align="center">
+                                <p>CONSORCIOS, HOTELES Y EMBAJADAS</p>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td class="td08b" align="center">
+                                <p>Especialistas en consorcios</p>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td align="center"><a
+                                  href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-edificios-consorcios-departamentos.php">
+                                  <p class="boton-click-aqui">MÁS INFO</p>
+                                </a></td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </div>
+                    <div class="col-md-3 wow fadeIn" datos-wow-duracion="4s" data-wow-delay="4s">
+                        <table width="100%" border="0">
+                          <tbody>
+                            <tr>
+                              <td align="center"><img src="img/icon_tanque.png" class="icon-suge" alt="Tanque"></td>
+                            </tr>
+                            <tr>
+                              <td class="td07" align="center">
+                                <p>SERVICIO DE LIMPIEZA Y DESINFECCIÓN DE TANQUES DE AGUA</p>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td class="td08b" align="center">
+                                <p>Su tanque acumula sedimentos y suciedad. Evite la contaminación del agua que utiliza su familia.</p>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td align="center"><a
+                                  href="servicio-de-limpieza-y-desinfeccion-de-tanques-de-agua.php">
+                                  <p class="boton-click-aqui">MÁS INFO</p>
+                                </a></td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </div>
 
                 </div>
             </div>

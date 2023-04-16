@@ -280,7 +280,6 @@
     new WOW().init();
   </script>
   <script src="js/menu.js"></script>
-  <!-- jQuery slider Inicio -->
 
   <script>
     $(document).on('ready', function () {

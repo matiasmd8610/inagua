@@ -46,8 +46,8 @@
     rel="stylesheet">
   <script src="js/fileinput.js" type="text/javascript"></script>
   <link href="css/fileinput.css" rel="stylesheet">
-  <link href="styles/css/main.css" rel="stylesheet">
   <link rel="stylesheet" href="css/animate/animate.css">
+  <link href="styles/css/main.css" rel="stylesheet">
   <script src="js/wow.js"></script>
   <script>
     new WOW().init();

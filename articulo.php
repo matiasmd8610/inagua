@@ -38,8 +38,6 @@ function get_template( $id ) {
   <script src="js/fileinput.js" type="text/javascript"></script>
   <link rel="stylesheet" href="css/animate/animate.css">
   <link href="styles/css/main.css" rel="stylesheet">
-    <!-- Animate-->
-    <link rel="stylesheet" href="css/animate/animate.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;600&family=Rubik:wght@300;400;600&display=swap" rel="stylesheet">

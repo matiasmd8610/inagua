@@ -40,12 +40,9 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
   <script src="js/bootstrap-3.3.6.js"></script>
   <link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.min.css">
-  <!--formulario -->
-  <link href="css/hover.css" rel="stylesheet">
   <script src="js/fileinput.js" type="text/javascript"></script>
   <link href="css/fileinput.css" rel="stylesheet">
   <link href="styles/css/main.css" rel="stylesheet">
-  <!-- Animate-->
   <link rel="stylesheet" href="css/animate/animate.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

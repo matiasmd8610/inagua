@@ -23,7 +23,7 @@
                                 <table width="100%" border="0">
                                     <tbody>
                                         <tr>
-                                            <td align="center"><img src="img/icon_casas.png" class="icon-suge" alt="" />
+                                            <td align="center"><img src="img/icon_servicios_de_mantenimiento.png" class="icon-suge" alt="" />
                                             </td>
                                         </tr>
                                         <tr>
@@ -105,7 +105,7 @@
                                 <table width="100%" border="0">
                                     <tbody width="138">
                                         <tr>
-                                            <td align="center"><img src="img/icon_filtro.png" class="icon-suge"
+                                            <td align="center"><img src="img/icon_reparacion_bomba.png" class="icon-suge"
                                                     alt="filtro">
                                             </td>
                                         </tr>
@@ -133,7 +133,7 @@
                                 <table width="100%" border="0">
                                     <tbody width="138">
                                         <tr>
-                                            <td align="center"><img src="img/icon_filtro.png" class="icon-suge"
+                                            <td align="center"><img src="img/icon_cambio_de_multivalvula.png" class="icon-suge"
                                                     alt="filtro">
                                             </td>
                                         </tr>
@@ -267,7 +267,7 @@
                                 <table width="100%" border="0">
                                     <tbody>
                                         <tr>
-                                            <td align="center"><img src="img/iconos_servicios_pintura.png"
+                                            <td align="center"><img src="img/icon_limpieza_y_pintura_bordes_atermicos.png"
                                                     class="icon-suge" alt=""></td>
                                         </tr>
                                         <tr>
@@ -293,7 +293,7 @@
                                 <table width="100%" border="0">
                                     <tbody>
                                         <tr>
-                                            <td align="center"><img src="img/iconos_servicios_pintura.png"
+                                            <td align="center"><img src="img/icon_cloradores_salinos.png"
                                                     class="icon-suge" alt=""></td>
                                         </tr>
                                         <tr>
@@ -311,33 +311,6 @@
                                                     href="cloradores-salinos.php">
                                                     <p class="boton-click-aqui">MÁS INFO</p>
                                                 </a></td>
-                                        </tr>
-                                    </tbody>
-                                </table>
-                            </div>
-                            <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="3s" data-wow-delay="3s">
-                                <table width="100%" border="0">
-                                    <tbody>
-                                        <tr>
-                                            <td align="center"><img src="img/icon_analisis.png" class="icon-suge"
-                                                    alt="" /></td>
-                                        </tr>
-                                        <tr>
-                                            <td align="center" class="td07pp">
-                                                <p>OTROS SERVICIOS</p>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td align="center" class="td08bac" width="138">
-                                                <p>Destapaciones, cortes de cesped, fumigación de mosquoitos</p>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td align="center"><a
-                                                    href="servicio-integrales-de-mantenimiento-de-piletas-y-afines.php">
-                                                    <p class="boton-click-aqui">MÁS INFO</p>
-                                                </a>
-                                            </td>
                                         </tr>
                                     </tbody>
                                 </table>
@@ -373,7 +346,7 @@
                                 <table width="100%" border="0">
                                   <tbody>
                                     <tr>
-                                      <td align="center"><img src="img/icon_tanque.png" class="icon-suge" alt="Tanque"></td>
+                                      <td align="center"><img src="img/icon_limpieza_y_desinfeccion_tanques.png" class="icon-suge" alt="Tanque"></td>
                                     </tr>
                                     <tr>
                                       <td class="td07pp" align="center">
@@ -392,6 +365,34 @@
                                         </a></td>
                                     </tr>
                                   </tbody>
+                                </table>
+                            </div>
+
+                            <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="3s" data-wow-delay="3s">
+                                <table width="100%" border="0">
+                                    <tbody>
+                                        <tr>
+                                            <td align="center"><img src="img/icon_otros_servicios.png" class="icon-suge"
+                                                    alt=""></td>
+                                        </tr>
+                                        <tr>
+                                            <td align="center" class="td07pp">
+                                                <p>OTROS SERVICIOS</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td align="center" class="td08bac" width="138">
+                                                <p>Destapaciones, cortes de cesped, fumigación de mosquoitos</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td align="center"><a
+                                                    href="servicio-integrales-de-mantenimiento-de-piletas-y-afines.php">
+                                                    <p class="boton-click-aqui">MÁS INFO</p>
+                                                </a>
+                                            </td>
+                                        </tr>
+                                    </tbody>
                                 </table>
                             </div>
 

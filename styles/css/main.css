@@ -11860,8 +11860,9 @@ header .imagen_cabesal .sello_premiun {
 }
 
 .icon-suge {
-  width: 6em;
-  margin-bottom: 0.5rem;
+  margin: 1rem 0 0.8rem;
+  height: 130px;
+  width: auto;
 }
 
 .td06_22 {

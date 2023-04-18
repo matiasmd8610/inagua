@@ -37,7 +37,7 @@
     <nav class="menu animate bounce">
       <ul>
         <li>
-          <a href="index.php">INICIO</a>
+          <a href="/">INICIO</a>
         </li>
         <li>
           <a href="empresa-de-mantenimiento-y-limpieza-de-piscinas-de-natacion-y-piletas.php"

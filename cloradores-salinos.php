@@ -48,29 +48,6 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;600&family=Rubik:wght@300;400;600&display=swap"
       rel="stylesheet">
-    <script src="js/wow.js"></script>
-    <script>
-      new WOW().init();
-    </script>
-
-    <script>
-      $(function () {
-        $('a[href*="#"]:not([href="#"])').click(function () {
-          if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname ==
-            this.hostname) {
-            var target = $(this.hash);
-            target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
-            if (target.length) {
-              $('html, body').animate({
-                scrollTop: target.offset().top
-              }, 1000);
-              return false;
-            }
-          }
-        });
-      });
-    </script>
-
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-5539254-2"></script>
@@ -121,13 +98,13 @@
 
         <div class="col-md-12">
           <div class="div-texto">
-            <h1 class="texto1 text-start wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">CLORADORES SALINOS PARA PISCINAS</h1>
-            <p>Nuevo tratamiento alternativo para el cuidado, mantenimiento y desinfección del agua.</p>
+            <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">CLORADORES SALINOS PARA PISCINAS</h1>
+            <p class="text-center">Nuevo tratamiento alternativo para el cuidado, mantenimiento y desinfección del agua.</p>
 
-            <h2 class="texto1 text-start wow slideInRight" datos-wow-duracion="2s" data-wow-delay="1s">¡AGUA LIMPIA Y SANA PARA TU PISCINA TODO EL AÑO!</h2>
+            <h2 class="texto2 text-start wow slideInRight" datos-wow-duracion="2s" data-wow-delay="1s">¡AGUA LIMPIA Y SANA PARA TU PISCINA TODO EL AÑO!</h2>
             <p>Sin necesidad de cambiar nunca más el agua de tu piscina ni de añadir cloro en forma manual.</p>
 
-            <h2 class="texto1 text-start wow slideInLeft" datos-wow-duracion="2s" data-wow-delay="1s">¡COTIZÁ TU PROYECTO HOY SIN CARGO!</h2>
+            <h2 class="texto2 text-start wow slideInLeft" datos-wow-duracion="2s" data-wow-delay="1s">¡COTIZÁ TU PROYECTO HOY SIN CARGO!</h2>
             <p>Proporcionamos asesoramiento de calidad y un valioso acompañamiento técnico en los proyectos a medida de nuestros clientes.</p>
             <p>Contamos con el respaldo de Innowater S.L. abocada al desarrollo y la fabricación de productos de alta calidad para el tratamiento de aguas desde hace 10 años con presencia internacional en más de 30 paises.</p>
 
@@ -171,7 +148,7 @@
         </div>
 
         <div class="col-md-12">
-          <h2 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">NUESTRAS ÚLTIMAS INSTALACIONES</h2>
+          <h2 class="texto1 wow zoomInDown mb-5" datos-wow-duracion="2s" data-wow-delay="1s">NUESTRAS ÚLTIMAS INSTALACIONES</h2>
           <div class="cloradores-instalaciones-wrapper">
             <img class="cloradores-img-instalaciones" src="img/servicios/cloradores_instalaciones_1.jpg" alt="Instalación Cloradores">
             <img class="cloradores-img-instalaciones" src="img/servicios/cloradores_instalaciones_2.jpg" alt="Instalación Cloradores">
@@ -186,7 +163,7 @@
         </div>
 
         <!-- FAQS: Begin -->
-        <h2 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">F.A.Q PREGUNTAS FRECUENTES</h2>
+        <h2 class="texto1 wow zoomInDown mb-5" datos-wow-duracion="2s" data-wow-delay="1s">F.A.Q PREGUNTAS FRECUENTES</h2>
         <div class="accordion mb-5" id="accordionExample">
           <div class="accordion-item">
             <h2 class="accordion-header" id="headingOne">
@@ -394,7 +371,10 @@
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
   <script src="js/menu.js"></script>
   <script src="js/scripts.js"></script>
-
+  <script src="js/wow.js"></script>
+  <script>
+    new WOW().init();
+  </script>
   <script>
     $(document).on('ready', function () {
       $("#input-b5").fileinput({

@@ -1078,7 +1078,7 @@
 
 .td04 {
 	font-size: 18px;
-	font-family: $secondary-font, sans-serif;
+	font-family: $secondary-font;
 	color: #fff;
 	font-weight: 600;
 	letter-spacing: 0.08em;
@@ -1200,7 +1200,7 @@
 	font-family: $secondary-font;
 	font-weight: 600;
 	text-align: center;
-	padding: 0 15px 15px 15px;
+	padding: 15px 0;
 
 	@media(max-width: 767px) {
 		font-size: 1.25rem;
@@ -1693,5 +1693,45 @@ input.btn-primary {
 	p {
 		font-weight: 600;
 		text-align: center;
+	}
+}
+
+/*REVESTIMIENTO DE VENECITAS
+********************************************/
+#revestimiento-venecitas {
+	.revestimientoVenecitas-wrapper {
+		.gallery-container {
+			display: grid;
+			grid-template-columns: repeat(2, 1fr);
+			grid-gap: 1rem;
+			@include media-breakpoint-up(lg) {
+				grid-template-columns: repeat(4, 1fr);
+			}
+			@include media-breakpoint-up(xl) {
+				grid-template-columns: repeat(5, 1fr);
+			}
+
+			a {
+				display: flex;
+				flex-direction: column;
+				align-items: center;
+				text-decoration: none !important;
+				img {
+					width: 100%;
+				}
+				.name {
+					padding: .7rem 0;
+					display: block;
+					line-height: 1.2;
+				}
+			}
+		}
+
+		.nav-tabs {
+			margin-bottom: 1.2rem;
+			.nav-link {
+				font-weight: 500;
+			}
+		}
 	}
 }

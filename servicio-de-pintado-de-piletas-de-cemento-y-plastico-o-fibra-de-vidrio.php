@@ -80,21 +80,10 @@
 
   <span class="ir-arriba"><img src="img/up.png" alt=""></span>
   <div id="top"></div>
+  
   <header>
-
-
-
     <div class="botoner_completa animated slideInDown">
-
-
-
-
-
       <?php include "include/navegacion.php"; ?>
-
-
-
-
     </div>
   </header>
 
@@ -108,9 +97,7 @@
             </h2>
           </div>
 
-          <br><br>
-
-          <img src="img/pintura-piletas.png" alt="pintura_piscinas" class="img_produc_pintura wow slideInLeft">
+          <img src="img/pintura-piletas.png" alt="Pintura piscinas" class="img_produc_pintura wow slideInLeft">
 
           <div class="div-texto">
             <h5 class="texto3 wow slideInUp">
@@ -122,10 +109,9 @@
             </h5>
           </div>
           <br>
-          <br>
 
           <div class="col-md-12 presupuesto-ser wow slideInUp">
-            <a href="#contacto" class="boton-presupuesto" style="text-decoration:none;">SOLICITAR PRESUPUESTO</a>
+            <a href="#contacto" class="boton-presupuesto">SOLICITAR PRESUPUESTO</a>
           </div>
         </div>
       </div>

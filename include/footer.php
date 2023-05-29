@@ -21,8 +21,11 @@
 					<li><a href="analisis-bacteriologico-de-agua-de-piscinas-piletas.php">Analisis Bactereologico</a>
 					</li>
 					<li><a href="servicio-de-limpieza-y-desinfeccion-de-tanques-de-agua.php">Servicio de limpieza y
-							desinfección
-							de tanques de agua</a></li>
+							desinfección de tanques de agua</a>
+					</li>
+					<li>
+						<a href="revestimiento-de-venecitas.php">Revestimiento de Venecitas</a>
+					</li>
 				</ul>
 			</div>
 			<div class="col-md-3 colum-1">

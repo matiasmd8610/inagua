@@ -112,9 +112,9 @@ header {
             @media (max-width: 991px) {
                 position: absolute;
                 top: 98px;
-                right: -75vw;
+                right: -80vw;
                 margin-right: 0px;
-                width: 75vw;
+                width: 80vw;
                 z-index: 10;
                 display: flex;
                 justify-content:flex-start;
@@ -193,26 +193,15 @@ header {
                     display: none;
                 }
         
-                li:hover ul{
-                    display: block;
-                    position: absolute;
-                    z-index: 15000000;
-                    margin-top: 11px;
-                    background: rgba(255, 255, 255, 1);
-                    right: auto;
-                    border: none;
-                    left: 0;
-                    width: auto;
-                    min-width: 300px;
-                    top: 30px;
-                    box-shadow: 1px 2px 8px #cac8c8;
-
-                    @media (max-width: 768px) {
-                        overflow-y: scroll;
-                        width: 250px;
-                        height: 350px;
-                        margin-top: 20px;
+                li {
+                    &:hover {
+                        ul {
+                            @include media-breakpoint-up(lg) {
+                                display: block;
+                            }
+                        }
                     }
+                    
                 }
             }
 
@@ -226,6 +215,49 @@ header {
                     padding: 15px 13px;
                 }
 
+                &.active {
+                    ul {
+                        display: block;
+                    }
+                }
+
+                ul {
+                    display: none;
+                    position: absolute;
+                    z-index: 15000000;
+                    margin-top: 11px;
+                    background: rgba(255, 255, 255, 1);
+                    right: auto;
+                    border: none;
+                    left: 0;
+                    width: auto;
+                    min-width: 300px;
+                    top: 30px;
+                    box-shadow: 1px 2px 8px #cac8c8;
+                    background: #0192d5;
+                    color: white;
+                    margin-right: 60px;
+                    width: auto;
+                    overflow: auto;
+                    @media (max-width: 768px) {
+                        overflow-y: scroll;
+                        width: 250px;
+                        height: 350px;
+                        margin-top: 20px;
+                    }
+
+                    li {
+                        a {
+                            color: #fff;
+                        }
+
+                        &:last-child {
+                            border: 0;
+                        }
+                    }
+
+                }
+
                 &:hover{
                     background: #0192d5;
                     color: white !important;
@@ -233,21 +265,7 @@ header {
                     background-image: linear-gradient(to right, rgb(0,166,231) 0%, rgb(34,107,179) 25%, rgb(43,84,161) 50%, rgb(47,69,152) 75%);
 
                     ul {
-                        background: #0192d5;
-                        color: white;
-                        margin-right: 60px;
-                        width: auto;
-                        overflow: auto;
-
-                        li {
-                            a {
-                                color: #fff;
-                            }
-
-                            &:last-child {
-                                border: 0;
-                            }
-                        }
+                        
                     }
                  
                 }

@@ -36,7 +36,7 @@
   <title>Piletero en Barracas</title>
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo" />
   <link rel="icon" href="img/logo.png">
-  <script src="js/bootstrap-3.3.6.js"></script>
+  <script src="js/bootstrap.min.js"></script>
   <link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.min.css">
   <script src="js/fileinput.js" type="text/javascript"></script>
   <link href="css/fileinput.css" rel="stylesheet">
@@ -142,47 +142,14 @@
   </div>
 
   <footer>
-
-
-
     <?php include "include/footer.php"; ?>
-
-
-
-
-
-
   </footer>
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-  <script src="js/bootstrap-3.3.6.js"></script>
-  <script src="js/menu.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/scripts.js"></script>
   <script src="js/fileinput.js" type="text/javascript"></script>
-  <script>
-    $(function () {
-      $('a[href*="#"]:not([href="#"])').click(function () {
-        if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname ==
-          this.hostname) {
-          var target = $(this.hash);
-          target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
-          if (target.length) {
-            $('html, body').animate({
-              scrollTop: target.offset().top
-            }, 1000);
-            return false;
-          }
-        }
-      });
-    });
-  </script>
-  <script>
-    $(document).on('ready', function () {
-      $("#input-b5").fileinput({
-        showCaption: false
-      });
-    });
-  </script>
-    <script src="js/wow.js"></script>
+  <script src="js/wow.js"></script>
   <script>
     new WOW().init();
   </script>

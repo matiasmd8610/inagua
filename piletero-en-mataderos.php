@@ -36,9 +36,8 @@
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo" />
   <link rel="icon" href="img/logo.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-  <script src="js/bootstrap-3.3.6.js"></script>
+  <script src="js/bootstrap.min.js"></script>
   <link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.min.css">
   <script src="js/fileinput.js" type="text/javascript"></script>
   <link href="css/fileinput.css" rel="stylesheet">
@@ -93,29 +92,12 @@
   </section>
   <span class="ir-arriba"><img src="img/up.png" alt=""></span>
   <div id="top"></div>
+
   <header>
-
-
-
     <div class="botoner_completa animated slideInDown">
-
-
-
       <?php include "include/navegacion.php"; ?>
-
-
-
     </div>
   </header>
-
-
-
-
-
-
-
-
-
 
   <section id="cobertura">
     <div class="container">
@@ -239,13 +221,8 @@
 
               </div>
 
-
-
-
             </div>
           </div>
-
-
 
           <div class="container">
             <div class="row text-center cont-iconos">
@@ -276,7 +253,6 @@
                 </table>
               </div>
 
-
               <div class="col-md-3 wow fadeIn" datos-wow-duracion="2s" data-wow-delay="2s">
                 <table width="100%" border="0">
                   <tbody>
@@ -303,10 +279,6 @@
                   </tbody>
                 </table>
               </div>
-
-
-
-
 
               <div class="col-md-3 wow fadeIn" datos-wow-duracion="3s" data-wow-delay="3s">
                 <table width="100%" border="0">
@@ -410,28 +382,10 @@
   </div>
 
   <footer>
-
-
-
     <?php include "include/footer.php"; ?>
-
-
-
-
-
-
   </footer>
 
-  <script src="js/menu.js"></script>
-  <!-- jQuery slider Inicio -->
-
-  <script>
-    $(document).on('ready', function () {
-      $("#input-b5").fileinput({
-        showCaption: false
-      });
-    });
-  </script>
+  <script src="js/scripts.js"></script>
 
   </body>
 

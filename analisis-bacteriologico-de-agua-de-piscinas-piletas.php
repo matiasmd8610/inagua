@@ -240,21 +240,13 @@
   </footer>
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-  <script src="js/bootstrap-3.3.6.js"></script>
+  <script src="js/bootstrap.min.js"></script>
   <script src="js/fileinput.js" type="text/javascript"></script>
   <script src="js/wow.js"></script>
   <script>
     new WOW().init();
   </script>
-  <script src="js/menu.js"></script>
   <script src="js/scripts.js"></script>
-  <script>
-    $(document).on('ready', function () {
-      $("#input-b5").fileinput({
-        showCaption: false
-      });
-    });
-  </script>
 
 </body>
 

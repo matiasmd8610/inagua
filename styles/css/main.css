@@ -10824,8 +10824,14 @@ html {
 body {
   font-family: "Rubik", sans-serif;
   font-weight: 300;
-  padding-top: 100px;
+  padding-top: 105px;
   line-height: 1.4;
+  overflow-x: hidden;
+}
+@media (min-width: 992px) {
+  body {
+    padding-top: 132px;
+  }
 }
 
 a {
@@ -10838,8 +10844,25 @@ a:hover {
   text-decoration: underline;
 }
 
+strong {
+  font-weight: 600;
+}
+
+h1, .h1,
+h2,
+.h2,
+h3,
+.h3,
+h4,
+.h4,
+h5,
+.h5 {
+  font-weight: 600;
+  line-height: 1.2;
+}
+
 section {
-  margin-top: 3rem;
+  margin-top: 2rem;
 }
 @media (max-width: 767px) {
   section {
@@ -10858,16 +10881,35 @@ section {
   font-weight: 500;
 }
 
+/*Buttons
+************************************/
+.boton-presupuesto {
+  padding: 12px 25px;
+  background-color: #0192d5;
+  display: inline-block;
+  color: #fff;
+  font-size: 18px;
+  font-family: "Oswald", sans-serif;
+  font-weight: 600;
+  text-align: center;
+  border-radius: 0.5rem;
+  text-decoration: none !important;
+  text-transform: uppercase;
+}
+.boton-presupuesto:hover {
+  background-color: #2a58a4;
+  color: #fff;
+}
+
 header .contacto_hea {
   width: 100%;
   background: #2f4598;
-  background: linear-gradient(top, #2f4598 20%, #2b54a1 49%, #226bb3 71%, #00a6e7 100%);
   box-shadow: 0px 0px 5px 0px rgba(2, 4, 0, 0.75);
   font-size: 23px;
   color: white;
-  animation-duration: 2s;
-  animation-delay: 2s;
-  padding: 0.5rem 0;
+  animation-duration: 1.5s;
+  animation-delay: 1.5s;
+  padding: 0.6rem 0;
 }
 header .contacto_hea .horario_atencion {
   display: flex;
@@ -10907,6 +10949,19 @@ header .contacto_hea .horario_atencion_header_tipos .dias_atencion {
   margin: 0;
   font-weight: 600;
 }
+header .contacto_hea .contenedor_horario {
+  display: flex;
+}
+header .contacto_hea .contenedor_horario .horarios_atencion {
+  font-family: "Oswald", sans-serif;
+  margin: 0;
+  letter-spacing: 0.02em;
+}
+header .contacto_hea .contenedor_horario .horarios_atencion:before {
+  content: "|";
+  display: inline-block;
+  margin: 0 10px;
+}
 header .contacto_hea .datos_contacto {
   display: flex;
   align-items: center;
@@ -10922,20 +10977,38 @@ header .contacto_hea .datos_contacto {
 header .contacto_hea .datos_contacto a {
   color: #fff;
   margin-left: 0.5rem;
+  background-color: #1fca1f;
+  display: inline-block;
+  padding: 0.25rem 1rem;
+  border-radius: 1rem;
+  display: flex;
+  align-items: center;
+  font-weight: 600;
+  margin-left: 0.5rem;
+  font-size: 0.9rem;
+}
+@media (min-width: 992px) {
+  header .contacto_hea .datos_contacto a {
+    font-size: 1rem;
+  }
+}
+header .contacto_hea .datos_contacto a img {
+  margin-left: 0.35rem;
 }
 header .contacto_hea .datos_contacto a:hover {
-  text-decoration: underline;
+  background-color: #0eb50e;
+  text-decoration: none;
 }
-@media (max-width: 991px) {
+@media (max-width: 991.98px) {
   header .contacto_hea .datos_contacto .consulta_header {
-    font-size: 0.8em;
+    font-size: 0.9em;
     width: auto;
     margin-bottom: 0;
     text-align: center;
   }
 }
 header .contacto_hea .datos_contacto .imagen_wh {
-  width: 22px;
+  width: 20px;
 }
 header .nav-container {
   display: flex;
@@ -10960,7 +11033,7 @@ header .nav-container .menu {
 @media (max-width: 991px) {
   header .nav-container .menu {
     position: absolute;
-    top: 98px;
+    top: 106px;
     right: -80vw;
     margin-right: 0px;
     width: 80vw;
@@ -11170,6 +11243,29 @@ header .imagen_cabesal .sello_premiun {
   margin-bottom: 20px;
 }
 
+.hero-home {
+  background-image: url("../../img/banner_home_bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  padding: 4rem 0;
+  position: relative;
+}
+.hero-home:after {
+  content: "";
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.6);
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: 1;
+}
+.hero-home .container {
+  position: relative;
+  z-index: 2;
+}
+
 #btn-menu {
   display: none;
 }
@@ -11209,25 +11305,6 @@ header .imagen_cabesal .sello_premiun {
 
 .presupuesto {
   margin-top: 50px;
-}
-
-.boton-presupuesto {
-  padding: 12px 25px;
-  background-color: #0192d5;
-  width: 60%;
-  color: #fff;
-  font-size: 18px;
-  font-family: "Oswald", sans-serif;
-  font-weight: 600;
-  text-align: center;
-  margin-top: 50px;
-  margin: auto;
-  border-radius: 0.5rem;
-  text-decoration: none !important;
-}
-.boton-presupuesto:hover {
-  background-color: #2a58a4;
-  color: #fff;
 }
 
 .sobre_nosotros_1 {
@@ -11565,14 +11642,8 @@ header .imagen_cabesal .sello_premiun {
   }
 }
 
-.div-texto-casas-bac {
-  margin-top: 30px;
-}
 @media (max-width: 767px) {
   .div-texto-casas-bac {
-    width: 100%;
-    margin-left: 0;
-    margin-top: 20px;
     margin-bottom: 50px;
   }
 }
@@ -11601,10 +11672,10 @@ header .imagen_cabesal .sello_premiun {
 }
 
 .texto3sc {
-  color: #333333;
+  color: #333;
   font-size: 18px;
   font-family: "Rubik", sans-serif;
-  font-weight: 400;
+  font-weight: 300;
   text-align: left;
 }
 
@@ -11653,6 +11724,17 @@ header .imagen_cabesal .sello_premiun {
   width: 100%;
   margin: auto;
   text-align: center;
+}
+.iconos-servicios figure {
+  border-radius: 1rem;
+  background-color: #0192d5;
+  overflow: hidden;
+}
+.iconos-servicios figure img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  object-position: center center;
 }
 
 .imgen-moviles-casas {
@@ -11725,7 +11807,6 @@ header .imagen_cabesal .sello_premiun {
   display: flex;
   align-content: center;
   margin: auto;
-  padding: 20px;
 }
 
 /*arena multivalvula*/
@@ -11833,7 +11914,7 @@ header .imagen_cabesal .sello_premiun {
 .servicios-sugeridos-icon {
   display: grid;
   grid-template-columns: repeat(1, 1fr);
-  grid-gap: 15px;
+  grid-gap: 1.5rem;
 }
 @media (min-width: 1200px) {
   .servicios-sugeridos-icon {
@@ -11841,7 +11922,11 @@ header .imagen_cabesal .sello_premiun {
   }
 }
 .servicios-sugeridos-icon .icon-sugeridos-tama {
-  min-width: 30%;
+  background-color: #f5f5f5;
+  box-shadow: 0 0 6px 3px #ddd;
+  padding: 1rem;
+  border-radius: 1rem;
+  overflow: hidden;
 }
 
 @media (max-width: 1200px) {
@@ -11851,11 +11936,12 @@ header .imagen_cabesal .sello_premiun {
   }
 }
 .td07pp {
-  font-size: 15px;
+  font-size: 1rem;
   font-family: "Oswald", sans-serif;
   color: #333;
   font-weight: 600;
   line-height: 1.3;
+  text-transform: uppercase;
 }
 .td07pp p {
   margin-bottom: 0.5rem;
@@ -11872,7 +11958,6 @@ header .imagen_cabesal .sello_premiun {
 }
 
 .icon-suge {
-  margin: 1rem 0 0.8rem;
   height: 130px;
   width: auto;
 }
@@ -11918,18 +12003,6 @@ header .imagen_cabesal .sello_premiun {
   bottom: 20px;
   left: 25px;
   z-index: 3000;
-}
-
-.horarios_atencion {
-  font-family: "Oswald", sans-serif;
-  margin: 0;
-  letter-spacing: 0.02em;
-}
-
-.horarios_atencion:before {
-  content: "|";
-  display: inline-block;
-  margin: 0 10px;
 }
 
 /* datos contacto*/
@@ -12172,10 +12245,9 @@ header .imagen_cabesal .sello_premiun {
   padding-top: 6px;
 }
 
-.cont-iconos {
-  padding-top: 30px;
-}
-
+/* .cont-iconos {
+	padding-top: 30px;
+} */
 .cont-iconos table td {
   padding-top: 10px;
 }
@@ -12253,7 +12325,7 @@ header .imagen_cabesal .sello_premiun {
 
 .texto1 {
   color: #333333;
-  font-size: 30px;
+  font-size: 2rem;
   font-family: "Oswald", sans-serif;
   font-weight: 600;
   text-align: center;
@@ -12268,15 +12340,15 @@ header .imagen_cabesal .sello_premiun {
 
 .texto2 {
   color: #009fe1;
-  font-size: 1.5rem;
   font-family: "Oswald", sans-serif;
   font-weight: 600;
   text-align: center;
-  padding: 15px 0;
+  margin: 0 0 2rem;
+  font-size: 1.5rem;
 }
-@media (max-width: 767px) {
+@media (min-width: 992px) {
   .texto2 {
-    font-size: 1.25rem;
+    font-size: 1.75rem;
   }
 }
 
@@ -12310,14 +12382,13 @@ header .imagen_cabesal .sello_premiun {
 
 .texto3 {
   color: #333;
-  font-size: 18px;
+  font-size: 20px;
   font-family: "Rubik", sans-serif;
-  font-weight: 400;
+  font-weight: 300;
 }
-@media (max-width: 500px) {
+@media (max-width: 767px) {
   .texto3 {
-    font-size: 20px;
-    line-height: 26px;
+    font-size: 18px;
   }
 }
 
@@ -12769,8 +12840,12 @@ input.btn-primary {
   align-items: center;
   text-decoration: none !important;
 }
+#revestimiento-venecitas .revestimientoVenecitas-wrapper .gallery-container a:hover img {
+  opacity: 0.7;
+}
 #revestimiento-venecitas .revestimientoVenecitas-wrapper .gallery-container a img {
   width: 100%;
+  transition: all 0.3s ease;
 }
 #revestimiento-venecitas .revestimientoVenecitas-wrapper .gallery-container a .name {
   padding: 0.7rem 0;
@@ -12785,18 +12860,54 @@ input.btn-primary {
   color: #000 !important;
 }
 
+.grid-3-images {
+  display: grid;
+  grid-gap: 2rem;
+}
+@media (min-width: 992px) {
+  .grid-3-images {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+.grid-3-images img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 0.6rem;
+}
+
+.banner-dengue {
+  display: flex;
+  padding: 2rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  background-color: #008CD1;
+  color: #fff;
+  align-items: center;
+  justify-content: center;
+  margin: 2rem 0;
+  flex-direction: column;
+}
+@media (min-width: 992px) {
+  .banner-dengue {
+    font-size: 2.6rem;
+    flex-direction: row;
+  }
+}
+.banner-dengue img {
+  margin-left: 2rem;
+  width: 160px;
+}
+
 footer .fondo_pie {
   background: url("../../img/fondo_nuevo_pie.jpg") no-repeat center center;
   background-size: cover;
   width: 100%;
-  height: 525px;
   margin-top: 75px;
-}
-@media (max-width: 992px) {
-  footer .fondo_pie {
-    height: auto;
-    padding-bottom: 75px;
-  }
+  padding-bottom: 75px;
+  /* @include media-breakpoint-up(lg) {
+      padding-bottom: 0;
+  } */
 }
 footer .fondo_pie .seguinos_tex {
   font-family: "Oswald", sans-serif;
@@ -12908,11 +13019,6 @@ footer .fondo_pie .footer-images {
 }
 footer .fondo_pie .footer-images > div {
   display: flex;
-}
-@media (min-width: 768px) {
-  footer .fondo_pie .footer-images .sello_premiun {
-    transform: translateY(-2.5rem);
-  }
 }
 footer .fondo_pie .footer-images .img-fiscal2 {
   margin-bottom: 2rem;

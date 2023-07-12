@@ -113,36 +113,35 @@ function get_template( $id ) {
 
         <div class="div-texto texto-art wow slideInUp">
           <p class="texto31">
-            <b>Prendo la bomba y se me vacía el vaso. </b>
-            <br>
-            <img src="img/punto1.jpg" width="10" height="10" alt=""/> <i>Verifique que la manguera de succión no esté
+            <h5>Prendo la bomba y se me vacía el vaso. </h5>
+            <i>Verifique que la manguera de succión no esté
               tomando aire, si no lo hace verifique la unión con la bomba y si aún allí no encuentra el problema,
               verifique que no se esté filtrando aire por la tapa del equipo. </i>
             <br><br>
-            <b>La bomba prende pero no funciona</b>
-            <br>
-            <img src="img/punto1.jpg" width="10" height="10" alt=""/> <i>Esto puede ocurrir si ha pasado mucho tiempo
+
+            <h5>La bomba prende pero no funciona</h5>
+            <i>Esto puede ocurrir si ha pasado mucho tiempo
               sin utilizar la bomba. Por la parte trasera de la bomba, trate de hacer girar un poco, manualmente o con
               un destornillador, el eje/ventilador de la bomba. Si bien puede hacerlo Ud. mismo, se recomienda que lleve
               la bomba a un centro autorizado o a una electromecánica o llame a un especialista. </i>
             <br><br>
-            <b>Utilicé la bomba sin canasto y se me trabó. </b>
-            <br>
-            <img src="img/punto1.jpg" width="10" height="10" alt=""/> <i>Se debe abrir la bomba para limpiar la turbina.
+
+            <h5>Utilicé la bomba sin canasto y se me trabó. </h5>
+            <i>Se debe abrir la bomba para limpiar la turbina.
               Si bien puede hacerlo Ud. mismo, se recomienda que lleve la misma a un centro autorizado o a una
               electromecánica o llame a un especialista. Se recuerda que si la bomba esta en garantía, ésta puede
               perderse ante cualquier apertura no autorizada.
             </i>
             <br><br>
-            <b>TENER CUIDADO </b>
+
+            <h5>TENER CUIDADO:</h5>
+            Nunca utilice la Bomba sin Canasto.
             <br>
-            <img src="img/punto1.jpg" width="10" height="10" alt="">Nunca utilice la Bomba sin Canasto.
+            No permita que se mojen sus componentes eléctricos.
             <br>
-            <img src="img/punto1.jpg" width="10" height="10" alt="">No permita que se mojen sus componentes eléctricos.
-            <br>
-            <img src="img/punto1.jpg" width="10" height="10" alt="">No ponga la Bomba en funcionamiento si no recibe
+            No ponga la Bomba en funcionamiento si no recibe
             agua.
-            <br>
+            <br><br><br>
 
             <?php include "include/advertencia.php"; ?>
             <br>

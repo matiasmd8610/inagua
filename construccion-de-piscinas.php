@@ -10,12 +10,12 @@
   <meta name="googlebot" content="index, follow, all">
   <meta name="keywords"
     content="servicio de limpieza, bordes atérmicos, pisos perimetrales, propiedades atérmicas y antideslizantes, formación de manchas y algas, mantenimiento">
-  <meta name="title" content="Servicio de limpieza y pintura de bordes atérmicos">
+  <meta name="title" content="Instalación de sistema de iluminación led con o sin control remoto.">
   <meta name="author" content="Administrator">
-  <meta name="description" content="Mantené tus pisos atérmicos siempre como nuevos">
+  <meta name="description" content="Instalación de sistema de iluminación led con o sin control remoto.">
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo">
   <meta property="fb:app_id" content="383820332074788">
-  <title>PILETEROS - LIMPIEZA DE PILETAS - DESAGOTES DE PISCINAS</title>
+  <title>Construcción de Piscinas | SERVICIOS | INAGUA</title>
   <link rel="icon" href="img/logo.png">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
@@ -104,27 +104,18 @@
 
         <div class="col-md-12">
           <div class="div-texto">
-            <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">SERVICIO DE LIMPIEZA Y PINTURA
-              DE BORDES ATÉRMICOS</h1>
-            <h4 class="texto2 wow slideInUp" style="visibility: visible; animation-name: slideInUp;">Mantené tus pisos
-              atérmicos siempre como nuevos</h4>
-            <ul class="mt-4">
-              <li>Devuelve el color a tus pisos perimetrales de piscinas y solariums</li>
-              <li>No altera las propiedades atérmicas y antideslizantes de la superficie original.</li>
-              <li>Reduce la formación de manchas y algas facilitando el mantenimiento.</li>
-            </ul>
-          </div>
-        </div>
+            <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Construcción de Piscinas</h1>
+            <p>Utilizamos los mejores materiales y mano de obra experimentada.</p>
 
-        <div class="col-md-12">
-          <div class="bordes-atermicos-wrapper">
-            <img src="img/servicios/servicio_de_limpieza_y_pintura_de_bordes_atermicos_01.jpeg" alt="">
-            <img src="img/servicios/servicio_de_limpieza_y_pintura_de_bordes_atermicos_02.jpeg" alt="">
-            <img src="img/servicios/servicio_de_limpieza_y_pintura_de_bordes_atermicos_05.jpeg" alt="">
-            <img src="img/servicios/servicio_de_limpieza_y_pintura_de_bordes_atermicos_06.jpeg" alt="">
-            <img src="img/servicios/servicio_de_limpieza_y_pintura_de_bordes_atermicos_04.jpeg" alt="">
+            <h2 class="texto2 mt-5 wow slideInUp">Asesoramiento</h2>
+            <p>Una piscina te aporta bienestar y diversión. Vamos a ayudarte a resolver esas dudas sobre cómo arribar a un diseño personalizado de acuerdo a tus necesidades.</p>
+
+          <h2 class="texto2 mt-5 wow slideInUp">Diseño a medida</h2>
+          <p>Nos reunimos, nos contás tu proyecto, sugerimos en función a nuestra experiencia y en equipo logramos como resultado tu piscina soñada.</p>
+
+          <h2 class="texto2 mt-5 wow slideInUp">Trato personalizado</h2>
+          <p>Para un adecuado servicio, es indispensable conocer sus gustos y necesidades. El trato cercano es hacer sentir al cliente único.</p>
           </div>
-          <img src="img/servicios/servicio_de_limpieza_y_pintura_de_bordes_atermicos_03.jpeg" class="w-100" alt="">
         </div>
 
       </div>

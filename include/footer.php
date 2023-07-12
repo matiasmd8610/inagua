@@ -26,6 +26,37 @@
 					<li>
 						<a href="revestimiento-de-venecitas.php">Revestimiento de Venecitas</a>
 					</li>
+					<li>
+						<a href="revestimiento-en-piedra-bali.php">Revestimiento en Piedra Bali</a>
+					</li>
+					<li>
+						<a href="destapaciones-de-barre-fondo-skimmer-piscina-limpia-fondo-pileta.php">Destapación de
+							Cañerias de
+							Piscinas</a>
+					</li>
+					<li>
+						<a href="corte-de-cesped.php">Corte de Césped</a>
+					</li>
+					<li>
+						<a href="fumigacion-de-mosquitos.php">Fumigación de mosquitos</a>
+					</li>
+					<li>
+						<a href="reparacion-de-piletas-y-piscinas-de-hormigon.php">Reparación de Piletas y Piscinas de
+							hormigón</a>
+					</li>
+					<li>
+						<a href="bordes-atermicos.php">Bordes Atérmicos</a>
+					</li>
+					<li>
+						<a href="iluminacion-led.php">Iluminación Led</a>
+					</li>
+					<li>
+						<a href="construccion-de-piscinas.php">Construcción de Piscinas</a>
+					</li>
+					<li>
+						<a
+							href="revestimiento-para-interior-de-piscinas-piletas-solum-marmolite-premecol.php">Marmolite</a>
+					</li>
 				</ul>
 			</div>
 			<div class="col-md-3 colum-1">
@@ -59,6 +90,19 @@
 
 			</div>
 			<div class="col-md-3 colum-1">
+				<div class="mb-5">
+					<p class="seguinos_tex2">SEGUINOS</p>
+					<a href="https://www.facebook.com/Inagua.Mantenimiento.de.Piscinas/" target="new">
+						<img src="img/logo_face.png" alt="Facebook" class="hvr-grow"></a>
+					<a href="https://twitter.com/InaguaPileteros" target="new"><img src="img/logo_tw.png" alt=""
+							class="hvr-grow"></a>
+					<a href="https://www.instagram.com/inagua.mantenimiento/" target="new">
+						<img src="img/logo_ins.png" alt="Instagram" class="hvr-grow">
+					</a>
+					<a href="http://piletero.blogspot.com.ar/" target="new">
+						<img src="img/blogger.png" alt="Blogger" class="hvr-grow">
+					</a>
+				</div>
 				<!-- Widget portal de piscinas: Begin -->
 				<div id="js_widget" class="ie-common-widget ie-reviews">
 					<script type="text/javascript"
@@ -74,33 +118,21 @@
 				<!-- Widget portal de piscinas: End -->
 				<script type="text/javascript"
 					src="https://v2.esmsv.com/form/show/AdministratorID/51598/FormID/2/format/widget"></script>
+
+				<div class="footer-images mt-5">
+					<div>
+						<a href="http://qr.afip.gob.ar/?qr=1qt4s-TexwFKbGmlAD-3kA,," target="new">
+							<img src="img/data_fiscal.png" width="44" heigth="59" alt="Data Fiscal"
+								class="hvr-grow img-fiscal2">
+						</a>
+					</div>
+					<div>
+						<img src="img/sello_premiun.png" align="right" class="sello_premiun" alt="Sello Premium">
+					</div>
+				</div>
 			</div>
 		</div>
 
-		<div class="footer-images mt-5">
-			<div>
-				<a href="http://qr.afip.gob.ar/?qr=1qt4s-TexwFKbGmlAD-3kA,," target="new">
-					<img src="img/data_fiscal.png" width="44" heigth="59" alt="Data Fiscal"
-						class="hvr-grow img-fiscal2">
-				</a>
-			</div>
-			<div>
-				<p class="seguinos_tex2">SEGUINOS</p>
-				<a href="https://www.facebook.com/Inagua.Mantenimiento.de.Piscinas/" target="new">
-					<img src="img/logo_face.png" alt="Facebook" class="hvr-grow"></a>
-				<a href="https://twitter.com/InaguaPileteros" target="new"><img src="img/logo_tw.png" alt=""
-						class="hvr-grow"></a>
-				<a href="https://www.instagram.com/inagua.mantenimiento/" target="new">
-					<img src="img/logo_ins.png" alt="Instagram" class="hvr-grow">
-				</a>
-				<a href="http://piletero.blogspot.com.ar/" target="new">
-					<img src="img/blogger.png" alt="Blogger" class="hvr-grow">
-				</a>
-			</div>
-			<div>
-				<img src="img/sello_premiun.png" align="right" class="sello_premiun" alt="Sello Premium">
-			</div>
-		</div>
 	</div>
 
 </div>

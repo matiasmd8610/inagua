@@ -34,7 +34,7 @@
   <meta name="author" content="Administrator" />
   <meta name="description"
     content="Servicios de pintura de piletas de material, plastico y fibra de vidrio con caucho clorado." />
-  <title>Pintor de piletas</title>
+  <title>Pintado de piscinas | SERVICIOS | INAGUA</title>
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo" />
   <link rel="icon" href="img/logo.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">

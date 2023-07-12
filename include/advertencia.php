@@ -1,6 +1,5 @@
-<b>ADVERTENCIAS </b>
-
-<br><br>
+<h4>ADVERTENCIAS</h4>
+<br>
 INAGUA ni su personal serán responsables del mal uso de esta información, negligencia en su aplicación, mala
 interpretación o uso indebido de ésta. La seguridad y actos del usuario son responsabilidad directa del mismo.
 <br> <br>

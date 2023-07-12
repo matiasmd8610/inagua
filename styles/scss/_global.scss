@@ -6,8 +6,12 @@ html {
 body {
     font-family: $primary-font;
     font-weight: 300;
-    padding-top: 100px;
+    padding-top: 105px;
     line-height: 1.4;
+    overflow-x: hidden;
+    @include media-breakpoint-up(lg) {
+        padding-top: 132px;
+    }
 }
 
 a {
@@ -20,9 +24,22 @@ a {
     }
 }
 
+strong {
+    font-weight: 600;
+}
+
+h1, 
+h2, 
+h3, 
+h4, 
+h5 {
+    font-weight: 600;
+    line-height: 1.2;
+}
+
 
 section {
-    margin-top: 3rem;
+    margin-top: 2rem;
 
     @media(max-width: 767px) {
         margin-top: 1.5rem;
@@ -38,4 +55,26 @@ section {
 **********************************/
 .lg-sub-html {
     font-weight: 500;
+}
+
+
+/*Buttons
+************************************/
+.boton-presupuesto {
+	padding: 12px 25px;
+	background-color: $color-blue-main;
+	display: inline-block;
+	color: #fff;
+	font-size: 18px;
+	font-family: $secondary-font;
+	font-weight: 600;
+	text-align: center;
+	border-radius: 0.5rem;
+	text-decoration: none !important;
+    text-transform: uppercase;
+
+	&:hover {
+		background-color: #2a58a4;
+		color: #fff;
+	}
 }

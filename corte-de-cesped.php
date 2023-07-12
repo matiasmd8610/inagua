@@ -2,26 +2,6 @@
 <html lang="es">
 
 <head>
-
-  <!-- Google Tag Manager -->
-  <script>
-    (function (w, d, s, l, i) {
-      w[l] = w[l] || [];
-      w[l].push({
-        'gtm.start': new Date().getTime(),
-        event: 'gtm.js'
-      });
-      var f = d.getElementsByTagName(s)[0],
-        j = d.createElement(s),
-        dl = l != 'dataLayer' ? '&l=' + l : '';
-      j.async = true;
-      j.src =
-        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-      f.parentNode.insertBefore(j, f);
-    })(window, document, 'script', 'dataLayer', 'GTM-T4FLXK7');
-  </script>
-  <!-- End Google Tag Manager -->
-
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -34,7 +14,7 @@
   <meta name="author" content="Administrator">
   <meta name="description" content="Servicios de pastinado de piletas con venecitas.">
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo">
-  <title>INAGUA - Servicios integrales de mantenimiento de piletas y afines</title>
+  <title>Corte de cesped | SERVICIOS | INAGUA</title>
   <link rel="icon" href="img/logo.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
@@ -67,6 +47,25 @@
     gtag('config', 'UA-5539254-2');
   </script>
 
+  <!-- Google Tag Manager -->
+  <script>
+    (function (w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({
+        'gtm.start': new Date().getTime(),
+        event: 'gtm.js'
+      });
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s),
+        dl = l != 'dataLayer' ? '&l=' + l : '';
+      j.async = true;
+      j.src =
+        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-T4FLXK7');
+  </script>
+  <!-- End Google Tag Manager -->
+
 </head>
 
 <body>
@@ -85,51 +84,39 @@
     </div>
   </header>
 
-
-  <section id="cambio_arena" style="background-color: #fff;">
+  <section>
     <div class="container">
       <div class="row">
 
         <div class="col-lg-12">
           <div class="div-texto">
-            <h2 class="texto1 wow zoomInDown text-start" datos-wow-duracion="2s" data-wow-delay="1s">Destapaciones</h2>
+            <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Corte de cesped
+            </h1>
           </div>
           <div class="div-texto">
-            <h5 class="texto3 wow slideInUp">Las destapaciones que realizamos son de tomas de agua de bomba de piscinas.
-              El procedimiento consiste en destapar con presión de aire en la tubería (cámara de fondo, barrefondo o
-              skimmer), en sentido contrario a como se obstruyó.</h5>
-          </div>
-        </div>
-
-        <div class="col-lg-12">
-          <div class="div-texto">
-            <h2 class="texto1 wow zoomInDown text-start" datos-wow-duracion="2s" data-wow-delay="1s">Corte de cesped
-            </h2>
-          </div>
-          <div class="div-texto">
-            <h5 class="texto3 wow slideInUp">En esta parte solo poner una imagen de una máquina cortando césped. <br>
+            <p class="texto3 wow slideInUp">
               Cortamos el césped con máquinas propias. <br>
               El servicio preferentemente se coordina en una jornada distinta al mantenimiento de su piscina para que la
-              misma no se ensucie.</h5>
+              misma no se ensucie.</p>
           </div>
         </div>
 
-        <div class="col-lg-12">
-          <div class="div-texto">
-            <h2 class="texto1 wow zoomInDown text-start" datos-wow-duracion="2s" data-wow-delay="1s">Fumigación de
-              mosquitos</h2>
-          </div>
-          <div class="div-texto">
-            <h5 class="texto3 wow slideInUp">¡Fumigue Ya!<br>
-              ¡Sin Mosquito No Hay Dengue!<br>
-              Brindamos el servicio de Fumigación De Mosquitos en todos los barrios de Capital Federal y alrededores.
-            </h5>
+        <div class="container my-lg-4">
+          <div class="grid-3-images">
+            <div class="wow fadeInLeft">
+              <img class="img-fluid" src="img/servicios/corte_cesped_01.jpg" alt="">
+            </div>
+            <div class="wow fadeInDown">
+              <img class="img-fluid" src="img/servicios/corte_cesped_02.jpg" alt="">
+            </div>
+            <div class="wow fadeInRight">
+              <img class="img-fluid" src="img/servicios/corte_cesped_03.jpg" alt="">
+            </div>
           </div>
         </div>
-        <div class="col-lg-12 presupuesto-ser wow slideInUp mt-5 text-start"
-          style="visibility: visible; animation-name: slideInUp;">
-          <a target="_blank" href="https://inagua.com.ar/mosquitos/FumigaciondeExteriores.html"
-            class="boton-presupuesto">VER MÁS SOBRE ESTE SERVICIO</a>
+
+        <div class="col-md-12 presupuesto-ser wow slideInUp">
+          <a href="#contacto" class="boton-presupuesto" style="text-decoration:none;">SOLICITAR PRESUPUESTO</a>
         </div>
 
       </div>
@@ -264,7 +251,7 @@
 
   <script>
     $(document).on('ready', function () {
-      
+
     });
   </script>
 

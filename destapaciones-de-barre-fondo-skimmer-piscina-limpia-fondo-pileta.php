@@ -2,26 +2,6 @@
 <html lang="es">
 
 <head>
-
-  <!-- Google Tag Manager -->
-  <script>
-    (function (w, d, s, l, i) {
-      w[l] = w[l] || [];
-      w[l].push({
-        'gtm.start': new Date().getTime(),
-        event: 'gtm.js'
-      });
-      var f = d.getElementsByTagName(s)[0],
-        j = d.createElement(s),
-        dl = l != 'dataLayer' ? '&l=' + l : '';
-      j.async = true;
-      j.src =
-        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-      f.parentNode.insertBefore(j, f);
-    })(window, document, 'script', 'dataLayer', 'GTM-T4FLXK7');
-  </script>
-  <!-- End Google Tag Manager -->
-
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -35,8 +15,7 @@
   <meta name="author" content="Administrator">
   <meta name="description" content="Especialistas en destapaciones de cañerias de piscinas y piscinas de natación." />
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo" />
-  <title>DESTAPACIONES DE BARRE FONDO, LIMPIA FONDO, SKIMMER Y CAMARA DE FONDO DE PISCINAS Y PISCINAS DE NATACIÓN
-  </title>
+  <title>Destapación de Cañerias de Piscinas SERVICIOS | INAGUA</title>
   <link rel="icon" href="img/logo.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
@@ -68,6 +47,25 @@
 
     gtag('config', 'UA-5539254-2');
   </script>
+
+  <!-- Google Tag Manager -->
+  <script>
+    (function (w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({
+        'gtm.start': new Date().getTime(),
+        event: 'gtm.js'
+      });
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s),
+        dl = l != 'dataLayer' ? '&l=' + l : '';
+      j.async = true;
+      j.src =
+        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-T4FLXK7');
+  </script>
+  <!-- End Google Tag Manager -->
 
 
 </head>
@@ -103,53 +101,51 @@
           <div class="div-texto">
             <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Destapación de Cañerias de
               Piscinas</h1>
-            <h4 class="texto2 wow slideInUp">destapamos camara de fondo, barrefondo y skimmers de piscinas </h4>
+            <h2 class="texto2 wow slideInUp">Destapamos camara de fondo, barrefondo y skimmers de piscinas </h2>
           </div>
         </div>
       </div>
     </div>
 
-
-    <div class="container">
+    <div class="container my-lg-4">
       <div class="row">
         <div class="col-md-4 contenedor-img-desa wow fadeInLeft">
-          <img src="img/barre_fondo.png" alt="">
+          <img src="img/barre_fondo.png" alt="Barre fondo">
         </div>
-
         <div class="col-md-4 contenedor-img-desa wow fadeInDown">
-          <img src="img/skimer.png" alt="">
+          <img src="img/skimmer.jpg" alt="Skimmer">
         </div>
-
         <div class="col-md-4 contenedor-img-desa wow fadeInRight">
-          <img src="img/camara_fondo.png" alt="">
+          <img src="img/camara_fondo.png" alt="Camara de fondo">
         </div>
-
       </div>
     </div>
+
     <br>
 
     <div class="container div-texto">
       <div class="row">
-        <h5 class="texto3 wow slideInUp">
+        <p class="texto3 wow slideInUp">
           Si al prender la bomba no succiona agua del limpia fondo, skimmer o cámara de fondo puede suceder que se haya
           obstruido en algún punto la cañería ya sea al pasar el barre fondo, al filtrar desde el skimmer sin filtro de
           pelos (canasto) o al no contar con tapa la cámara de fondo.
-        </h5>
+        </p>
         <br>
-        <h5 class="texto3 wow slideInUp">
+        <p class="texto3 wow slideInUp">
           Si el problema está en desatascar las tuberías de la piscina es mejor contar con la experiencia de un
           profesional.
-        </h5>
+        </p>
         <br>
-        <h5 class="texto3 wow slideInUp">
+        <p class="texto3 wow slideInUp">
           Hay que tener mucho cuidado para resolver este asunto, porque si manipulamos ciertas partes sin saber qué
           estamos haciendo, puede ser peor el remedio que la enfermedad.
-        </h5>
+        </p>
         <br>
+        <p class="texto3 wow slideInUp">Las destapaciones que realizamos son de tomas de agua de bomba de piscinas. El procedimiento consiste en destapar con presión de aire en la tubería (cámara de fondo, barrefondo o skimmer), en sentido contrario a como se obstruyó.</p>
         <br>
-        <h5 class="texto3 wow slideInUp">
+        <p class="texto3 wow slideInUp">
           Llámenos, somos especialistas en destapaciones de barre fondo, skimmer, y cámara de fondo de piscina.
-        </h5>
+        </p>
         <br>
         <br>
 

@@ -9,32 +9,27 @@
   <meta name="robots" content="index, follow, all">
   <meta name="googlebot" content="index, follow, all">
   <meta name="keywords"
-    content="servicio de limpieza, bordes atérmicos, pisos perimetrales, propiedades atérmicas y antideslizantes, formación de manchas y algas, mantenimiento">
-  <meta name="title" content="Servicio de limpieza y pintura de bordes atérmicos">
+    content="cloradores, cloración, innowater, cloración salina, clorador salino, piscinas, piletas, mantenimiento piscinas, natación, agua">
+  <meta name="title" content="Revestimos piletas en Piedra Bali">
   <meta name="author" content="Administrator">
-  <meta name="description" content="Mantené tus pisos atérmicos siempre como nuevos">
+  <meta name="description"
+    content="Revestimos piletas con piedra bali. Ofrecemos una amplia gama de colores, tipos y diseños. Nos destacamos por una terminación fina y de calidad. Personal especializado en colocación de piedra bali">
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo">
   <meta property="fb:app_id" content="383820332074788">
-  <title>PILETEROS - LIMPIEZA DE PILETAS - DESAGOTES DE PISCINAS</title>
+  <title>INAGUA | SERVICIOS | Revestimiento en Piedra Bali Venecitas</title>
   <link rel="icon" href="img/logo.png">
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
-    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.min.css">
   <link href="css/fileinput.css" rel="stylesheet">
-  <link href="styles/css/main.css" rel="stylesheet">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
   <script src="js/fileinput.js" type="text/javascript"></script>
   <link rel="stylesheet" href="css/animate/animate.css">
+  <link type="text/css" rel="stylesheet" href="styles/css/lightgallery-bundle.css">
   <link href="styles/css/main.css" rel="stylesheet">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;600&family=Rubik:wght@300;400;600&display=swap"
     rel="stylesheet">
-  <script src="js/wow.js"></script>
-  <script>
-    new WOW().init();
-  </script>
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-5539254-2"></script>
@@ -72,10 +67,9 @@
 
 <body>
   <section>
-
     <?php include "include/chat.php"; ?>
-
   </section>
+
   <span class="ir-arriba"><img src="img/up.png" alt="Ir arriba"></span>
   <div id="top"></div>
 
@@ -98,39 +92,60 @@
     </div>
   </header>
 
-  <section>
+  <section id="revestimiento-venecitas">
     <div class="container">
       <div class="row">
 
         <div class="col-md-12">
           <div class="div-texto">
-            <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">SERVICIO DE LIMPIEZA Y PINTURA
-              DE BORDES ATÉRMICOS</h1>
-            <h4 class="texto2 wow slideInUp" style="visibility: visible; animation-name: slideInUp;">Mantené tus pisos
-              atérmicos siempre como nuevos</h4>
-            <ul class="mt-4">
-              <li>Devuelve el color a tus pisos perimetrales de piscinas y solariums</li>
-              <li>No altera las propiedades atérmicas y antideslizantes de la superficie original.</li>
-              <li>Reduce la formación de manchas y algas facilitando el mantenimiento.</li>
-            </ul>
+            <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Revestimiento en Piedra Bali
+            </h1>
+            <p class="text-center">Revestimos piletas con piedra bali. Ofrecemos una amplia gama de colores, tipos y diseños. Nos destacamos por una terminación fina y de calidad. Personal especializado en colocación de piedra bali</p>
           </div>
         </div>
 
         <div class="col-md-12">
-          <div class="bordes-atermicos-wrapper">
-            <img src="img/servicios/servicio_de_limpieza_y_pintura_de_bordes_atermicos_01.jpeg" alt="">
-            <img src="img/servicios/servicio_de_limpieza_y_pintura_de_bordes_atermicos_02.jpeg" alt="">
-            <img src="img/servicios/servicio_de_limpieza_y_pintura_de_bordes_atermicos_05.jpeg" alt="">
-            <img src="img/servicios/servicio_de_limpieza_y_pintura_de_bordes_atermicos_06.jpeg" alt="">
-            <img src="img/servicios/servicio_de_limpieza_y_pintura_de_bordes_atermicos_04.jpeg" alt="">
+          <h2 class="texto1 wow zoomInDown mb-5" datos-wow-duracion="2s" data-wow-delay="1s">Muestrario</h2>
+          <div class="revestimientoVenecitas-wrapper">
+
+            <!-- Piedra Bali Gallery: Begin -->
+            <div class="gallery-container" id="animated-thumbnails-gallery-01">
+              <a href="img/servicios/revestimientos-para-piletas/pidra-bali/piedra_bali_verde_10x10.jpg"
+                class="gallery-item" data-sub-html="<p>PIEDRA BALI VERDE 10x10 CM</p>">
+                <img alt="PIEDRA BALI VERDE 10x10 CM" class="img-responsive"
+                  src="img/servicios/revestimientos-para-piletas/pidra-bali/piedra_bali_verde_10x10.jpg">
+                <span class="name">PIEDRA BALI VERDE 10x10 CM</span>
+                <span class="gallery-item-zoom"><i class="fa-solid fa-magnifying-glass"></i></span>
+              </a>
+              <a href="img/servicios/revestimientos-para-piletas/pidra-bali/piedra_bali_verde_20x20.jpg"
+                class="gallery-item" data-sub-html="<p>PIEDRA BALI VERDE 20x20 CM</p>">
+                <img alt="PIEDRA BALI VERDE 20x20 CM" class="img-responsive"
+                  src="img/servicios/revestimientos-para-piletas/pidra-bali/piedra_bali_verde_20x20.jpg">
+                <span class="name">PIEDRA BALI VERDE 20x20 CM</span>
+                <span class="gallery-item-zoom"><i class="fa-solid fa-magnifying-glass"></i></span>
+              </a>
+              <a href="img/servicios/revestimientos-para-piletas/pidra-bali/piedra_bali_negra_20x20.jpg"
+                class="gallery-item" data-sub-html="<p>PIEDRA BALI NEGRA 20X20 CM</p>">
+                <img alt="PIEDRA BALI NEGRA 20X20 CM" class="img-responsive"
+                  src="img/servicios/revestimientos-para-piletas/pidra-bali/piedra_bali_negra_20x20.jpg">
+                <span class="name">PIEDRA BALI NEGRA 20X20 CM</span>
+                <span class="gallery-item-zoom"><i class="fa-solid fa-magnifying-glass"></i></span>
+              </a>
+              <a href="img/servicios/revestimientos-para-piletas/pidra-bali/piedra_bali_negra_10x10.jpg"
+                class="gallery-item" data-sub-html="<p>PIEDRA BALI NEGRA 10X10 CM</p>">
+                <img alt="PIEDRA BALI NEGRA 10X10 CM" class="img-responsive"
+                  src="img/servicios/revestimientos-para-piletas/pidra-bali/piedra_bali_negra_10x10.jpg">
+                <span class="name">PIEDRA BALI NEGRA 10X10 CM</span>
+                <span class="gallery-item-zoom"><i class="fa-solid fa-magnifying-glass"></i></span>
+              </a>
+            </div>
+            <!-- Piedra Bali Gallery: End -->
+
           </div>
-          <img src="img/servicios/servicio_de_limpieza_y_pintura_de_bordes_atermicos_03.jpeg" class="w-100" alt="">
         </div>
 
       </div>
-
     </div>
-
   </section>
 
   <!-- SERVICIOS SUGERIDOS SMALL: Begin -->
@@ -168,6 +183,35 @@
     integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous">
   </script>
   <script src="js/scripts.js"></script>
+  <script src="js/wow.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.3/jquery.min.js"
+    integrity="sha512-STof4xm1wgkfm7heWqFJVn58Hm3EtS31XFaagaa8VMReCXAkQnJZ+jEy8PCC/iT18dFy95WcExNHFTqLyp72eQ=="
+    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <script src="js/lightgallery/lightgallery.min.js"></script>
+  <!-- lightgallery plugins -->
+  <script src="js/lightgallery/plugins/zoom/lg-zoom.min.js"></script>
+  <script src="js/lightgallery/plugins/thumbnail/lg-thumbnail.min.js"></script>
+  <script>
+    new WOW().init();
+  </script>
+  <script>
+    /*Light Gallery
+     *********************************************/
+    document.querySelectorAll('.gallery-container').forEach((element, index) => {
+      lightGallery(document.getElementById(element.getAttribute('id')), {
+        plugins: [lgZoom, lgThumbnail],
+        //licenseKey: 'your_license_key',
+        speed: 1000,
+        download: false,
+        allowMediaOverlap: true,
+        mobileSettings: {
+          controls: false,
+          showCloseIcon: true
+        }
+        // ... other settings
+      });
+    });
+  </script>
 
 </body>
 

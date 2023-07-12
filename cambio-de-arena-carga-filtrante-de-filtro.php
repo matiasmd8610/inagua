@@ -2,37 +2,18 @@
 <html lang="es">
 
 <head>
-
-  <!-- Google Tag Manager -->
-  <script>
-    (function (w, d, s, l, i) {
-      w[l] = w[l] || [];
-      w[l].push({
-        'gtm.start': new Date().getTime(),
-        event: 'gtm.js'
-      });
-      var f = d.getElementsByTagName(s)[0],
-        j = d.createElement(s),
-        dl = l != 'dataLayer' ? '&l=' + l : '';
-      j.async = true;
-      j.src =
-        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-      f.parentNode.insertBefore(j, f);
-    })(window, document, 'script', 'dataLayer', 'GTM-T4FLXK7');
-  </script>
-  <!-- End Google Tag Manager -->
-
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#2F4598">
   <meta name="robots" content="index, follow, all">
   <meta name="googlebot" content="index, follow, all">
-  <meta name="keywords" content="limpieza de piscina, piscinas, piletero, pileteros, desagotes, mantenimiento de piscinas">
-  <meta name="title" content="CAMBIO DE ARENA Y REPARACIÓN DE FILTRO DE PISCINA">
+  <meta name="keywords"
+    content="limpieza de piscina, piscinas, piletero, pileteros, desagotes, mantenimiento de piscinas">
+  <meta name="title" content="Cambio de arena y reparación de filtro de Piscina">
   <meta name="author" content="Administrator">
   <meta name="description" content="Remplazo de arena y reparación de filtros de piscinas.">
-  <title>CAMBIO DE ARENA Y REPARACIÓN DE FILTRO DE PISCINA</title>
+  <title>Cambio de arena y reparación de filtro de Piscina | SERVICIOS | INAGUA</title>
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo">
   <link rel="icon" href="img/logo.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -66,6 +47,25 @@
     gtag('config', 'UA-5539254-2');
   </script>
 
+  <!-- Google Tag Manager -->
+  <script>
+    (function (w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({
+        'gtm.start': new Date().getTime(),
+        event: 'gtm.js'
+      });
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s),
+        dl = l != 'dataLayer' ? '&l=' + l : '';
+      j.async = true;
+      j.src =
+        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-T4FLXK7');
+  </script>
+  <!-- End Google Tag Manager -->
+
 </head>
 
 <body>
@@ -78,19 +78,8 @@
   <div id="top"></div>
 
   <header>
-
-
-
     <div class="botoner_completa animated slideInDown">
-
-
-
-
-
       <?php include "include/navegacion.php"; ?>
-
-
-
     </div>
   </header>
 
@@ -100,7 +89,8 @@
         <div class="col-md-12">
 
           <div class="div-texto">
-            <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Cambio de arena y multivalvula de filtro de piscinas</h1>
+            <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Cambio de arena y multivalvula
+              de filtro de piscinas</h1>
             <h4 class="texto2 wow slideInUp">Reemplazo de filtros y cañerias</h4>
           </div>
           <br><br>
@@ -119,15 +109,19 @@
 
           <div class="div-texto">
             <h5 class="texto3 wow slideInUp">
-              Si al filtrar el agua de su piscina aparece arena dentro, en el piso. Esto quiere decir que los colectores del filtro se han dañado y dejan
-              pasar arena en el retorno hacia la piscina. <b> Solución: llamarnos para desarmar filtro y cambiar colectores.</b>
+              Si al filtrar el agua de su piscina aparece arena dentro, en el piso. Esto quiere decir que los colectores
+              del filtro se han dañado y dejan
+              pasar arena en el retorno hacia la piscina. <b> Solución: llamarnos para desarmar filtro y cambiar
+                colectores.</b>
             </h5>
           </div>
           <br>
           <div class="div-texto">
             <h5 class="texto3 wow slideInUp">
-              Si al filtrar el agua de su piscina el nivel de la misma disminuye. Esto  quiere decir que la junta del cabezal se ha dañado producto del uso.
-              Los tipos de juntas varian de acuerdo a las marcas de los filtros.<b>Solución: llamarnos para cambiar junta estrella del cabezal del filtro.</b>
+              Si al filtrar el agua de su piscina el nivel de la misma disminuye. Esto quiere decir que la junta del
+              cabezal se ha dañado producto del uso.
+              Los tipos de juntas varian de acuerdo a las marcas de los filtros. <b>Solución: llamarnos para cambiar
+                junta estrella del cabezal del filtro.</b>
             </h5>
           </div>
           <br>
@@ -142,7 +136,8 @@
           </div>
           <br>
           <div class="div-texto">
-            <h5 class="texto3 wow slideInUp">Recuerde que un correcto filtrado del agua dara por resultado agua cristalina.</h5>
+            <h5 class="texto3 wow slideInUp">Recuerde que un correcto filtrado del agua dara por resultado agua
+              cristalina.</h5>
           </div>
 
         </div>
@@ -165,7 +160,7 @@
       <div class="row">
 
         <div class="col-md-6 wow slideInLeft" datos-wow-duracion="0.5s" data-wow-delay="0.5s"">
-                        <img src=" img/staff_1.png" alt="" class="staff_1">
+                <img src=" img/staff_1.png" alt="" class="staff_1">
         </div>
 
         <div class="col-md-6 wow slideInRight" datos-wow-duracion="1s" data-wow-delay="1s">

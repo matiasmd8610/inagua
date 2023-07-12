@@ -2,26 +2,6 @@
 <html lang="es">
 
 <head>
-
-  <!-- Google Tag Manager -->
-  <script>
-    (function (w, d, s, l, i) {
-      w[l] = w[l] || [];
-      w[l].push({
-        'gtm.start': new Date().getTime(),
-        event: 'gtm.js'
-      });
-      var f = d.getElementsByTagName(s)[0],
-        j = d.createElement(s),
-        dl = l != 'dataLayer' ? '&l=' + l : '';
-      j.async = true;
-      j.src =
-        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-      f.parentNode.insertBefore(j, f);
-    })(window, document, 'script', 'dataLayer', 'GTM-T4FLXK7');
-  </script>
-  <!-- End Google Tag Manager -->
-
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -34,7 +14,7 @@
   <meta name="author" content="Administrator" />
   <meta name="description" content="Vendemos productos químicos para el mantenimiento de piletas.">
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo">
-  <title>CLORO - PASTILLAS - CLARIFICADOR - ALGUICIDA</title>
+  <title>Productos Químicos para Piscinas | SERVICIOS | INAGUA</title>
   <link rel="icon" href="img/logo.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
@@ -67,6 +47,25 @@
     gtag('config', 'UA-5539254-2');
   </script>
 
+  <!-- Google Tag Manager -->
+  <script>
+    (function (w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({
+        'gtm.start': new Date().getTime(),
+        event: 'gtm.js'
+      });
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s),
+        dl = l != 'dataLayer' ? '&l=' + l : '';
+      j.async = true;
+      j.src =
+        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-T4FLXK7');
+  </script>
+  <!-- End Google Tag Manager -->
+
 </head>
 
 <body>
@@ -90,29 +89,31 @@
         <div class="col-md-12">
 
           <div class="div-texto">
-            <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">PRODUCTOS QUÍMICOS PARA PISCINAS</h1>
+            <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Productos Químicos para Piscinas</h1>
             <h2 class="texto2 wow slideInUp">Venta minorista</h2>
           </div>
           <br><br>
 
           <div class="div-texto-casas4">
-            <h5 class="texto3sc wow slideInUp">Brindamos la posibilidad a quienes contratan nuestros servicios de proveerles productos químicos para el mantenimiento del agua de su piscina de primera calidad y de las marcas comerciales lideres.</h5>
-            <br>
-            <h5 class="texto3sc wow slideInUp">Vendemos productos de forma minorista.</h5>
-            <br>
+            <p class="texto3sc wow slideInUp">Brindamos la posibilidad a quienes contratan nuestros servicios de
+              proveerles productos químicos para el mantenimiento del agua de su piscina de primera calidad y de las
+              marcas comerciales lideres.</p>
+            <p class="texto3sc wow slideInUp">Vendemos productos de forma minorista.</p>
 
-            <h5 class="texto3sc wow slideInUp">Todos los productos que utilizamos están aprobados por la ANMAT (Administración Nacional de Medicamentos, Alimentos y Tecnología Médica).</h5>
-            <br>
+            <p class="texto3sc wow slideInUp">Todos los productos que utilizamos están aprobados por la ANMAT
+              (Administración Nacional de Medicamentos, Alimentos y Tecnología Médica).</p>
 
-            <h5 class="texto3sc wow slideInUp">Compre sus productos mediante nuestra tienda o solicite vía mail un presupuesto a su medida. Ante cualquier duda no dude en comunicarse con INAGUA.</h5>
-            <br>
+            <p class="texto3sc wow slideInUp">Compre sus productos mediante nuestra tienda o solicite vía mail un
+              presupuesto a su medida. Ante cualquier duda no dude en comunicarse con INAGUA.</p>
 
-            <h5 class="texto3sc wow slideInUp"><b>Whatsapp: <a href="https://wa.me/541164420848?text=Hola!%20Quisiera%20recibir%20información%20sobre%20el%20servicio"
-            class="tel_2" target="_blank">15-6442-0848</a></b></h5>
-            <h5 class="texto3sc wow slideInUp">O través de nuestro formulario de contacto, lo atenderemos con gusto.</h5>
+            <p class="texto3sc wow slideInUp"><b>Whatsapp: <a
+                  href="https://wa.me/541164420848?text=Hola!%20Quisiera%20recibir%20información%20sobre%20el%20servicio"
+                  class="tel_2" target="_blank">15-6442-0848</a></b></p>
+            <p class="texto3sc wow slideInUp">O través de nuestro formulario de contacto, lo atenderemos con gusto.
+            </p>
 
           </div>
-          
+
           <div class="imagen-produc0 wow slideInRight">
             <img src="img/nataclor-producto.jpg" class="img_produc" alt="Nataclor producto">
           </div>

@@ -12,7 +12,7 @@
   <meta name="title" content="LIMPIEZA DE PILETAS" />
   <meta name="author" content="Administrator" />
   <meta name="description" content="Empresa profesional de limpieza de piletas.">
-  <title>Empresa de limpieza de piletas en edificios, consorcios y departamentos</title>
+  <title>Mantenimiento de piletas en consorcios, hoteles y embajadas | SERVICIOS | INAGUA</title>
   <link rel="icon" href="img/logo.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.min.css">
@@ -58,9 +58,6 @@
     <div class="botoner_completa animated slideInDown">
       <?php include "include/navegacion.php"; ?>
     </div>
-    <!--     <div class="imagen_cabesal">
-      <img src="img/sello_premiun.png" align="right" class="sello_premiun" alt="">
-    </div> -->
   </header>
 
   <section id="embajadas">
@@ -69,9 +66,9 @@
         <div class="col-md-12">
           <div class="div-texto-casa">
             <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Mantenimiento de piletas en
-              consorcios, hoteles y embajadas </h1>
-            <h4 class="texto2 wow slideInUp">Nos encargamos de mantener su pileta y el agua en óptimas condiciones
-              durante todo el año</h4>
+              consorcios, hoteles y embajadas</h1>
+            <h2 class="texto2 wow slideInUp">Nos encargamos de mantener su pileta y el agua en óptimas condiciones
+              durante todo el año</h2>
           </div>
           <br><br>
 

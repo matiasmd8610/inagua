@@ -4,13 +4,13 @@ footer {
         background: url("../../img/fondo_nuevo_pie.jpg") no-repeat center center;
         background-size: cover;
         width: 100%;
-        height: 525px;
-        margin-top:75px;
+        //height: 525px;
+        margin-top: 75px;
+        padding-bottom: 75px;
         
-        @media(max-width: 992px){
-            height: auto;
-            padding-bottom: 75px;
-        }
+        /* @include media-breakpoint-up(lg) {
+            padding-bottom: 0;
+        } */
 
         .seguinos_tex {
             font-family: $secondary-font;
@@ -138,12 +138,6 @@ footer {
 
             &>div {
                 display: flex;
-            }
-
-            .sello_premiun {
-                @media(min-width: 768px) {
-                    transform: translateY(-2.5rem);
-                }
             }
 
             .img-fiscal2 {

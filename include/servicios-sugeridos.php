@@ -3,6 +3,17 @@
         <div class="col-md-12">
 
             <div class="container">
+                <div class="row text-center separ-secciones_2">
+                    <div class="col-md-4">
+                        <div class="span-separ-secciones_2"></div>
+                    </div>
+                    <div class="col-md-4">
+                        <p class="td06_2">Nuestros Servicios</p>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="span-separ-secciones_2"></div>
+                    </div>
+                </div>
                 <div class="row text-center cont-iconos">
 
                     <div class="col-md-3 wow fadeIn" datos-wow-duracion="3s" data-wow-delay="3s">
@@ -40,7 +51,8 @@
                             <tbody>
                                 <tr>
                                     <td align="center">
-                                        <img src="img/icon_desagote.png" width="138" height="129" role="presentation" class="icon-suge">
+                                        <img src="img/icon_desagote.png" width="138" height="129" role="presentation"
+                                            class="icon-suge">
                                     </td>
                                 </tr>
                                 <tr>
@@ -71,7 +83,8 @@
                             <tbody>
                                 <tr>
                                     <td align="center">
-                                        <img src="img/icon_filtro.png" width="138" height="129" role="presentation" class="icon-suge">
+                                        <img src="img/icon_filtro.png" width="138" height="129" role="presentation"
+                                            class="icon-suge">
                                     </td>
                                 </tr>
                                 <tr>
@@ -221,7 +234,8 @@
                             <tbody>
                                 <tr>
                                     <td align="center">
-                                        <img src="img/icon_pro.png" width="138" height="129" role="presentation" class="icon-suge">
+                                        <img src="img/icon_pro.png" width="138" height="129" role="presentation"
+                                            class="icon-suge">
                                     </td>
                                 </tr>
                                 <tr>
@@ -250,7 +264,8 @@
                             <tbody>
                                 <tr>
                                     <td align="center">
-                                        <img src="img/icon_analisis.png" width="138" height="129" role="presentation" class="icon-suge">
+                                        <img src="img/icon_analisis.png" width="138" height="129" role="presentation"
+                                            class="icon-suge">
                                     </td>
                                 </tr>
                                 <tr>
@@ -336,7 +351,8 @@
                         <table width="100%" border="0">
                             <tbody>
                                 <tr>
-                                    <td align="center"><img src="img/icon_consorcio.png" class="icon-suge" alt="" width="138" height="129">
+                                    <td align="center"><img src="img/icon_consorcio.png" class="icon-suge" alt=""
+                                            width="138" height="129">
                                     </td>
                                 </tr>
                                 <tr>
@@ -362,7 +378,8 @@
                         <table width="100%" border="0">
                             <tbody>
                                 <tr>
-                                    <td align="center"><img src="img/icon_limpieza_y_desinfeccion_tanques.png" class="icon-suge" alt="Tanque" width="138" height="129">
+                                    <td align="center"><img src="img/icon_limpieza_y_desinfeccion_tanques.png"
+                                            class="icon-suge" alt="Tanque" width="138" height="129">
                                     </td>
                                 </tr>
                                 <tr>
@@ -385,7 +402,7 @@
                             </tbody>
                         </table>
                     </div>
-                    <div class="col-md-3 wow fadeIn" datos-wow-duracion="4s" data-wow-delay="4s">
+                    <!-- <div class="col-md-3 wow fadeIn" datos-wow-duracion="4s" data-wow-delay="4s">
                         <table width="100%" border="0">
                             <tbody>
                                 <tr>
@@ -413,7 +430,7 @@
                                 </tr>
                             </tbody>
                         </table>
-                    </div>
+                    </div> -->
 
                 </div>
             </div>

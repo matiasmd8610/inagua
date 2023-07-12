@@ -15,9 +15,11 @@
 
         <div class="col-lg-6 datos_contacto">
           <p class="consulta_header my-0">HACENOS TU CONSULTA:</p>
-          <a href="https://wa.me/541164420848?text=Hola!%20Quisiera%20recibir%20información%20sobre%20el%20servicio"
-            class="tel_2" target="_blank">15-6442-0848</a>&nbsp;&nbsp;<img src="img/whatsapp.png" alt=""
-            class="imagen_wh">
+          <a href="https://wa.me/541164420848?text=Hola!%20Quisiera%20recibir%20información%20sobre..."
+            target="_blank">
+            15-6442-0848
+            <img src="img/whatsapp_white.png" alt="Whatsapp" width="25" class="imagen_wh">
+          </a>
         </div>
 
       </div>
@@ -94,7 +96,32 @@
               <a href="revestimiento-de-venecitas.php">Revestimiento de Venecitas</a>
             </li>
             <li>
-              <a href="servicio-integrales-de-mantenimiento-de-piletas-y-afines.php">OTROS SERVICIOS</a>
+              <a href="revestimiento-en-piedra-bali.php">Revestimiento en Piedra Bali</a>
+            </li>
+            <li>
+              <a href="destapaciones-de-barre-fondo-skimmer-piscina-limpia-fondo-pileta.php">Destapación de Cañerias de
+                Piscinas</a>
+            </li>
+            <li>
+              <a href="corte-de-cesped.php">Corte de Césped</a>
+            </li>
+            <li>
+              <a href="fumigacion-de-mosquitos.php">Fumigación de mosquitos</a>
+            </li>
+            <li>
+              <a href="reparacion-de-piletas-y-piscinas-de-hormigon.php">Reparación de Piletas y Piscinas de hormigón</a>
+            </li>
+            <li>
+              <a href="bordes-atermicos.php">Bordes Atérmicos</a>
+            </li>
+            <li>
+              <a href="iluminacion-led.php">Iluminación Led</a>
+            </li>
+            <li>
+              <a href="construccion-de-piscinas.php">Construcción de Piscinas</a>
+            </li>
+            <li>
+              <a href="revestimiento-para-interior-de-piscinas-piletas-solum-marmolite-premecol.php">Marmolite</a>
             </li>
           </ul>
         </li>

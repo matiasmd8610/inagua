@@ -11,7 +11,7 @@
                 <div class="span-separ-secciones_2"></div>
             </div>
         </div>
-        <div class="col-md-12 wow shake" datos-wow-duracion="3s" data-wow-delay="1s" data-wow-iteration="3">
+        <div class="col-md-10 mx-auto wow shake" datos-wow-duracion="3s" data-wow-delay="1s" data-wow-iteration="3">
             <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
             <script>
                 hbspt.forms.create({

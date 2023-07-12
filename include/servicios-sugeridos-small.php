@@ -23,7 +23,8 @@
                                 <table width="100%" border="0">
                                     <tbody>
                                         <tr>
-                                            <td align="center"><img src="img/icon_servicios_de_mantenimiento.png" class="icon-suge" alt="" />
+                                            <td align="center"><img src="img/icon_servicios_de_mantenimiento.png"
+                                                    class="icon-suge" alt="" />
                                             </td>
                                         </tr>
                                         <tr>
@@ -80,8 +81,8 @@
                                 <table width="100%" border="0">
                                     <tbody width="138">
                                         <tr>
-                                            <td align="center"><img src="img/icon_filtro.png" class="icon-suge"
-                                                    alt=""></td>
+                                            <td align="center"><img src="img/icon_filtro.png" class="icon-suge" alt="">
+                                            </td>
                                         </tr>
                                         <tr>
                                             <td align="center" class="td07pp">
@@ -105,8 +106,8 @@
                                 <table width="100%" border="0">
                                     <tbody width="138">
                                         <tr>
-                                            <td align="center"><img src="img/icon_reparacion_bomba.png" class="icon-suge"
-                                                    alt="filtro">
+                                            <td align="center"><img src="img/icon_reparacion_bomba.png"
+                                                    class="icon-suge" alt="filtro">
                                             </td>
                                         </tr>
                                         <tr>
@@ -133,8 +134,8 @@
                                 <table width="100%" border="0">
                                     <tbody width="138">
                                         <tr>
-                                            <td align="center"><img src="img/icon_cambio_de_multivalvula.png" class="icon-suge"
-                                                    alt="filtro">
+                                            <td align="center"><img src="img/icon_cambio_de_multivalvula.png"
+                                                    class="icon-suge" alt="filtro">
                                             </td>
                                         </tr>
                                         <tr>
@@ -160,8 +161,11 @@
                                 <table width="100%" border="0">
                                     <tbody>
                                         <tr>
-                                            <td align="center"><img src="img/iconos_servicios_venecitas.png"
-                                                    class="icon-suge" alt="" />
+                                            <td align="center">
+                                                <figure>
+                                                    <img src="img/servicios/servicios_pastinado.jpg"
+                                                    class="icon-suge" alt="Pastinado de Piscinas">
+                                                </figure>
                                             </td>
                                         </tr>
                                         <tr>
@@ -267,7 +271,8 @@
                                 <table width="100%" border="0">
                                     <tbody>
                                         <tr>
-                                            <td align="center"><img src="img/icon_limpieza_y_pintura_bordes_atermicos.png"
+                                            <td align="center"><img
+                                                    src="img/icon_limpieza_y_pintura_bordes_atermicos.png"
                                                     class="icon-suge" alt=""></td>
                                         </tr>
                                         <tr>
@@ -303,99 +308,334 @@
                                         </tr>
                                         <tr>
                                             <td align="center" class="td08bac" width="138">
-                                                <p>Nuevo tratamiento alternativo para el cuidado, mantenimiento y desinfección del agua</p>
+                                                <p>Nuevo tratamiento alternativo para el cuidado, mantenimiento y
+                                                    desinfección del agua</p>
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td align="center"><a
-                                                    href="cloradores-salinos.php">
+                                            <td align="center"><a href="cloradores-salinos.php">
                                                     <p class="boton-click-aqui">MÁS INFO</p>
                                                 </a></td>
                                         </tr>
                                     </tbody>
                                 </table>
                             </div>
-
-                            <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="3s" data-wow-delay="3s">
-                                <table width="100%" border="0">
-                                  <tbody>
-                                    <tr>
-                                      <td align="center"><img src="img/icon_consorcio.png" class="icon-suge" alt="" /></td>
-                                    </tr>
-                                    <tr>
-                                      <td class="td07pp" align="center">
-                                        <p>CONSORCIOS, HOTELES Y EMBAJADAS</p>
-                                      </td>
-                                    </tr>
-                                    <tr>
-                                      <td class="td08bac" width="138">
-                                        <p>Especialistas en consorcios </p>
-                                      </td>
-                                    </tr>
-                                    <tr>
-                                      <td align="center"><a
-                                          href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-edificios-consorcios-departamentos.php">
-                                          <p class="boton-click-aqui">MÁS INFO</p>
-                                        </a></td>
-                                    </tr>
-                                  </tbody>
-                                </table>
-                            </div>
-
-                            <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="3s" data-wow-delay="3s">
-                                <table width="100%" border="0">
-                                  <tbody>
-                                    <tr>
-                                      <td align="center"><img src="img/icon_limpieza_y_desinfeccion_tanques.png" class="icon-suge" alt="Tanque"></td>
-                                    </tr>
-                                    <tr>
-                                      <td class="td07pp" align="center">
-                                        <p>SERVICIO DE LIMPIEZA Y DESINFECCIÓN DE TANQUES DE AGUA</p>
-                                      </td>
-                                    </tr>
-                                    <tr>
-                                      <td class="td08bac" width="138">
-                                        <p>Su tanque acumula sedimentos y suciedad. Evite la contaminación del agua que utiliza su familia.</p>
-                                      </td>
-                                    </tr>
-                                    <tr>
-                                      <td align="center"><a
-                                          href="servicio-de-limpieza-y-desinfeccion-de-tanques-de-agua.php">
-                                          <p class="boton-click-aqui">MÁS INFO</p>
-                                        </a></td>
-                                    </tr>
-                                  </tbody>
-                                </table>
-                            </div>
-
                             <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="3s" data-wow-delay="3s">
                                 <table width="100%" border="0">
                                     <tbody>
                                         <tr>
-                                            <td align="center"><img src="img/icon_otros_servicios.png" class="icon-suge"
-                                                    alt=""></td>
+                                            <td align="center"><img src="img/icon_consorcio.png" class="icon-suge"
+                                                    alt="" /></td>
                                         </tr>
                                         <tr>
-                                            <td align="center" class="td07pp">
-                                                <p>OTROS SERVICIOS</p>
+                                            <td class="td07pp" align="center">
+                                                <p>CONSORCIOS, HOTELES Y EMBAJADAS</p>
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td align="center" class="td08bac" width="138">
-                                                <p>Destapaciones, cortes de cesped, fumigación de mosquoitos</p>
+                                            <td class="td08bac" width="138">
+                                                <p>Especialistas en consorcios </p>
                                             </td>
                                         </tr>
                                         <tr>
                                             <td align="center"><a
-                                                    href="servicio-integrales-de-mantenimiento-de-piletas-y-afines.php">
+                                                    href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-edificios-consorcios-departamentos.php">
                                                     <p class="boton-click-aqui">MÁS INFO</p>
-                                                </a>
-                                            </td>
+                                                </a></td>
                                         </tr>
                                     </tbody>
                                 </table>
                             </div>
-
+                            <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="3s" data-wow-delay="3s">
+                                <table width="100%" border="0">
+                                    <tbody>
+                                        <tr>
+                                            <td align="center"><img src="img/icon_limpieza_y_desinfeccion_tanques.png"
+                                                    class="icon-suge" alt="Tanque"></td>
+                                        </tr>
+                                        <tr>
+                                            <td class="td07pp" align="center">
+                                                <p>SERVICIO DE LIMPIEZA Y DESINFECCIÓN DE TANQUES DE AGUA</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="td08bac" width="138">
+                                                <p>Su tanque acumula sedimentos y suciedad. Evite la contaminación del
+                                                    agua que utiliza su familia.</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td align="center"><a
+                                                    href="servicio-de-limpieza-y-desinfeccion-de-tanques-de-agua.php">
+                                                    <p class="boton-click-aqui">MÁS INFO</p>
+                                                </a></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                            <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="3s" data-wow-delay="3s">
+                                <table width="100%" border="0">
+                                    <tbody>
+                                        <tr>
+                                            <td align="center">
+                                                <figure>
+                                                    <img src="img/servicios/servicios_venecitas.jpg"
+                                                    class="icon-suge" alt="Revestimiento de Venecitas">
+                                                </figure>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="td07pp" align="center">
+                                                <p>Revestimiento de Venecitas</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="td08bac" width="138">
+                                                <p>Ofrecemos una amplia gama de colores, tipos y diseños.</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td align="center"><a href="revestimiento-de-venecitas.php">
+                                                    <p class="boton-click-aqui">MÁS INFO</p>
+                                                </a></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                            <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="3s" data-wow-delay="3s">
+                                <table width="100%" border="0">
+                                    <tbody>
+                                        <tr>
+                                            <td align="center">
+                                                <figure>
+                                                    <img src="img/servicios/servicios_piedra_bali.jpg"
+                                                    class="icon-suge" alt="Revestimiento de Piedra Bali">
+                                                </figure>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="td07pp" align="center">
+                                                <p>Revestimiento en Piedra Bali</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="td08bac" width="138">
+                                                <p>Ofrecemos una amplia gama de colores, tipos y diseños.</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td align="center"><a href="revestimiento-de-piedra-bali.php">
+                                                    <p class="boton-click-aqui">MÁS INFO</p>
+                                                </a></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                            <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="3s" data-wow-delay="3s">
+                                <table width="100%" border="0">
+                                    <tbody>
+                                        <tr>
+                                            <td align="center"><img src="img/icon_limpieza_y_desinfeccion_tanques.png"
+                                                    class="icon-suge" alt="Tanque"></td>
+                                        </tr>
+                                        <tr>
+                                            <td class="td07pp" align="center">
+                                                <p>Destapación de Cañerias de Piscinas</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="td08bac" width="138">
+                                                <p>Destapamos camara de fondo, barrefondo y skimmers de piscinas</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td align="center"><a
+                                                    href="destapaciones-de-barre-fondo-skimmer-piscina-limpia-fondo-pileta.php">
+                                                    <p class="boton-click-aqui">MÁS INFO</p>
+                                                </a></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                            <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="3s" data-wow-delay="3s">
+                                <table width="100%" border="0">
+                                    <tbody>
+                                        <tr>
+                                            <td align="center"><img src="img/icon_limpieza_y_desinfeccion_tanques.png"
+                                                    class="icon-suge" alt="Tanque"></td>
+                                        </tr>
+                                        <tr>
+                                            <td class="td07pp" align="center">
+                                                <p>Corte de cesped</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="td08bac" width="138">
+                                                <p>Cortamos el césped con máquinas propias.</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td align="center"><a href="corte-de-cesped.php">
+                                                    <p class="boton-click-aqui">MÁS INFO</p>
+                                                </a></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                            <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="3s" data-wow-delay="3s">
+                                <table width="100%" border="0">
+                                    <tbody>
+                                        <tr>
+                                            <td align="center"><img src="img/icon_limpieza_y_desinfeccion_tanques.png"
+                                                    class="icon-suge" alt="Tanque"></td>
+                                        </tr>
+                                        <tr>
+                                            <td class="td07pp" align="center">
+                                                <p>Fumigación de Mosquitos</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="td08bac" width="138">
+                                                <p>Brindamos el servicio de Fumigación De Mosquitos en todos los barrios
+                                                    de Capital Federal y alrededores.</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td align="center"><a href="fumigacion-de-mosquitos.php">
+                                                    <p class="boton-click-aqui">MÁS INFO</p>
+                                                </a></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                            <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="3s" data-wow-delay="3s">
+                                <table width="100%" border="0">
+                                    <tbody>
+                                        <tr>
+                                            <td align="center"><img src="img/icon_limpieza_y_desinfeccion_tanques.png"
+                                                    class="icon-suge" alt="Tanque"></td>
+                                        </tr>
+                                        <tr>
+                                            <td class="td07pp" align="center">
+                                                <p>Reparación de Piletas y Piscinas de hormigón</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="td08bac" width="138">
+                                                <p></p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td align="center"><a
+                                                    href="reparacion-de-piletas-y-piscinas-de-hormigon.php">
+                                                    <p class="boton-click-aqui">MÁS INFO</p>
+                                                </a></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                            <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="3s" data-wow-delay="3s">
+                                <table width="100%" border="0">
+                                    <tbody>
+                                        <tr>
+                                            <td align="center"><img src="img/icon_limpieza_y_desinfeccion_tanques.png"
+                                                    class="icon-suge" alt="Tanque"></td>
+                                        </tr>
+                                        <tr>
+                                            <td class="td07pp" align="center">
+                                                <p>Bordes Atérmicos</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="td08bac" width="138">
+                                                <p></p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td align="center"><a href="bordes-atermicos.php">
+                                                    <p class="boton-click-aqui">MÁS INFO</p>
+                                                </a></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                            <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="3s" data-wow-delay="3s">
+                                <table width="100%" border="0">
+                                    <tbody>
+                                        <tr>
+                                            <td align="center"><img src="img/icon_limpieza_y_desinfeccion_tanques.png"
+                                                    class="icon-suge" alt="Tanque"></td>
+                                        </tr>
+                                        <tr>
+                                            <td class="td07pp" align="center">
+                                                <p>Iluminación Led</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="td08bac" width="138">
+                                                <p>Instalación de sistema de iluminación led con o sin control remoto.
+                                                </p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td align="center"><a href="iluminacion-led.php">
+                                                    <p class="boton-click-aqui">MÁS INFO</p>
+                                                </a></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                            <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="3s" data-wow-delay="3s">
+                                <table width="100%" border="0">
+                                    <tbody>
+                                        <tr>
+                                            <td align="center"><img src="img/icon_limpieza_y_desinfeccion_tanques.png"
+                                                    class="icon-suge" alt="Tanque"></td>
+                                        </tr>
+                                        <tr>
+                                            <td class="td07pp" align="center">
+                                                <p>Construcción de Piscinas</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="td08bac" width="138">
+                                                <p>Utilizamos los mejores materiales y mano de obra experimentada.</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td align="center"><a href="construccion-de-piscinas.php">
+                                                    <p class="boton-click-aqui">MÁS INFO</p>
+                                                </a></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                            <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="3s" data-wow-delay="3s">
+                                <table width="100%" border="0">
+                                    <tbody>
+                                        <tr>
+                                            <td align="center"><img src="img/icon_limpieza_y_desinfeccion_tanques.png"
+                                                    class="icon-suge" alt="Tanque"></td>
+                                        </tr>
+                                        <tr>
+                                            <td class="td07pp" align="center">
+                                                <p>Marmolite</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="td08bac" width="138">
+                                                <p>Revestimiento para interior de piscinas</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td align="center"><a
+                                                    href="revestimiento-para-interior-de-piscinas-piletas-solum-marmolite-premecol.php">
+                                                    <p class="boton-click-aqui">MÁS INFO</p>
+                                                </a></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
                         </div>
                     </div>
                 </div>

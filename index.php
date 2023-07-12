@@ -89,14 +89,6 @@
 </head>
 
 <body>
-
-
-  <section>
-
-    <?php include "include/chat.php"; ?>
-
-  </section>
-
   <span class="ir-arriba"><img src="img/up.png" alt=""></span>
   <div id="top"></div>
 
@@ -107,18 +99,17 @@
     </div>
   </header>
 
-
-  <section>
+  <section class="hero-home m-0">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
           <div class="div-texto">
-            <h2 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Empresa de Mantenimiento
-              Integral de Piscinas</h2>
-            <h4 class="texto2 wow slideInUp">Pileteros profesionales</h4>
+            <h1 class="texto1 text-white wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Empresa de Mantenimiento
+              Integral de Piscinas</h1>
+            <h2 class="texto2 wow slideInUp">Pileteros profesionales</h2>
           </div>
           <div class="div-texto">
-            <h5 class="texto3 wow slideInUp">Le damos la bienvenida a nuestro sitio web donde podrá acceder a toda la información sobre los servicios que ofrece nuestra empresa en la Ciudad Autónoma de Buenos Aires y alrededores.</h5>
+            <p class="texto3 text-white text-center wow slideInUp">Le damos la bienvenida a nuestro sitio web donde podrá acceder a toda la información sobre los servicios que ofrece nuestra empresa en la Ciudad Autónoma de Buenos Aires y alrededores.</p>
           </div>
         </div>
       </div>
@@ -126,7 +117,7 @@
   </section>
 
   <!-- SERVICIOS SUGERIDOS: Begin -->
-  <?php include "include/servicios-sugeridos.php"; ?>
+  <?php include "include/servicios-sugeridos-small.php"; ?>
   <!-- SERVICIOS SUGERIDOS: End -->
 
   <section class="wow bounceInUp mt-5" datos-wow-duracion="4s" data-wow-delay="2s">
@@ -265,6 +256,10 @@
     <?php include "include/footer.php"; ?>
   </footer>
   <!-- FOOTER: End -->
+
+  <!-- CHAT BOOT: Begin -->
+  <?php include "include/chat.php"; ?>
+  <!-- CHAT BOOT: End -->
   
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
   <script src="js/bootstrap.min.js"></script>

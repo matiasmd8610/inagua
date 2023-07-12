@@ -15,7 +15,7 @@
   <meta name="description" content="Mantené tus pisos atérmicos siempre como nuevos">
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo">
   <meta property="fb:app_id" content="383820332074788">
-  <title>PILETEROS - LIMPIEZA DE PILETAS - DESAGOTES DE PISCINAS</title>
+  <title>Reparación de Piletas y Piscinas de hormigón | SERVICIOS | INAGUA</title>
   <link rel="icon" href="img/logo.png">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
@@ -104,27 +104,17 @@
 
         <div class="col-md-12">
           <div class="div-texto">
-            <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">SERVICIO DE LIMPIEZA Y PINTURA
-              DE BORDES ATÉRMICOS</h1>
-            <h4 class="texto2 wow slideInUp" style="visibility: visible; animation-name: slideInUp;">Mantené tus pisos
-              atérmicos siempre como nuevos</h4>
+            <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">REPARACIÓN DE PILETAS Y PISCINAS DE HORMIGÓN</h1>
+
             <ul class="mt-4">
-              <li>Devuelve el color a tus pisos perimetrales de piscinas y solariums</li>
-              <li>No altera las propiedades atérmicas y antideslizantes de la superficie original.</li>
-              <li>Reduce la formación de manchas y algas facilitando el mantenimiento.</li>
+              <li>Reparación de grietas, rajaduras o todo tipo de pérdidas.</li>
+              <li>Impermeabilizar la piscina con los productos adecuados para que no pierda agua.</li>
+              <li>Localización y reparación de fugas de agua en la estructura o el sistema hidráulico.</li>
+              <li>Colocar revestimientos premium para proteger la piscina y darle un nuevo estilo de diseño.</li>
+              <li>Aumentar o disminuir las dimensiones de la piscina junto con el jardín de la casa.</li>
+              <li>Construcción o modificación de las escaleras para el acceso a la piscina o al jacuzzi.</li>
             </ul>
           </div>
-        </div>
-
-        <div class="col-md-12">
-          <div class="bordes-atermicos-wrapper">
-            <img src="img/servicios/servicio_de_limpieza_y_pintura_de_bordes_atermicos_01.jpeg" alt="">
-            <img src="img/servicios/servicio_de_limpieza_y_pintura_de_bordes_atermicos_02.jpeg" alt="">
-            <img src="img/servicios/servicio_de_limpieza_y_pintura_de_bordes_atermicos_05.jpeg" alt="">
-            <img src="img/servicios/servicio_de_limpieza_y_pintura_de_bordes_atermicos_06.jpeg" alt="">
-            <img src="img/servicios/servicio_de_limpieza_y_pintura_de_bordes_atermicos_04.jpeg" alt="">
-          </div>
-          <img src="img/servicios/servicio_de_limpieza_y_pintura_de_bordes_atermicos_03.jpeg" class="w-100" alt="">
         </div>
 
       </div>

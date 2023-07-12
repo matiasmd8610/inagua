@@ -64,10 +64,6 @@
 
 <body>
 
-  <section>
-    <?php include "include/chat.php"; ?>
-  </section>
-
   <header>
     <div class="botoner_completa animated slideInDown">
       <?php include "include/navegacion.php"; ?>
@@ -81,18 +77,18 @@
         <div class="div-texto mb-3">
           <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Análisis microbiológico y de
             cloruros del agua de piscinas</h1>
-          <h4 class="texto2 wow slideInUp">Siéntase libre de microorganismos y agentes patógenos</h4>
+          <h2 class="texto2 wow slideInUp">Siéntase libre de microorganismos y agentes patógenos</h2>
         </div>
 
         <div class="col-lg-6">
           <div class="div-texto-casas-bac">
-            <h5 class="texto3sc wow slideInUp">Los microorganismos causantes de problemas principalmente son los
+            <p class="texto3sc wow slideInUp">Los microorganismos causantes de problemas principalmente son los
               provenientes del cuerpo de los bañistas . Las infecciones potenciales pueden ser de oídos, vías
-              respiratorias superiores, piel, aparato digestivo y urinario.</h5>
+              respiratorias superiores, piel, aparato digestivo y urinario.</p>
 
-            <h5 class="texto3sc wow slideInUp">Para verificar la seguridad del agua de su piscina brindamos el servicio
+            <p class="texto3sc wow slideInUp">Para verificar la seguridad del agua de su piscina brindamos el servicio
               de toma de muestras para llevar a cabo los análisis en laboratorio y determinar el nivel de cloruros (debe
-              ser menor a 200 ppm) y microbiológico, donde se avaluará:</h5>
+              ser menor a 200 ppm) y microbiológico, donde se avaluará:</p>
 
             <ul class="destacamos-list">
               <li>microorganismos aerobios mesófilos</li>
@@ -102,9 +98,9 @@
               <li>Enterococos fecales</li>
             </ul>
 
-            <h5 class="texto3sc wow slideInUp">También ofrecemos el servicio de medición de cloro y pH del agua de su
-              piscina.</h5>
-            <h5 class="texto3sc wow slideInUp">Ante cualquier duda no dude en comunicarse con INAGUA</h5>
+            <p class="texto3sc wow slideInUp">También ofrecemos el servicio de medición de cloro y pH del agua de su
+              piscina.</p>
+            <p class="texto3sc wow slideInUp">Ante cualquier duda no dude en comunicarse con <strong>INAGUA</strong>.</p>
           </div>
         </div>
 
@@ -238,6 +234,10 @@
   <footer>
     <?php include "include/footer.php"; ?>
   </footer>
+
+  <!-- CHAT BOOT: Begin -->
+  <?php include "include/chat.php"; ?>
+  <!-- CHAT BOOT: End -->
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
   <script src="js/bootstrap.min.js"></script>

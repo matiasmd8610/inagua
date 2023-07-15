@@ -108,15 +108,24 @@
     </div>
 
     <div class="container my-lg-4">
-      <div class="row">
-        <div class="col-md-4 contenedor-img-desa wow fadeInLeft">
-          <img src="img/barre_fondo.png" alt="Barre fondo">
+      <div class="grid-3-images">
+        <div class="wow fadeInLeft">
+          <img src="img/servicios/barre_fondo.jpg" alt="Barre fondo">
+          <div class="name">
+            <span>Barre Fondo</span>
+          </div>
         </div>
-        <div class="col-md-4 contenedor-img-desa wow fadeInDown">
-          <img src="img/skimmer.jpg" alt="Skimmer">
+        <div class="wow fadeInDown">
+          <img src="img/servicios/skimmer.jpg" alt="Skimmer">
+          <div class="name">
+            <span>Skimmer</span>
+          </div>
         </div>
-        <div class="col-md-4 contenedor-img-desa wow fadeInRight">
-          <img src="img/camara_fondo.png" alt="Camara de fondo">
+        <div class="wow fadeInRight">
+          <img src="img/servicios/camara_de_fondo.jpg" alt="Camara de fondo">
+          <div class="name">
+            <span>Camara de fondo</span>
+          </div>
         </div>
       </div>
     </div>

@@ -37,6 +37,16 @@ h5 {
     line-height: 1.2;
 }
 
+ul {
+    padding-left: 1.5rem;
+    li {
+        &::marker {
+            color: $color-blue-main;
+            font-size: 1.35rem;
+        }
+    }
+}
+
 
 section {
     margin-top: 2rem;
@@ -76,5 +86,23 @@ section {
 	&:hover {
 		background-color: #2a58a4;
 		color: #fff;
+	}
+}
+
+.boton-click-aqui {
+	padding: 12px 25px;
+	background-color: #0192d5;
+	display: inline-block;
+	color: #fff !important;
+	font-size: 16px;
+	font-family: $secondary-font;
+	font-weight: 600;
+	letter-spacing: 0.05em;
+	text-decoration: none !important;
+	border-radius: .5rem;
+	margin-bottom: 1rem;
+
+	&:hover {
+		background-color: #2a58a4;
 	}
 }

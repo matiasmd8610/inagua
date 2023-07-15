@@ -91,7 +91,7 @@
     <?php include "include/chat.php"; ?>
   </section>
   <span class="ir-arriba"><img src="img/up.png" alt="Ir arriba"></span>
-  
+
   <div id="top"></div>
 
   <header>
@@ -105,14 +105,9 @@
       <div class="row">
         <div class="col-md-12">
           <div class="div-texto">
-            <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Mantenimiento de Piscinas en Agronomia</h1>
-            <h2 class="texto2 wow slideInUp">Servicios sugeridos</h2>
+            <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Mantenimiento de Piscinas en
+              Agronomia</h1>
           </div>
-
-          <!-- SERVICIOS SUGERIDOS: Begin -->
-          <?php include "include/servicios-sugeridos.php"; ?>
-          <!-- SERVICIOS SUGERIDOS: End -->
-
         </div>
 
       </div>
@@ -120,6 +115,9 @@
   </section>
 
 
+  <!-- SERVICIOS SUGERIDOS: Begin -->
+  <?php include "include/servicios-sugeridos-small.php"; ?>
+  <!-- SERVICIOS SUGERIDOS: End -->
 
 
   <section id="contacto">

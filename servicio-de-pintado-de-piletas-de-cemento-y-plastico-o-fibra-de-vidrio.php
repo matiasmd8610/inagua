@@ -2,26 +2,6 @@
 <html lang="es">
 
 <head>
-
-  <!-- Google Tag Manager -->
-  <script>
-    (function (w, d, s, l, i) {
-      w[l] = w[l] || [];
-      w[l].push({
-        'gtm.start': new Date().getTime(),
-        event: 'gtm.js'
-      });
-      var f = d.getElementsByTagName(s)[0],
-        j = d.createElement(s),
-        dl = l != 'dataLayer' ? '&l=' + l : '';
-      j.async = true;
-      j.src =
-        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-      f.parentNode.insertBefore(j, f);
-    })(window, document, 'script', 'dataLayer', 'GTM-T4FLXK7');
-  </script>
-  <!-- End Google Tag Manager -->
-
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -49,7 +29,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;600&family=Rubik:wght@300;400;600&display=swap"
     rel="stylesheet">
-    
+
   <script src="js/wow.js"></script>
   <script>
     new WOW().init();
@@ -68,6 +48,25 @@
     gtag('config', 'UA-5539254-2');
   </script>
 
+  <!-- Google Tag Manager -->
+  <script>
+    (function (w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({
+        'gtm.start': new Date().getTime(),
+        event: 'gtm.js'
+      });
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s),
+        dl = l != 'dataLayer' ? '&l=' + l : '';
+      j.async = true;
+      j.src =
+        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-T4FLXK7');
+  </script>
+  <!-- End Google Tag Manager -->
+
 </head>
 
 <body>
@@ -80,7 +79,7 @@
 
   <span class="ir-arriba"><img src="img/up.png" alt=""></span>
   <div id="top"></div>
-  
+
   <header>
     <div class="botoner_completa animated slideInDown">
       <?php include "include/navegacion.php"; ?>
@@ -97,7 +96,7 @@
             </h2>
           </div>
 
-          <img src="img/pintura-piletas.png" alt="Pintura piscinas" class="img_produc_pintura wow slideInLeft">
+          <img src="img/servicios/pintura-piletas.png" alt="Pintura piscinas" class="img_produc_pintura wow slideInLeft">
 
           <div class="div-texto">
             <h5 class="texto3 wow slideInUp">

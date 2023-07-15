@@ -91,14 +91,13 @@
         <div class="col-lg-12">
           <div class="div-texto">
             <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Fumigación de Mosquitos</h1>
-          </div>
-          <div class="div-texto">
+            <h2 class="texto2 wow slideInUp">¡Fumigue Ya! ¡Sin Mosquito No Hay Dengue!</h2>
+            <img src="img/servicios/fumigacion.jpg" alt="Fumigacion" width="800" class="img-fluid mx-auto d-block my-5">
             <p class="texto3 wow slideInUp">
-              ¡Fumigue Ya! <br>
-              ¡Sin Mosquito No Hay Dengue! <br>
               Brindamos el servicio de <strong>Fumigación De Mosquitos</strong> en todos los barrios de Capital Federal y alrededores.
             </p>
-
+          </div>
+          <div class="div-texto">
             <div class="presupuesto-ser wow slideInUp">
               <a href="#contacto" class="boton-presupuesto" style="text-decoration:none;">Consultá por servicios en tu zona</a>
             </div>

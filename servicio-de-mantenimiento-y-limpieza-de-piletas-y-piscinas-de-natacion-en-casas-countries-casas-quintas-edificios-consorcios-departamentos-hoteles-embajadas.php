@@ -2,31 +2,10 @@
 <html lang="es">
 
 <head>
-
-  <!-- Google Tag Manager -->
-  <script>
-    (function (w, d, s, l, i) {
-      w[l] = w[l] || [];
-      w[l].push({
-        'gtm.start': new Date().getTime(),
-        event: 'gtm.js'
-      });
-      var f = d.getElementsByTagName(s)[0],
-        j = d.createElement(s),
-        dl = l != 'dataLayer' ? '&l=' + l : '';
-      j.async = true;
-      j.src =
-        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-      f.parentNode.insertBefore(j, f);
-    })(window, document, 'script', 'dataLayer', 'GTM-T4FLXK7');
-  </script>
-  <!-- End Google Tag Manager -->
-
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#2F4598">
-
   <meta name="robots" content="index, follow, all" />
   <meta name="googlebot" content="index, follow, all" />
   <meta name="keywords"
@@ -69,6 +48,25 @@
     gtag('config', 'UA-5539254-2');
   </script>
 
+    <!-- Google Tag Manager -->
+    <script>
+    (function (w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({
+        'gtm.start': new Date().getTime(),
+        event: 'gtm.js'
+      });
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s),
+        dl = l != 'dataLayer' ? '&l=' + l : '';
+      j.async = true;
+      j.src =
+        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-T4FLXK7');
+  </script>
+  <!-- End Google Tag Manager -->
+
 </head>
 
 <body>
@@ -95,14 +93,34 @@
       <div class="div-texto mb-3">
         <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Mantenimiento de piletas en
           casas y residencias particulares</h1>
-        <h4 class="texto2 wow slideInUp">En INAGUA nos encargamos de mantener su pileta y el agua en óptimas
-          condiciones durante todo el año</h4>
+        <h2 class="texto2 wow slideInUp">En INAGUA nos encargamos de mantener su pileta y el agua en óptimas
+          condiciones durante todo el año</h2>
       </div>
 
-      <div class="row">
-        <div class="col-lg-6 div-texto-casas-bac">
-          <h5 class="texto3sc wow slideInUp">¿Qué incluye el servicio?</h5>
+      <div class="grid-3-images my-5">
+          <div class="wow fadeInLeft">
+            <img class="img-fluid" src="img/servicios/mantenimiento_barrefondo.jpg" alt="Barre Fondo">
+            <div class="name">
+              <span>Barre Fondo</span>
+            </div>
+          </div>
+          <div class="wow fadeInDown">
+            <img class="img-fluid" src="img/servicios/mantenimiento_cepillado.jpg" alt="Cepillado de Bordes">
+            <div class="name">
+              <span>Cepillado de Bordes</span>
+            </div>
+          </div>
+          <div class="wow fadeInRight">
+            <img class="img-fluid" src="img/servicios/mantenimiento_contro_cloro_ph.jpg" alt="">
+            <div class="name">
+              <span>Control de Cloro y PH</span>
+            </div>
+          </div>
+        </div>
 
+      <div class="row">
+        <div class="div-texto-casas-bac">
+          <h5 class="wow slideInUp">¿Qué incluye el servicio?</h5>
           <ul class="destacamos-list">
             <li>Aspirado del fondo de la piscina</li>
             <li>Limpieza de canastos del skimmer y bomba</li>
@@ -112,17 +130,12 @@
             <li>Cepillado de bordes</li>
             <li>Retrolavado y enjuague del sistema de filtrado</li>
           </ul>
+          <p class="texto3sc wow slideInUp">Para realizar este servicio podemos utilizar su
+            equipo o contamos con el propio.</p>
 
-          <h5 class="texto3sc wow slideInUp">Para realizar este servicio podemos utilizar su
-            equipo o contamos con el propio.</h5>
-
-          <h5 class="texto3sc wow slideInUp">El personal de INAGUA está
+          <p class="texto3sc wow slideInUp">El personal de INAGUA está
             capacitado con los niveles más altos del mercado para realizar tareas de mantenimiento, limpieza y
-            desinfección de piscinas."</h5>
-        </div>
-
-        <div class="col-lg-6">
-          <img src="img/imagen-casas.png" alt="" class="imgen-moviles-casas212 wow slideInRight">
+            desinfección de piscinas."</p>
         </div>
 
         <div class="imagen-casas wow slideInRight">

@@ -2,31 +2,10 @@
 <html lang="es">
 
 <head>
-
-  <!-- Google Tag Manager -->
-  <script>
-    (function (w, d, s, l, i) {
-      w[l] = w[l] || [];
-      w[l].push({
-        'gtm.start': new Date().getTime(),
-        event: 'gtm.js'
-      });
-      var f = d.getElementsByTagName(s)[0],
-        j = d.createElement(s),
-        dl = l != 'dataLayer' ? '&l=' + l : '';
-      j.async = true;
-      j.src =
-        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-      f.parentNode.insertBefore(j, f);
-    })(window, document, 'script', 'dataLayer', 'GTM-T4FLXK7');
-  </script>
-  <!-- End Google Tag Manager -->
-
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#2F4598">
-
   <meta name="robots" content="index, follow, all" />
   <meta name="googlebot" content="index, follow, all" />
   <meta name="keywords"
@@ -71,6 +50,25 @@
     gtag('config', 'UA-5539254-2');
   </script>
 
+    <!-- Google Tag Manager -->
+    <script>
+      (function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+          'gtm.start': new Date().getTime(),
+          event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+          j = d.createElement(s),
+          dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src =
+          'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+      })(window, document, 'script', 'dataLayer', 'GTM-T4FLXK7');
+    </script>
+    <!-- End Google Tag Manager -->
+
 </head>
 
 <body>
@@ -91,42 +89,40 @@
 
   <section id="desagote">
     <div class="container">
-      <div class="row">
-        <div class="col-md-12">
-          <div class="div-texto">
-            <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Desagote, limpieza y
-              desinfección de piletas</h1>
-            <h4 class="texto2 wow slideInUp">Queda lista para llenar, pintar o pastinar</h4>
+      <div class="div-texto">
+        <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Desagote, limpieza y
+          desinfección de piletas</h1>
+        <h2 class="texto2 wow slideInUp">Queda lista para llenar, pintar o pastinar</h2>
+        <div class="grid-3-images my-4">
+          <div class="wow fadeInLeft">
+            <img class="img-fluid" src="img/servicios/desagote_01.jpg" alt="Desagote">
+            <div class="name">
+              <span>Desagote</span>
+            </div>
+          </div>
+          <div class="wow fadeInDown">
+            <img class="img-fluid" src="img/servicios/desagote_02.jpg" alt="Desagote">
+            <div class="name">
+              <span>Limpieza</span>
+            </div>
+          </div>
+          <div class="wow fadeInRight">
+            <img class="img-fluid" src="img/servicios/desagote_03.jpg" alt="Desagote">
+            <div class="name">
+              <span>Desinfección</span>
+            </div>
           </div>
         </div>
       </div>
     </div>
 
-
-    <div class="container">
-      <div class="row">
-        <div class="col-md-4 contenedor-img-desa wow fadeInLeft">
-          <img src="img/desagote_.png" alt="">
-        </div>
-
-        <div class="col-md-4 contenedor-img-desa wow fadeInDown">
-          <img src="img/limpieza.png" alt="">
-        </div>
-
-        <div class="col-md-4 contenedor-img-desa wow fadeInRight">
-          <img src="img/desinfecion.png" alt="">
-        </div>
-
-      </div>
-    </div>
-
     <div class="container div-texto mt-3">
       <div class="row">
-        <h5 class="texto3 wow slideInUp">Una vez desagotada su piscina desinfectamos, cepillamos e hidrolavamos
+        <p class="texto3 wow slideInUp">Una vez desagotada su piscina desinfectamos, cepillamos e hidrolavamos
           toda la estructura (pisos y paredes) dejandola lista para llenar o pintar.
-          Utilizamos productos de primera calidad.</h5>
+          Utilizamos productos de primera calidad.</p>
         <br>
-        <h2 class="texto1 text-center mt-4">¡DESAGOTE SU PILETA CON NOSOTROS, SOMOS ESPECIALISTAS!</h2>
+        <h5 class="text-center mt-4">¡DESAGOTE SU PILETA CON NOSOTROS, SOMOS ESPECIALISTAS!</h5>
       </div>
       <div class="col-md-12 presupuesto-ser wow slideInUp">
         <a href="#contacto" class="boton-presupuesto">SOLICITAR PRESUPUESTO</a>

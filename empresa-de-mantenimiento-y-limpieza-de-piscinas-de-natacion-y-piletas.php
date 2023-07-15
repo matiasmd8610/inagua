@@ -88,36 +88,22 @@
 
   <section id="nosotros">
     <div class="container">
-      <div class="row">
-        <div class="col-md-12">
-          <div class="div-texto">
-            <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">INAGUA - Mantenimiento de
-              Piscinas</h1>
-            <h2 class="texto2 wow slideInUp">Somos especialistas</h2>
-          </div>
-          <div class="div-texto">
-            <h5 class="texto3n wow slideInUp">INAGUA es una empresa con más de 13 años de experiencia en MANTENIMIENTO
-              DE PISCINAS, brindando soluciones integrales a consorcios y particulares.<br>
-            </h5>
-          </div>
-          <div class="div-texto">
-            <h5 class="texto3n wow slideInUp">
-              En INAGUA cubrimos todas las necesidades de servicios de mantenimiento para su piscina, la venta de
-              productos para cuidarla, y nos encargamos de las refacciones necesarias para un correcto funcionamiento.
-            </h5>
-          </div>
 
-          <div class="div-texto">
-            <h5 class="texto3n wow slideInUp">Todo en un solo lugar, y con un equipo especializado.</h5>
-          </div>
-
-          <div class="div-texto">
-            <h5 class="texto3n wow slideInUp">El personal de INAGUA está capacitado con los niveles más altos del
-              mercado para realizar tareas de mantenimiento, limpieza y desinfección de piscinas.</h5>
-          </div>
-
-        </div>
-
+      <div class="div-texto">
+        <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">INAGUA - Mantenimiento de
+          Piscinas</h1>
+        <h2 class="texto2 wow slideInUp">Somos especialistas</h2>
+        <p class="texto3n wow slideInUp"><strong>INAGUA</strong> es una empresa con más de 13 años de experiencia en
+          MANTENIMIENTO
+          DE PISCINAS, brindando soluciones integrales a consorcios y particulares.
+        </p>
+        <p class="texto3n wow slideInUp">
+          En INAGUA cubrimos todas las necesidades de servicios de mantenimiento para su piscina, la venta de
+          productos para cuidarla, y nos encargamos de las refacciones necesarias para un correcto funcionamiento.
+        </p>
+        <p class="texto3n wow slideInUp">Todo en un solo lugar, y con un equipo especializado.</p>
+        <p class="texto3n wow slideInUp">El personal de INAGUA está capacitado con los niveles más altos del
+          mercado para realizar tareas de mantenimiento, limpieza y desinfección de piscinas.</p>
       </div>
     </div>
   </section>
@@ -150,28 +136,22 @@
 
   <section id="cobertura">
     <div class="container">
-      <div class="row">
-        <div class="col-md-12">
-        <div class="div-texto">
-            <h2 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Empresa de Mantenimiento
-              Integral de Piscinas</h2>
-            <h4 class="texto2 wow slideInUp">Pileteros profesionales</h4>
-          </div>
-
-          <div class="div-texto">
-            <h5 class="texto3 wow slideInUp">Le damos la bienvenida a nuestro sitio web donde podrá acceder a toda la información sobre los servicios que ofrece nuestra empresa en la Ciudad Autónoma de Buenos Aires y alrededores.</h5>
-          </div>
-        </div>
-
-          <!-- SERVICIOS SUGERIDOS: Begin -->
-          <?php include "include/servicios-sugeridos.php"; ?>
-          <!-- SERVICIOS SUGERIDOS: End -->
-
-        </div>
-
+      <div class="div-texto">
+        <h2 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Empresa de Mantenimiento
+          Integral de Piscinas</h2>
+        <h4 class="texto2 wow slideInUp">Pileteros profesionales</h4>
+      </div>
+      <div class="div-texto">
+        <p class="texto3 wow slideInUp">Le damos la bienvenida a nuestro sitio web donde podrá acceder a toda la
+          información sobre los servicios que ofrece nuestra empresa en la Ciudad Autónoma de Buenos Aires y
+          alrededores.</p>
       </div>
     </div>
   </section>
+
+  <!-- SERVICIOS SUGERIDOS SMALL: Begin -->
+  <?php include "include/servicios-sugeridos-small.php"; ?>
+  <!-- SERVICIOS SUGERIDOS SMALL: End -->
 
   <section>
     <div class="container">
@@ -183,7 +163,7 @@
               <tr>
                 <td align="center">
                   <img src="img/iconos_servicios_venecitas.png" width="138" height="129" alt="">
-              </td>
+                </td>
               </tr>
               <tr>
                 <td align="center" class="td07">
@@ -213,7 +193,7 @@
               <tr>
                 <td align="center">
                   <img src="img/iconos_servicios_pintura.png" width="138" height="129" alt="">
-              </td>
+                </td>
               </tr>
               <tr>
                 <td align="center" class="td07">

@@ -104,9 +104,9 @@
       <div class="row">
         <div class="col-md-12">
           <div class="div-texto">
-            <h1 class="texto1 text-white wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Empresa de Mantenimiento
+            <h1 class="texto1 text-white wow zoomInDown" datos-wow-duracion="2s">Empresa de Mantenimiento
               Integral de Piscinas</h1>
-            <h2 class="texto2 wow slideInUp">Pileteros profesionales</h2>
+            <h2 class="texto2 wow zoomInUp" data-wow-delay="1s">Pileteros profesionales</h2>
           </div>
           <div class="div-texto">
             <p class="texto3 text-white text-center wow slideInUp">Le damos la bienvenida a nuestro sitio web donde podrá acceder a toda la información sobre los servicios que ofrece nuestra empresa en la Ciudad Autónoma de Buenos Aires y alrededores.</p>
@@ -163,10 +163,6 @@
           </p>
 
           <img src="img/logo_seguro.png" alt="" class="logo_seguro" width="300">
-
-          <p class="texto_seguro">Prevención ART - Vida Obligatorio</p>
-          <p class="texto_seguro_2"><b>N°471157
-              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;N°1291680</b></p>
         </div>
 
       </div>
@@ -182,29 +178,14 @@
     <div class="container">
       <div class="row">
 
-        <div class="row text-center separ-secciones_2">
-          <div class="col-md-4">
-            <div class="span-separ-secciones_2"></div>
-
-          </div>
-          <div class="col-md-4">
-            <p class="td06_2">Zona de cobertura</p>
-
-          </div>
-          <div class="col-md-4">
-            <div class="span-separ-secciones_2"></div>
-
-          </div>
+        <div class="separ-secciones_2">
+          <h2 class="td06_2">Zona de cobertura</h2>
         </div>
 
         <div class="col-md-6 lugar_char" align="center">
-
           <div>
-
             <img src="img/partner_2.jpg" class="chata_ind" alt="">
-
           </div>
-
           <div class="texto_zona_1">
             <p class="td08">
               Brindamos servicios de mantenimiento de piletas en todos los barrios de Capital Federal y alrededores.
@@ -216,11 +197,10 @@
               <a href="piletero-en-capital-federal.php">CONSULTA POR SERVICIOS EN TU ZONA</a>
             </p>
           </div>
-
         </div>
 
-        <div class="col-md-6 ">
-          <div class="lugar_mapa" align="center">
+        <div class="col-md-6">
+          <div class="lugar_mapa">
             <iframe
               src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d105073.44367018693!2d-58.503338223412456!3d-34.61566245827943!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcca3b4ef90cbd%3A0xa0b3812e88e88e87!2sBuenos+Aires%2C+CABA!5e0!3m2!1ses-419!2sar!4v1504503618843"
               width="430" height="460" frameborder="0" style="border:0" allowfullscreen class="img_mapa_2"></iframe>

@@ -35,17 +35,17 @@
 							Piscinas</a>
 					</li>
 					<li>
-						<a href="corte-de-cesped.php">Corte de Césped</a>
+						<a href="servicio-de-corte-de-cesped.php">Corte de Césped</a>
 					</li>
 					<li>
-						<a href="fumigacion-de-mosquitos.php">Fumigación de mosquitos</a>
+						<a href="servicio-de-fumigacion-de-mosquitos.php">Fumigación de mosquitos</a>
 					</li>
 					<li>
 						<a href="reparacion-de-piletas-y-piscinas-de-hormigon.php">Reparación de Piletas y Piscinas de
 							hormigón</a>
 					</li>
 					<li>
-						<a href="bordes-atermicos.php">Bordes Atérmicos</a>
+						<a href="colocacion-de-bordes-atermicos.php">Colocación de Bordes Atérmicos</a>
 					</li>
 					<li>
 						<a href="iluminacion-led.php">Iluminación Led</a>

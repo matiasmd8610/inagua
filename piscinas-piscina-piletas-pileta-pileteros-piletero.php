@@ -2,26 +2,6 @@
 <html lang="es">
 
 <head>
-
-  <!-- Google Tag Manager -->
-  <script>
-    (function (w, d, s, l, i) {
-      w[l] = w[l] || [];
-      w[l].push({
-        'gtm.start': new Date().getTime(),
-        event: 'gtm.js'
-      });
-      var f = d.getElementsByTagName(s)[0],
-        j = d.createElement(s),
-        dl = l != 'dataLayer' ? '&l=' + l : '';
-      j.async = true;
-      j.src =
-        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-      f.parentNode.insertBefore(j, f);
-    })(window, document, 'script', 'dataLayer', 'GTM-T4FLXK7');
-  </script>
-  <!-- End Google Tag Manager -->
-
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -67,6 +47,24 @@
     gtag('config', 'UA-5539254-2');
   </script>
 
+  <!-- Google Tag Manager -->
+  <script>
+    (function (w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({
+        'gtm.start': new Date().getTime(),
+        event: 'gtm.js'
+      });
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s),
+        dl = l != 'dataLayer' ? '&l=' + l : '';
+      j.async = true;
+      j.src =
+        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-T4FLXK7');
+  </script>
+  <!-- End Google Tag Manager -->
 
 </head>
 
@@ -210,29 +208,9 @@
   </section>
 
 
-  <section>
-    <div class="container">
-      <div class="row">
-
-        <div class="row text-center separ-secciones_2">
-          <div class="col-md-4">
-            <div class="span-separ-secciones_2"></div>
-          </div>
-          <div class="col-md-4">
-            <p class="td06_2">servicios sugeridos</p>
-          </div>
-          <div class="col-md-4">
-            <div class="span-separ-secciones_2"></div>
-          </div>
-        </div>
-
-        <!-- SERVICIOS SUGERIDOS: Begin -->
-        <?php include "include/servicios-sugeridos.php"; ?>
-        <!-- SERVICIOS SUGERIDOS: End -->
-
-      </div>
-    </div>
-  </section>
+  <!-- SERVICIOS SUGERIDOS SMALL: Begin -->
+  <?php include "include/servicios-sugeridos-small.php"; ?>
+  <!-- SERVICIOS SUGERIDOS SMALL: End -->
 
 
   <section id="contacto">

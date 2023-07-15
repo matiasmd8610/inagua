@@ -49,8 +49,7 @@
           <ul>
             <li>
               <a
-                href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-casas-countries-casas-quintas-edificios-consorcios-departamentos-hoteles-embajadas.php">SERVICIO
-                DE MANTENIMIENTO</a>
+                href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-casas-countries-casas-quintas-edificios-consorcios-departamentos-hoteles-embajadas.php">MANTENIMIENTO</a>
             </li>
             <li>
               <a href="servicio-de-desagote-limpieza-desinfeccion-de-piletas-y-piscinas-de-natacion.php">DESAGOTE Y
@@ -83,13 +82,13 @@
               <a href="cloradores-salinos.php">Cloradores Salinos</a>
             </li>
             <li>
-              <a href="servicio-de-limpieza-y-pintura-de-bordes-atermicos.php">Servicio de limpieza y pintura de bordes
+              <a href="servicio-de-limpieza-y-pintura-de-bordes-atermicos.php">Limpieza y pintura de bordes
                 atérmicos</a>
             </li>
             <li><a
                 href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-edificios-consorcios-departamentos.php">Consorcios,
                 Hoteles y Embajadas</a></li>
-            <li><a href="servicio-de-limpieza-y-desinfeccion-de-tanques-de-agua.php">Servicio de limpieza y desinfección
+            <li><a href="servicio-de-limpieza-y-desinfeccion-de-tanques-de-agua.php">Limpieza y desinfección
                 de tanques de agua</a></li>
             <li>
             <li>
@@ -103,16 +102,16 @@
                 Piscinas</a>
             </li>
             <li>
-              <a href="corte-de-cesped.php">Corte de Césped</a>
+              <a href="servicio-de-corte-de-cesped.php">Corte de Césped</a>
             </li>
             <li>
-              <a href="fumigacion-de-mosquitos.php">Fumigación de mosquitos</a>
+              <a href="servicio-de-fumigacion-de-mosquitos.php">Fumigación de mosquitos</a>
             </li>
             <li>
               <a href="reparacion-de-piletas-y-piscinas-de-hormigon.php">Reparación de Piletas y Piscinas de hormigón</a>
             </li>
             <li>
-              <a href="bordes-atermicos.php">Bordes Atérmicos</a>
+              <a href="colocacion-de-bordes-atermicos.php">Colocación de Bordes Atérmicos</a>
             </li>
             <li>
               <a href="iluminacion-led.php">Iluminación Led</a>
@@ -133,7 +132,7 @@
         </li>
         <li><a href="contacto-forma-parte-de-inagua.php">EMPLEO</a></li>
         <li><a href="piscinas-piscina-piletas-pileta-pileteros-piletero.php">NOTAS</a></li>
-        <li><a href="https://inagua.com.ar/pileteros-mantenimiento-piscinas-preguntas-frecuentes.php">FAQ</a></li>
+        <li><a href="pileteros-mantenimiento-piscinas-preguntas-frecuentes.php">FAQ</a></li>
         <li><a href="#contacto">CONTACTO</a></li>
       </ul>
     </nav>

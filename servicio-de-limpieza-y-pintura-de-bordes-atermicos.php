@@ -106,9 +106,19 @@
           <div class="div-texto">
             <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">SERVICIO DE LIMPIEZA Y PINTURA
               DE BORDES ATÉRMICOS</h1>
-            <h4 class="texto2 wow slideInUp" style="visibility: visible; animation-name: slideInUp;">Mantené tus pisos
-              atérmicos siempre como nuevos</h4>
-            <ul class="mt-4">
+            <h2 class="texto2 wow slideInUp">Mantené tus pisos atérmicos siempre como nuevos</h2>
+            <div class="grid-3-images my-5">
+              <div class="wow fadeInLeft">
+                <img class="img-fluid" src="img/servicios/pintura_bordes_atermicos_01.jpg" alt="Pintura de bordes atérmicos">
+              </div>
+              <div class="wow fadeInDown">
+                <img class="img-fluid" src="img/servicios/pintura_bordes_atermicos_02.jpg" alt="Pintura de bordes atérmicos">
+              </div>
+              <div class="wow fadeInRight">
+                <img class="img-fluid" src="img/servicios/pintura_bordes_atermicos_03.jpg" alt="Pintura de bordes atérmicos">
+              </div>
+            </div>
+            <ul>
               <li>Devuelve el color a tus pisos perimetrales de piscinas y solariums</li>
               <li>No altera las propiedades atérmicas y antideslizantes de la superficie original.</li>
               <li>Reduce la formación de manchas y algas facilitando el mantenimiento.</li>
@@ -116,16 +126,7 @@
           </div>
         </div>
 
-        <div class="col-md-12">
-          <div class="bordes-atermicos-wrapper">
-            <img src="img/servicios/servicio_de_limpieza_y_pintura_de_bordes_atermicos_01.jpeg" alt="">
-            <img src="img/servicios/servicio_de_limpieza_y_pintura_de_bordes_atermicos_02.jpeg" alt="">
-            <img src="img/servicios/servicio_de_limpieza_y_pintura_de_bordes_atermicos_05.jpeg" alt="">
-            <img src="img/servicios/servicio_de_limpieza_y_pintura_de_bordes_atermicos_06.jpeg" alt="">
-            <img src="img/servicios/servicio_de_limpieza_y_pintura_de_bordes_atermicos_04.jpeg" alt="">
-          </div>
-          <img src="img/servicios/servicio_de_limpieza_y_pintura_de_bordes_atermicos_03.jpeg" class="w-100" alt="">
-        </div>
+        
 
       </div>
 

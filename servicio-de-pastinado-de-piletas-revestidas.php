@@ -26,15 +26,14 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#2F4598">
-
   <meta name="robots" content="index, follow, all" />
   <meta name="googlebot" content="index, follow, all" />
   <meta name="keywords"
     content="pileta, piletas, piscinas, piletero, pileteros, desagote, pastinado, empastinado, pastina, venecitas, revestidas" />
   <meta name="title" content="Empastinado de piletas" />
   <meta name="author" content="Administrator" />
-  <meta name="description" content="Servicios de pastinado de piletas con venecitas." />
-  <title>Empastinado de piletas</title>
+  <meta name="description" content="Servicios de pastinado de piletas con venecitas.">
+  <title>Pastinado de piletas | SERVICIOS | INAGUA</title>
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo" />
   <link rel="icon" href="img/logo.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -90,40 +89,29 @@
       <div class="row">
         <div class="col-md-12">
           <div class="div-texto">
-            <h2 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s"> Pastinado de piletas
-              revestidas con venecitas</h2>
-            <h4 class="texto2 wow slideInUp">Rejuvenecemos su pileta</h4>
-          </div>
-          <br><br>
-          <div class="container">
-            <div class="row">
-              <div class="col-md-6 wow slideInLeft foto-arena">
-                <img src="img/pastinado1.png" alt="pastinado de piscinas" class="imgen-moviles-casas21">
+            <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s"> Pastinado de piletas
+              revestidas con venecitas</h1>
+            <h2 class="texto2 wow slideInUp">Rejuvenecemos su pileta</h2>
+            <div class="grid-3-images my-5">
+              <div class="wow slideInLeft">
+                <img src="img/servicios/pastinado_01.jpg" alt="Pastinado de piscinas">
               </div>
-              <div class="col-md-6 wow slideInRight foto-multi">
-                <img src="img/pastinado2.png" alt="pastinado de piscinas" class="imgen-moviles-casas21">
+              <div class="wow slideInRight">
+                <img src="img/servicios/pastinado_02.jpg" alt="pastinado de piscinas">
+              </div>
+              <div class="wow slideInRight">
+                <img src="img/servicios/pastinado_03.jpg" alt="Pastinado de piscinas">
               </div>
             </div>
           </div>
-
-          <br>
-          <br>
-
           <div class="div-texto">
-            <h5 class="texto3 wow slideInUp">
+            <p class="texto3 wow slideInUp">
               Las piletas revestidas con mosaicos venecianos (comúnmente conocidos como venecitas), con el transcurso
               del tiempo y por agresión de diferentes agentes químicos, van perdiendo el material de las juntas, lo que
               produce el desprendimiento de los mismos. Le ofrecemos el trabajo de tomado de juntas realizado con
               materiales de primera calidad, colocando pastina en las uniones y dejando el revestimiento como nuevo.
-            </h5>
+            </p>
           </div>
-          <br>
-
-          <br>
-
-
-
-
         </div>
 
       </div>
@@ -270,6 +258,6 @@
 
   <script src="js/scripts.js"></script>
 
-  </body>
+</body>
 
 </html>

@@ -14,7 +14,6 @@ function get_template( $id ) {
 <html lang="es">
 
 <head>
-
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -22,13 +21,13 @@ function get_template( $id ) {
   <meta name="robots" content="index, follow, all">
   <meta name="googlebot" content="index, follow, all">
   <meta name="keywords" content="pileta, piletas, piscinas, piletero, pileteros, desagote">
-  <meta name="title" content="PILETEROS - LIMPIEZA DE PILETAS - DESAGOTES DE PISCINAS">
+  <meta name="title" content="Soluciones sobre bombas autocebantes">
   <meta name="author" content="Administrator">
   <meta name="description"
     content="Empresa profesional de Limpieza y desagote de pileta. Piletero en Capital Federal." />
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo">
   <meta property="fb:app_id" content="383820332074788" />
-  <title>PILETEROS - LIMPIEZA DE PILETAS - DESAGOTES DE PISCINAS</title>
+  <title>Soluciones sobre bombas autocebantes | SERVICIOS | INAGUA</title>
   <link rel="icon" href="img/logo.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.min.css">
@@ -97,80 +96,56 @@ function get_template( $id ) {
 
         <div class="col-md-12">
           <div class="div-texto">
-            <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Soluciones sobre bombas</h1>
-            <h4 class="texto2 wow slideInUp">Conocé más sobre tu piscina</h4>
-          </div>
-        </div>
-
-        <div class="container">
-          <div class="row">
-            <div class="col-md-12 wow slideInLeft" align="center">
+            <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Soluciones sobre bombas autocebantes</h1>
+            <h2 class="texto2 wow slideInUp">Colocación, reemplazo o mantenimiento de bombas de piscinas</h2>
+            <br>
+            <div class="col-md-12 wow slideInLeft">
               <img src="img/mantenimiento-bombas-notas.png" alt="ejercicios-piscinas" class="img_produc_pintura">
             </div>
+            <br>
+            <p>La bomba autocebante forma parte del sistema de filtrado del agua de la piscina. La función de la bomba es la de tomar el agua de la piscina, pasarlo por el elemento filtrante dentro del filtro y posteriormente devolver agua filtrada a la piscina para mantenerla en optimas condiciones.</p>
+            <p>INAGUA, cuenta con un servicio de reparación de bombas autocebantes, en caso de ingresada a nuestro servicio por encontrarse deteriorada en mas de un 50%, tenemos la opción de ofrecer la instalación de un equipo nuevo.</p>
+            <p>Algunos problemas que le pueden estar sucediendo:</p>
 
+            <p><strong>Prendo la bomba y se me vacía el vaso. </strong></p>
+            <p><i>Verifique que la manguera de succión no esté tomando aire, si no lo hace verifique la unión con la bomba y si aún allí no encuentra el problema, verifique que no se esté filtrando aire por la tapa del equipo. </i>
+
+            <p><strong>La bomba prende pero no funciona</strong></p>
+            <p><i>Esto puede ocurrir si ha pasado mucho tiempo sin utilizar la bomba. Por la parte trasera de la bomba, trate de hacer girar un poco, manualmente o con un destornillador, el eje/ventilador de la bomba. Si bien puede hacerlo usted mismo, se recomienda que lleve la bomba a un centro autorizado o a una electromecánica o llamenos a nosotros que somos especialista.</i></p>
+
+            <p><strong>Utilicé la bomba sin canasto y se me trabó.</strong></p>
+            <p><i>Se debe abrir la bomba para limpiar la turbina. Si bien puede hacerlo usted mismo, se recomienda que lleve la misma a un centro autorizado o a una electromecánica o llamenos a nosotros que somos especialista. Se recuerda que si la bomba esta en garantía, ésta puede perderse ante cualquier apertura no autorizada.</i></p>
+            <br>
+            <h5>TENER CUIDADO:</h5>
+            <ul>
+              <li>Nunca utilice la Bomba sin Canasto.</li>
+              <li>No permita que se mojen sus componentes eléctricos.</li>
+              <li>No ponga la Bomba en funcionamiento si no recibe agua.</li>
+            </ul>
+          
           </div>
         </div>
+
+
 
         <div class="div-texto texto-art wow slideInUp">
           <p class="texto31">
-            <h5>Prendo la bomba y se me vacía el vaso. </h5>
-            <i>Verifique que la manguera de succión no esté
-              tomando aire, si no lo hace verifique la unión con la bomba y si aún allí no encuentra el problema,
-              verifique que no se esté filtrando aire por la tapa del equipo. </i>
-            <br><br>
-
-            <h5>La bomba prende pero no funciona</h5>
-            <i>Esto puede ocurrir si ha pasado mucho tiempo
-              sin utilizar la bomba. Por la parte trasera de la bomba, trate de hacer girar un poco, manualmente o con
-              un destornillador, el eje/ventilador de la bomba. Si bien puede hacerlo Ud. mismo, se recomienda que lleve
-              la bomba a un centro autorizado o a una electromecánica o llame a un especialista. </i>
-            <br><br>
-
-            <h5>Utilicé la bomba sin canasto y se me trabó. </h5>
-            <i>Se debe abrir la bomba para limpiar la turbina.
-              Si bien puede hacerlo Ud. mismo, se recomienda que lleve la misma a un centro autorizado o a una
-              electromecánica o llame a un especialista. Se recuerda que si la bomba esta en garantía, ésta puede
-              perderse ante cualquier apertura no autorizada.
-            </i>
-            <br><br>
-
-            <h5>TENER CUIDADO:</h5>
-            Nunca utilice la Bomba sin Canasto.
-            <br>
-            No permita que se mojen sus componentes eléctricos.
-            <br>
-            No ponga la Bomba en funcionamiento si no recibe
-            agua.
-            <br><br><br>
-
             <?php include "include/advertencia.php"; ?>
-            <br>
-
-
-
           </p>
         </div>
-        <br>
 
 
-
-        <br>
-
-
-        <div class="seguinos22">
-
+ <!--        <div class="seguinos22">
           <p class="seguinos_tex2">COMPARTÍ LA NOTA</p>
+        </div> -->
 
-        </div>
-
-        <div class="seguinos20">
+        <!-- <div class="seguinos20">
           <a href="javascript:window.open('https://www.facebook.com/sharer/sharer.php?u=http://inagua.com.ar/articulo.php?id=27','','width=600,height=400,left=50,top=50,toolbar=yes');void 0"
             rel="image_src"><img src="img/logo_face.png" class="icono_face_compa" alt=""></a>
           <a href="javascript:window.open('https://twitter.com/?status= El articulo http://inagua.com.ar/articulo.php?id=27 es muy interesante. Te invito a que lo leas y compartas','','width=600,height=400,left=50,top=50,toolbar=yes');void 0""><img src="
             img/logo_tw.png" alt="" class="icono_face_compa"></a>
           <a href="whatsapp://send?text=URL" data-action="share/whatsapp/share"><img src="img/whatsapp.png" alt=""
               class="icono_face_compa2"></a>
-
         </div>
         <br><br>
         <p class=" seguinos22 seguinos_tex2">DEJANOS TUS COMENTARIOS</p>
@@ -180,306 +155,18 @@ function get_template( $id ) {
           <p class="boton-zona2">
             <a href="piscinas-piscina-piletas-pileta-pileteros-piletero.php" style="color: white;">VOLVER AL ÍNDICE DE
               ARTÍCULOS DE INTERÉS</a>
-
           </p>
-        </div>
+        </div> -->
+
+
       </div>
-
-
     </div>
-
-
   </section>
 
+  <!-- SERVICIOS SUGERIDOS SMALL: Begin -->
+  <?php include "include/servicios-sugeridos-small.php"; ?>
+  <!-- SERVICIOS SUGERIDOS SMALL: End -->
 
-  <section>
-
-    <div class="container">
-      <div class="row">
-
-        <div class="row text-center separ-secciones_2">
-          <div class="col-md-4">
-            <div class="span-separ-secciones_2"></div>
-
-          </div>
-          <div class="col-md-4">
-            <P class="td06_2">Servicios sugeridos</P>
-
-          </div>
-          <div class="col-md-4">
-            <div class="span-separ-secciones_2"></div>
-
-          </div>
-        </div>
-
-
-
-        <div class="container">
-          <div class="row text-center cont-iconos">
-
-            <!-- <div class="col-md-3 wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
-              <table width="100%" border="0" style="margin-bottom: 50px;">
-                <tbody>
-                  <tr>
-                    <td align="center"><img src="img/icon_casas.png" width="138" height="129" alt=""></td>
-                  </tr>
-                  <tr>
-                    <td align="center" class="td07">
-                      <p>CASAS PARTICULARES</p><br>
-                    </td>
-                  </tr>
-                  <tr>
-                    <td align="center" class="td08b">
-                      <p>Si quiere mantener su pileta durante todo el año</p><br>
-                    </td>
-                  </tr>
-                  <tr>
-                    <td align="center" style="padding-top: 41px;"><a
-                        href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-casas-countries-casas-quintas.php">
-                        <p class="boton-click-aqui" style="text-decoration: none;">MÁS INFO</p>
-                      </a></td>
-                  </tr>
-                </tbody>
-              </table>
-            </div> -->
-
-            <!-- <div class="col-md-3 wow fadeIn" datos-wow-duracion="2s" data-wow-delay="2s">
-              <table width="100%" border="0" style="text-align:center; margin-bottom: 50px;">
-                <tbody>
-                  <tr>
-                    <td align="center"><img src="img/icon_consorcio.png" width="138" height="129" alt="" /></td>
-                  </tr>
-                  <tr>
-                    <td class="td07">
-                      <p>CONSORCIOS, HOTELES Y EMBAJADAS</p>
-                    </td>
-                  </tr>
-                  <tr>
-                    <td class="td08b">
-                      <p>Especialistas en mantenimiento
-                        de piletas de natación en consorcios <br><br><br></p>
-                    </td>
-                  </tr>
-                  <tr>
-                    <td align="center" style="padding-top: 20px;"><a
-                        href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-edificios-consorcios-departamentos.php">
-                        <p class="boton-click-aqui">MÁS INFO</p>
-                      </a></td>
-                  </tr>
-                </tbody>
-              </table>
-            </div> -->
-
-            <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
-              <table width="100%" border="0">
-                <tbody>
-                  <tr>
-                    <td align="center"><img src="img/icon_casas.png" class="icon-suge" alt="" /></td>
-                  </tr>
-                  <tr>
-                    <td align="center" class="td07pp">
-                      <p>SERVICIOS DE MANTENIMIENTO</p>
-                    </td>
-                  </tr>
-                  <tr>
-                    <td align="center" class="td08bac" width="138">
-                      <p>Mantenimiento de piletas en casas y residencias particulares</p>
-                    </td>
-                  </tr>
-                  <tr>
-                    <td align="center"><a
-                        href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-casas-countries-casas-quintas-edificios-consorcios-departamentos-hoteles-embajadas.php">
-                        <p class="boton-click-aqui" style="text-decoration: none;">MÁS INFO</p>
-                      </a></td>
-                  </tr>
-                </tbody>
-              </table>
-            </div>
-
-            <div class="col-md-3 wow fadeIn" datos-wow-duracion="3s" data-wow-delay="3s">
-              <table width="100%" border="0">
-                <tbody>
-                  <tr>
-                    <td align="center"><img src="img/icon_desagote.png" width="138" height="129" alt="" /></td>
-                  </tr>
-                  <tr>
-                    <td align="center" class="td07">
-                      <p>DESAGOTE DE PISCINAS</p>
-                    </td>
-                  </tr>
-                  <tr>
-                    <td align="center" class="td08b">
-                      <p><br>Vaciamos, limpiamos y desinfectamos su pileta de natación dejandola lista para llenar o
-                        pintar <br><br></p>
-                    </td>
-                  </tr>
-                  <tr>
-                    <td align="center" style="padding-top: 26px;"><a
-                        href="servicio-de-desagote-limpieza-desinfeccion-de-piletas-y-piscinas-de-natacion.php">
-                        <p class="boton-click-aqui">MÁS INFO</p>
-                      </a></td>
-                  </tr>
-                </tbody>
-              </table>
-            </div>
-
-            <div class="col-md-3 wow fadeIn" datos-wow-duracion="4s" data-wow-delay="4s">
-              <table width="100%" border="0">
-                <tbody>
-                  <tr>
-                    <td align="center"><img src="img/icon_filtro.png" width="138" height="129" alt="" /></td>
-                  </tr>
-                  <tr>
-                    <td align="center" class="td07">
-                      <p>REPARACION Y CAMBIO DE ARENA</p>
-                    </td>
-                  </tr>
-                  <tr>
-                    <td align="center" class="td08b">
-                      <p>Recuerde que un correcto filtrado
-                        dara por resultado agua cristalina<br><br> </p>
-                    </td>
-                  </tr>
-                  <tr>
-                    <td align="center" style="padding-top: 39px;"><a
-                        href="cambio-de-arena-carga-filtrante-de-filtro.php">
-                        <p class="boton-click-aqui">MÁS INFO</p>
-                      </a></td>
-                  </tr>
-                </tbody>
-              </table>
-
-            </div>
-
-
-
-
-          </div>
-        </div>
-
-
-
-        <div class="container">
-          <div class="row text-center cont-iconos">
-            <div class="col-md-3 wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
-              <table width="100%" border="0">
-                <tbody>
-                  <tr>
-                    <td align="center"><img src="img/iconos_servicios_venecitas.png" width="138" height="129" alt="" />
-                    </td>
-                  </tr>
-                  <tr>
-                    <td align="center" class="td07">
-                      <p>PASTINADO DE PILETAS CON VENECITAS</p>
-                    </td>
-                  </tr>
-                  <tr>
-                    <td align="center" class="td08b">
-                      <p><br>Rejuvenecemos su pileta<br><br></p>
-                    </td>
-                  </tr>
-                  <tr>
-                    <td align="center" style="padding-top: 43px;"><a
-                        href="servicio-de-pastinado-de-piletas-revestidas.php">
-                        <p class="boton-click-aqui">MÁS INFO</p>
-                      </a></td>
-                  </tr>
-                </tbody>
-              </table>
-            </div>
-
-
-            <div class="col-md-3 wow fadeIn" datos-wow-duracion="2s" data-wow-delay="2s">
-              <table width="100%" border="0">
-                <tbody>
-                  <tr>
-                    <td align="center"><img src="img/iconos_servicios_pintura.png" width="138" height="129" alt="" />
-                    </td>
-                  </tr>
-                  <tr>
-                    <td align="center" class="td07">
-                      <p>PINTURA DE PILETAS</p>
-                    </td>
-                  </tr>
-                  <tr>
-                    <td align="center" class="td08b"><br><br>
-                      <p>Pintamos tu piscina de material o plastico <br><br><br></p>
-                    </td>
-                  </tr>
-                  <tr>
-                    <td align="center" style="padding-top: 8px;"><a
-                        href="servicio-de-pintado-de-piletas-de-cemento-y-plastico-o-fibra-de-vidrio.php">
-                        <p class="boton-click-aqui">MÁS INFO</p>
-                      </a></td>
-                  </tr>
-                </tbody>
-              </table>
-            </div>
-
-
-
-
-
-            <div class="col-md-3 wow fadeIn" datos-wow-duracion="3s" data-wow-delay="3s">
-              <table width="100%" border="0">
-                <tbody>
-                  <tr>
-                    <td align="center"><img src="img/icon_pro.png" width="138" height="129" alt="" /></td>
-                  </tr>
-                  <tr>
-                    <td align="center" class="td07">
-                      <p>VENTA DE PRODUCTOS</p>
-                    </td>
-                  </tr>
-                  <tr>
-                    <td align="center" class="td08b">
-                      <p><br><br>Marcas lideres de primera calidad <br><br><br></p>
-                    </td>
-                  </tr>
-                  <tr>
-                    <td align="center" style="padding-top: 30px;"><a
-                        href="productos-quimicos-y-accesorios-para-piletas-y-piscinas-de-natacion.php">
-                        <p class="boton-click-aqui">MÁS INFO</p>
-                      </a></td>
-                  </tr>
-                </tbody>
-              </table>
-            </div>
-
-            <div class="col-md-3 wow fadeIn" datos-wow-duracion="4s" data-wow-delay="4s">
-              <table width="100%" border="0" style="margin-bottom: 50px;">
-                <tbody>
-                  <tr>
-                    <td align="center"><img src="img/icon_analisis.png" width="138" height="129" alt="" /></td>
-                  </tr>
-                  <tr>
-                    <td align="center" class="td07">
-                      <p>ANALISIS BACTERIOLOGICO</p><br><br>
-                    </td>
-                  </tr>
-                  <tr>
-                    <td align="center" class="td08b">
-                      <p>No corra riesgos de infecciones. Análisis bacterelógico y físico-químico</p>
-                    </td>
-                  </tr>
-                  <tr>
-                    <td align="center" style="padding-top: 46px;"><a
-                        href="analisis-bacteriologico-de-agua-de-piscinas-piletas.php">
-                        <p class="boton-click-aqui" style="text-decoration: none;">MÁS INFO</p>
-                      </a></td>
-                  </tr>
-                </tbody>
-              </table>
-            </div>
-
-          </div>
-        </div>
-      </div>
-
-    </div>
-
-
-  </section>
 
   <section id="contacto">
     <?php include "include/formulario.php"; ?>

@@ -132,7 +132,7 @@
 
 
           <!-- SERVICIOS SUGERIDOS: Begin -->
-          <?php include "include/servicios-sugeridos.php"; ?>
+          <?php include "include/servicios-sugeridos-small.php"; ?>
           <!-- SERVICIOS SUGERIDOS: End -->
 
 

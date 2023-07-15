@@ -95,23 +95,21 @@
           </div>
           <div class="div-texto">
             <p class="texto3 wow slideInUp">
-              Cortamos el césped con máquinas propias. <br>
-              El servicio preferentemente se coordina en una jornada distinta al mantenimiento de su piscina para que la
+              Cortamos el césped con máquinas propias. El servicio preferentemente se coordina en una jornada distinta
+              al mantenimiento de su piscina para que la
               misma no se ensucie.</p>
           </div>
         </div>
 
-        <div class="container my-lg-4">
-          <div class="grid-3-images">
-            <div class="wow fadeInLeft">
-              <img class="img-fluid" src="img/servicios/corte_cesped_01.jpg" alt="">
-            </div>
-            <div class="wow fadeInDown">
-              <img class="img-fluid" src="img/servicios/corte_cesped_02.jpg" alt="">
-            </div>
-            <div class="wow fadeInRight">
-              <img class="img-fluid" src="img/servicios/corte_cesped_03.jpg" alt="">
-            </div>
+        <div class="grid-3-images my-5">
+          <div class="wow fadeInLeft">
+            <img class="img-fluid" src="img/servicios/corte_cesped_01.jpg" alt="">
+          </div>
+          <div class="wow fadeInDown">
+            <img class="img-fluid" src="img/servicios/corte_cesped_02.jpg" alt="">
+          </div>
+          <div class="wow fadeInRight">
+            <img class="img-fluid" src="img/servicios/corte_cesped_03.jpg" alt="">
           </div>
         </div>
 

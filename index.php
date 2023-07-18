@@ -12,7 +12,8 @@
   <meta name="keywords" content="piscina, piscinas, piletero, pileteros, desagote">
   <meta name="title" content="PILETEROS - LIMPIEZA DE PISCINAS - DESAGOTES DE PISCINAS">
   <meta name="author" content="Administrator">
-  <meta name="description" content="Empresa profesional de Limpieza y desagote de piscina. Piletero en Capital Federal.">
+  <meta name="description"
+    content="Empresa profesional de Limpieza y desagote de piscina. Piletero en Capital Federal.">
   <title>PILETEROS - LIMPIEZA DE PISCINAS - DESAGOTES DE PISCINAS</title>
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo">
   <link rel="icon" href="img/logo.png">
@@ -23,7 +24,8 @@
   <link href="styles/css/main.css" rel="stylesheet">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;600&family=Rubik:wght@300;400;600&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;600&family=Rubik:wght@300;400;600&display=swap"
+    rel="stylesheet">
   <link rel="canonical" href="https://www.inagua.com.ar/index">
 
   <!-- Google Tag Manager -->
@@ -109,7 +111,9 @@
             <h2 class="texto2 wow zoomInUp" data-wow-delay="1s">Pileteros profesionales</h2>
           </div>
           <div class="div-texto">
-            <p class="texto3 text-white text-center wow slideInUp">Le damos la bienvenida a nuestro sitio web donde podrá acceder a toda la información sobre los servicios que ofrece nuestra empresa en la Ciudad Autónoma de Buenos Aires y alrededores.</p>
+            <p class="texto3 text-white text-center wow slideInUp">Le damos la bienvenida a nuestro sitio web donde
+              podrá acceder a toda la información sobre los servicios que ofrece nuestra empresa en la Ciudad Autónoma
+              de Buenos Aires y alrededores.</p>
           </div>
         </div>
       </div>
@@ -120,25 +124,7 @@
   <?php include "include/servicios-sugeridos-small.php"; ?>
   <!-- SERVICIOS SUGERIDOS: End -->
 
-  <section class="wow bounceInUp mt-5" datos-wow-duracion="4s" data-wow-delay="2s">
-    <div class="container">
-      <div class="row">
-
-        <div class="col-md-12">
-          <img src="img/nataclor-producto.jpg" class="img_produc" alt="Nataclor producto">
-          <div class="td08b_2">
-            <div class="presupuesto">
-              <a href="http://tienda.inagua.com.ar/" class="boton-presupuesto" style="text-decoration:none;"  target="_blank">VISITÁ NUESTRA TIENDA</a>
-            </div>
-          </div>
-
-        </div>
-      </div>
-    </div>
-  </section>
-
   <section>
-
     <div class="container sobre_nosotros_1">
       <div class="row">
 
@@ -159,7 +145,8 @@
 
           <br>
           <p class="texto_seguro_3">
-            <strong>Para su seguridad nuestro personal se encuentra debidamente registrado y cuentan con los seguros de vida obligatorio y ART</strong>
+            <strong>Para su seguridad nuestro personal se encuentra debidamente registrado y cuentan con los seguros de
+              vida obligatorio y ART</strong>
           </p>
 
           <img src="img/logo_seguro.png" alt="" class="logo_seguro" width="300">
@@ -182,7 +169,7 @@
           <h2 class="td06_2">Zona de cobertura</h2>
         </div>
 
-        <div class="col-md-6 lugar_char" align="center">
+        <div class="col-md-6 lugar_char">
           <div>
             <img src="img/partner_2.jpg" class="chata_ind" alt="">
           </div>
@@ -221,10 +208,10 @@
         <div class="pileteros_profesionales">
           <p class="td08_4">solo confie en pileteros profesionales</p>
           <p class="td08_3">
-              ...”El tratamiento inadecuado del agua, por falta de conocimientos y experiencia, tiene efectos
-              desagradables provocando irritaciones en la piel, ojos y mucosas y causando enfermedades transmitidas por
-              microorganismos o agentes patógenos. Por todo esto le ofrecemos mantener su piscina y el agua en óptimas
-              condiciones durante todo el año.”...</p>
+            ...”El tratamiento inadecuado del agua, por falta de conocimientos y experiencia, tiene efectos
+            desagradables provocando irritaciones en la piel, ojos y mucosas y causando enfermedades transmitidas por
+            microorganismos o agentes patógenos. Por todo esto le ofrecemos mantener su piscina y el agua en óptimas
+            condiciones durante todo el año.”...</p>
         </div>
       </div>
 
@@ -240,7 +227,7 @@
   <!-- CHAT BOOT: Begin -->
   <?php include "include/chat.php"; ?>
   <!-- CHAT BOOT: End -->
-  
+
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
   <script src="js/bootstrap.min.js"></script>
   <script src="js/fileinput.js" type="text/javascript"></script>

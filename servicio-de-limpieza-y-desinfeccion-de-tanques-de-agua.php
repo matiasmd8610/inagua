@@ -33,7 +33,7 @@
   <meta name="author" content="Administrator">
   <meta name="description" content="CUIDAMOS EL AGUA DE SU HOGAR. Su tanque acumula sedimentos y suciedad. Evite la contaminación del agua que utiliza su familia.
 ">
-  <title>SERVICIO DE LIMPIEZA Y DESINFECCIÓN DE TANQUES DE AGUA</title>
+  <title>Servicio de limpieza y desinfección de tanques de agua | SERVICIOS | INAGUA</title>
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo">
   <link rel="icon" href="img/logo.png">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"

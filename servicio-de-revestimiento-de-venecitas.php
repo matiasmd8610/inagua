@@ -16,7 +16,7 @@
     content="Revestimos piletas con venecitas y piedra bali. Ofrecemos una amplia gama de colores, tipos y diseños. Nos destacamos por una terminación fina y de calidad. Personal especializado en colocación de venecitas.">
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo">
   <meta property="fb:app_id" content="383820332074788">
-  <title>INAGUA | SERVICIOS | Revestimiento de Venecitas</title>
+  <title>Revestimiento de Venecitas | SERVICIOS | INAGUA</title>
   <link rel="icon" href="img/logo.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.min.css">

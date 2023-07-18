@@ -35,15 +35,15 @@
             <b>Para prevenir estos dos tipos de Dengue, es necesario tomar algunas medidas tales como:</b> 
 <br>
 <br>
-            <img src="img/punto1.jpg" width="10" height="10" alt=""/ > <i>Desechar todos los objetos inservibles capaces de acumular agua (latas, neumáticos, macetas, vasos de plástico, etc.) o mantener boca abajo a los recipientes que no estén en uso. </i>
+            <img src="img/punto1.jpg" width="10" height="10" alt="" > <i>Desechar todos los objetos inservibles capaces de acumular agua (latas, neumáticos, macetas, vasos de plástico, etc.) o mantener boca abajo a los recipientes que no estén en uso. </i>
 <br><br>
-            <img src="img/punto1.jpg" width="10" height="10" alt=""/> <i>También es importante tapar los recipientes que contengan agua y renovar el agua de los bebederos de los animales, floreros y jarrones por lo menos cada tres días. </i>
+            <img src="img/punto1.jpg" width="10" height="10" alt=""> <i>También es importante tapar los recipientes que contengan agua y renovar el agua de los bebederos de los animales, floreros y jarrones por lo menos cada tres días. </i>
 <br><br>
-            <img src="img/punto1.jpg" width="10" height="10" alt=""/> <i>Despejar canaletas y recodos para permitir la circulación del agua y eliminar toda la basura abandonada en torno a las viviendas.</i> 
+            <img src="img/punto1.jpg" width="10" height="10" alt=""> <i>Despejar canaletas y recodos para permitir la circulación del agua y eliminar toda la basura abandonada en torno a las viviendas.</i> 
 <br><br>
-            <img src="img/punto1.jpg" width="10" height="10" alt=""/> <i>Otras medidas preventivas son: la utilización de espirales, pastillas y líquidos fumigantes para evitar la picadura del Aedes Aegypti.</i> 
+            <img src="img/punto1.jpg" width="10" height="10" alt=""> <i>Otras medidas preventivas son: la utilización de espirales, pastillas y líquidos fumigantes para evitar la picadura del Aedes Aegypti.</i> 
 <br><br>
-            <img src="img/punto1.jpg" width="10" height="10" alt=""/> <i>La aplicación de repelentes en las partes del cuerpo expuestas y la colocación de mosquiteros o telas metálicas en las casas.</i> 
+            <img src="img/punto1.jpg" width="10" height="10" alt=""> <i>La aplicación de repelentes en las partes del cuerpo expuestas y la colocación de mosquiteros o telas metálicas en las casas.</i> 
 <br><br>
             El Dengue es la enfermedad virósica más importante causada por el mosquito a los humanos y hay cuatro tipos de virus diferentes que contagian esta enfermedad, por lo que una persona puede infectarse cuatro veces. 
 <br>

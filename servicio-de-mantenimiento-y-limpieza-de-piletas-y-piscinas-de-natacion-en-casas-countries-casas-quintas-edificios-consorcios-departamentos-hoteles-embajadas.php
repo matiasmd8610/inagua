@@ -10,11 +10,11 @@
   <meta name="googlebot" content="index, follow, all" />
   <meta name="keywords"
     content="limpieza de piletas, piletas, piscinas, piletero, pileteros, desagotes, mantenimiento de piletas">
-  <meta name="title" content="LIMPIEZA DE PILETAS EN CASAS - PILETERO A DOMICILIO" />
-  <meta name="author" content="Administrator" />
+  <meta name="title" content="Mantenimiento de piletas en casas y residencias particulares">
+  <meta name="author" content="Administrator">
   <meta name="description"
     content="Aspirado del fondo de la piscina, limpieza de canastos del skimmer y bomba, limpieza del elemento flotante, control de Cloro y PH agua, aplicación de productos químicos, cepillado del natatorio, limpieza de bordes para la prevención de la formación de larvas de mosquitos, retrolavado y enjuague del sistema de filtrado." />
-  <title>LIMPIEZA DE PILETAS EN CASAS - PILETERO A DOMICILIO</title>
+  <title>Mantenimiento de piletas en casas y residencias particulares | SERVICIOS | INAGUA</title>
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo">
   <link rel="icon" href="img/logo.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">

@@ -124,7 +124,6 @@
           <div class="div-texto">
             <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Mantenimiento de Piletas en
               Parque Chas</h1>
-            <h2 class="texto2 wow slideInUp">servicios sugeridos</h2>
           </div>
         </div>
 

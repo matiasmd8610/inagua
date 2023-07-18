@@ -118,7 +118,7 @@
         <div class="col-md-6 wow slideInRight" datos-wow-duracion="1s" data-wow-delay="1s">
           <p class="texto223"><b>¿Por qué elegir INAGUA?</b></p>
           <ul class="destacamos-list">
-            <li>Tenemos más de 13 años de experiencia en el mantenimiento de piscinas.</li>
+            <li>Tenemos más de 15 años de experiencia en el mantenimiento de piscinas.</li>
             <li>No solo cuidamos el agua de su pileta, sino que también brindamos soluciones a cualquier problema de
               funcionamiento y mantenimiento de la misma.</li>
             <li>Todos nuestros operadores son técnicos especializados, cuentan con protección de ART y brindan los
@@ -152,126 +152,6 @@
   <!-- SERVICIOS SUGERIDOS SMALL: Begin -->
   <?php include "include/servicios-sugeridos-small.php"; ?>
   <!-- SERVICIOS SUGERIDOS SMALL: End -->
-
-  <section>
-    <div class="container">
-      <div class="row text-center cont-iconos">
-
-        <div class="col-md-3 wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
-          <table width="100%" border="0">
-            <tbody>
-              <tr>
-                <td align="center">
-                  <img src="img/iconos_servicios_venecitas.png" width="138" height="129" alt="">
-                </td>
-              </tr>
-              <tr>
-                <td align="center" class="td07">
-                  <p>PASTINADO DE PISCINAS CON VENECITAS</p>
-                </td>
-              </tr>
-              <tr>
-                <td align="center" class="td08b">
-                  <p>Rejuvenecemos su piscina</p>
-                </td>
-              </tr>
-              <tr>
-                <td align="center">
-                  <a href="servicio-de-pastinado-de-piletas-revestidas.php">
-                    <p class="boton-click-aqui">MÁS INFO</p>
-                  </a>
-                </td>
-              </tr>
-            </tbody>
-          </table>
-        </div>
-
-
-        <div class="col-md-3 wow fadeIn" datos-wow-duracion="2s" data-wow-delay="2s">
-          <table width="100%" border="0">
-            <tbody>
-              <tr>
-                <td align="center">
-                  <img src="img/iconos_servicios_pintura.png" width="138" height="129" alt="">
-                </td>
-              </tr>
-              <tr>
-                <td align="center" class="td07">
-                  <p>PINTURA DE PILETAS</p>
-                </td>
-              </tr>
-              <tr>
-                <td align="center" class="td08b">
-                  <p>Pintamos tu piscina de material o plastico</p>
-                </td>
-              </tr>
-              <tr>
-                <td align="center">
-                  <a href="servicio-de-pintado-de-piletas-de-cemento-y-plastico-o-fibra-de-vidrio.php">
-                    <p class="boton-click-aqui">MÁS INFO</p>
-                  </a>
-                </td>
-              </tr>
-            </tbody>
-          </table>
-        </div>
-
-        <div class="col-md-3 wow fadeIn" datos-wow-duracion="3s" data-wow-delay="3s">
-          <table width="100%" border="0">
-            <tbody>
-              <tr>
-                <td align="center">
-                  <img src="img/icon_pro.png" width="138" height="129" alt="">
-                </td>
-              </tr>
-              <tr>
-                <td align="center" class="td07">
-                  <p>VENTA DE PRODUCTOS</p>
-                </td>
-              </tr>
-              <tr>
-                <td align="center" class="td08b">
-                  <p>Marcas líderes de primera calidad</p>
-                </td>
-              </tr>
-              <tr>
-                <td align="center">
-                  <a href="productos-quimicos-y-accesorios-para-piletas-y-piscinas-de-natacion.php">
-                    <p class="boton-click-aqui">MÁS INFO</p>
-                  </a></td>
-              </tr>
-            </tbody>
-          </table>
-        </div>
-
-        <div class="col-md-3 wow fadeIn" datos-wow-duracion="4s" data-wow-delay="4s">
-          <table width="100%" border="0">
-            <tbody>
-              <tr>
-                <td align="center"><img src="img/icon_analisis.png" width="138" height="129" alt=""></td>
-              </tr>
-              <tr>
-                <td align="center" class="td07">
-                  <p>ANÁLISIS BACTERIOLOGICO</p>
-                </td>
-              </tr>
-              <tr>
-                <td align="center" class="td08b">
-                  <p>No corra riesgos de infecciones. Análisis bacterelógico y físico-químico</p>
-                </td>
-              </tr>
-              <tr>
-                <td align="center">
-                  <a href="analisis-bacteriologico-de-agua-de-piscinas-piletas.php">
-                    <p class="boton-click-aqui">MÁS INFO</p>
-                  </a></td>
-              </tr>
-            </tbody>
-          </table>
-        </div>
-      </div>
-    </div>
-  </section>
 
   <section>
     <div class="container">

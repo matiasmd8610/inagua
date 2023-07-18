@@ -2,27 +2,6 @@
 <html lang="es">
 
 <head>
-
-  <!-- Google Tag Manager -->
-  <script>
-    (function (w, d, s, l, i) {
-      w[l] = w[l] || [];
-      w[l].push({
-        'gtm.start': new Date().getTime(),
-        event: 'gtm.js'
-      });
-      var f = d.getElementsByTagName(s)[0],
-        j = d.createElement(s),
-        dl = l != 'dataLayer' ? '&l=' + l : '';
-      j.async = true;
-      j.src =
-        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-      f.parentNode.insertBefore(j, f);
-    })(window, document, 'script', 'dataLayer', 'GTM-T4FLXK7');
-  </script>
-  <!-- End Google Tag Manager -->
-
-  <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -35,7 +14,7 @@
     <meta name="description" content="Cloradores Salinos Innowater en Buenos Aires para el mantenimiento del agua de piletas.">
     <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo">
     <meta property="fb:app_id" content="383820332074788">
-    <title>PILETEROS - LIMPIEZA DE PILETAS - DESAGOTES DE PISCINAS</title>
+    <title>Cloradores salinos para piscinas | SERVICIOS | INAGUA</title>
     <link rel="icon" href="img/logo.png">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.min.css">
@@ -98,7 +77,7 @@
 
         <div class="col-md-12">
           <div class="div-texto">
-            <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">CLORADORES SALINOS PARA PISCINAS</h1>
+            <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Cloradores salinos para piscinas</h1>
             <p class="text-center">Nuevo tratamiento alternativo para el cuidado, mantenimiento y desinfección del agua.</p>
 
             <h2 class="texto2 text-start wow slideInRight" datos-wow-duracion="2s" data-wow-delay="1s">¡AGUA LIMPIA Y SANA PARA TU PISCINA TODO EL AÑO!</h2>

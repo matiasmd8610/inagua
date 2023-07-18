@@ -92,9 +92,12 @@
             <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Productos Químicos para Piscinas</h1>
             <h2 class="texto2 wow slideInUp">Venta minorista</h2>
           </div>
-          <br><br>
 
-          <div class="div-texto-casas4">
+          <div class="wow slideInRight mb-5">
+            <img src="img/nataclor-producto.jpg" class="img_produc" alt="Nataclor producto">
+          </div>
+
+          <div>
             <p class="texto3sc wow slideInUp">Brindamos la posibilidad a quienes contratan nuestros servicios de
               proveerles productos químicos para el mantenimiento del agua de su piscina de primera calidad y de las
               marcas comerciales lideres.</p>
@@ -102,28 +105,14 @@
 
             <p class="texto3sc wow slideInUp">Todos los productos que utilizamos están aprobados por la ANMAT
               (Administración Nacional de Medicamentos, Alimentos y Tecnología Médica).</p>
-
-            <p class="texto3sc wow slideInUp">Compre sus productos mediante nuestra tienda o solicite vía mail un
-              presupuesto a su medida. Ante cualquier duda no dude en comunicarse con INAGUA.</p>
-
-            <p class="texto3sc wow slideInUp"><b>Whatsapp: <a
-                  href="https://wa.me/541164420848?text=Hola!%20Quisiera%20recibir%20información%20sobre%20el%20servicio"
-                  class="tel_2" target="_blank">15-6442-0848</a></b></p>
-            <p class="texto3sc wow slideInUp">O través de nuestro formulario de contacto, lo atenderemos con gusto.
-            </p>
-
-          </div>
-
-          <div class="imagen-produc0 wow slideInRight">
-            <img src="img/nataclor-producto.jpg" class="img_produc" alt="Nataclor producto">
           </div>
 
         </div>
 
         <div class="col-md-12 presupuesto-ser wow slideInUp">
-          <br>
-          <a href="http://tienda.inagua.com.ar/" class="boton-presupuesto" target="_blank">VISITÁ NUESTRA TIENDA</a>
+          <a href="#contacto" class="boton-presupuesto">SOLICITAR PRESUPUESTO</a>
         </div>
+        
       </div>
     </div>
   </section>

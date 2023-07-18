@@ -127,13 +127,8 @@
   <!-- SERVICIOS SUGERIDOS SMALL: End -->
 
 
-
-
   <section id="contacto">
-
-
     <?php include "include/formulario.php"; ?>
-
   </section>
 
 

@@ -15,7 +15,7 @@
   <meta name="description" content="Mantené tus pisos atérmicos siempre como nuevos">
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo">
   <meta property="fb:app_id" content="383820332074788">
-  <title>PILETEROS - LIMPIEZA DE PILETAS - DESAGOTES DE PISCINAS</title>
+  <title>Servicio de limpieza y pintura  de bordes atérmicos | SERVICIOS | INAGUA</title>
   <link rel="icon" href="img/logo.png">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
@@ -104,8 +104,7 @@
 
         <div class="col-md-12">
           <div class="div-texto">
-            <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">SERVICIO DE LIMPIEZA Y PINTURA
-              DE BORDES ATÉRMICOS</h1>
+            <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Servicio de limpieza y pintura  de bordes atérmicos</h1>
             <h2 class="texto2 wow slideInUp">Mantené tus pisos atérmicos siempre como nuevos</h2>
             <div class="grid-3-images my-5">
               <div class="wow fadeInLeft">

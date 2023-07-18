@@ -467,18 +467,6 @@
 }
 
 
-.div-texto-casas4 {
-	float: left;
-	width: 50%;
-
-	@media (max-width:1010px) {
-		width: 100%;
-		padding-left: 0;
-	}
-}
-
-
-
 .div-texto-casas2 {
 	float: left;
 	width: 50%;
@@ -686,17 +674,6 @@
 
 	@media (max-width:500px) {
 		display: none;
-	}
-}
-
-.imagen-produc0 {
-	max-width: 100%;
-
-	@media (min-width: 768px) {
-		width: 30%;
-		float: right;
-		text-align: left;
-		margin-right: 150px;
 	}
 }
 

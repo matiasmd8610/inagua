@@ -16,7 +16,7 @@
     content="Revestimos piletas con piedra bali. Ofrecemos una amplia gama de colores, tipos y diseños. Nos destacamos por una terminación fina y de calidad. Personal especializado en colocación de piedra bali">
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo">
   <meta property="fb:app_id" content="383820332074788">
-  <title>INAGUA | SERVICIOS | Revestimiento en Piedra Bali Venecitas</title>
+  <title>Revestimiento en Piedra Bali | SERVICIOS | INAGUA</title>
   <link rel="icon" href="img/logo.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.min.css">

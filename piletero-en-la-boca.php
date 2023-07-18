@@ -154,10 +154,7 @@
 
 
   <section id="contacto">
-
-
     <?php include "include/formulario.php"; ?>
-
   </section>
 
 

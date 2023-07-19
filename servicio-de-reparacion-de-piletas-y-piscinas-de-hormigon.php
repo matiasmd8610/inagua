@@ -100,27 +100,25 @@
 
   <section>
     <div class="container">
-      <div class="row">
 
-        <div class="col-md-12">
-          <div class="div-texto">
-            <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">REPARACIÓN DE PILETAS Y PISCINAS DE HORMIGÓN</h1>
+      <div class="div-texto">
+        <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">REPARACIÓN DE PILETAS Y PISCINAS
+          DE HORMIGÓN</h1>
 
-            <ul class="mt-4">
-              <li>Reparación de grietas, rajaduras o todo tipo de pérdidas.</li>
-              <li>Impermeabilizar la piscina con los productos adecuados para que no pierda agua.</li>
-              <li>Localización y reparación de fugas de agua en la estructura o el sistema hidráulico.</li>
-              <li>Colocar revestimientos premium para proteger la piscina y darle un nuevo estilo de diseño.</li>
-              <li>Aumentar o disminuir las dimensiones de la piscina junto con el jardín de la casa.</li>
-              <li>Construcción o modificación de las escaleras para el acceso a la piscina o al jacuzzi.</li>
-            </ul>
-          </div>
-        </div>
-
+        <ul class="mt-4">
+          <li>Reparación de grietas, rajaduras o todo tipo de pérdidas.</li>
+          <li>Impermeabilizar la piscina con los productos adecuados para que no pierda agua.</li>
+          <li>Localización y reparación de fugas de agua en la estructura o el sistema hidráulico.</li>
+          <li>Colocar revestimientos premium para proteger la piscina y darle un nuevo estilo de diseño.</li>
+          <li>Aumentar o disminuir las dimensiones de la piscina junto con el jardín de la casa.</li>
+          <li>Construcción o modificación de las escaleras para el acceso a la piscina o al jacuzzi.</li>
+        </ul>
+      </div>
+      <div class="col-md-12 presupuesto-ser wow slideInUp">
+        <a href="#contacto" class="boton-presupuesto">SOLICITAR PRESUPUESTO</a>
       </div>
 
     </div>
-
   </section>
 
   <!-- SERVICIOS SUGERIDOS SMALL: Begin -->
@@ -130,22 +128,6 @@
   <section id="contacto">
     <?php include "include/formulario.php"; ?>
   </section>
-
-
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12 wow tada" datos-wow-duracion="3s" data-wow-delay="2s">
-        <div class="pileteros_profesionales">
-          <p class="td08_4">solo confie en pileteros profesionales</p>
-          <p class="td08_3">
-            ...”El tratamiento inadecuado del agua, por falta de conocimientos y experiencia, tiene efectos
-            desagradables provocando irritaciones en la piel, ojos y mucosas y causando enfermedades transmitidas por
-            microorganismos o agentes patógenos. Por todo esto le ofrecemos mantener su piscina y el agua en óptimas
-            condiciones durante todo el año.”...</p>
-        </div>
-      </div>
-    </div>
-  </div>
 
   <footer>
     <?php include "include/footer.php"; ?>

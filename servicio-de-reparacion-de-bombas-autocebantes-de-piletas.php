@@ -92,29 +92,43 @@ function get_template( $id ) {
 
   <section id="cambio_arena">
     <div class="container">
-      <div class="row">
+        <div class="div-texto">
+          <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Soluciones sobre bombas
+            autocebantes</h1>
+          <h2 class="texto2 wow slideInUp">Colocación, reemplazo o mantenimiento de bombas de piscinas</h2>
+          <br>
 
-        <div class="col-md-12">
-          <div class="div-texto">
-            <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Soluciones sobre bombas autocebantes</h1>
-            <h2 class="texto2 wow slideInUp">Colocación, reemplazo o mantenimiento de bombas de piscinas</h2>
-            <br>
-            <div class="col-md-12 wow slideInLeft">
+          <div class="grid-services-images mb-5">
+            <div class="wow slideInLeft">
               <img src="img/mantenimiento-bombas-notas.png" alt="ejercicios-piscinas" class="img_produc_pintura">
             </div>
-            <br>
-            <p>La bomba autocebante forma parte del sistema de filtrado del agua de la piscina. La función de la bomba es la de tomar el agua de la piscina, pasarlo por el elemento filtrante dentro del filtro y posteriormente devolver agua filtrada a la piscina para mantenerla en optimas condiciones.</p>
-            <p>INAGUA, cuenta con un servicio de reparación de bombas autocebantes, en caso de ingresada a nuestro servicio por encontrarse deteriorada en mas de un 50%, tenemos la opción de ofrecer la instalación de un equipo nuevo.</p>
-            <p>Algunos problemas que le pueden estar sucediendo:</p>
+          </div>
 
-            <p><strong>Prendo la bomba y se me vacía el vaso. </strong></p>
-            <p><i>Verifique que la manguera de succión no esté tomando aire, si no lo hace verifique la unión con la bomba y si aún allí no encuentra el problema, verifique que no se esté filtrando aire por la tapa del equipo. </i>
+          <br>
+          <p>La bomba autocebante forma parte del sistema de filtrado del agua de la piscina. La función de la bomba es
+            la de tomar el agua de la piscina, pasarlo por el elemento filtrante dentro del filtro y posteriormente
+            devolver agua filtrada a la piscina para mantenerla en optimas condiciones.</p>
+          <p>INAGUA, cuenta con un servicio de reparación de bombas autocebantes, en caso de ingresada a nuestro
+            servicio por encontrarse deteriorada en mas de un 50%, tenemos la opción de ofrecer la instalación de un
+            equipo nuevo.</p>
+          <p>Algunos problemas que le pueden estar sucediendo:</p>
+
+          <p><strong>Prendo la bomba y se me vacía el vaso. </strong></p>
+          <p><i>Verifique que la manguera de succión no esté tomando aire, si no lo hace verifique la unión con la bomba
+              y si aún allí no encuentra el problema, verifique que no se esté filtrando aire por la tapa del equipo.
+            </i>
 
             <p><strong>La bomba prende pero no funciona</strong></p>
-            <p><i>Esto puede ocurrir si ha pasado mucho tiempo sin utilizar la bomba. Por la parte trasera de la bomba, trate de hacer girar un poco, manualmente o con un destornillador, el eje/ventilador de la bomba. Si bien puede hacerlo usted mismo, se recomienda que lleve la bomba a un centro autorizado o a una electromecánica o llamenos a nosotros que somos especialista.</i></p>
+            <p><i>Esto puede ocurrir si ha pasado mucho tiempo sin utilizar la bomba. Por la parte trasera de la bomba,
+                trate de hacer girar un poco, manualmente o con un destornillador, el eje/ventilador de la bomba. Si
+                bien puede hacerlo usted mismo, se recomienda que lleve la bomba a un centro autorizado o a una
+                electromecánica o llamenos a nosotros que somos especialista.</i></p>
 
             <p><strong>Utilicé la bomba sin canasto y se me trabó.</strong></p>
-            <p><i>Se debe abrir la bomba para limpiar la turbina. Si bien puede hacerlo usted mismo, se recomienda que lleve la misma a un centro autorizado o a una electromecánica o llamenos a nosotros que somos especialista. Se recuerda que si la bomba esta en garantía, ésta puede perderse ante cualquier apertura no autorizada.</i></p>
+            <p><i>Se debe abrir la bomba para limpiar la turbina. Si bien puede hacerlo usted mismo, se recomienda que
+                lleve la misma a un centro autorizado o a una electromecánica o llamenos a nosotros que somos
+                especialista. Se recuerda que si la bomba esta en garantía, ésta puede perderse ante cualquier apertura
+                no autorizada.</i></p>
             <br>
             <h5>TENER CUIDADO:</h5>
             <ul>
@@ -122,11 +136,8 @@ function get_template( $id ) {
               <li>No permita que se mojen sus componentes eléctricos.</li>
               <li>No ponga la Bomba en funcionamiento si no recibe agua.</li>
             </ul>
-          
-          </div>
+
         </div>
-
-
 
         <div class="div-texto texto-art wow slideInUp">
           <p class="texto31">
@@ -134,8 +145,7 @@ function get_template( $id ) {
           </p>
         </div>
 
-
- <!--        <div class="seguinos22">
+        <!--        <div class="seguinos22">
           <p class="seguinos_tex2">COMPARTÍ LA NOTA</p>
         </div> -->
 
@@ -158,8 +168,6 @@ function get_template( $id ) {
           </p>
         </div> -->
 
-
-      </div>
     </div>
   </section>
 
@@ -172,21 +180,6 @@ function get_template( $id ) {
     <?php include "include/formulario.php"; ?>
   </section>
 
-
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12 wow tada" datos-wow-duracion="3s" data-wow-delay="2s">
-        <div class="pileteros_profesionales">
-          <p class="td08_4">solo confie en pileteros profesionales</p>
-          <p class="td08_3">
-            ...”El tratamiento inadecuado del agua, por falta de conocimientos y experiencia, tiene efectos
-            desagradables provocando irritaciones en la piel, ojos y mucosas y causando enfermedades transmitidas por
-            microorganismos o agentes patógenos. Por todo esto le ofrecemos mantener su piscina y el agua en óptimas
-            condiciones durante todo el año.”...</p>
-        </div>
-      </div>
-    </div>
-  </div>
 
   <footer>
     <?php include "include/footer.php"; ?>

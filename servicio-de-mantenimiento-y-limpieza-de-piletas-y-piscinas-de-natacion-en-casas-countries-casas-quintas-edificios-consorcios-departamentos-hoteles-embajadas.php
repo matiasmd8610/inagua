@@ -97,19 +97,19 @@
           condiciones durante todo el año</h2>
       </div>
 
-      <div class="grid-3-images my-5">
+      <div class="grid-services-images my-5">
           <div class="wow fadeInLeft">
             <img class="img-fluid" src="img/servicios/mantenimiento_barrefondo.jpg" alt="Barre Fondo">
             <div class="name">
               <span>Barre Fondo</span>
             </div>
           </div>
-          <div class="wow fadeInDown">
+<!--           <div class="wow fadeInDown">
             <img class="img-fluid" src="img/servicios/mantenimiento_cepillado.jpg" alt="Cepillado de Bordes">
             <div class="name">
               <span>Cepillado de Bordes</span>
             </div>
-          </div>
+          </div> -->
           <div class="wow fadeInRight">
             <img class="img-fluid" src="img/servicios/mantenimiento_contro_cloro_ph.jpg" alt="">
             <div class="name">
@@ -153,112 +153,13 @@
   <?php include "include/servicios-sugeridos-small.php"; ?>
   <!-- SERVICIOS SUGERIDOS SMALL: End -->
 
-  <section>
+  <!-- NOS DESTACAMOS: Begin -->
+  <?php include "include/destacamos.php"; ?>
+  <!-- NOS DESTACAMOS: End -->
 
-    <div class="container sobre_nosotros_1">
-      <div class="row">
-
-        <div class="col-md-6 wow slideInLeft" datos-wow-duracion="0.5s" data-wow-delay="0.5s">
-          <img src="img/staff_1.png" alt="" class="staff_1">
-        </div>
-
-        <div class="col-md-6 wow slideInRight" datos-wow-duracion="1s" data-wow-delay="1s">
-          <p class="texto223"><b>NOS DESTACAMOS EN</b></p>
-
-          <table width="100%" border="0" style="text-align:center; margin-bottom: 20px;">
-            <tbody>
-
-              <td class="td08">
-                <ul class="destacamos-list">
-                  <li>Puntualidad</li>
-                  <li>Educación</li>
-                  <li>Debidamente uniformados</li>
-                  <li>Conocimientos en limpieza de piscinas</li>
-                  <li>Seguridad personal y a terceros</li>
-                  <li>Equipamiento adecuado</li>
-                </ul>
-
-                <br>
-                <p class="texto_seguro_3"><b>Para su seguridad nuestro personal se encuentra debidamente registrado y
-                    cuentan con los seguros de vida obligatorio y ART</b></p>
-                <img src="img/logo_seguro.png" alt="" class="logo_seguro">
-                <p class="texto_seguro">Prevención ART - Vida Obligatorio</p>
-                <p class="texto_seguro_2"><b>N°471157
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;N°1291680</b></p>
-
-
-              </td>
-
-            </tbody>
-          </table>
-
-        </div>
-
-
-
-
-      </div>
-    </div>
-
-
-  </section>
-  <!-- FIN NOSOTROS -->
-
-  <!-- COBERTURA -->
-  <section class="wow bounceInDown" datos-wow-duracion="1s" data-wow-delay="1s">
-    <div class="container">
-      <div class="row">
-
-        <div class="row text-center separ-secciones_2">
-          <div class="col-md-4">
-            <div class="span-separ-secciones_2"></div>
-          </div>
-          <div class="col-md-4">
-            <p class="td06_2">zona de cobertura</p>
-          </div>
-          <div class="col-md-4">
-            <div class="span-separ-secciones_2"></div>
-          </div>
-        </div>
-
-        <div class="col-md-6 lugar_char" align="center">
-          <div>
-            <img src="img/partner_2.jpg" class="chata_ind" alt="">
-          </div>
-
-          <div class="texto_zona_1">
-            <p class="td08">
-              Brindamos servicios de mantenimiento de piletas en todos los barrios de Capital Federal y alrededores.
-            </p>
-          </div>
-
-          <div class="btn_zona">
-            <p class="boton-zona">
-              <a href="piletero-en-capital-federal.php">CONSULTA POR SERVICIOS EN TU ZONA</a>
-
-            </p>
-          </div>
-
-
-        </div>
-
-
-
-
-        <div class="col-md-6 ">
-          <div class="lugar_mapa" align="center">
-
-            <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d105073.44367018693!2d-58.503338223412456!3d-34.61566245827943!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcca3b4ef90cbd%3A0xa0b3812e88e88e87!2sBuenos+Aires%2C+CABA!5e0!3m2!1ses-419!2sar!4v1504503618843"
-              width="430" height="460" frameborder="0" style="border:0" allowfullscreen class="img_mapa_2"></iframe>
-
-          </div>
-
-        </div>
-
-      </div>
-    </div>
-  </section>
+  <!-- ZONA DE COBERTURA: Begin -->
+  <?php include "include/zona-cobertura.php"; ?>
+  <!-- ZONA DE COBERTURA: End -->
 
   <section id="contacto">
     <?php include "include/formulario.php"; ?>
@@ -270,18 +171,14 @@
     <div class="row">
       <div class="col-md-12 wow tada" datos-wow-duracion="3s" data-wow-delay="2s">
         <div class="pileteros_profesionales">
-
           <p class="td08_4">solo confie en pileteros profesionales</p>
-
-          <p class="td08_3" style="padding-bottom: 50px;">
+          <p class="td08_3">
             ...”El tratamiento inadecuado del agua, por falta de conocimientos y experiencia, tiene efectos
             desagradables provocando irritaciones en la piel, ojos y mucosas y causando enfermedades transmitidas por
             microorganismos o agentes patógenos. Por todo esto le ofrecemos mantener su piscina y el agua en óptimas
             condiciones durante todo el año.”...</p>
-
         </div>
       </div>
-
     </div>
   </div>
 

@@ -100,50 +100,47 @@
 
   <section>
     <div class="container">
-      <div class="row">
-
-        <div class="col-md-12">
-          <div class="div-texto">
-            <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Marmolite</h1>
-            <h2 class="texto2 wow slideInUp">Revestimiento para interior de piscinas</h2>
-            <div class="grid-3-images">
-              <div class="wow fadeInLeft">
-                <img class="img-fluid" src="img/servicios/marmolite_01.jpg" alt="">
-              </div>
-              <div class="wow fadeInDown">
-                <img class="img-fluid" src="img/servicios/marmolite_02.jpeg" alt="">
-              </div>
-              <div class="wow fadeInRight">
-                <img class="img-fluid" src="img/servicios/marmolite_03.jpeg" alt="">
-              </div>
-            </div>
-            <br><br>
-            <p>Revestimiento a base de cementos especiales y cuarzo para aplicar en forma continua en piscinas, por medio del pulido se logra una superficie lisa símil mármol apta para estar en contacto permanente con el agua.</p>
-            <p>Obtené mayores ventajas:</p>
-            <ul class="mt-3">
-              <li>Tu piscina limpia todo el año</li>
-              <li>Variedad de colores</li>
-              <li>Superficie muy lisa</li>
-            </ul>
-            <p>Colores disponibles:</p>
-            <ul>
-              <li>BLANCO SEDA</li>
-              <li>BLANCO GRANITO</li>
-              <li>MARFIL</li>
-              <li>ARENA</li>
-              <li>VERDE ESMERALDA</li>
-              <li>CIELO</li>
-              <li>TURQUESA</li>
-              <li>INDIGO</li>
-              <li>NEGRO NOCHE</li>
-            </ul>
+      <div class="div-texto">
+        <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Marmolite</h1>
+        <h2 class="texto2 wow slideInUp">Revestimiento para interior de piscinas</h2>
+        <div class="grid-services-images">
+          <div class="wow fadeInLeft">
+            <img class="img-fluid" src="img/servicios/marmolite_01.jpg" alt="">
+          </div>
+          <div class="wow fadeInDown">
+            <img class="img-fluid" src="img/servicios/marmolite_02.jpeg" alt="">
+          </div>
+          <div class="wow fadeInRight">
+            <img class="img-fluid" src="img/servicios/marmolite_03.jpeg" alt="">
           </div>
         </div>
-
+        <br><br>
+        <p>Revestimiento a base de cementos especiales y cuarzo para aplicar en forma continua en piscinas, por medio
+          del pulido se logra una superficie lisa símil mármol apta para estar en contacto permanente con el agua.</p>
+        <p>Obtené mayores ventajas:</p>
+        <ul class="mt-3">
+          <li>Tu piscina limpia todo el año</li>
+          <li>Variedad de colores</li>
+          <li>Superficie muy lisa</li>
+        </ul>
+        <p>Colores disponibles:</p>
+        <ul>
+          <li>BLANCO SEDA</li>
+          <li>BLANCO GRANITO</li>
+          <li>MARFIL</li>
+          <li>ARENA</li>
+          <li>VERDE ESMERALDA</li>
+          <li>CIELO</li>
+          <li>TURQUESA</li>
+          <li>INDIGO</li>
+          <li>NEGRO NOCHE</li>
+        </ul>
+      </div>
+      <div class="col-md-12 presupuesto-ser wow slideInUp">
+        <a href="#contacto" class="boton-presupuesto">SOLICITAR PRESUPUESTO</a>
       </div>
 
     </div>
-
   </section>
 
   <!-- SERVICIOS SUGERIDOS SMALL: Begin -->
@@ -153,22 +150,6 @@
   <section id="contacto">
     <?php include "include/formulario.php"; ?>
   </section>
-
-
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12 wow tada" datos-wow-duracion="3s" data-wow-delay="2s">
-        <div class="pileteros_profesionales">
-          <p class="td08_4">solo confie en pileteros profesionales</p>
-          <p class="td08_3">
-            ...”El tratamiento inadecuado del agua, por falta de conocimientos y experiencia, tiene efectos
-            desagradables provocando irritaciones en la piel, ojos y mucosas y causando enfermedades transmitidas por
-            microorganismos o agentes patógenos. Por todo esto le ofrecemos mantener su piscina y el agua en óptimas
-            condiciones durante todo el año.”...</p>
-        </div>
-      </div>
-    </div>
-  </div>
 
   <footer>
     <?php include "include/footer.php"; ?>

@@ -100,19 +100,14 @@
 
   <section>
     <div class="container">
-      <div class="row">
-
-        <div class="col-md-12">
-          <div class="div-texto">
-            <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Iluminación Led</h1>
-            <p>Instalación de sistema de iluminación led con o sin control remoto.</p>
-          </div>
-        </div>
-
+      <div class="div-texto">
+        <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Iluminación Led</h1>
+        <p>Instalación de sistema de iluminación led con o sin control remoto.</p>
       </div>
-
+      <div class="col-md-12 presupuesto-ser wow slideInUp">
+        <a href="#contacto" class="boton-presupuesto">SOLICITAR PRESUPUESTO</a>
+      </div>
     </div>
-
   </section>
 
   <!-- SERVICIOS SUGERIDOS SMALL: Begin -->
@@ -122,22 +117,6 @@
   <section id="contacto">
     <?php include "include/formulario.php"; ?>
   </section>
-
-
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12 wow tada" datos-wow-duracion="3s" data-wow-delay="2s">
-        <div class="pileteros_profesionales">
-          <p class="td08_4">solo confie en pileteros profesionales</p>
-          <p class="td08_3">
-            ...”El tratamiento inadecuado del agua, por falta de conocimientos y experiencia, tiene efectos
-            desagradables provocando irritaciones en la piel, ojos y mucosas y causando enfermedades transmitidas por
-            microorganismos o agentes patógenos. Por todo esto le ofrecemos mantener su piscina y el agua en óptimas
-            condiciones durante todo el año.”...</p>
-        </div>
-      </div>
-    </div>
-  </div>
 
   <footer>
     <?php include "include/footer.php"; ?>

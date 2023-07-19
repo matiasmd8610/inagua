@@ -108,13 +108,19 @@
             <p>Utilizamos los mejores materiales y mano de obra experimentada.</p>
 
             <h2 class="texto2 mt-5 wow slideInUp">Asesoramiento</h2>
-            <p>Una piscina te aporta bienestar y diversión. Vamos a ayudarte a resolver esas dudas sobre cómo arribar a un diseño personalizado de acuerdo a tus necesidades.</p>
+            <p>Una piscina te aporta bienestar y diversión. Vamos a ayudarte a resolver esas dudas sobre cómo arribar a
+              un diseño personalizado de acuerdo a tus necesidades.</p>
 
-          <h2 class="texto2 mt-5 wow slideInUp">Diseño a medida</h2>
-          <p>Nos reunimos, nos contás tu proyecto, sugerimos en función a nuestra experiencia y en equipo logramos como resultado tu piscina soñada.</p>
+            <h2 class="texto2 mt-5 wow slideInUp">Diseño a medida</h2>
+            <p>Nos reunimos, nos contás tu proyecto, sugerimos en función a nuestra experiencia y en equipo logramos
+              como resultado tu piscina soñada.</p>
 
-          <h2 class="texto2 mt-5 wow slideInUp">Trato personalizado</h2>
-          <p>Para un adecuado servicio, es indispensable conocer sus gustos y necesidades. El trato cercano es hacer sentir al cliente único.</p>
+            <h2 class="texto2 mt-5 wow slideInUp">Trato personalizado</h2>
+            <p>Para un adecuado servicio, es indispensable conocer sus gustos y necesidades. El trato cercano es hacer
+              sentir al cliente único.</p>
+          </div>
+          <div class="col-md-12 presupuesto-ser wow slideInUp">
+            <a href="#contacto" class="boton-presupuesto" style="text-decoration:none;">SOLICITAR PRESUPUESTO</a>
           </div>
         </div>
 
@@ -131,22 +137,6 @@
   <section id="contacto">
     <?php include "include/formulario.php"; ?>
   </section>
-
-
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12 wow tada" datos-wow-duracion="3s" data-wow-delay="2s">
-        <div class="pileteros_profesionales">
-          <p class="td08_4">solo confie en pileteros profesionales</p>
-          <p class="td08_3">
-            ...”El tratamiento inadecuado del agua, por falta de conocimientos y experiencia, tiene efectos
-            desagradables provocando irritaciones en la piel, ojos y mucosas y causando enfermedades transmitidas por
-            microorganismos o agentes patógenos. Por todo esto le ofrecemos mantener su piscina y el agua en óptimas
-            condiciones durante todo el año.”...</p>
-        </div>
-      </div>
-    </div>
-  </div>
 
   <footer>
     <?php include "include/footer.php"; ?>

@@ -15,7 +15,7 @@
   <meta name="description" content="Mantené tus pisos atérmicos siempre como nuevos">
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo">
   <meta property="fb:app_id" content="383820332074788">
-  <title>Servicio de limpieza y pintura  de bordes atérmicos | SERVICIOS | INAGUA</title>
+  <title>Servicio de limpieza y pintura de bordes atérmicos | SERVICIOS | INAGUA</title>
   <link rel="icon" href="img/logo.png">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
@@ -100,35 +100,34 @@
 
   <section>
     <div class="container">
-      <div class="row">
 
-        <div class="col-md-12">
-          <div class="div-texto">
-            <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Servicio de limpieza y pintura  de bordes atérmicos</h1>
-            <h2 class="texto2 wow slideInUp">Mantené tus pisos atérmicos siempre como nuevos</h2>
-            <div class="grid-3-images my-5">
-              <div class="wow fadeInLeft">
-                <img class="img-fluid" src="img/servicios/pintura_bordes_atermicos_01.jpg" alt="Pintura de bordes atérmicos">
-              </div>
-              <div class="wow fadeInDown">
-                <img class="img-fluid" src="img/servicios/pintura_bordes_atermicos_02.jpg" alt="Pintura de bordes atérmicos">
-              </div>
-              <div class="wow fadeInRight">
-                <img class="img-fluid" src="img/servicios/pintura_bordes_atermicos_03.jpg" alt="Pintura de bordes atérmicos">
-              </div>
-            </div>
-            <ul>
-              <li>Devuelve el color a tus pisos perimetrales de piscinas y solariums</li>
-              <li>No altera las propiedades atérmicas y antideslizantes de la superficie original.</li>
-              <li>Reduce la formación de manchas y algas facilitando el mantenimiento.</li>
-            </ul>
+      <div class="div-texto">
+        <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Servicio de limpieza y pintura de
+          bordes atérmicos</h1>
+        <h2 class="texto2 wow slideInUp">Mantené tus pisos atérmicos siempre como nuevos</h2>
+        <div class="grid-services-images my-5">
+          <div class="wow fadeInLeft">
+            <img class="img-fluid" src="img/servicios/pintura_bordes_atermicos_01.jpg"
+              alt="Pintura de bordes atérmicos">
+          </div>
+          <div class="wow fadeInDown">
+            <img class="img-fluid" src="img/servicios/pintura_bordes_atermicos_02.jpg"
+              alt="Pintura de bordes atérmicos">
+          </div>
+          <div class="wow fadeInRight">
+            <img class="img-fluid" src="img/servicios/pintura_bordes_atermicos_03.jpg"
+              alt="Pintura de bordes atérmicos">
           </div>
         </div>
-
-        
-
+        <ul>
+          <li>Devuelve el color a tus pisos perimetrales de piscinas y solariums</li>
+          <li>No altera las propiedades atérmicas y antideslizantes de la superficie original.</li>
+          <li>Reduce la formación de manchas y algas facilitando el mantenimiento.</li>
+        </ul>
       </div>
-
+      <div class="col-md-12 presupuesto-ser wow slideInUp">
+        <a href="#contacto" class="boton-presupuesto">SOLICITAR PRESUPUESTO</a>
+      </div>
     </div>
 
   </section>
@@ -140,22 +139,6 @@
   <section id="contacto">
     <?php include "include/formulario.php"; ?>
   </section>
-
-
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12 wow tada" datos-wow-duracion="3s" data-wow-delay="2s">
-        <div class="pileteros_profesionales">
-          <p class="td08_4">solo confie en pileteros profesionales</p>
-          <p class="td08_3">
-            ...”El tratamiento inadecuado del agua, por falta de conocimientos y experiencia, tiene efectos
-            desagradables provocando irritaciones en la piel, ojos y mucosas y causando enfermedades transmitidas por
-            microorganismos o agentes patógenos. Por todo esto le ofrecemos mantener su piscina y el agua en óptimas
-            condiciones durante todo el año.”...</p>
-        </div>
-      </div>
-    </div>
-  </div>
 
   <footer>
     <?php include "include/footer.php"; ?>

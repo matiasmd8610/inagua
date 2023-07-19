@@ -95,6 +95,7 @@
 
 .staff_1 {
 	width: 100%;
+	border-radius: 1rem;
 
 	@media(min-width: 768x) {
 		margin-top: 50px;
@@ -486,7 +487,16 @@
 	text-align: left;
 }
 
+.nosDestacamos {
+	margin-top: 5rem;
 
+	.destacamos-list {
+		margin: 0 0 1rem .5rem;
+		font-family: $primary-font;
+		font-size: 16px;
+		padding-left: 1rem;
+	}
+}
 
 
 .imgen-moviles-casas212 {
@@ -984,12 +994,7 @@
 	font-weight: 400;
 }
 
-.destacamos-list {
-	margin-left: .5rem;
-	font-family: $primary-font;
-	font-size: 16px;
-	padding-left: 1rem;
-}
+
 
 
 @media(max-width:991px) {
@@ -1235,7 +1240,7 @@
 	color: #333;
 	font-size: 20px;
 	font-family: $primary-font;
-	font-weight: 300;
+	//font-weight: 300;
 
 	@media (max-width: 767px) {
 		font-size: 18px;
@@ -1665,14 +1670,14 @@ input.btn-primary {
 	width: 100%;
 }
 
-.banner-ventas {
+/* .banner-ventas {
 	margin-top: 3rem;
 
 	p {
 		font-weight: 600;
 		text-align: center;
 	}
-}
+} */
 
 /*REVESTIMIENTO DE VENECITAS
 ********************************************/
@@ -1727,18 +1732,23 @@ input.btn-primary {
 	}
 }
 
-.grid-3-images {
-	display: grid;
-	grid-gap: 2rem;
+.grid-services-images {
+	display: flex;
+	gap: 2rem;
+	flex-direction: column;
 
 	&>div {
 		position: relative;
 		border-radius: .6rem;
 		overflow: hidden;
+		flex: 0 1 100%;
+		max-width: 550px;
+		box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
 	}
 
 	@include media-breakpoint-up(lg) {
-		grid-template-columns: repeat(3, 1fr);
+		flex-direction: row;
+		justify-content: center;
 	}
 
 	img {

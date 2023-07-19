@@ -11346,6 +11346,7 @@ header .imagen_cabesal .sello_premiun {
 
 .staff_1 {
   width: 100%;
+  border-radius: 1rem;
 }
 @media (min-width: 768x) {
   .staff_1 {
@@ -11694,17 +11695,6 @@ header .imagen_cabesal .sello_premiun {
   }
 }
 
-.div-texto-casas4 {
-  float: left;
-  width: 50%;
-}
-@media (max-width: 1010px) {
-  .div-texto-casas4 {
-    width: 100%;
-    padding-left: 0;
-  }
-}
-
 .div-texto-casas2 {
   float: left;
   width: 50%;
@@ -11723,6 +11713,16 @@ header .imagen_cabesal .sello_premiun {
   font-family: "Rubik", sans-serif;
   font-weight: 300;
   text-align: left;
+}
+
+.nosDestacamos {
+  margin-top: 5rem;
+}
+.nosDestacamos .destacamos-list {
+  margin: 0 0 1rem 0.5rem;
+  font-family: "Rubik", sans-serif;
+  font-size: 16px;
+  padding-left: 1rem;
 }
 
 .imgen-moviles-casas212 {
@@ -11887,18 +11887,6 @@ header .imagen_cabesal .sello_premiun {
 @media (max-width: 500px) {
   .imagen-produc {
     display: none;
-  }
-}
-
-.imagen-produc0 {
-  max-width: 100%;
-}
-@media (min-width: 768px) {
-  .imagen-produc0 {
-    width: 30%;
-    float: right;
-    text-align: left;
-    margin-right: 150px;
   }
 }
 
@@ -12188,13 +12176,6 @@ header .imagen_cabesal .sello_premiun {
   font-weight: 400;
 }
 
-.destacamos-list {
-  margin-left: 0.5rem;
-  font-family: "Rubik", sans-serif;
-  font-size: 16px;
-  padding-left: 1rem;
-}
-
 @media (max-width: 991px) {
   .logo_footer_1 {
     margin-bottom: 2em;
@@ -12423,7 +12404,6 @@ header .imagen_cabesal .sello_premiun {
   color: #333;
   font-size: 20px;
   font-family: "Rubik", sans-serif;
-  font-weight: 300;
 }
 @media (max-width: 767px) {
   .texto3 {
@@ -12826,14 +12806,14 @@ input.btn-primary {
   width: 100%;
 }
 
-.banner-ventas {
-  margin-top: 3rem;
-}
-.banner-ventas p {
-  font-weight: 600;
-  text-align: center;
-}
+/* .banner-ventas {
+	margin-top: 3rem;
 
+	p {
+		font-weight: 600;
+		text-align: center;
+	}
+} */
 /*REVESTIMIENTO DE VENECITAS
 ********************************************/
 #revestimiento-venecitas .revestimientoVenecitas-wrapper .gallery-container {
@@ -12877,26 +12857,31 @@ input.btn-primary {
   color: #000 !important;
 }
 
-.grid-3-images {
-  display: grid;
-  grid-gap: 2rem;
+.grid-services-images {
+  display: flex;
+  gap: 2rem;
+  flex-direction: column;
 }
-.grid-3-images > div {
+.grid-services-images > div {
   position: relative;
   border-radius: 0.6rem;
   overflow: hidden;
+  flex: 0 1 100%;
+  max-width: 550px;
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
 }
 @media (min-width: 992px) {
-  .grid-3-images {
-    grid-template-columns: repeat(3, 1fr);
+  .grid-services-images {
+    flex-direction: row;
+    justify-content: center;
   }
 }
-.grid-3-images img {
+.grid-services-images img {
   width: 100%;
   height: 100%;
   object-fit: cover;
 }
-.grid-3-images .name {
+.grid-services-images .name {
   position: absolute;
   background-color: rgba(0, 0, 0, 0.5);
   width: 100%;
@@ -12905,7 +12890,7 @@ input.btn-primary {
   left: 0;
   text-align: center;
 }
-.grid-3-images .name span {
+.grid-services-images .name span {
   color: #fff;
   font-size: 1.3rem;
   text-transform: uppercase;

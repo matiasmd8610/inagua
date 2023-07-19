@@ -85,22 +85,18 @@
             <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Zonas de Cobertura de Mantenimiento de Piscinas</h1>
             <h2 class="texto2 wow slideInUp">Pileteros Profesionales</h2>
           </div>
-
           <div class="imagen-lugar">
             <iframe
               src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d105073.44367018693!2d-58.503338223412456!3d-34.61566245827943!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcca3b4ef90cbd%3A0xa0b3812e88e88e87!2sBuenos+Aires%2C+CABA!5e0!3m2!1ses-419!2sar!4v1504503618843"
               width="100%" height="515" frameborder="0" style="border:0" allowfullscreen class="img_mapa_2"></iframe>
           </div>
-
           <div class="div-texto">
-            <h5 class="texto3 wow slideInUp">
+            <p class="texto3 wow slideInUp">
               Somos una empresa profesional de mantenimiento de piscinas. Brindamos servicios de limpieza y
               mantenimiento de piscinas en los siguientes <br>barrios de Capital Federal:
-            </h5>
+            </p>
           </div>
-
         </div>
-
       </div>
     </div>
   </section>
@@ -253,7 +249,7 @@
 
   <section class="separ-secciones">
     <div class="div-texto">
-      <h5 class="texto3 wow slideInUp text-center">Otras Localidades</h5>
+      <h5 class="texto2 wow slideInUp text-center">Otras Localidades</h5>
     </div>
     <br>
     <div class="container">
@@ -292,26 +288,8 @@
 
 
   <section id="contacto">
-
     <?php include "include/formulario.php"; ?>
-
   </section>
-
-
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12 wow tada" datos-wow-duracion="3s" data-wow-delay="2s">
-        <div class="pileteros_profesionales">
-          <p class="td08_4">solo confie en pileteros profesionales</p>
-          <p class="td08_3">
-            ..."El tratamiento inadecuado del agua, por falta de conocimientos y experiencia, tiene efectos
-            desagradables provocando irritaciones en la piel, ojos y mucosas y causando enfermedades transmitidas por
-            microorganismos o agentes patógenos. Por todo esto le ofrecemos mantener su piscina y el agua en óptimas
-            condiciones durante todo el año.”...</p>
-        </div>
-      </div>
-    </div>
-  </div>
 
   <footer>
     <?php include "include/footer.php"; ?>

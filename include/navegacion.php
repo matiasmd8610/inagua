@@ -112,7 +112,7 @@
               <a href="servicio-de-reparacion-de-bombas-autocebantes-de-piletas.php">Reparación de bomba</a>
             </li>
             <li>
-              <a href="servicio-derevestimiento-de-venecitas.php">Revestimiento de Venecitas</a>
+              <a href="servicio-de-revestimiento-de-venecitas.php">Revestimiento de Venecitas</a>
             </li>
             <li>
               <a href="servicio-de-revestimiento-en-piedra-bali.php">Revestimiento en Piedra Bali</a>

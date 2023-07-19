@@ -104,14 +104,7 @@
 
             <h2 class="texto2 mt-5 wow slideInUp">Equipos y Poductos Utilizados</h2>
             <p class="texto3 wow slideInUp">Usamos herramientas y productos de primera calidad. Fumigamos con equipos atomizadores <strong>STIHL SR420.</strong></p>
-            <ul>
-                <li>Cilindrada: 56,5 cm³</li>
-                <li>Potencia: 3,5 Hp</li>
-                <li>Potencia: 2,6 Kw</li>
-                <li>Alcance horizontal: 12 m</li>
-                <li>Alcance en vertical: 9,5 m</li>
-            </ul>
-            <img class="img-fluid mx-auto d-block my-4" src="img/servicios/fumigacion_mosquitos_01.png" alt="">
+            <img class="img-fluid mx-auto d-block my-5" src="img/servicios/fumigacion_mosquitos_01.png" alt="">
           </div>
 
           <div class="div-texto">
@@ -155,6 +148,10 @@
           </div>
         </div>
 
+        <div class="col-md-12 presupuesto-ser wow slideInUp">
+          <a href="#contacto" class="boton-presupuesto">SOLICITAR PRESUPUESTO</a>
+        </div>
+
         <!-- <div class="col-lg-12 presupuesto-ser wow slideInUp mt-5"
           style="visibility: visible; animation-name: slideInUp;">
           <a target="_blank" href="https://inagua.com.ar/mosquitos/FumigaciondeExteriores.html"
@@ -169,27 +166,9 @@
   <?php include "include/servicios-sugeridos-small.php"; ?>
   <!-- SERVICIOS SUGERIDOS SMALL: End -->
 
-  <section style="background-color: #fff;">
-    <div class="container sobre_nosotros_1">
-      <div class="row">
-        <div class="col-md-6 wow slideInLeft" datos-wow-duracion="0.5s" data-wow-delay="0.5s">
-          <img src="img/staff_1.png" alt="" class="staff_1">
-        </div>
-        <div class="col-md-6 wow slideInRight" datos-wow-duracion="1s" data-wow-delay="1s">
-          <p class="texto223"><b>NOS DESTACAMOS EN</b></p>
-          <ul class="destacamos-list">
-            <li>Puntualidad</li>
-            <li>Educación</li>
-            <li>Debidamente uniformados</li>
-            <li>Conocimientos en limpieza de piscinas</li>
-            <li>Seguridad personal y a terceros</li>
-            <li>Equipamiento adecuado</li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- FIN NOSOTROS -->
+  <!-- NOS DESTACAMOS: Begin -->
+  <?php include "include/destacamos.php"; ?>
+  <!-- NOS DESTACAMOS: End -->
 
   <section>
     <div class="container">
@@ -267,23 +246,6 @@
   <section id="contacto">
     <?php include "include/formulario.php"; ?>
   </section>
-
-
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12 wow tada" datos-wow-duracion="3s" data-wow-delay="2s">
-        <div class="pileteros_profesionales">
-          <p class="td08_4">solo confie en pileteros profesionales</p>
-          <p class="td08_3">
-            ...”El tratamiento inadecuado del agua, por falta de conocimientos y experiencia, tiene efectos
-            desagradables provocando irritaciones en la piel, ojos y mucosas y causando enfermedades transmitidas por
-            microorganismos o agentes patógenos. Por todo esto le ofrecemos mantener su piscina y el agua en óptimas
-            condiciones durante todo el año.”...</p>
-        </div>
-      </div>
-
-    </div>
-  </div>
 
   <footer>
     <?php include "include/footer.php"; ?>

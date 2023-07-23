@@ -137,9 +137,6 @@
     </div>
   </section>
 
-  <!-- SERVICIOS SUGERIDOS SMALL: Begin -->
-  <?php include "include/servicios-sugeridos-small.php"; ?>
-  <!-- SERVICIOS SUGERIDOS SMALL: End -->
 
   <!-- NOS DESTACAMOS: Begin -->
   <?php include "include/destacamos.php"; ?>
@@ -154,6 +151,9 @@
     <?php include "include/formulario.php"; ?>
   </section>
 
+    <!-- SERVICIOS SUGERIDOS SMALL: Begin -->
+    <?php include "include/servicios-sugeridos-small.php"; ?>
+  <!-- SERVICIOS SUGERIDOS SMALL: End -->
 
   <footer>
     <?php include "include/footer.php"; ?>

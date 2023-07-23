@@ -132,15 +132,13 @@
     </div>
   </section>
 
-
-   <!-- SERVICIOS SUGERIDOS: Begin -->
-   <?php include "include/"; ?>
-          <!-- SERVICIOS SUGERIDOS: End -->
-          
-
   <section id="contacto">
     <?php include "include/formulario.php"; ?>
   </section>
+
+  <!-- SERVICIOS SUGERIDOS: Begin -->
+  <?php include "include/"; ?>
+  <!-- SERVICIOS SUGERIDOS: End -->
 
 
   <footer>
@@ -149,6 +147,6 @@
 
   <script src="js/scripts.js"></script>
 
-  </body>
+</body>
 
 </html>

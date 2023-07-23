@@ -114,14 +114,16 @@
     </div>
   </section>
 
+  <section id="contacto">
+    <?php include "include/formulario.php"; ?>
+  </section>
+
+
    <!-- SERVICIOS SUGERIDOS: Begin -->
    <?php include "include/"; ?>
           <!-- SERVICIOS SUGERIDOS: End -->
 
 
-  <section id="contacto">
-    <?php include "include/formulario.php"; ?>
-  </section>
 
   <footer>
     <?php include "include/footer.php"; ?>

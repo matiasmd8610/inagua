@@ -148,15 +148,9 @@
     </div>
   </section>
 
-  <!-- SERVICIOS SUGERIDOS SMALL: Begin -->
-  <?php include "include/servicios-sugeridos-small.php"; ?>
-  <!-- SERVICIOS SUGERIDOS SMALL: End -->
-
-    <!-- NOS DESTACAMOS: Begin -->
-    <?php include "include/destacamos.php"; ?>
-    <!-- NOS DESTACAMOS: End -->
-
-
+  <!-- NOS DESTACAMOS: Begin -->
+  <?php include "include/destacamos.php"; ?>
+  <!-- NOS DESTACAMOS: End -->
 
   <!-- ZONA DE COBERTURA: Begin -->
   <?php include "include/zona-cobertura.php"; ?>
@@ -166,6 +160,10 @@
   <section id="contacto">
     <?php include "include/formulario.php"; ?>
   </section>
+
+  <!-- SERVICIOS SUGERIDOS SMALL: Begin -->
+  <?php include "include/servicios-sugeridos-small.php"; ?>
+  <!-- SERVICIOS SUGERIDOS SMALL: End -->
 
 
   <footer>

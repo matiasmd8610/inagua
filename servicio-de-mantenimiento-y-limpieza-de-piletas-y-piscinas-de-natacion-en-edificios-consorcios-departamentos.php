@@ -114,86 +114,10 @@
     </div>
   </section>
 
-  <!-- SERVICIOS SUGERIDOS SMALL: Begin -->
-  <?php include "include/servicios-sugeridos-small.php"; ?>
-  <!-- SERVICIOS SUGERIDOS SMALL: End -->
 
-  <section>
-
-    <div class="container sobre_nosotros_1">
-      <div class="row">
-
-        <div class="col-md-6 wow slideInLeft" datos-wow-duracion="0.5s" data-wow-delay="0.5s"">
-                        <img src=" img/staff_1.png" alt="" class="staff_1">
-        </div>
-
-        <div class="col-md-6 wow slideInRight" datos-wow-duracion="1s" data-wow-delay="1s">
-          <p class=" texto223"><b>DESTACAMOS EN</b> </p>
-
-          <table width="100%" border="0" style="text-align:center; margin-bottom: 20px;">
-            <tbody>
-              <td align="center" class="td08">
-                <table style="text-align:left; margin-top: 15px;">
-                  <tbody>
-                    <tr>
-                      <td><img src="img/punto1.jpg" width="10" height="10" alt="" /></td>
-                      <td width="5"></td>
-                      <td>Puntualidad</td>
-                    </tr>
-                    <tr>
-                      <td><img src="img/punto1.jpg" width="10" height="10" alt="" /></td>
-                      <td width="5"></td>
-                      <td>Educación</td>
-                    </tr>
-                    <tr>
-                      <td><img src="img/punto1.jpg" width="10" height="10" alt="" /></td>
-                      <td width="5"></td>
-                      <td>Debidamente uniformados</td>
-                    </tr>
-                    <tr>
-                      <td><img src="img/punto1.jpg" width="10" height="10" alt="" /></td>
-                      <td width="5"></td>
-                      <td>Conocimientos en limpieza de piscinas</td>
-                    </tr>
-                    <tr>
-                      <td><img src="img/punto1.jpg" width="10" height="10" alt="" /></td>
-                      <td width="5"></td>
-                      <td>Seguridad personal y a terceros</td>
-                    </tr>
-                    <tr>
-                      <td><img src="img/punto1.jpg" width="10" height="10" alt="" /></td>
-                      <td width="5"></td>
-                      <td>Equipamiento adecuado</td>
-                    </tr>
-                  </tbody>
-                </table>
-                <br>
-                <p class="texto_seguro_3"><i><b>Para su seguridad nuestro personal <br>se encuentra debidamente
-                      registrado <br> y cuentan con los seguros <br> de vida obligatorio y ART</b></i></p>
-                <img src="img/logo_seguro.png" alt="" class="logo_seguro">
-
-                <p class="texto_seguro">Prevención ART - Vida Obligatorio</p>
-                <p class="texto_seguro_2"><b>N°471157
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;N°1291680</b></p>
-
-
-              </td>
-
-            </tbody>
-          </table>
-
-        </div>
-
-
-
-
-      </div>
-    </div>
-
-
-  </section>
-
-  <!-- FIN NOSOTROS -->
+  <!-- NOS DESTACAMOS: Begin -->
+  <?php include "include/destacamos.php"; ?>
+  <!-- NOS DESTACAMOS: End -->
 
   <!-- ZONA DE COBERTURA: Begin -->
   <?php include "include/zona-cobertura.php"; ?>
@@ -203,6 +127,10 @@
   <section id="contacto">
     <?php include "include/formulario.php"; ?>
   </section>
+
+    <!-- SERVICIOS SUGERIDOS SMALL: Begin -->
+    <?php include "include/servicios-sugeridos-small.php"; ?>
+  <!-- SERVICIOS SUGERIDOS SMALL: End -->
 
 
   <div class="container">

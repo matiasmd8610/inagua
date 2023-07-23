@@ -38,9 +38,9 @@
 }
 
 
-#btn-menu {
+/* #btn-menu {
 	display: none;
-}
+} */
 
 .caja_cont {
 	padding: 0;
@@ -226,9 +226,26 @@
 	margin-top: 20px;
 }
 
+.marmolite-colores-grid {
+	display: grid;
+	grid-gap: 1rem;
+	grid-template-columns: repeat(1, 1fr);
+	@include media-breakpoint-up(lg) {
+		grid-template-columns: repeat(4, 1fr);
+	}
+
+	img {
+		width: 100%;
+	}
+}
+
 
 .alineacion_ser {
 	margin-top: 40px;
+	img {
+		display: block;
+		margin: 0 auto;
+	}
 }
 
 .pileteros_profesionales {
@@ -436,7 +453,7 @@
 	color: #333333;
 	font-size: 18px;
 	font-family: $primary-font;
-	font-weight: 400;
+	// font-weight: 400;
 	text-align: left;
 
 	@media (max-width: 500px) {
@@ -1238,7 +1255,7 @@
 
 .texto3 {
 	color: #333;
-	font-size: 20px;
+	font-size: 18px;
 	font-family: $primary-font;
 	//font-weight: 300;
 

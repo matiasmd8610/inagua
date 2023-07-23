@@ -2,38 +2,16 @@
 <html lang="es">
 
 <head>
-
-  <!-- Google Tag Manager -->
-  <script>
-    (function (w, d, s, l, i) {
-      w[l] = w[l] || [];
-      w[l].push({
-        'gtm.start': new Date().getTime(),
-        event: 'gtm.js'
-      });
-      var f = d.getElementsByTagName(s)[0],
-        j = d.createElement(s),
-        dl = l != 'dataLayer' ? '&l=' + l : '';
-      j.async = true;
-      j.src =
-        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-      f.parentNode.insertBefore(j, f);
-    })(window, document, 'script', 'dataLayer', 'GTM-T4FLXK7');
-  </script>
-  <!-- End Google Tag Manager -->
-
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#2F4598">
-
   <meta name="robots" content="index, follow, all">
   <meta name="googlebot" content="index, follow, all">
   <meta name="keywords" content="piscina, piscinas, piletero, pileteros, desagote, agronomia" />
-  <meta name="title" content="Piletero en Agronomia">
-  <meta name="author" content="Administrator">
+  <meta name="title" content="Piletero en Agronomía">
   <meta name="description" content="Servicios de limpieza y mantenimiento de piscinas. Pileteros profesionales.">
-  <title>Piletero en Agronomia</title>
+  <title>Piletero en Agronomía</title>
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo" />
   <link rel="icon" href="img/logo.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -84,6 +62,25 @@
     gtag('config', 'UA-5539254-2');
   </script>
 
+    <!-- Google Tag Manager -->
+    <script>
+    (function (w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({
+        'gtm.start': new Date().getTime(),
+        event: 'gtm.js'
+      });
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s),
+        dl = l != 'dataLayer' ? '&l=' + l : '';
+      j.async = true;
+      j.src =
+        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-T4FLXK7');
+  </script>
+  <!-- End Google Tag Manager -->
+
 </head>
 
 <body>
@@ -106,7 +103,7 @@
         <div class="col-md-12">
           <div class="div-texto">
             <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Mantenimiento de Piscinas en
-              Agronomia</h1>
+              Agronomía</h1>
           </div>
         </div>
 
@@ -114,19 +111,19 @@
     </div>
   </section>
 
+  <section id="contacto">
+    <?php include "include/formulario.php"; ?>
+  </section>
 
   <!-- SERVICIOS SUGERIDOS: Begin -->
   <?php include "include/servicios-sugeridos-small.php"; ?>
   <!-- SERVICIOS SUGERIDOS: End -->
 
-
-  <section id="contacto">
-    <?php include "include/formulario.php"; ?>
-  </section>
-
+  <!-- FOOTER: Begin  -->
   <footer>
     <?php include "include/footer.php"; ?>
   </footer>
+  <!-- FOOTER: End  -->
 
   <script src="js/scripts.js"></script>
 

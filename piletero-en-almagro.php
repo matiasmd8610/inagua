@@ -37,8 +37,6 @@
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo" />
   <link rel="icon" href="img/logo.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-  <script src="js/bootstrap.min.js"></script>
   <link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.min.css">
   <script src="js/fileinput.js" type="text/javascript"></script>
   <link href="css/fileinput.css" rel="stylesheet">
@@ -48,10 +46,6 @@
   <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;600&family=Rubik:wght@300;400;600&display=swap"
     rel="stylesheet">
   <link rel="stylesheet" href="css/animate/animate.css">
-  <script src="js/wow.js"></script>
-  <script>
-    new WOW().init();
-  </script>
 
   <script type="text/javascript">
     (function (i, s, o, g, r, a, m) {
@@ -93,7 +87,7 @@
   </section>
   <span class="ir-arriba"><img src="img/up.png" alt=""></span>
   <div id="top"></div>
-  
+
   <header>
     <div class="botoner_completa animated slideInDown">
       <?php include "include/navegacion.php"; ?>
@@ -105,7 +99,8 @@
       <div class="row">
         <div class="col-md-12">
           <div class="div-texto">
-            <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Mantenimiento de Piscinas en Almagro</h1>
+            <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Mantenimiento de Piscinas en
+              Almagro</h1>
           </div>
 
         </div>
@@ -114,51 +109,24 @@
     </div>
   </section>
 
-    <!-- SERVICIOS SUGERIDOS: Begin -->
-    <?php include "include/servicios-sugeridos-small.php"; ?>
-          <!-- SERVICIOS SUGERIDOS: End -->
-
-
   <section id="contacto">
-
-
     <?php include "include/formulario.php"; ?>
-
   </section>
 
-
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12 wow tada" datos-wow-duracion="3s" data-wow-delay="2s">
-        <div class="pileteros_profesionales">
-
-          <p class="td08_4">Solo confíe en pileteros profesionales</p>
-
-          <p class="td08_3">
-            ..."El tratamiento inadecuado del agua, por falta de conocimientos y experiencia, tiene efectos
-            desagradables provocando irritaciones en la piel, ojos y mucosas y causando enfermedades transmitidas por
-            microorganismos o agentes patógenos. Por todo esto le ofrecemos mantener su piscina y el agua en óptimas
-            condiciones durante todo el año."...</p>
-
-        </div>
-      </div>
-
-    </div>
-  </div>
+  <!-- SERVICIOS SUGERIDOS: Begin -->
+  <?php include "include/servicios-sugeridos-small.php"; ?>
+  <!-- SERVICIOS SUGERIDOS: End -->
 
   <footer>
-
-
-
     <?php include "include/footer.php"; ?>
-
-
-
-
-
-
   </footer>
 
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/wow.js"></script>
+  <script>
+    new WOW().init();
+  </script>
   <script src="js/scripts.js"></script>
 
 </body>

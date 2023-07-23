@@ -100,7 +100,9 @@
           <div class="div-texto">
             <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Revestimiento en Piedra Bali
             </h1>
-            <p class="text-center">Revestimos piletas con piedra bali. Ofrecemos una amplia gama de colores, tipos y diseños. Nos destacamos por una terminación fina y de calidad. Personal especializado en colocación de piedra bali</p>
+            <p class="text-center">Revestimos piletas con piedra bali. Ofrecemos una amplia gama de colores, tipos y
+              diseños. Nos destacamos por una terminación fina y de calidad. Personal especializado en colocación de
+              piedra bali</p>
           </div>
         </div>
 
@@ -152,13 +154,21 @@
     </div>
   </section>
 
-  <!-- SERVICIOS SUGERIDOS SMALL: Begin -->
-  <?php include "include/servicios-sugeridos-small.php"; ?>
-  <!-- SERVICIOS SUGERIDOS SMALL: End -->
+  <!-- NOS DESTACAMOS: Begin -->
+  <?php include "include/destacamos.php"; ?>
+  <!-- NOS DESTACAMOS: End -->
+
+  <!-- ZONA DE COBERTURA: Begin -->
+  <?php include "include/zona-cobertura.php"; ?>
+  <!-- ZONA DE COBERTURA: End -->
 
   <section id="contacto">
     <?php include "include/formulario.php"; ?>
   </section>
+
+  <!-- SERVICIOS SUGERIDOS SMALL: Begin -->
+  <?php include "include/servicios-sugeridos-small.php"; ?>
+  <!-- SERVICIOS SUGERIDOS SMALL: End -->
 
   <footer>
     <?php include "include/footer.php"; ?>

@@ -97,7 +97,7 @@
               calidad para el tratamiento de aguas desde hace 10 años con presencia internacional en más de 30 paises.
             </p>
 
-            <ul>
+            <ul class="texto3 wow slideInUp">
               <li>Además contamos con un excelente servicio al cliente.</li>
               <li>Proporcionando asesoramiento de calidad en las fases pre y postventa y un valioso acompañamiento
                 técnico en los proyectos a medida de nuestros clientes.</li>
@@ -124,7 +124,7 @@
           <h2 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">NUESTROS PRODUCTOS</h2>
           <h4 class="texto2 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">CLORADORES SALINOS – DOMÉSTICOS
           </h4>
-          <p>El clorador salino de uso doméstico de Innowater es la mejor alternativa para piscinas de pequeño tamaño o
+          <p class="texto3 wow slideInUp">El clorador salino de uso doméstico de Innowater es la mejor alternativa para piscinas de pequeño tamaño o
             spa. Nuestros equipos aseguran la desinfección total del agua y un aporte de cloro óptimo para cada
             instalación. Todos nuestros cloradores salinos han sido diseñados con materiales de gran calidad. Cuentan
             con la última tecnología, como una célula auto limpiable y configuración programable, para reducir su
@@ -134,20 +134,20 @@
             alt="CLORADORES SALINOS – DOMÉSTICOS">
 
           <h4 class="texto2 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">SEMI – INDUSTRIALES</h4>
-          <p>En Innowater disponemos de cloradores salinos de alto rendimiento para explotación comercial o intensiva.
+          <p class="texto3 wow slideInUp">En Innowater disponemos de cloradores salinos de alto rendimiento para explotación comercial o intensiva.
             Se trata de la mejor solución para el mantenimiento y desinfección de piscinas comunitarias y hoteles.</p>
           <img class="cloradores-img" src="img/servicios/cloradores_salinos_semi_industriales.png"
             alt="SEMI – INDUSTRIALES">
 
           <h4 class="texto2 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">INDUSTRIALES</h4>
-          <p>Los cloradores salinos industriales de alta capacidad son la mejor opción para la limpieza y desinfección
+          <p class="texto3 wow slideInUp">Los cloradores salinos industriales de alta capacidad son la mejor opción para la limpieza y desinfección
             de piscinas de instalaciones públicas. Estas piscinas destacan por su gran capacidad de agua y por la gran
             cantidad de usuarios que reciben a lo largo del día, por lo que necesitan de los sistemas más potentes para
             el tratamiento del agua.</p>
           <img class="cloradores-img" src="img/servicios/cloradores_salinos_industriales.png" alt="INDUSTRIALES">
 
           <h4 class="texto2 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">REGULADORES DE PH</h4>
-          <p>Instrumento para medición del PH y dosificación del ácido que la piscina requiera. Configuración
+          <p class="texto3 wow slideInUp">Instrumento para medición del PH y dosificación del ácido que la piscina requiera. Configuración
             electrónica comandada por el clorador salino.
             <br>Poseen control Wireless.</p>
           <img class="cloradores-img" src="img/servicios/cloradores_salinos_reguladores_ph.png" alt="REGULADORES DE PH">
@@ -176,10 +176,6 @@
             <img class="cloradores-img-instalaciones" src="img/servicios/cloradores_instalaciones_9.jpg"
               alt="Instalación Cloradores">
           </div>
-        </div>
-
-        <div class="col-md-12 presupuesto-ser wow slideInUp mb-5">
-          <a href="#contacto" class="boton-presupuesto" style="text-decoration:none;">SOLICITAR PRESUPUESTO</a>
         </div>
 
         <!-- FAQS: Begin -->
@@ -401,19 +397,30 @@
         </div>
         <!-- FAQS: End -->
 
+        <div class="col-md-12 presupuesto-ser wow slideInUp">
+          <a href="#contacto" class="boton-presupuesto" style="text-decoration:none;">SOLICITAR PRESUPUESTO</a>
+        </div>
+
       </div>
-
     </div>
-
   </section>
 
-  <!-- SERVICIOS SUGERIDOS SMALL: Begin -->
-  <?php include "include/servicios-sugeridos-small.php"; ?>
-  <!-- SERVICIOS SUGERIDOS SMALL: End -->
+    <!-- NOS DESTACAMOS: Begin -->
+    <?php include "include/destacamos.php"; ?>
+    <!-- NOS DESTACAMOS: End -->
+  
+    <!-- ZONA DE COBERTURA: Begin -->
+    <?php include "include/zona-cobertura.php"; ?>
+    <!-- ZONA DE COBERTURA: End -->
+
 
   <section id="contacto">
     <?php include "include/formulario.php"; ?>
   </section>
+
+    <!-- SERVICIOS SUGERIDOS SMALL: Begin -->
+    <?php include "include/servicios-sugeridos-small.php"; ?>
+    <!-- SERVICIOS SUGERIDOS SMALL: End -->
 
   <footer>
     <?php include "include/footer.php"; ?>

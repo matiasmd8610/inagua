@@ -37,9 +37,11 @@ $(document).ready(function () {
 		};
 	});
 
-    //Hamburguer menu
+    /*Hamburguer menu
+	********************************************/
     var contador = 1;
-	$('#btn-menu').click(function () {
+	$('.btn_menu2').click(function () {
+		$(this).toggleClass("active");
 		if (contador == 1) {
 			$('nav').animate({
 				right: '0'

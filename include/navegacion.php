@@ -31,9 +31,10 @@
     <a href="/">
       <img src="img/logo_foo.png" alt="" class="logo_h">
     </a>
-
-    <input type="checkbox" id="btn-menu">
-    <label for="btn-menu"><img src="img/menu.png" alt="" class="animated bounce btn_menu2"></label>
+    <button type="button" class="btn_menu2" aria-label="Menú">
+      <span></span>
+      <span></span>
+    </button>
 
     <nav class="menu animate bounce">
       <ul>

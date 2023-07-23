@@ -2,10 +2,10 @@ header {
 
     .contacto_hea {
         width: 100%;
-        background: #2f4598; 
+        background: #2f4598;
         box-shadow: 0px 0px 5px 0px rgba(2, 4, 0, 0.75);
         font-size: 23px;
-        color:white;
+        color: white;
         animation-duration: 1.5s;
         animation-delay: 1.5s;
         padding: 0.6rem 0;
@@ -58,13 +58,14 @@ header {
                 font-family: $secondary-font;
                 margin: 0;
                 letter-spacing: 0.02em;
+
                 &:before {
                     content: '|';
                     display: inline-block;
                     margin: 0 10px;
                 }
             }
-            
+
         }
 
         .datos_contacto {
@@ -73,7 +74,7 @@ header {
             font-size: 1rem;
             letter-spacing: 0.02em;
             font-family: $secondary-font;
-            
+
             @media (min-width: 991px) {
                 justify-content: flex-end;
             }
@@ -90,6 +91,7 @@ header {
                 font-weight: 600;
                 margin-left: 0.5rem;
                 font-size: 0.9rem;
+
                 @include media-breakpoint-up(lg) {
                     font-size: 1rem;
                 }
@@ -104,7 +106,7 @@ header {
                 }
             }
 
-            .consulta_header{
+            .consulta_header {
                 @include media-breakpoint-down(lg) {
                     font-size: 0.9em;
                     width: auto;
@@ -133,9 +135,40 @@ header {
         }
 
         .btn_menu2 {
-            @media (max-width: 991px) {
-                width: 65%;
-            } 
+            display: block;
+            background-color: transparent;
+            border: 0;
+            @include media-breakpoint-up(lg) {
+                display: none;
+            }
+            span {
+                display: block;
+                width: 26px;
+                height: 3px;
+                background-color: $color-blue-main;
+                margin-bottom: 8px;
+                transition: all 0.25s ease-in-out;
+
+                &:last-child {
+                    margin-bottom: 0;
+                }
+            }
+
+            &.active {
+                span {
+                    margin: 0;
+
+                    &:first-child {
+                        transform: rotate(45deg);
+                    }
+
+                    &:last-child {
+                        transform: rotate(-45deg);
+                        margin-top: -2px;
+                    }
+
+                }
+            }
         }
 
         .menu {
@@ -143,16 +176,16 @@ header {
 
             @media (max-width: 991px) {
                 position: absolute;
-                top: 106px;
-                right: -80vw;
+                top: 107px;
+                right: -100vw;
                 margin-right: 0px;
-                width: 80vw;
+                width: 100vw;
                 z-index: 10;
                 display: flex;
-                justify-content:flex-start;
-                transition: all 1s ease;
+                justify-content: flex-start;
+                transition: all .5s ease;
             }
-        
+
             ul {
                 display: flex;
                 list-style: none;
@@ -160,9 +193,11 @@ header {
                 background: #fff;
                 padding: 0;
                 width: 100%;
+
                 @include media-breakpoint-up(lg) {
                     max-height: 500px;
                 }
+
                 @include media-breakpoint-down(lg) {
                     flex-direction: column;
                 }
@@ -170,32 +205,28 @@ header {
                 &::-webkit-scrollbar {
                     width: 8px;
                 }
-                
+
                 &::-webkit-scrollbar-track {
                     background: #f1f1f1;
                 }
-                
+
                 &::-webkit-scrollbar-thumb {
                     background: $color-blue-dark;
                 }
-                
+
                 &::-webkit-scrollbar-thumb:hover {
                     background: #999;
                 }
-                
+
                 li {
-                    border: 0.5px #0192d5 ;
-                    font-family:  $secondary-font;
+                    border: 0.5px #0192d5;
+                    font-family: $secondary-font;
                     color: #000;
                     font-weight: 600;
                     font-size: 15px;
 
                     @media (max-width: 767px) {
                         border-bottom: 1px solid #93dbff;
-                    }
-
-                    &:last-child {
-                        border: 0;   
                     }
 
                     /* &:last-child a{
@@ -206,25 +237,25 @@ header {
                         }
                     } */
                 }
-        
+
                 a {
                     display: block;
                     padding: 10px 15px;
                     text-decoration: none;
-                    color:#000;
+                    color: #000;
                     text-transform: uppercase;
-        
+
                     &:hover {
-                        background-image: linear-gradient(to right, rgb(0,166,231) 0%, rgb(34,107,179) 25%, rgb(43,84,161) 50%, rgb(47,69,152) 75%);
+                        background-image: linear-gradient(to right, rgb(0, 166, 231) 0%, rgb(34, 107, 179) 25%, rgb(43, 84, 161) 50%, rgb(47, 69, 152) 75%);
                         box-shadow: 0px 0px 0px 0px rgba(2, 1, 0, 0.25);
                         color: #fff;
                     }
                 }
-        
+
                 ul {
                     display: none;
                 }
-        
+
                 li {
                     &:hover {
                         ul {
@@ -233,7 +264,7 @@ header {
                             }
                         }
                     }
-                    
+
                 }
             }
 
@@ -243,7 +274,7 @@ header {
                 padding: 10px 20px;
                 position: relative;
 
-                @media (max-width: 991px)  {
+                @media (max-width: 991px) {
                     padding: 15px 13px;
                 }
 
@@ -271,9 +302,10 @@ header {
                     margin-right: 60px;
                     width: auto;
                     overflow: auto;
+
                     @media (max-width: 768px) {
                         overflow-y: scroll;
-                        width: 250px;
+                        width: 100VW;
                         height: 350px;
                         margin-top: 20px;
                     }
@@ -290,20 +322,18 @@ header {
 
                 }
 
-                &:hover{
+                &:hover {
                     background: #0192d5;
                     color: white !important;
                     margin-top: 0px;
-                    background-image: linear-gradient(to right, rgb(0,166,231) 0%, rgb(34,107,179) 25%, rgb(43,84,161) 50%, rgb(47,69,152) 75%);
+                    background-image: linear-gradient(to right, rgb(0, 166, 231) 0%, rgb(34, 107, 179) 25%, rgb(43, 84, 161) 50%, rgb(47, 69, 152) 75%);
 
-                    ul {
-                        
-                    }
-                 
+                    ul {}
+
                 }
 
             }
-        
+
         }
     }
 
@@ -324,7 +354,7 @@ header {
     .botoner_completa {
         width: 100%;
         z-index: 7;
-        background-color:white;
+        background-color: white;
         position: fixed;
         left: 0;
         top: 0;
@@ -347,10 +377,10 @@ header {
         }
     }
 
-    .imagen_cabesal{
+    .imagen_cabesal {
         width: 100%;
         height: 170px;
-        background:url("../../img/fondo-header.png") no-repeat center center;
+        background: url("../../img/fondo-header.png") no-repeat center center;
         background-size: cover;
         display: flex;
         align-items: center;
@@ -360,7 +390,7 @@ header {
             height: 180px;
         }
 
-        .sello_premiun{
+        .sello_premiun {
             width: 7%;
 
             @media(max-width: 767px) {

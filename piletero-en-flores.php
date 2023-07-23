@@ -117,11 +117,6 @@
             <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Mantenimiento de Piletas en
               Flores</h1>
           </div>
-
-          <!-- SERVICIOS SUGERIDOS: Begin -->
-          <?php include "include/servicios-sugeridos-small.php"; ?>
-          <!-- SERVICIOS SUGERIDOS: End -->
-
         </div>
 
       </div>
@@ -132,12 +127,16 @@
     <?php include "include/formulario.php"; ?>
   </section>
 
+  <!-- SERVICIOS SUGERIDOS: Begin -->
+  <?php include "include/servicios-sugeridos-small.php"; ?>
+  <!-- SERVICIOS SUGERIDOS: End -->
+
   <footer>
     <?php include "include/footer.php"; ?>
   </footer>
 
   <script src="js/scripts.js"></script>
 
-  </body>
+</body>
 
 </html>

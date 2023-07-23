@@ -112,7 +112,7 @@
     <div class="container sobre_nosotros_1">
       <div class="row">
         <div class="col-md-6 wow slideInLeft" datos-wow-duracion="0.5s" data-wow-delay="0.5s">
-          <img src="img/staff_1.png" alt="" class="staff_1">
+          <img src="img/destacamos_img.jpg" alt="Hombre trabajando" class="staff_1">
         </div>
 
         <div class="col-md-6 wow slideInRight" datos-wow-duracion="1s" data-wow-delay="1s">

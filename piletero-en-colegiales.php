@@ -136,13 +136,15 @@
     </div>
   </section>
 
+  <section id="contacto">
+    <?php include "include/formulario.php"; ?>
+  </section>
+
+
   <!-- SERVICIOS SUGERIDOS: Begin -->
   <?php include "include/servicios-sugeridos-small.php"; ?>
   <!-- SERVICIOS SUGERIDOS: End -->
 
-  <section id="contacto">
-    <?php include "include/formulario.php"; ?>
-  </section>
 
 
   <footer>

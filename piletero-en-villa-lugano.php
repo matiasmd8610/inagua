@@ -94,27 +94,10 @@
   <span class="ir-arriba"><img src="img/up.png" alt=""></span>
   <div id="top"></div>
   <header>
-
-
-
     <div class="botoner_completa animated slideInDown">
-
-
-
       <?php include "include/navegacion.php"; ?>
-
-
-
     </div>
   </header>
-
-
-
-
-
-
-
-
 
 
   <section id="cobertura">
@@ -131,14 +114,14 @@
     </div>
   </section>
 
+  <section id="contacto">
+    <?php include "include/formulario.php"; ?>
+  </section>
+
   <!-- SERVICIOS SUGERIDOS: Begin -->
   <?php include "include/servicios-sugeridos-small.php"; ?>
   <!-- SERVICIOS SUGERIDOS: End -->
 
-
-  <section id="contacto">
-    <?php include "include/formulario.php"; ?>
-  </section>
 
   <footer>
     <?php include "include/footer.php"; ?>

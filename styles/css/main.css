@@ -10771,51 +10771,6 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
-/*@font-face {
-    font-family: 'ikaros_light';
-	src: url('../../fonts/ikaros/ikaros-light.otf');
-	src: url('../../fonts/ikaros/ikaros-light-webfont.eot');    
-	src: url('../../fonts/ikaros/ikaros-light-webfont.eot?#iefix') format('embedded-opentype'),         
-	url('../../fonts/ikaros/ikaros-light-webfont.woff2') format('woff2'),         
-	url('../../fonts/ikaros/ikaros-light-webfont.woff') format('woff'),         
-	url('../../fonts/ikaros/ikaros-light-webfont.ttf') format('truetype'),         
-	url('../../fonts/ikaros/ikaros-light-webfont.svg#ikaros_sanslight') format('svg');    
-	font-weight: normal;    
-	font-style: normal;
-}*/
-/*@font-face {
-    font-family: 'ikaros_regular';
-	src: url('../../fonts/ikaros/ikaros-regular.otf');   
-	src: url('../../fonts/ikaros/ikaros-regular-webfont.eot');    
-	src: url('../../fonts/ikaros/ikaros-regular-webfont.eot?#iefix') format('embedded-opentype'),        
-	url('../../fonts/ikaros/ikaros-regular-webfont.woff2') format('woff2'),         
-	url('../../fonts/ikaros/ikaros-regular-webfont.woff') format('woff'),         
-	url('../../fonts/ikaros/ikaros-regular-webfont.ttf') format('truetype'),         
-	url('../../fonts/ikaros/ikaros-regular-webfont.svg#ikaros_sans_regularregular') format('svg');
-	font-weight: normal;
-	font-style: normal;
-}*/
-/*@font-face {
-    font-family: 'Conv_HelveticaNeueLTStd-BlkCn';
-    src: url('../../fonts/helvetica/HelveticaNeueLTStd-BlkCn.eot');
-    src: local('☺'), 
-    url('../../fonts/helvetica/HelveticaNeueLTStd-BlkCn.woff') format('woff'), 
-    url('../../fonts/helvetica/HelveticaNeueLTStd-BlkCn.ttf') format('truetype'), 
-    url('../../fonts/helvetica/HelveticaNeueLTStd-BlkCn.svg') format('svg');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Conv_HelveticaNeueLTStd-Blk';
-    src: url('../../fonts/helvetica/HelveticaNeueLTStd-Blk.eot');
-    src: local('☺'), 
-    url('../../fonts/helvetica/HelveticaNeueLTStd-Blk.woff') format('woff'), 
-    url('../../fonts/helvetica/HelveticaNeueLTStd-Blk.ttf') format('truetype'), 
-    url('../../fonts/helvetica/HelveticaNeueLTStd-Blk.svg') format('svg');
-    font-weight: normal;	
-    font-style: normal;
-}*/
 html {
   font-size: 16px;
   background: #2F4598;
@@ -11047,10 +11002,36 @@ header .nav-container {
     padding: 1rem 0;
   }
 }
-@media (max-width: 991px) {
+header .nav-container .btn_menu2 {
+  display: block;
+  background-color: transparent;
+  border: 0;
+}
+@media (min-width: 992px) {
   header .nav-container .btn_menu2 {
-    width: 65%;
+    display: none;
   }
+}
+header .nav-container .btn_menu2 span {
+  display: block;
+  width: 26px;
+  height: 3px;
+  background-color: #0192d5;
+  margin-bottom: 8px;
+  transition: all 0.25s ease-in-out;
+}
+header .nav-container .btn_menu2 span:last-child {
+  margin-bottom: 0;
+}
+header .nav-container .btn_menu2.active span {
+  margin: 0;
+}
+header .nav-container .btn_menu2.active span:first-child {
+  transform: rotate(45deg);
+}
+header .nav-container .btn_menu2.active span:last-child {
+  transform: rotate(-45deg);
+  margin-top: -2px;
 }
 header .nav-container .menu {
   list-style: none;
@@ -11058,14 +11039,14 @@ header .nav-container .menu {
 @media (max-width: 991px) {
   header .nav-container .menu {
     position: absolute;
-    top: 106px;
-    right: -80vw;
+    top: 107px;
+    right: -100vw;
     margin-right: 0px;
-    width: 80vw;
+    width: 100vw;
     z-index: 10;
     display: flex;
     justify-content: flex-start;
-    transition: all 1s ease;
+    transition: all 0.5s ease;
   }
 }
 header .nav-container .menu ul {
@@ -11116,9 +11097,6 @@ header .nav-container .menu ul li {
   header .nav-container .menu ul li {
     border-bottom: 1px solid #93dbff;
   }
-}
-header .nav-container .menu ul li:last-child {
-  border: 0;
 }
 header .nav-container .menu ul a {
   display: block;
@@ -11176,7 +11154,7 @@ header .nav-container .menu .submenu ul {
 @media (max-width: 768px) {
   header .nav-container .menu .submenu ul {
     overflow-y: scroll;
-    width: 250px;
+    width: 100VW;
     height: 350px;
     margin-top: 20px;
   }
@@ -11291,10 +11269,9 @@ header .imagen_cabesal .sello_premiun {
   z-index: 2;
 }
 
-#btn-menu {
-  display: none;
-}
-
+/* #btn-menu {
+	display: none;
+} */
 .caja_cont {
   padding: 0;
   margin: 0;
@@ -11476,8 +11453,26 @@ header .imagen_cabesal .sello_premiun {
   margin-top: 20px;
 }
 
+.marmolite-colores-grid {
+  display: grid;
+  grid-gap: 1rem;
+  grid-template-columns: repeat(1, 1fr);
+}
+@media (min-width: 992px) {
+  .marmolite-colores-grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+.marmolite-colores-grid img {
+  width: 100%;
+}
+
 .alineacion_ser {
   margin-top: 40px;
+}
+.alineacion_ser img {
+  display: block;
+  margin: 0 auto;
 }
 
 .pileteros_profesionales {
@@ -11666,7 +11661,6 @@ header .imagen_cabesal .sello_premiun {
   color: #333333;
   font-size: 18px;
   font-family: "Rubik", sans-serif;
-  font-weight: 400;
   text-align: left;
 }
 @media (max-width: 500px) {
@@ -12402,7 +12396,7 @@ header .imagen_cabesal .sello_premiun {
 
 .texto3 {
   color: #333;
-  font-size: 20px;
+  font-size: 18px;
   font-family: "Rubik", sans-serif;
 }
 @media (max-width: 767px) {

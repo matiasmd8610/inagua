@@ -135,6 +135,17 @@
           <li>INDIGO</li>
           <li>NEGRO NOCHE</li>
         </ul>
+        <div class="marmolite-colores-grid">
+          <img src="img/servicios/marmolite_ muestras_ colores/blanco_seda.jpg" alt="Blanco Seda">
+          <img src="img/servicios/marmolite_ muestras_ colores/blanco_granito.jpg" alt="Blanco Granito">
+          <img src="img/servicios/marmolite_ muestras_ colores/marfil.jpg" alt="Marfil">
+          <img src="img/servicios/marmolite_ muestras_ colores/arena.jpg" alt="Arena">
+          <img src="img/servicios/marmolite_ muestras_ colores/verde_esmeralda.jpg" alt="Verde Esmeralda">
+          <img src="img/servicios/marmolite_ muestras_ colores/cielo.jpg" alt="Cielo">
+          <img src="img/servicios/marmolite_ muestras_ colores/turquesa.jpg" alt="Turquesa">
+          <img src="img/servicios/marmolite_ muestras_ colores/indigo.jpg" alt="Indigo">
+          <img src="img/servicios/marmolite_ muestras_ colores/negro_noche.jpg" alt="Negro Noche">
+        </div>
       </div>
       <div class="col-md-12 presupuesto-ser wow slideInUp">
         <a href="#contacto" class="boton-presupuesto">SOLICITAR PRESUPUESTO</a>
@@ -143,13 +154,21 @@
     </div>
   </section>
 
-  <!-- SERVICIOS SUGERIDOS SMALL: Begin -->
-  <?php include "include/servicios-sugeridos-small.php"; ?>
-  <!-- SERVICIOS SUGERIDOS SMALL: End -->
+  <!-- NOS DESTACAMOS: Begin -->
+  <?php include "include/destacamos.php"; ?>
+  <!-- NOS DESTACAMOS: End -->
+
+  <!-- ZONA DE COBERTURA: Begin -->
+  <?php include "include/zona-cobertura.php"; ?>
+  <!-- ZONA DE COBERTURA: End -->
 
   <section id="contacto">
     <?php include "include/formulario.php"; ?>
   </section>
+
+  <!-- SERVICIOS SUGERIDOS SMALL: Begin -->
+  <?php include "include/servicios-sugeridos-small.php"; ?>
+  <!-- SERVICIOS SUGERIDOS SMALL: End -->
 
   <footer>
     <?php include "include/footer.php"; ?>

@@ -10,11 +10,11 @@
   <meta name="robots" content="index, follow, all">
   <meta name="googlebot" content="index, follow, all">
   <meta name="keywords" content="piscina, piscinas, piletero, pileteros, desagote">
-  <meta name="title" content="PILETEROS - LIMPIEZA DE PISCINAS - DESAGOTES DE PISCINAS">
+  <meta name="title" content="INAGUA | Pileteros - Limpieza de piscinas - Desagote de piscinass">
   <meta name="author" content="Administrator">
   <meta name="description"
-    content="Empresa profesional de Limpieza y desagote de piscina. Piletero en Capital Federal.">
-  <title>PILETEROS - LIMPIEZA DE PISCINAS - DESAGOTES DE PISCINAS</title>
+    content="Empresa profesional de Limpieza y desagote de piscina. Pileteros en Capital Federal.">
+  <title>INAGUA | Pileteros - Limpieza de piscinas - Desagote de piscinas</title>
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo">
   <link rel="icon" href="img/logo.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -94,12 +94,13 @@
   <span class="ir-arriba"><img src="img/up.png" alt=""></span>
   <div id="top"></div>
 
+  <!-- HEADER - Begin -->
   <header>
     <div class="botoner_completa animated slideInDown">
-      <!-- INCLUDE NAVEGACIÓN -->
       <?php include "include/navegacion.php"; ?>
     </div>
   </header>
+  <!-- HEADER - End -->
 
   <section class="hero-home m-0">
     <div class="container">

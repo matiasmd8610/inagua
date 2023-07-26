@@ -212,9 +212,11 @@
 }
 
 .img_mapa_2 {
-	width: 90%;
-	margin: auto;
-	margin-top: 2rem;
+	width: 100%;
+	margin: 2rem auto 0;
+	@include media-breakpoint-up(lg) {
+		width: 90%;
+	}
 }
 
 .btn_zona p a {

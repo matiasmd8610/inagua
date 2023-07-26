@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="theme-color" content="#2F4598">
   <meta name="robots" content="index, follow, all" />
   <meta name="googlebot" content="index, follow, all" />
@@ -15,7 +15,6 @@
   <title>Mantenimiento de piletas en consorcios, hoteles y embajadas | SERVICIOS | INAGUA</title>
   <link rel="icon" href="img/logo.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-  <link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.min.css">
   <link href="css/fileinput.css" rel="stylesheet">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
   <script src="js/fileinput.js" type="text/javascript"></script>

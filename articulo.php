@@ -30,7 +30,6 @@ function get_template( $id ) {
   <title>PILETEROS - LIMPIEZA DE PISCINAS - DESAGOTES DE PISCINAS</title>
   <link rel="icon" href="img/logo.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-  <link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.min.css">
   <link href="css/fileinput.css" rel="stylesheet">
   <link href="styles/css/main.css" rel="stylesheet">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>

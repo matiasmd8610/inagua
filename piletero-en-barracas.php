@@ -37,7 +37,6 @@
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo" />
   <link rel="icon" href="img/logo.png">
   <script src="js/bootstrap.min.js"></script>
-  <link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.min.css">
   <script src="js/fileinput.js" type="text/javascript"></script>
   <link href="css/fileinput.css" rel="stylesheet">
   <link href="styles/css/main.css" rel="stylesheet">

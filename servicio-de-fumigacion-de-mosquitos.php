@@ -28,10 +28,6 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;600&family=Rubik:wght@300;400;600&display=swap"
     rel="stylesheet">
-  <script src="js/wow.js"></script>
-  <script>
-    new WOW().init();
-  </script>
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-5539254-2"></script>
@@ -91,28 +87,47 @@
           <div class="div-texto">
             <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Fumigación de Mosquitos</h1>
             <h2 class="texto2 wow slideInUp">¡Fumigue Ya! ¡Sin Mosquito No Hay Dengue!</h2>
-            <img src="img/servicios/fumigacion.jpg" alt="Fumigacion" width="800" class="img-fluid mx-auto d-block my-5">
+
+            <div class="grid-services-images my-5">
+              <div class="wow fadeInLeft">
+                <img src="img/servicios/fumigacion_01.jpg" alt="Fumigacion" width="800">
+              </div>
+              <div class="wow fadeInLeft">
+                <img src="img/servicios/fumigacion_02.png" alt="Fumigacion" width="800">
+              </div>
+            </div>
+
             <p class="texto3 wow slideInUp">
-              Brindamos el servicio de <strong>Fumigación De Mosquitos</strong> en todos los barrios de Capital Federal y alrededores.
+              Brindamos el servicio de <strong>Fumigación De Mosquitos</strong> en todos los barrios de Capital Federal
+              y alrededores.
             </p>
           </div>
           <div class="div-texto">
             <div class="presupuesto-ser wow slideInUp">
-              <a href="#contacto" class="boton-presupuesto" style="text-decoration:none;">Consultá por servicios en tu zona</a>
+              <a href="#contacto" class="boton-presupuesto" style="text-decoration:none;">Consultá por servicios en tu
+                zona</a>
             </div>
 
             <h2 class="texto2 mt-5 wow slideInUp">Equipos y Poductos Utilizados</h2>
-            <p class="texto3 wow slideInUp">Usamos herramientas y productos de primera calidad. Fumigamos con equipos atomizadores <strong>STIHL SR420.</strong></p>
+            <p class="texto3 wow slideInUp">Usamos herramientas y productos de primera calidad. Fumigamos con equipos
+              atomizadores <strong>STIHL SR420.</strong></p>
             <img class="img-fluid mx-auto d-block my-5" src="img/servicios/fumigacion_mosquitos_01.png" alt="">
           </div>
 
           <div class="div-texto">
             <h2 class="texto2 mt-5 wow slideInUp">Utilizamos insecticida DEMOLEDOR</h2>
-            <p><strong>DEMOLEDOR</strong> es un insecticida de amplio espectro, que controla los estadios de plagas y regula su crecimiento. Cuando se aplica, tiene un efecto residual excelente. Este producto <strong>NO DEJA OLOR NI TIENE SOLVENTES</strong>.</p>
-            <a href="http://www.anmat.gob.ar/boletin_anmat/diciembre_2018/Dispo_MSYDS_2851-18.pdf" target="_blank">APROBADO POR ANMAT</a>
-            <img class="img-fluid mx-auto d-block my-5" src="img/servicios/insecticida_demoledor.png" alt="Insecticida Demoledor">
-            <p><strong>DEMOLEDOR</strong> contiene dos ingredientes activos que producen una acción dual: Betacipermetrina (piretroide) y regulador de crecimiento, actúan por contacto e ingestión otorgándole poder sobre insectos adultos y acción de inhibición sobre el proceso de las mudas de formas juveniles.</p>
-            <p><strong>Modo de Acción:</strong> Interrumpe la sinapsis neuronal e inhibe la formación de quitina atacando el Sistema Nervioso y el Sistema Endocrino de los insectos. </p>
+            <p><strong>DEMOLEDOR</strong> es un insecticida de amplio espectro, que controla los estadios de plagas y
+              regula su crecimiento. Cuando se aplica, tiene un efecto residual excelente. Este producto <strong>NO DEJA
+                OLOR NI TIENE SOLVENTES</strong>.</p>
+            <a href="http://www.anmat.gob.ar/boletin_anmat/diciembre_2018/Dispo_MSYDS_2851-18.pdf"
+              target="_blank">APROBADO POR ANMAT</a>
+            <img class="img-fluid mx-auto d-block my-5" src="img/servicios/insecticida_demoledor.png"
+              alt="Insecticida Demoledor">
+            <p><strong>DEMOLEDOR</strong> contiene dos ingredientes activos que producen una acción dual:
+              Betacipermetrina (piretroide) y regulador de crecimiento, actúan por contacto e ingestión otorgándole
+              poder sobre insectos adultos y acción de inhibición sobre el proceso de las mudas de formas juveniles.</p>
+            <p><strong>Modo de Acción:</strong> Interrumpe la sinapsis neuronal e inhibe la formación de quitina
+              atacando el Sistema Nervioso y el Sistema Endocrino de los insectos. </p>
             <p>Actúa por contacto e ingestión.</p>
             <p><strong>Acción dual:</strong> 2 activos trabajando JUNTOS.</p>
             <p>Producto sin olor, no mancha.</p>
@@ -122,15 +137,25 @@
             </div>
 
             <h2 class="texto2 mt-5 wow slideInUp">¿Qué es el Dengue?</h2>
-            <p>Según la <strong>Organización Mundial de la Salud (OMS)</strong>, el dengue es una infección vírica transmitida por la picadura de las hembras infectadas de mosquitos del género Aedes. Hay cuatro serotipos de virus del dengue (DEN 1, DEN 2, DEN 3 y DEN 4). Los síntomas aparecen 3–14 días (promedio de 4–7 días) después de la picadura infectiva. El dengue es una enfermedad similar a la gripe que afecta a lactantes, niños pequeños y adultos.</p>
-            <p>Los síntomas son fiebre elevada (40ºC) acompañada de dos de los síntomas siguientes sintomas: dolor de cabeza muy intenso, dolor detrás de los globos oculares, dolores musculares y articulares, náuseas, vómitos, agrandamiento de ganglios linfáticos o sarpullido.</p>
-            <img class="img-fluid d-block mx-auto" src="img/servicios/mosquito_ciclo_vida.png" alt="Ciclo de vida del dengue">
+            <p>Según la <strong>Organización Mundial de la Salud (OMS)</strong>, el dengue es una infección vírica
+              transmitida por la picadura de las hembras infectadas de mosquitos del género Aedes. Hay cuatro serotipos
+              de virus del dengue (DEN 1, DEN 2, DEN 3 y DEN 4). Los síntomas aparecen 3–14 días (promedio de 4–7 días)
+              después de la picadura infectiva. El dengue es una enfermedad similar a la gripe que afecta a lactantes,
+              niños pequeños y adultos.</p>
+            <p>Los síntomas son fiebre elevada (40ºC) acompañada de dos de los síntomas siguientes sintomas: dolor de
+              cabeza muy intenso, dolor detrás de los globos oculares, dolores musculares y articulares, náuseas,
+              vómitos, agrandamiento de ganglios linfáticos o sarpullido.</p>
+            <img class="img-fluid d-block mx-auto" src="img/servicios/mosquito_ciclo_vida.png"
+              alt="Ciclo de vida del dengue">
 
             <h5>Recomendaciones para prevenir el dengue (Ministerio de Salud de la República Argentina)</h5>
             <ul class="mt-3">
               <li>Eliminá todos los recipientes en desuso que puedan acumular agua (latas, botellas, neumáticos).</li>
-              <li>Da vuelta los objetos que estén en el exterior y puedan acumular agua de lluvia (baldes, palanganas, tambores).</li>
-              <li>Cambiá el agua de bebederos de animales, colectores de desagües de aire acondicionado o lluvia, dentro y fuera de la casa, cada tres días. Frotá las paredes de los recipientes con una esponja para desprender los huevos de mosquito que puedan estar adheridos.</li>
+              <li>Da vuelta los objetos que estén en el exterior y puedan acumular agua de lluvia (baldes, palanganas,
+                tambores).</li>
+              <li>Cambiá el agua de bebederos de animales, colectores de desagües de aire acondicionado o lluvia, dentro
+                y fuera de la casa, cada tres días. Frotá las paredes de los recipientes con una esponja para desprender
+                los huevos de mosquito que puedan estar adheridos.</li>
               <li>Rellená los floreros y portamacetas con arena húmeda.</li>
               <li>Mantené los patios limpios y ordenados, así como los jardines desmalezados.</li>
               <li>Limpiá las canaletas y los desagües de lluvia que están en los techos.</li>
@@ -139,9 +164,12 @@
 
             <p>También se puede prevenir la picadura del mosquito:</p>
             <ul>
-              <li>Con el uso de repelentes corporales y ambientales (tabletas y espirales) según las recomendaciones que figuren en el envase.</li>
-              <li>Con el uso de ropa clara que cubra los brazos y las piernas especialmente cuando se realizen las actividades al aire libre.</li>
-              <li>Con la colocación de mosquiteros en puertas y ventanas, y cuando sea posible, con ventiladores o aire acondicionado.</li>
+              <li>Con el uso de repelentes corporales y ambientales (tabletas y espirales) según las recomendaciones que
+                figuren en el envase.</li>
+              <li>Con el uso de ropa clara que cubra los brazos y las piernas especialmente cuando se realizen las
+                actividades al aire libre.</li>
+              <li>Con la colocación de mosquiteros en puertas y ventanas, y cuando sea posible, con ventiladores o aire
+                acondicionado.</li>
               <li>Con el uso de proctectores para cunas y cochecitos de bebés con telas mosquiteras.</li>
             </ul>
           </div>
@@ -174,8 +202,8 @@
     </div>
   </section>
 
-    <!-- NOS DESTACAMOS: Begin -->
-    <?php include "include/destacamos.php"; ?>
+  <!-- NOS DESTACAMOS: Begin -->
+  <?php include "include/destacamos.php"; ?>
   <!-- NOS DESTACAMOS: End -->
 
   <!-- ZONA DE COBERTURA: Begin -->
@@ -187,21 +215,19 @@
     <?php include "include/formulario.php"; ?>
   </section>
 
-    <!-- SERVICIOS SUGERIDOS SMALL: Begin -->
-    <?php include "include/servicios-sugeridos-small.php"; ?>
+  <!-- SERVICIOS SUGERIDOS SMALL: Begin -->
+  <?php include "include/servicios-sugeridos-small.php"; ?>
   <!-- SERVICIOS SUGERIDOS SMALL: End -->
 
   <footer>
     <?php include "include/footer.php"; ?>
   </footer>
 
-  <script src="js/scripts.js"></script>
-
+  <script src="js/wow.js"></script>
   <script>
-    $(document).on('ready', function () {
-
-    });
+    new WOW().init();
   </script>
+  <script src="js/scripts.js"></script>
 
 </body>
 

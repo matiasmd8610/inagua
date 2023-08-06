@@ -81,11 +81,17 @@
 
         <div class="grid-services-images mb-5">
           <div class="wow fadeInLeft">
-            <img src="img/imagen-muestra.png" alt="" class="imgen-moviles-casas212">
+            <img src="img/servicios/analisis_bacteriologico_01.jpg" alt="Análisis bacteriológico" width="500">
+          </div>
+          <div class="wow fadeInLeft">
+            <img src="img/servicios/analisis_bacteriologico_02.jpg" alt="Análisis bacteriológico" width="500">
+          </div>
+          <div class="wow fadeInLeft">
+            <img src="img/servicios/analisis_bacteriologico_03.jpg" alt="Análisis bacteriológico" width="500">
           </div>
         </div>
 
-        <div class="div-texto-casas-bac">
+        <div>
           <p class="texto3sc wow slideInUp">Los microorganismos causantes de problemas principalmente son los
             provenientes del cuerpo de los bañistas . Las infecciones potenciales pueden ser de oídos, vías
             respiratorias superiores, piel, aparato digestivo y urinario.</p>

@@ -99,9 +99,9 @@
       <div class="grid-services-images my-5">
           <div class="wow fadeInLeft">
             <img class="img-fluid" src="img/servicios/mantenimiento_barrefondo.jpg" alt="Barre Fondo">
-            <div class="name">
+            <!-- <div class="name">
               <span>Barre Fondo</span>
-            </div>
+            </div> -->
           </div>
 <!--           <div class="wow fadeInDown">
             <img class="img-fluid" src="img/servicios/mantenimiento_cepillado.jpg" alt="Cepillado de Bordes">
@@ -111,9 +111,9 @@
           </div> -->
           <div class="wow fadeInRight">
             <img class="img-fluid" src="img/servicios/mantenimiento_contro_cloro_ph.jpg" alt="">
-            <div class="name">
+            <!-- <div class="name">
               <span>Control de Cloro y PH</span>
-            </div>
+            </div> -->
           </div>
         </div>
 

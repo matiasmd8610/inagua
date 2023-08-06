@@ -95,16 +95,19 @@
 
 .staff_1 {
 	width: 100%;
-	border-radius: 1rem;
+	border-radius: .8rem;
 
-	@media(min-width: 768x) {
-		margin-top: 50px;
+	@include media-breakpoint-down(lg) {
+		margin-bottom: 2rem;
 	}
 }
 
 .logo_seguro {
 	width: 45%;
 	display: flex;
+	@include media-breakpoint-down(lg) {
+		margin: 0 auto;
+	}
 }
 
 .texto_seguro_3 {
@@ -169,7 +172,7 @@
 .chata_ind {
 	width: 90%;
 	margin: auto;
-	margin-top: 20px;
+	// margin-top: 20px;
 }
 
 .boton-zona {
@@ -204,7 +207,9 @@
 
 
 .btn_zona {
-	margin-top: 75px;
+	@include media-breakpoint-up(lg) {
+		margin-top: 75px;
+	}
 }
 
 .btn_zona2 {
@@ -480,13 +485,6 @@
 }
 
 
-.div-texto-casas-bac {
-	@media (max-width: 767px) {
-		margin-bottom: 50px;
-	}
-}
-
-
 .div-texto-casas2 {
 	float: left;
 	width: 50%;
@@ -518,20 +516,18 @@
 }
 
 
-.imgen-moviles-casas212 {
-	margin: 0 auto 2rem;
-	display: block;
-	width: 650px;
+// .imgen-moviles-casas212 {
+// 	margin: 0 auto 2rem;
+// 	display: block;
+// 	width: 650px;
 
-	@media (max-width: 767px) {
-		display: inline-flex;
-		width: 100%;
-		align-content: center;
-		margin-bottom: 2rem;
-	}
-}
-
-
+// 	@media (max-width: 767px) {
+// 		display: inline-flex;
+// 		width: 100%;
+// 		align-content: center;
+// 		margin-bottom: 2rem;
+// 	}
+// }
 
 .imagen-casas {
 	width: 50%;
@@ -667,31 +663,6 @@
 	align-content: center;
 	margin: auto;
 	//padding: 20px;
-}
-
-
-/*arena multivalvula*/
-.foto-arena {
-	text-align: right;
-}
-
-.foto-multi {
-	text-align: left;
-}
-
-@media (max-width:990px) {
-	.foto-arena {
-		text-align: center;
-		margin-bottom: 20px;
-		width: 100%;
-	}
-
-	.foto-multi {
-
-		text-align: center;
-		width: 100%;
-	}
-
 }
 
 /* productos */
@@ -1461,14 +1432,14 @@ input.btn-primary {
 	margin-bottom: 18px;
 }
 
-.td08 {
-	font-size: 16px;
-	font-family: $primary-font;
-	color: #333;
-	font-weight: 300;
-	height: 14px;
-	text-align: left;
-}
+// .td08 {
+// 	font-size: 16px;
+// 	font-family: $primary-font;
+// 	color: #333;
+// 	font-weight: 300;
+// 	height: 14px;
+// 	text-align: left;
+// }
 
 .td08b {
 	font-family: $primary-font;
@@ -1758,10 +1729,11 @@ input.btn-primary {
 
 	&>div {
 		position: relative;
+		max-height: 320px;
 		border-radius: .6rem;
 		overflow: hidden;
 		flex: 0 1 100%;
-		max-width: 550px;
+		max-width: 500px;
 		box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
 	}
 

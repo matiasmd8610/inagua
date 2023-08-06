@@ -29,11 +29,6 @@
   <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;600&family=Rubik:wght@300;400;600&display=swap"
     rel="stylesheet">
 
-  <script src="js/wow.js"></script>
-  <script>
-    new WOW().init();
-  </script>
-
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-5539254-2"></script>
   <script>
@@ -141,6 +136,10 @@
     <?php include "include/footer.php"; ?>
   </footer>
 
+  <script src="js/wow.js"></script>
+  <script>
+    new WOW().init();
+  </script>
   <script src="js/scripts.js"></script>
 
 </body>

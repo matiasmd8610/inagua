@@ -24,10 +24,6 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;600&family=Rubik:wght@300;400;600&display=swap"
     rel="stylesheet">
-  <script src="js/wow.js"></script>
-  <script>
-    new WOW().init();
-  </script>
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-5539254-2"></script>
@@ -73,10 +69,18 @@
 
           <div class="grid-services-images mb-5">
             <div class="wow slideInRight">
-              <img src="img/imagen-consorcios.png" alt="" class="imgen-moviles-casas212">
+              <img src="img/servicios/consorcios_hoteles_embajadas_01.jpg" alt="Mantenimiento de piletas en
+              consorcios, hoteles y embajadas">
+            </div>
+            <div class="wow slideInRight">
+              <img src="img/servicios/consorcios_hoteles_embajadas_02.jpg" alt="Mantenimiento de piletas en
+              consorcios, hoteles y embajadas">
+            </div>
+            <div class="wow slideInRight">
+              <img src="img/servicios/consorcios_hoteles_embajadas_03.jpg" alt="Mantenimiento de piletas en
+              consorcios, hoteles y embajadas">
             </div>
           </div>
-
 
           <div class="div-texto-casas-bac">
             <p class="texto3sc wow slideInUp">
@@ -156,6 +160,10 @@
   </script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js"
     integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous">
+  </script>
+    <script src="js/wow.js"></script>
+  <script>
+    new WOW().init();
   </script>
   <script src="js/scripts.js"></script>
 

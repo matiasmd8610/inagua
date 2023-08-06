@@ -104,9 +104,19 @@
         <div class="col-md-12">
           <div class="div-texto">
             <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Colocación de Bordes Atérmicos</h1>
-            <p>Colocación de veredas atérmicas en piscinas de hormigón y fibra de vidrio.</p>
-            <p>Realización de Solarium. Playa húmeda.</p>
-            <p>Todo tipo de formas en baldosas.</p>
+            <div class="grid-services-images my-5">
+              <div class="wow slideInRight">
+                <img src="img/servicios/colocacion_bordes_atermicos_01.webp" width="800" alt="Colocación de Bordes Atérmicos">
+              </div>
+              <div class="wow slideInRight">
+                <img src="img/servicios/colocacion_bordes_atermicos_02.jpg" width="800" alt="Colocación de Bordes Atérmicos">
+              </div>
+            </div>
+            <div class="texto3sc wow slideInUp">
+              <p class="wow slideInUp">Colocación de veredas atérmicas en piscinas de hormigón y fibra de vidrio.</p>
+              <p class="wow slideInUp">Realización de Solarium. Playa húmeda.</p>
+              <p class="wow slideInUp">Todo tipo de formas en baldosas.</p>
+            </div>
           </div>
         </div>
 

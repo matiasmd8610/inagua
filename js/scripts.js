@@ -60,4 +60,13 @@ $(document).ready(function () {
         showCaption: false
     });
 
+	/*Company years update automatically
+	***************************************/
+	let companyYears = new Date().getFullYear() - 2008;
+	let yearsExperience = document.querySelector(".years-experience");
+	//console.log(companyYears);
+	if (yearsExperience) {
+		yearsExperience.innerHTML = companyYears;
+	}
+
 });

@@ -29,10 +29,6 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;600&family=Rubik:wght@300;400;600&display=swap"
     rel="stylesheet">
-  <script src="js/wow.js"></script>
-  <script>
-    new WOW().init();
-  </script>
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-5539254-2"></script>
@@ -66,30 +62,15 @@
   </script>
   <!-- End Google Tag Manager -->
 
-
 </head>
 
 <body>
-
-  <section>
-
-    <?php include "include/chat.php"; ?>
-
-  </section>
   <span class="ir-arriba"><img src="img/up.png" alt=""></span>
   <div id="top"></div>
+  
   <header>
-
-
-
     <div class="botoner_completa animated slideInDown">
-
-
       <?php include "include/navegacion.php"; ?>
-
-
-
-
     </div>
   </header>
 
@@ -110,21 +91,21 @@
       <div class="grid-services-images">
         <div class="wow fadeInLeft">
           <img src="img/servicios/barre_fondo.jpg" alt="Barre fondo">
-          <div class="name">
+          <!-- <div class="name">
             <span>Barre Fondo</span>
-          </div>
+          </div> -->
         </div>
         <div class="wow fadeInDown">
           <img src="img/servicios/skimmer.jpg" alt="Skimmer">
-          <div class="name">
+          <!-- <div class="name">
             <span>Skimmer</span>
-          </div>
+          </div> -->
         </div>
         <div class="wow fadeInRight">
           <img src="img/servicios/camara_de_fondo.jpg" alt="Camara de fondo">
-          <div class="name">
+          <!-- <div class="name">
             <span>Camara de fondo</span>
-          </div>
+          </div> -->
         </div>
       </div>
     </div>
@@ -182,11 +163,18 @@
     <?php include "include/servicios-sugeridos-small.php"; ?>
   <!-- SERVICIOS SUGERIDOS SMALL: End -->
 
+  <section>
+    <?php include "include/chat.php"; ?>
+  </section>
 
   <footer>
     <?php include "include/footer.php"; ?>
   </footer>
 
+  <script src="js/wow.js"></script>
+  <script>
+    new WOW().init();
+  </script>
   <script src="js/scripts.js"></script>
 
 </body>

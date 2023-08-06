@@ -9,28 +9,21 @@
   <meta name="robots" content="index, follow, all">
   <meta name="googlebot" content="index, follow, all">
   <meta name="keywords"
-    content="limpieza de piletas, piletas, piscinas, piletero, pileteros, desagotes, mantenimiento de piletas" />
-  <meta name="title" content="EMPRESA DE LIMPIEZA DE PILETAS - PILETEROS PROFESIONALES" />
+    content="limpieza de piletas, piletas, piscinas, piletero, pileteros, desagotes, mantenimiento de piletas">
+  <meta name="title" content="EMPRESA DE LIMPIEZA DE PILETAS - PILETEROS PROFESIONALES">
   <meta name="author" content="Administrator" />
-  <meta name="description" content="Piletero a domicilio. Pileteros en Capital Federal." />
+  <meta name="description" content="Piletero a domicilio. Pileteros en Capital Federal.">
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo">
   <title>EMPRESA DE LIMPIEZA DE PILETAS - PILETEROS PROFESIONALES</title>
   <link rel="icon" href="img/logo.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-  <script src="js/bootstrap.min.js"></script>
   <link href="css/fileinput.css" rel="stylesheet">
-  <script src="js/fileinput.js" type="text/javascript"></script>
   <link rel="stylesheet" href="css/animate/animate.css">
   <link href="styles/css/main.css" rel="stylesheet">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;600&family=Rubik:wght@300;400;600&display=swap"
     rel="stylesheet">
-  <script src="js/wow.js"></script>
-  <script>
-    new WOW().init();
-  </script>
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-5539254-2"></script>
@@ -90,7 +83,7 @@
         <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">INAGUA - Mantenimiento de
           Piscinas</h1>
         <h2 class="texto2 wow slideInUp">Somos especialistas</h2>
-        <p class="texto3n wow slideInUp"><strong>INAGUA</strong> es una empresa con más de 15 años de experiencia en
+        <p class="texto3n wow slideInUp"><strong>INAGUA</strong> es una empresa con más de <span class="years-experience"></span> años de experiencia en
           MANTENIMIENTO
           DE PISCINAS, brindando soluciones integrales a consorcios y particulares.
         </p>
@@ -115,7 +108,7 @@
         <div class="col-md-6 wow slideInRight" datos-wow-duracion="1s" data-wow-delay="1s">
           <p class="texto223"><b>¿Por qué elegir INAGUA?</b></p>
           <ul class="destacamos-list">
-            <li>Tenemos más de 15 años de experiencia en el mantenimiento de piscinas.</li>
+            <li>Tenemos más de <span class="years-experience"></span> años de experiencia en el mantenimiento de piscinas.</li>
             <li>No solo cuidamos el agua de su pileta, sino que también brindamos soluciones a cualquier problema de
               funcionamiento y mantenimiento de la misma.</li>
             <li>Todos nuestros operadores son técnicos especializados, cuentan con protección de ART y brindan los
@@ -214,6 +207,13 @@
     <?php include "include/footer.php"; ?>
   </footer>
 
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/fileinput.js" type="text/javascript"></script>
+  <script src="js/wow.js"></script>
+  <script>
+    new WOW().init();
+  </script>
   <script src="js/scripts.js"></script>
 
 </body>

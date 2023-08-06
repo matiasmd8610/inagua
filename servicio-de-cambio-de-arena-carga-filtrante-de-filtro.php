@@ -94,11 +94,17 @@
           </div>
 
           <div class="grid-services-images my-5">
-            <div class="col-md-6 wow slideInLeft foto-arena">
-              <img src="img/arena-mult1.png" alt="" class="imgen-moviles-casas21">
+            <div class="wow slideInLeft">
+              <img src="img/servicios/cambio_de_arena_01.jpg" alt="Cambio de arena y multivalvula" width="800">
             </div>
-            <div class="col-md-6 wow slideInRight foto-multi">
-              <img src="img/arena-mult2.png" alt="" class="imgen-moviles-casas21">
+            <div class="wow slideInRight">
+              <img src="img/servicios/cambio_de_arena_02.jpg" alt="Cambio de arena y multivalvula" width="800">
+            </div>
+            <div class="wow slideInRight">
+              <img src="img/servicios/cambio_de_arena_03.jpg" alt="Cambio de arena y multivalvula" width="800">
+            </div>
+            <div class="wow slideInRight">
+              <img src="img/servicios/cambio_de_arena_04.jpg" alt="Cambio de arena y multivalvula" width="800">
             </div>
           </div>
 

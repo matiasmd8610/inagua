@@ -11323,17 +11323,22 @@ header .imagen_cabesal .sello_premiun {
 
 .staff_1 {
   width: 100%;
-  border-radius: 1rem;
+  border-radius: 0.8rem;
 }
-@media (min-width: 768x) {
+@media (max-width: 991.98px) {
   .staff_1 {
-    margin-top: 50px;
+    margin-bottom: 2rem;
   }
 }
 
 .logo_seguro {
   width: 45%;
   display: flex;
+}
+@media (max-width: 991.98px) {
+  .logo_seguro {
+    margin: 0 auto;
+  }
 }
 
 .texto_seguro_3 {
@@ -11398,7 +11403,6 @@ header .imagen_cabesal .sello_premiun {
 .chata_ind {
   width: 90%;
   margin: auto;
-  margin-top: 20px;
 }
 
 .boton-zona {
@@ -11430,8 +11434,10 @@ header .imagen_cabesal .sello_premiun {
   margin-bottom: 50px;
 }
 
-.btn_zona {
-  margin-top: 75px;
+@media (min-width: 992px) {
+  .btn_zona {
+    margin-top: 75px;
+  }
 }
 
 .btn_zona2 {
@@ -11687,12 +11693,6 @@ header .imagen_cabesal .sello_premiun {
   }
 }
 
-@media (max-width: 767px) {
-  .div-texto-casas-bac {
-    margin-bottom: 50px;
-  }
-}
-
 .div-texto-casas2 {
   float: left;
   width: 50%;
@@ -11721,20 +11721,6 @@ header .imagen_cabesal .sello_premiun {
   font-family: "Rubik", sans-serif;
   font-size: 16px;
   padding-left: 1rem;
-}
-
-.imgen-moviles-casas212 {
-  margin: 0 auto 2rem;
-  display: block;
-  width: 650px;
-}
-@media (max-width: 767px) {
-  .imgen-moviles-casas212 {
-    display: inline-flex;
-    width: 100%;
-    align-content: center;
-    margin-bottom: 2rem;
-  }
 }
 
 .imagen-casas {
@@ -11855,26 +11841,6 @@ header .imagen_cabesal .sello_premiun {
   margin: auto;
 }
 
-/*arena multivalvula*/
-.foto-arena {
-  text-align: right;
-}
-
-.foto-multi {
-  text-align: left;
-}
-
-@media (max-width: 990px) {
-  .foto-arena {
-    text-align: center;
-    margin-bottom: 20px;
-    width: 100%;
-  }
-  .foto-multi {
-    text-align: center;
-    width: 100%;
-  }
-}
 /* productos */
 .imagen-produc {
   width: 30%;
@@ -12597,15 +12563,6 @@ input.btn-primary {
   margin-bottom: 18px;
 }
 
-.td08 {
-  font-size: 16px;
-  font-family: "Rubik", sans-serif;
-  color: #333;
-  font-weight: 300;
-  height: 14px;
-  text-align: left;
-}
-
 .td08b {
   font-family: "Rubik", sans-serif;
   color: #333;
@@ -12862,10 +12819,11 @@ input.btn-primary {
 }
 .grid-services-images > div {
   position: relative;
+  max-height: 320px;
   border-radius: 0.6rem;
   overflow: hidden;
   flex: 0 1 100%;
-  max-width: 550px;
+  max-width: 500px;
   box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
 }
 @media (min-width: 992px) {

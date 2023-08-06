@@ -30,11 +30,6 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;600&family=Rubik:wght@300;400;600&display=swap"
     rel="stylesheet">
-  <script src="js/wow.js"></script>
-  <script>
-    new WOW().init();
-  </script>
-
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-5539254-2"></script>
@@ -95,21 +90,21 @@
         <div class="grid-services-images my-4">
           <div class="wow fadeInLeft">
             <img class="img-fluid" src="img/servicios/desagote_01.jpg" alt="Desagote">
-            <div class="name">
+            <!-- <div class="name">
               <span>Desagote</span>
-            </div>
+            </div> -->
           </div>
-<!--           <div class="wow fadeInDown">
+          <div class="wow fadeInDown">
             <img class="img-fluid" src="img/servicios/desagote_02.jpg" alt="Desagote">
-            <div class="name">
+            <!-- <div class="name">
               <span>Limpieza</span>
-            </div>
-          </div> -->
+            </div> -->
+          </div>
           <div class="wow fadeInRight">
             <img class="img-fluid" src="img/servicios/desagote_03.jpg" alt="Limpieza">
-            <div class="name">
+            <!-- <div class="name">
               <span>Limpieza</span>
-            </div>
+            </div> -->
           </div>
         </div>
       </div>
@@ -150,6 +145,10 @@
     <?php include "include/footer.php"; ?>
   </footer>
 
+  <script src="js/wow.js"></script>
+  <script>
+    new WOW().init();
+  </script>
   <script src="js/scripts.js"></script>
 
 </body>

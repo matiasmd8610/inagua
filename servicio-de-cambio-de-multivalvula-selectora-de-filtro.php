@@ -27,10 +27,6 @@
   <link href="css/fileinput.css" rel="stylesheet">
   <link rel="stylesheet" href="css/animate/animate.css">
   <link href="styles/css/main.css" rel="stylesheet">
-  <script src="js/wow.js"></script>
-  <script>
-    new WOW().init();
-  </script>
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-5539254-2"></script>
@@ -94,10 +90,12 @@
 
           <div class="grid-services-images">
             <div class="wow slideInLeft foto-arena">
-              <img src="img/arena-mult1.png" alt="" class="imgen-moviles-casas21">
+              <img src="img/servicios/cambio_multivalvula_01.jpg" alt="Cambio de multivalvula de
+              filtro de piscinas" width="800">
             </div>
             <div class="wow slideInRight foto-multi">
-              <img src="img/arena-mult2.png" alt="" class="imgen-moviles-casas21">
+              <img src="img/servicios/cambio_multivalvula_02.jpg" alt="Cambio de multivalvula de
+              filtro de piscinas" width="800">
             </div>
           </div>
 
@@ -169,6 +167,10 @@
     <?php include "include/footer.php"; ?>
   </footer>
 
+  <script src="js/wow.js"></script>
+  <script>
+    new WOW().init();
+  </script>
   <script src="js/scripts.js"></script>
 
 </body>

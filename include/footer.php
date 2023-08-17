@@ -156,3 +156,6 @@
 	</div>
 
 </div>
+<div class="copy">
+  <p class="m-0">© 2023 INAGUA. Todos los derechos reservados.</p>
+</div>

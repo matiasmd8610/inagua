@@ -129,14 +129,20 @@
             con la última tecnología, como una célula auto limpiable y configuración programable, para reducir su
             mantenimiento y aumentar su eficacia
           </p>
-          <img class="cloradores-img" src="img/servicios/cloradores_salinos_domesticos.png"
-            alt="CLORADORES SALINOS – DOMÉSTICOS">
+          <img class="cloradores-img" src="img/servicios/cloradores_salinos_domesticos.png" alt="CLORADORES SALINOS – DOMÉSTICOS">
+
+          <div class="col-md-12 mb-5 presupuesto-ser wow slideInUp">
+            <a href="#contacto" class="boton-presupuesto" style="text-decoration:none;">SOLICITAR PRESUPUESTO</a>
+          </div>
 
           <h4 class="texto2 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">SEMI – INDUSTRIALES</h4>
           <p class="texto3 wow slideInUp">En Innowater disponemos de cloradores salinos de alto rendimiento para explotación comercial o intensiva.
             Se trata de la mejor solución para el mantenimiento y desinfección de piscinas comunitarias y hoteles.</p>
-          <img class="cloradores-img" src="img/servicios/cloradores_salinos_semi_industriales.png"
-            alt="SEMI – INDUSTRIALES">
+          <img class="cloradores-img" src="img/servicios/cloradores_salinos_semi_industriales.png" alt="SEMI – INDUSTRIALES">
+
+          <div class="col-md-12 mb-5 presupuesto-ser wow slideInUp">
+            <a href="#contacto" class="boton-presupuesto" style="text-decoration:none;">SOLICITAR PRESUPUESTO</a>
+          </div>
 
           <h4 class="texto2 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">INDUSTRIALES</h4>
           <p class="texto3 wow slideInUp">Los cloradores salinos industriales de alta capacidad son la mejor opción para la limpieza y desinfección
@@ -145,11 +151,19 @@
             el tratamiento del agua.</p>
           <img class="cloradores-img" src="img/servicios/cloradores_salinos_industriales.png" alt="INDUSTRIALES">
 
+          <div class="col-md-12 mb-5 presupuesto-ser wow slideInUp">
+            <a href="#contacto" class="boton-presupuesto" style="text-decoration:none;">SOLICITAR PRESUPUESTO</a>
+          </div>
+
           <h4 class="texto2 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">REGULADORES DE PH</h4>
           <p class="texto3 wow slideInUp">Instrumento para medición del PH y dosificación del ácido que la piscina requiera. Configuración
             electrónica comandada por el clorador salino.
             <br>Poseen control Wireless.</p>
           <img class="cloradores-img" src="img/servicios/cloradores_salinos_reguladores_ph.png" alt="REGULADORES DE PH">
+
+          <div class="col-md-12 mb-5  presupuesto-ser wow slideInUp">
+            <a href="#contacto" class="boton-presupuesto" style="text-decoration:none;">SOLICITAR PRESUPUESTO</a>
+          </div>
         </div>
 
         <div class="col-md-12">

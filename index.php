@@ -87,6 +87,28 @@
       src="https://www.facebook.com/tr?id=555542968572021&ev=PageView&noscript=1" /></noscript>
   <!-- End Facebook Pixel Code -->
 
+  <script type='application/ld+json'>
+  {
+    "@context": "http://www.schema.org",
+    "@type": "HomeAndConstructionBusiness",
+    "name": "Inagua",
+    "url": "https://inagua.com.ar/",
+    "sameAs": [
+      "https://www.facebook.com/Inagua.Mantenimiento.de.Piscinas/",
+      "https://www.instagram.com/inagua.mantenimiento/"
+    ],
+    "logo": "https://inagua.com.ar/img/logo_foo.png",
+    "description": "Empresa profesional de Limpieza y desagote de piscina. Pileteros en Capital Federal.",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Buenos Aires",
+      "addressRegion": "CABA",
+      "addressCountry": "Argentina"
+    },
+    "telephone": "+541164420848"
+  }
+  </script>
+
 </head>
 
 <body>

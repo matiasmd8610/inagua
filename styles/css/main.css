@@ -11309,8 +11309,10 @@ header .imagen_cabesal .sello_premiun {
   margin-top: 50px;
 }
 
-.sobre_nosotros_1 {
-  margin-top: 50px;
+@media (min-width: 992px) {
+  .sobre_nosotros_1 {
+    margin-top: 50px;
+  }
 }
 .sobre_nosotros_1 .texto223 {
   text-align: left;
@@ -11498,6 +11500,7 @@ header .imagen_cabesal .sello_premiun {
     height: auto;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 2rem;
   }
 }
 
@@ -11526,9 +11529,10 @@ header .imagen_cabesal .sello_premiun {
   text-transform: uppercase;
   font-weight: 600;
 }
-@media (max-width: 450px) {
+@media (max-width: 991.98px) {
   .td08_4 {
-    font-size: 1em;
+    font-size: 1.4em;
+    margin-top: 0;
   }
 }
 
@@ -11714,7 +11718,12 @@ header .imagen_cabesal .sello_premiun {
 }
 
 .nosDestacamos {
-  margin-top: 5rem;
+  margin-top: 3rem;
+}
+@media (min-width: 992px) {
+  .nosDestacamos {
+    margin-top: 5rem;
+  }
 }
 .nosDestacamos .destacamos-list {
   margin: 0 0 1rem 0.5rem;
@@ -11806,33 +11815,12 @@ header .imagen_cabesal .sello_premiun {
   text-align: center;
   clear: both;
 }
-
-.boton-presupuesto2 {
-  padding: 10px 40px;
-  background-color: #0192d5;
-  width: 60%;
-  color: #fff;
-  font-size: 18px;
-  font-family: "Oswald", sans-serif;
-  font-weight: 600;
-  text-align: center;
-  margin-top: 150px;
-  margin: auto;
-  border-radius: 0.5rem;
-}
-.boton-presupuesto2:hover {
-  background-color: #2a58a4;
-  color: white;
-}
-
-@media (max-width: 900px) {
+@media (max-width: 991.98px) {
   .presupuesto-ser {
     clear: both;
   }
-  .boton-presupuesto2 {
-    clear: both;
-  }
 }
+
 /*desagote*/
 .contenedor-img-desa img {
   width: 80%;
@@ -12739,7 +12727,7 @@ input.btn-primary {
 /*CLORADORES SALINOS
 ********************************************/
 .cloradores-img {
-  max-width: 600px;
+  max-width: 550px;
   margin: 0 auto 3rem;
   display: block;
   width: 100%;
@@ -13011,6 +12999,13 @@ footer .fondo_pie .footer-images .sello_premiun {
 footer .emailMarketingSubscriptionFormContainer.formID_subscriptionForm-51598-2 {
   padding-left: 0 !important;
   margin-top: 1rem;
+}
+footer .copy {
+  background-color: #152668;
+  text-align: center;
+  font-size: 0.8rem;
+  padding: 0.6rem 0;
+  color: #fff;
 }
 
 /*# sourceMappingURL=main.css.map */

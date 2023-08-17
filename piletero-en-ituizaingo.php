@@ -2,40 +2,20 @@
 <html lang="es">
 
 <head>
-
-  <!-- Google Tag Manager -->
-  <script>
-    (function (w, d, s, l, i) {
-      w[l] = w[l] || [];
-      w[l].push({
-        'gtm.start': new Date().getTime(),
-        event: 'gtm.js'
-      });
-      var f = d.getElementsByTagName(s)[0],
-        j = d.createElement(s),
-        dl = l != 'dataLayer' ? '&l=' + l : '';
-      j.async = true;
-      j.src =
-        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-      f.parentNode.insertBefore(j, f);
-    })(window, document, 'script', 'dataLayer', 'GTM-T4FLXK7');
-  </script>
-  <!-- End Google Tag Manager -->
-
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#2F4598">
-
-  <meta name="robots" content="index, follow, all" />
-  <meta name="googlebot" content="index, follow, all" />
-  <meta name="keywords" content="pileta, piletas, piscinas, piletero, pileteros, desagote, retiro" />
-  <meta name="title" content="Piletero en Retiro" />
-  <meta name="author" content="Administrator" />
-  <meta name="description" content="Servicios de limpieza y mantenimiento de piletas. Pileteros profesionales." />
-  <title>Piletero en Retiro</title>
+  <meta name="robots" content="index, follow, all">
+  <meta name="googlebot" content="index, follow, all">
+  <meta name="keywords" content="pileta, piletas, piscinas, piletero, pileteros, desagote, Ituizaingo">
+  <meta name="title" content="Piletero en Ituizaingo">
+  <meta name="author" content="Administrator">
+  <meta name="description" content="Servicios de limpieza y mantenimiento de piletas. Pileteros profesionales.">
+  <title>Piletero en Ituizaingo</title>
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo" />
   <link rel="icon" href="img/logo.png">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
   <script src="js/bootstrap.min.js"></script>
@@ -78,6 +58,25 @@
     gtag('config', 'UA-5539254-2');
   </script>
 
+    <!-- Google Tag Manager -->
+    <script>
+    (function (w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({
+        'gtm.start': new Date().getTime(),
+        event: 'gtm.js'
+      });
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s),
+        dl = l != 'dataLayer' ? '&l=' + l : '';
+      j.async = true;
+      j.src =
+        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-T4FLXK7');
+  </script>
+  <!-- End Google Tag Manager -->
+
 </head>
 
 <body>
@@ -86,13 +85,15 @@
     <?php include "include/chat.php"; ?>
 
   </section>
-  <span class="ir-arriba"><img src="img/up.png" alt="Ir arriba"></span>
-
+  <span class="ir-arriba"><img src="img/up.png" alt=""></span>
+  <div id="top"></div>
   <header>
+
     <div class="botoner_completa animated slideInDown">
       <?php include "include/navegacion.php"; ?>
     </div>
   </header>
+
 
   <section id="cobertura">
     <div class="container">
@@ -100,9 +101,8 @@
         <div class="col-md-12">
           <div class="div-texto">
             <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Mantenimiento de Piletas en
-              Retiro</h1>
+              Ituizaingo</h1>
           </div>
-
         </div>
 
       </div>
@@ -114,9 +114,9 @@
   </section>
 
 
-   <!-- SERVICIOS SUGERIDOS: Begin -->
-   <?php include "include/"; ?>
-    <!-- SERVICIOS SUGERIDOS: End -->
+  <!-- SERVICIOS SUGERIDOS: Begin -->
+  <?php include "include/servicios-sugeridos-small.php"; ?>
+  <!-- SERVICIOS SUGERIDOS: End -->
 
   <footer>
     <?php include "include/footer.php"; ?>
@@ -128,6 +128,6 @@
   </script>
   <script src="js/scripts.js"></script>
 
-  </body>
+</body>
 
 </html>

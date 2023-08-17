@@ -139,8 +139,19 @@
 
         <div class="imagen-casas wow slideInRight">
         </div>
-
       </div>
+
+      <div class="col-md-12 wow tada" datos-wow-duracion="3s" data-wow-delay="2s">
+        <div class="pileteros_profesionales">
+          <p class="td08_4">Solo confie en pileteros profesionales</p>
+          <p class="td08_3">
+            ...”El tratamiento inadecuado del agua, por falta de conocimientos y experiencia, tiene efectos
+            desagradables provocando irritaciones en la piel, ojos y mucosas y causando enfermedades transmitidas por
+            microorganismos o agentes patógenos. Por todo esto le ofrecemos mantener su piscina y el agua en óptimas
+            condiciones durante todo el año.”...</p>
+        </div>
+      </div>
+      
       <div class="col-md-12 presupuesto-ser wow slideInUp">
         <a href="#contacto" class="boton-presupuesto">SOLICITAR PRESUPUESTO</a>
       </div>
@@ -164,22 +175,6 @@
     <!-- SERVICIOS SUGERIDOS SMALL: Begin -->
     <?php include "include/servicios-sugeridos-small.php"; ?>
   <!-- SERVICIOS SUGERIDOS SMALL: End -->
-
-
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12 wow tada" datos-wow-duracion="3s" data-wow-delay="2s">
-        <div class="pileteros_profesionales">
-          <p class="td08_4">solo confie en pileteros profesionales</p>
-          <p class="td08_3">
-            ...”El tratamiento inadecuado del agua, por falta de conocimientos y experiencia, tiene efectos
-            desagradables provocando irritaciones en la piel, ojos y mucosas y causando enfermedades transmitidas por
-            microorganismos o agentes patógenos. Por todo esto le ofrecemos mantener su piscina y el agua en óptimas
-            condiciones durante todo el año.”...</p>
-        </div>
-      </div>
-    </div>
-  </div>
 
   <!-- FOOTER: Begin -->
   <footer>

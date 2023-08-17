@@ -108,10 +108,21 @@
           </div>
           <div class="imagen-casas wow slideInRight">
           </div>
-
         </div>
+
+        <div class="col-md-12 wow tada" datos-wow-duracion="3s" data-wow-delay="2s">
+          <div class="pileteros_profesionales">
+            <p class="td08_4">Solo confie en pileteros profesionales</p>
+            <p class="td08_3"><i>
+                ...”El tratamiento inadecuado del agua, por falta de conocimientos y experiencia, tiene efectos
+                desagradables provocando irritaciones en la piel, ojos y mucosas y causando enfermedades transmitidas por
+                microorganismos o agentes patógenos. Por todo esto le ofrecemos mantener su piscina y el agua en óptimas
+                condiciones durante todo el año.”...</i></p>
+          </div>
+        </div>
+        
         <div class="col-md-12 presupuesto-ser wow slideInUp">
-          <a href="#contacto" class="boton-presupuesto2" style="text-decoration:none;">SOLICITAR PRESUPUESTO</a>
+          <a href="#contacto" class="boton-presupuesto" style="text-decoration:none;">SOLICITAR PRESUPUESTO</a>
         </div>
       </div>
     </div>
@@ -135,25 +146,11 @@
     <?php include "include/servicios-sugeridos-small.php"; ?>
   <!-- SERVICIOS SUGERIDOS SMALL: End -->
 
-
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12 wow tada" datos-wow-duracion="3s" data-wow-delay="2s">
-        <div class="pileteros_profesionales">
-          <p class="td08_4">solo confie en pileteros profesionales</p>
-          <p class="td08_3"><i>
-              ...”El tratamiento inadecuado del agua, por falta de conocimientos y experiencia, tiene efectos
-              desagradables provocando irritaciones en la piel, ojos y mucosas y causando enfermedades transmitidas por
-              microorganismos o agentes patógenos. Por todo esto le ofrecemos mantener su piscina y el agua en óptimas
-              condiciones durante todo el año.”...</i></p>
-        </div>
-      </div>
-    </div>
-  </div>
-
+  <!-- FOOTER: Begin -->
   <footer>
     <?php include "include/footer.php"; ?>
   </footer>
+  <!-- FOOTER: End -->
 
   <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"
     integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous">

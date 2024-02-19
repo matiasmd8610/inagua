@@ -265,8 +265,6 @@
             style="text-decoration: none;">Lomas de Zamora</a></div>
         <div class="col-md-3 barrios-a"><a href="piletero-en-moron.php" class="texto3Zona"
             style="text-decoration: none;">Morón</a></div>
-        <div class="col-md-3 barrios-a"><a href="piletero-en-san-miguel.php" class="texto3Zona"
-            style="text-decoration: none;">San Miguel</a></div>
         <div class="col-md-3 barrios-a"><a href="piletero-en-hurlingham.php" class="texto3Zona"
             style="text-decoration: none;">Hurlingham</a></div>
         <div class="col-md-3 barrios-a"><a href="piletero-en-ituizaingo.php" class="texto3Zona"

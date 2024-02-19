@@ -15,6 +15,7 @@
   <meta name="description" content="Remplazo de arena y reparación de filtros de piscinas. Cambio de conexiones.">
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo">
   <title>Cambio de multivalvula y reparación de filtros de piscina | SERVICIOS | INAGUA</title>
+  <link rel="canonical" href="http://www.inagua.com.ar/servicio-de-cambio-de-multivalvula-selectora-de-filtro">
   <link rel="icon" href="img/logo.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>

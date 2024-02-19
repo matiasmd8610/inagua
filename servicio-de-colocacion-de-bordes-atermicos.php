@@ -16,6 +16,7 @@
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo">
   <meta property="fb:app_id" content="383820332074788">
   <title>Colocación de Bordes Atérmicos | SERVICIOS | INAGUA</title>
+  <link rel="canonical" href="http://www.inagua.com.ar/servicio-de-colocacion-de-bordes-atermicos">
   <link rel="icon" href="img/logo.png">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">

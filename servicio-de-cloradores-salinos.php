@@ -17,6 +17,7 @@
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo">
   <meta property="fb:app_id" content="383820332074788">
   <title>Cloradores salinos para piscinas | SERVICIOS | INAGUA</title>
+  <link rel="canonical" href="http://www.inagua.com.ar/servicio-de-cloradores-salinos">
   <link rel="icon" href="img/logo.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/fileinput.css" rel="stylesheet">

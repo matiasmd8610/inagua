@@ -15,11 +15,9 @@
   <meta name="description" content="Servicios de pastinado de piletas con venecitas.">
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo">
   <title>Corte de cesped | SERVICIOS | INAGUA</title>
+  <link rel="canonical" href="http://www.inagua.com.ar/servicio-de-corte-de-cesped">
   <link rel="icon" href="img/logo.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-  <script src="js/bootstrap.min.js"></script>
-  <script src="js/fileinput.js" type="text/javascript"></script>
   <link href="css/fileinput.css" rel="stylesheet">
   <link href="styles/css/main.css" rel="stylesheet">
   <link rel="stylesheet" href="css/animate/animate.css">
@@ -28,10 +26,6 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;600&family=Rubik:wght@300;400;600&display=swap"
     rel="stylesheet">
-  <script src="js/wow.js"></script>
-  <script>
-    new WOW().init();
-  </script>
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-5539254-2"></script>
@@ -159,7 +153,13 @@
   </footer>
 
   <script src="js/scripts.js"></script>
-
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/fileinput.js" type="text/javascript"></script>
+  <script src="js/wow.js"></script>
+  <script>
+    new WOW().init();
+  </script>
   <script>
     $(document).on('ready', function () {
 

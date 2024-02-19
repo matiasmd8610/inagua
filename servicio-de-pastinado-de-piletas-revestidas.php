@@ -15,6 +15,7 @@
   <meta name="description" content="Servicios de pastinado de piletas con venecitas.">
   <title>Pastinado de piletas | SERVICIOS | INAGUA</title>
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo" />
+  <link rel="canonical" href="https://inagua.com.ar/servicio-de-pastinado-de-piletas-revestidas">
   <link rel="icon" href="img/logo.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>

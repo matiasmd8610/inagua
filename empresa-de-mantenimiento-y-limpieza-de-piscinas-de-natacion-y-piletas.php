@@ -15,6 +15,7 @@
   <meta name="description" content="Piletero a domicilio. Pileteros en Capital Federal.">
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo">
   <title>EMPRESA DE LIMPIEZA DE PILETAS - PILETEROS PROFESIONALES</title>
+  <link rel="canonical" href="https://inagua.com.ar/empresa-de-mantenimiento-y-limpieza-de-piscinas-de-natacion-y-piletas">
   <link rel="icon" href="img/logo.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/fileinput.css" rel="stylesheet">

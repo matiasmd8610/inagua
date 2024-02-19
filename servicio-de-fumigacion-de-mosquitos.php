@@ -15,11 +15,9 @@
   <meta name="description" content="Servicios de pastinado de piletas con venecitas.">
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo">
   <title>Fumigación de Mosquitos | SERVICIOS | INAGUA</title>
+  <link rel="canonical" href="http://www.inagua.com.ar/servicio-de-fumigacion-de-mosquitos">
   <link rel="icon" href="img/logo.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-  <script src="js/bootstrap.min.js"></script>
-  <script src="js/fileinput.js" type="text/javascript"></script>
   <link href="css/fileinput.css" rel="stylesheet">
   <link href="styles/css/main.css" rel="stylesheet">
   <link rel="stylesheet" href="css/animate/animate.css">
@@ -223,6 +221,9 @@
     <?php include "include/footer.php"; ?>
   </footer>
 
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/fileinput.js" type="text/javascript"></script>
   <script src="js/wow.js"></script>
   <script>
     new WOW().init();

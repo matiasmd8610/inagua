@@ -8,14 +8,14 @@
   <meta name="theme-color" content="#2F4598">
   <meta name="robots" content="index, follow, all">
   <meta name="googlebot" content="index, follow, all">
-  <meta name="keywords"
-    content="limpieza de piscina, piscinas, piletero, pileteros, desagotes, mantenimiento de piscinas">
+  <meta name="keywords" content="limpieza de piscina, piscinas, piletero, pileteros, desagotes, mantenimiento de piscinas">
   <meta name="title" content="SERVICIO DE LIMPIEZA Y DESINFECCIÓN DE TANQUES DE AGUA">
   <meta name="author" content="Administrator">
   <meta name="description" content="CUIDAMOS EL AGUA DE SU HOGAR. Su tanque acumula sedimentos y suciedad. Evite la contaminación del agua que utiliza su familia.
 ">
   <title>Servicio de limpieza y desinfección de tanques de agua | SERVICIOS | INAGUA</title>
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo">
+  <link rel="canonical" href="https://inagua.com.ar/servicio-de-limpieza-y-desinfeccion-de-tanques-de-agua">
   <link rel="icon" href="img/logo.png">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">

@@ -17,11 +17,10 @@
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo">
   <meta property="fb:app_id" content="383820332074788">
   <title>Revestimiento en Piedra Bali | SERVICIOS | INAGUA</title>
+  <link rel="canonical" href="https://inagua.com.ar/servicio-de-revestimiento-en-piedra-bali">
   <link rel="icon" href="img/logo.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/fileinput.css" rel="stylesheet">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-  <script src="js/fileinput.js" type="text/javascript"></script>
   <link rel="stylesheet" href="css/animate/animate.css">
   <link type="text/css" rel="stylesheet" href="styles/css/lightgallery-bundle.css">
   <link href="styles/css/main.css" rel="stylesheet">
@@ -173,6 +172,8 @@
     <?php include "include/footer.php"; ?>
   </footer>
 
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="js/fileinput.js" type="text/javascript"></script>
   <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"
     integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous">
   </script>

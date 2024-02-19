@@ -13,6 +13,7 @@
   <meta name="author" content="Administrator" />
   <meta name="description" content="Empresa profesional de limpieza de piletas.">
   <title>Mantenimiento de piletas en consorcios, hoteles y embajadas | SERVICIOS | INAGUA</title>
+  <link rel="canonical" href="http://www.inagua.com.ar/servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-edificios-consorcios-departamentos">
   <link rel="icon" href="img/logo.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/fileinput.css" rel="stylesheet">

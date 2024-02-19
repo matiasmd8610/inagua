@@ -15,12 +15,9 @@
   <meta name="description" content="Empresa de mantenimiento y limpieza de piscinas. Pileteros profesionales." >
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo">
   <title>TRABAJO DE PILETERO - INAGUA</title>
+  <link rel="canonical" href="https://inagua.com.ar/contacto-forma-parte-de-inagua">
   <link rel="icon" href="img/logo.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-  <script src="js/bootstrap.min.js"></script>
-  <script src="form/custom.js" type="text/javascript"></script>
-  <script src="js/fileinput.js" type="text/javascript"></script>
   <link href="css/fileinput.css" rel="stylesheet">
   <link href="styles/css/main.css" rel="stylesheet">
   <link rel="stylesheet" href="css/animate/animate.css">
@@ -28,30 +25,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;600&family=Rubik:wght@300;400;600&display=swap"
-    rel="stylesheet">
-  <script src="js/wow.js"></script>
-  <script>
-    new WOW().init();
-  </script>
-
-  <script>
-    $(function () {
-      $('a[href*="#"]:not([href="#"])').click(function () {
-        if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname ==
-          this.hostname) {
-          var target = $(this.hash);
-          target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
-          if (target.length) {
-            $('html, body').animate({
-              scrollTop: target.offset().top
-            }, 1000);
-            return false;
-          }
-        }
-      });
-    });
-  </script>
-
+  rel="stylesheet">
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-5539254-2"></script>
@@ -89,15 +63,10 @@
 
 <body>
   <section>
-
     <?php include "include/chat.php"; ?>
-
   </section>
   <span class="ir-arriba"><img src="img/up.png" alt=""></span>
-
   <div id="top"></div>
-
-
 
   <header>
     <div class="botoner_completa animated slideInDown">
@@ -122,8 +91,6 @@
 
 
     <section id="trabaja">
-
-
       <div class="container">
         <div class="row">
 
@@ -184,11 +151,36 @@
       </div>
     </section>
 
-    <footer>
-      <?php include "include/footer.php"; ?>
-    </footer>
+  <footer>
+    <?php include "include/footer.php"; ?>
+  </footer>
 
-    <script src="js/scripts.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="form/custom.js" type="text/javascript"></script>
+  <script src="js/fileinput.js" type="text/javascript"></script>
+  <script src="js/wow.js"></script>
+  <script>
+    new WOW().init();
+  </script>
+  <script src="js/scripts.js"></script>
+  <script>
+    $(function () {
+      $('a[href*="#"]:not([href="#"])').click(function () {
+        if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname ==
+          this.hostname) {
+          var target = $(this.hash);
+          target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+          if (target.length) {
+            $('html, body').animate({
+              scrollTop: target.offset().top
+            }, 1000);
+            return false;
+          }
+        }
+      });
+    });
+  </script>
 
 </body>
 

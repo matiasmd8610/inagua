@@ -16,11 +16,9 @@
   <meta name="description" content="Especialistas en destapaciones de cañerias de piscinas y piscinas de natación." />
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo" />
   <title>Destapación de Cañerias de Piscinas SERVICIOS | INAGUA</title>
+  <link rel="canonical" href="http://www.inagua.com.ar/servicio-de-destapaciones-de-barre-fondo-skimmer-piscina-limpia-fondo-pileta">
   <link rel="icon" href="img/logo.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-  <script src="js/bootstrap.min.js"></script>
-  <script src="js/fileinput.js" type="text/javascript"></script>
   <link href="css/fileinput.css" rel="stylesheet">
   <link href="styles/css/main.css" rel="stylesheet">
   <link rel="stylesheet" href="css/animate/animate.css">
@@ -161,7 +159,7 @@
 
     <!-- SERVICIOS SUGERIDOS SMALL: Begin -->
     <?php include "include/servicios-sugeridos-small.php"; ?>
-  <!-- SERVICIOS SUGERIDOS SMALL: End -->
+    <!-- SERVICIOS SUGERIDOS SMALL: End -->
 
   <section>
     <?php include "include/chat.php"; ?>
@@ -176,7 +174,9 @@
     new WOW().init();
   </script>
   <script src="js/scripts.js"></script>
-
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/fileinput.js" type="text/javascript"></script>
 </body>
 
 </html>

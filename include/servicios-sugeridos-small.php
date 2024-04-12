@@ -7,6 +7,17 @@
 
         <div class="iconos-servicios">
             <div class="servicios-sugeridos-icon">
+
+                <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
+                    <figure>
+                        <img src="img/servicios/servicios_mantenimiento.jpg" class="icon-suge" alt="Mantenimiento de piletas en casas y residencias particulares">
+                    </figure>
+                    <h4 class="td07pp">Mantenimiento</h4>
+                    <p class="td08bac">Mantenimiento de piletas en casas y residencias particulares</p>
+                    <a class="boton-click-aqui"
+                        href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-casas-countries-casas-quintas-edificios-consorcios-departamentos-hoteles-embajadas.php">MÁS
+                        INFO</a>
+                </div>
                 
                 <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
                     <figure>
@@ -37,7 +48,7 @@
                     <a class="boton-click-aqui" href="servicio-de-cambio-de-multivalvula-selectora-de-filtro.php">MÁS INFO</a>
                 </div>
 
-                <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
+                <!-- <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
                     <figure>
                         <img src="img/servicios/servicios_cloradores_salinos.png" alt="Cloradores Salinos">
                     </figure>
@@ -45,9 +56,9 @@
                     <p class="td08bac">Nuevo tratamiento alternativo para el cuidado, mantenimiento y desinfección del
                         agua</p>
                     <a class="boton-click-aqui" href="servicio-de-cloradores-salinos.php">MÁS INFO</a>
-                </div>
+                </div> -->
 
-                <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
+                <!-- <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
                     <figure>
                         <img src="img/servicios/servicios_colocacion_bordes_atermicos.jpg"
                             alt="Colocación de Bordes Atérmicos">
@@ -55,7 +66,7 @@
                     <h4 class="td07pp">Colocación de Bordes Atérmicos</h4>
                     <p class="td08bac">Colocación de veredas atérmicas en piscinas de hormigón y fibra de vidrio.</p>
                     <a class="boton-click-aqui" href="servicio-de-colocacion-de-bordes-atermicos.php">MÁS INFO</a>
-                </div>
+                </div> -->
 
                 <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
                     <figure>
@@ -68,14 +79,14 @@
                         INFO</a>
                 </div>
 
-                <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
+                <!-- <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
                     <figure>
                         <img src="img/servicios/servicios_construccion_piscinas.jpg" alt="Construcción de Piscinas">
                     </figure>
                     <h4 class="td07pp">Construcción de Piscinas</h4>
                     <p class="td08bac">Utilizamos los mejores materiales y mano de obra experimentada.</p>
                     <a class="boton-click-aqui" href="servicio-de-construccion-de-piscinas.php">MÁS INFO</a>
-                </div>
+                </div> -->
 
                 <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
                     <figure>
@@ -110,8 +121,17 @@
 
                 <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
                     <figure>
-                        <img src="img/servicios/servicios_fumigacion_mosquitos.png" class="icon-suge"
-                            alt="Fumigación de Mosquitos">
+                        <img src="img/servicios/fuga_canerias.webp" alt="Detección de fugas en piscinas">
+                    </figure>
+                    <h4 class="td07pp">Detección de fugas en piscinas</h4>
+                    <p class="td08bac">Trabajamos con expertos en la detección de fugas en piscinas.</p>
+                    <a class="boton-click-aqui"
+                        href="servicio-de-deteccion-de-fugas-en-piscinas.php">MÁS INFO</a>
+                </div>
+
+                <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
+                    <figure>
+                        <img src="img/servicios/servicios_fumigacion_mosquitos.png" class="icon-suge" alt="Fumigación de Mosquitos">
                     </figure>
                     <h4 class="td07pp">Fumigación de Mosquitos</h4>
                     <p class="td08bac">Brindamos el servicio de Fumigación De Mosquitos en todos los barrios
@@ -119,14 +139,14 @@
                     <a class="boton-click-aqui" href="servicio-de-fumigacion-de-mosquitos.php">MÁS INFO</a>
                 </div>
 
-                <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
+                <!-- <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
                     <figure>
                         <img src="img/servicios/servicios_iluminacion_led.jpg" alt="Iluminación Led">
                     </figure>
                     <h4 class="td07pp">Iluminación Led</h4>
                     <p class="td08bac">Instalación de sistema de iluminación led con o sin control remoto.</p>
                     <a class="boton-click-aqui" href="servicio-de-iluminacion-led.php">MÁS INFO</a>
-                </div>
+                </div> -->
 
                 <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
                     <figure>
@@ -151,19 +171,7 @@
                         MÁS INFO</a>
                 </div>
 
-                <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
-                    <figure>
-                        <img src="img/servicios/servicios_mantenimiento.jpg" class="icon-suge"
-                            alt="Mantenimiento de piletas en casas y residencias particulares">
-                    </figure>
-                    <h4 class="td07pp">Mantenimiento</h4>
-                    <p class="td08bac">Mantenimiento de piletas en casas y residencias particulares</p>
-                    <a class="boton-click-aqui"
-                        href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-casas-countries-casas-quintas-edificios-consorcios-departamentos-hoteles-embajadas.php">MÁS
-                        INFO</a>
-                </div>
-
-                <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
+                <!-- <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
                     <figure>
                         <img src="img/servicios/servicios_marmolite.jpg" class="icon-suge" alt="Marmolite">
                     </figure>
@@ -171,7 +179,7 @@
                     <p class="td08bac">Revestimiento para interior de piscinas</p>
                     <a class="boton-click-aqui"
                         href="servicio-de-revestimiento-para-interior-de-piscinas-piletas-solum-marmolite-premecol.php">MÁS INFO</a>
-                </div>
+                </div> -->
 
                 <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
                     <figure>
@@ -182,7 +190,7 @@
                     <a class="boton-click-aqui" href="servicio-de-pastinado-de-piletas-revestidas.php">MÁS INFO</a>
                 </div>
 
-                <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
+                <!-- <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
                     <figure>
                         <img src="img/servicios/servicios_pintura_piletas.png" alt="Pintura de Piletas">
                     </figure>
@@ -190,7 +198,7 @@
                     <p class="td08bac">Pintamos tu piscina de material o plastico</p>
                     <a class="boton-click-aqui"
                         href="servicio-de-pintado-de-piletas-de-cemento-y-plastico-o-fibra-de-vidrio.php">MÁS INFO</a>
-                </div>
+                </div> -->
 
                 <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
                     <figure>
@@ -201,25 +209,25 @@
                     <a class="boton-click-aqui" href="servicio-de-reparacion-de-bombas-autocebantes-de-piletas.php">MÁS INFO</a>
                 </div>
 
-                <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
+                <!-- <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
                     <figure>
                         <img src="img/servicios/servicios_venecitas.jpg" alt="Revestimiento de Venecitas">
                     </figure>
                     <h4 class="td07pp">Revestimiento de Venecitas</h4>
                     <p class="td08bac">Ofrecemos una amplia gama de colores, tipos y diseños.</p>
                     <a class="boton-click-aqui" href="servicio-de-revestimiento-de-venecitas.php">MÁS INFO</a>
-                </div>
+                </div> -->
 
-                <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
+                <!-- <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
                     <figure>
                         <img src="img/servicios/servicios_piedra_bali.jpg" alt="Revestimiento de Piedra Bali">
                     </figure>
                     <h4 class="td07pp">Revestimiento en Piedra Bali</h4>
                     <p class="td08bac">Ofrecemos una amplia gama de colores, tipos y diseños.</p>
                     <a class="boton-click-aqui" href="servicio-de-revestimiento-en-piedra-bali.php">MÁS INFO</a>
-                </div>
+                </div> -->
 
-                <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
+                <!-- <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
                     <figure>
                         <img src="img/servicios/servicios_reparacion_piscinas.jpg"
                             alt="Reparación de Piletas y Piscinas de hormigón">
@@ -227,7 +235,7 @@
                     <h4 class="td07pp">Reparación de Piletas y Piscinas de hormigón</h4>
                     <p class="td08bac">Reparación de grietas, rajaduras o todo tipo de pérdidas.</p>
                     <a class="boton-click-aqui" href="servicio-de-reparacion-de-piletas-y-piscinas-de-hormigon.php">MÁS INFO</a>
-                </div>
+                </div> -->
 
                 <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
                     <figure>

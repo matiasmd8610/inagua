@@ -125,21 +125,6 @@
   </section>
   <!-- FIN NOSOTROS -->
 
-  <section id="cobertura">
-    <div class="container">
-      <div class="div-texto">
-        <h2 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Empresa de Mantenimiento
-          Integral de Piscinas</h2>
-        <h4 class="texto2 wow slideInUp">Pileteros profesionales</h4>
-      </div>
-      <div class="div-texto">
-        <p class="texto3 wow slideInUp">Le damos la bienvenida a nuestro sitio web donde podrá acceder a toda la
-          información sobre los servicios que ofrece nuestra empresa en la Ciudad Autónoma de Buenos Aires y
-          alrededores.</p>
-      </div>
-    </div>
-  </section>
-
   <!-- SERVICIOS SUGERIDOS SMALL: Begin -->
   <?php include "include/servicios-sugeridos-small.php"; ?>
   <!-- SERVICIOS SUGERIDOS SMALL: End -->

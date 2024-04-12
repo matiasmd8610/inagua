@@ -4,7 +4,11 @@
 			<div class="col-md-3 colum-1">
 				<h2 class="seguinos_tex">SERVICIOS</h2>
 				<ul class="texto_pie_lis">
-				<li>
+            <li>
+              <a
+                href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-casas-countries-casas-quintas-edificios-consorcios-departamentos-hoteles-embajadas.php">Mantenimiento</a>
+            </li>
+				    <li>
               <a href="servicio-de-analisis-bacteriologico-de-agua-de-piscinas-piletas.php">Análisis bacteriológico</a>
             </li>
             <li>
@@ -14,18 +18,18 @@
               <a href="servicio-de-cambio-de-multivalvula-selectora-de-filtro.php">Cambio de Multivalvula y
                 conexiones</a>
             </li>
-            <li>
+            <!-- <li>
               <a href="servicio-de-cloradores-salinos.php">Cloradores Salinos</a>
-            </li>
-            <li>
+            </li> -->
+            <!-- <li>
               <a href="servicio-de-colocacion-de-bordes-atermicos.php">Colocación de Bordes Atérmicos</a>
-            </li>
+            </li> -->
             <li><a
                 href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-edificios-consorcios-departamentos.php">Consorcios,
                 Hoteles y Embajadas</a></li>
-            <li>
+            <!-- <li>
               <a href="servicio-de-construccion-de-piscinas.php">Construcción de Piscinas</a>
-            </li>
+            </li> -->
             <li>
               <a href="servicio-de-corte-de-cesped.php">Corte de Césped</a>
             </li>
@@ -35,15 +39,17 @@
             </li>
             <li>
               <a href="servicio-de-destapaciones-de-barre-fondo-skimmer-piscina-limpia-fondo-pileta.php">Destapación de
-                Cañerias de
-                Piscinas</a>
+                Cañerias de Piscinas</a>
+            </li>
+            <li>
+              <a href="servicio-de-deteccion-de-fugas-en-piscinas.php">Detección de fugas en piscinas</a>
             </li>
             <li>
               <a href="servicio-de-fumigacion-de-mosquitos.php">Fumigación de mosquitos</a>
             </li>
-            <li>
+            <!-- <li>
               <a href="servicio-de-iluminacion-led.php">Iluminación Led</a>
-            </li>
+            </li> -->
             <li>
               <a href="servicio-de-limpieza-y-pintura-de-bordes-atermicos.php">Limpieza y pintura de bordes
                 atérmicos</a>
@@ -51,33 +57,29 @@
             <li><a href="servicio-de-limpieza-y-desinfeccion-de-tanques-de-agua.php">Limpieza y desinfección
                 de tanques de agua</a></li>
             <li>
-            <li>
-              <a
-                href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-casas-countries-casas-quintas-edificios-consorcios-departamentos-hoteles-embajadas.php">Mantenimiento</a>
-            </li>
-            <li>
+            <!-- <li>
               <a href="servicio-de-revestimiento-para-interior-de-piscinas-piletas-solum-marmolite-premecol.php">Marmolite</a>
-            </li>
+            </li> -->
             <li>
               <a href="servicio-de-pastinado-de-piletas-revestidas.php">Pastinado de piscinas</a>
             </li>
-            <li>
+            <!-- <li>
               <a href="servicio-de-pintado-de-piletas-de-cemento-y-plastico-o-fibra-de-vidrio.php">Pintura de
                 piscinas</a>
-            </li>
+            </li> -->
             <li>
               <a href="servicio-de-reparacion-de-bombas-autocebantes-de-piletas.php">Reparación de bomba</a>
             </li>
-            <li>
+            <!-- <li>
               <a href="servicio-de-revestimiento-de-venecitas.php">Revestimiento de Venecitas</a>
-            </li>
-            <li>
+            </li> -->
+            <!-- <li>
               <a href="servicio-de-revestimiento-en-piedra-bali.php">Revestimiento en Piedra Bali</a>
-            </li>
-            <li>
+            </li> -->
+            <!-- <li>
               <a href="servicio-de-reparacion-de-piletas-y-piscinas-de-hormigon.php">Reparación de Piletas y Piscinas de
                 hormigón</a>
-            </li>
+            </li> -->
             <li>
               <a href="productos-quimicos-y-accesorios-para-piletas-y-piscinas-de-natacion.php">Venta de productos y
                 accesorios</a>

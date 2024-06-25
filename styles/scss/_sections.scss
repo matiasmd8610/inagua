@@ -256,15 +256,6 @@
 	}
 }
 
-
-.alineacion_ser {
-	margin-top: 40px;
-	img {
-		display: block;
-		margin: 0 auto;
-	}
-}
-
 .pileteros_profesionales {
 	margin-top: 50px;
 	width: 100%;
@@ -472,20 +463,26 @@
 	color: #333333;
 	font-size: 18px;
 	font-family: $primary-font;
-	// font-weight: 400;
 	text-align: left;
+}
 
-	@media (max-width: 500px) {
-		font-size: 18px;
-		padding: 0px 15px 0px 15px;
-		line-height: 1.4;
+.nosotrosServices {
+	display: grid;
+	grid-template-columns: repeat(1, 1fr);
+	grid-gap: 1.75rem;
+	max-width: 950px;
+	margin: 2rem auto 0;
 
+	@include media-breakpoint-up(xl) {
+		grid-template-columns: repeat(3, 1fr);
+	}
+
+	img {
+		display: block;
+		margin: 0 auto;
 	}
 }
 
-
-
-/*casas particulares*/
 .div-texto-casas {
 	float: left;
 	width: 50%;

@@ -87,7 +87,7 @@
 				</ul>
 			</div>
 			<div class="col-md-3 colum-1">
-				<h2 class="seguinos_tex">MÁS LEÍDOS</h2>
+				<h2 class="seguinos_tex">ARTÍCULOS MÁS LEÍDOS</h2>
 				<ul class="texto_pie_lis">
 					<li><a href="articulo.php?id=28">Recomendaciones Limpieza</a></li>
 					<li><a href="articulo.php?id=27">Bombas de Piscinas</a></li>

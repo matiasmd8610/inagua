@@ -132,50 +132,45 @@
   <section>
     <div class="container">
       <div class="row">
-
-        <div class="div-texto" style="margin-top: 50px;">
-          <h5 class="texto3n wow slideInUp">En INAGUA estos servicios han sido adaptados para cada cliente de acuerdo a
+        <div class="div-texto" style="margin-top: 30px;">
+          <p class="texto3n wow slideInUp">En <strong>INAGUA</strong> estos servicios han sido adaptados para cada cliente de acuerdo a
             las necesidades propias y dinámicas de los mismos, en donde le podemos ofrecer servicios de mantenimiento de
-            piscinas específicos a:</h5>
+            piscinas específicos a:</p>
         </div>
 
-        <div class="row">
-          <div class="col-md-4 alineacion_ser wow slideInLeft hvr-shrink">
+        <div class="nosotrosServices">
+          <div class="wow slideInLeft hvr-shrink">
             <a
               href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-casas-countries-casas-quintas-edificios-consorcios-departamentos-hoteles-embajadas.php"><img
                 src="img/particulares.png" alt="Mantenimiento de piscinas casas , quintas, countries"></a>
           </div>
-          <div class="col-md-4 alineacion_ser wow slideInDown hvr-shrink">
+          <div class="wow slideInDown hvr-shrink">
             <a
               href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-casas-countries-casas-quintas-edificios-consorcios-departamentos-hoteles-embajadas.php"><img
                 src="img/consorcio.png" alt="Mantenimiento de piscinas consorcios"></a>
           </div>
-          <div class="col-md-4 alineacion_ser wow slideInRight hvr-shrink">
+          <div class="wow slideInRight hvr-shrink">
             <a
               href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-casas-countries-casas-quintas-edificios-consorcios-departamentos-hoteles-embajadas.php"><img
                 src="img/hoteles.png" alt="Mantenimiento de piscinas hoteles"></a>
           </div>
-        </div>
-
-        <div class="row">
-          <div class="col-md-4 alineacion_ser wow slideInLeft hvr-shrink">
+          <div class="wow slideInLeft hvr-shrink">
             <a
               href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-casas-countries-casas-quintas-edificios-consorcios-departamentos-hoteles-embajadas.php"><img
                 src="img/emba.png" alt="Mantenimiento de piscinas embajadas"></a>
           </div>
-
-          <div class="col-md-4 alineacion_ser wow slideInUp hvr-shrink">
+          <div class="wow slideInUp hvr-shrink">
             <a
               href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-casas-countries-casas-quintas-edificios-consorcios-departamentos-hoteles-embajadas.php"><img
                 src="img/inst.png" alt="Mantenimiento de piscinas instituciones educativas"></a>
           </div>
-
-          <div class="col-md-4 alineacion_ser wow slideInRight hvr-shrink">
+          <div class="wow slideInRight hvr-shrink">
             <a
               href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-casas-countries-casas-quintas-edificios-consorcios-departamentos-hoteles-embajadas.php"><img
                 src="img/depor.png" alt="Mantenimiento de piscinas instituciones deportivas"></a>
           </div>
         </div>
+
       </div>
     </div>
   </section>

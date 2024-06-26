@@ -69,4 +69,20 @@ $(document).ready(function () {
 		yearsExperience.innerHTML = companyYears;
 	}
 
+	//Modal Publicidad
+	let modalHome = $(".modal");
+	if (modalHome) {
+		let modalClose = modalHome.find(".modal-close");
+		modalClose.click(function () {
+			modalHome.hide();
+			modalHome.find("video")[0].pause();
+		});
+	}
+
+	closeModal = () => {
+		modalHome.hide();
+	}
+
+	setTimeout(closeModal, 16000);
+
 });

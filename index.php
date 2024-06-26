@@ -169,6 +169,18 @@
   <?php include "include/chat.php"; ?>
   <!-- CHAT BOOT: End -->
 
+  <div class="modal">
+    <button type="button" class="modal-close" aria-label="Close">
+      <span aria-hidden="true">&times;</span>
+    </button>
+    <div class="modal-content">
+      <video width="400" height="600" controls autoplay muted>
+        <source src="videos/video_promocional.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </div>
+  </div>
+
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
   <script src="js/bootstrap.min.js"></script>
   <script src="js/fileinput.js" type="text/javascript"></script>

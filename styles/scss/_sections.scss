@@ -1777,3 +1777,43 @@ input.btn-primary {
 		width: 160px;
 	}
 }
+
+.modal {
+	background: rgba(0, 0, 0, .75);
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	z-index: 99999;
+
+	&-content {
+		width: auto;
+		background-color: transparent;
+
+		video {
+			height: 75vh;
+			width: auto;
+			
+			@include media-breakpoint-up(lg) {
+				height: 90vh;
+			}
+		}
+	}
+
+	&-close {
+		background-color: transparent;
+		position: absolute;
+		right: .5rem;
+		top: 0;
+		font-size: 2.5rem;
+		color: #fff;
+		box-shadow: none;
+		border: 0;
+		
+		@include media-breakpoint-up(lg) {
+			right: 1rem;
+		}
+	}
+}

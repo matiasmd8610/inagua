@@ -18,13 +18,13 @@
   <meta property="fb:app_id" content="383820332074788">
   <title>Cloradores salinos para piscinas | SERVICIOS | INAGUA</title>
   <link rel="canonical" href="http://www.inagua.com.ar/servicio-de-cloradores-salinos">
-  <link rel="icon" href="img/logo.png">
+  <link rel="icon" href="assets/images/logo.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-  <link href="css/fileinput.css" rel="stylesheet">
+  <link href="assets/styles/css/fileinput.css" rel="stylesheet">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-  <script src="js/fileinput.js" type="text/javascript"></script>
-  <link rel="stylesheet" href="css/animate/animate.css">
-  <link href="styles/css/main.css" rel="stylesheet">
+  <script src="assets/scripts/fileinput.js" type="text/javascript"></script>
+  <link rel="stylesheet" href="assets/styles/css/animate/animate.css">
+  <link href="assets/styles/css/main.css" rel="stylesheet">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;600&family=Rubik:wght@300;400;600&display=swap"
@@ -51,7 +51,7 @@
     <?php include "include/chat.php"; ?>
 
   </section>
-  <span class="ir-arriba"><img src="img/up.png" alt="Ir arriba"></span>
+  <span class="ir-arriba"><img src="assets/images/up.png" alt="Ir arriba"></span>
   <div id="top"></div>
 
   <div id="fb-root"></div>
@@ -130,7 +130,7 @@
             con la última tecnología, como una célula auto limpiable y configuración programable, para reducir su
             mantenimiento y aumentar su eficacia
           </p>
-          <img class="cloradores-img" src="img/servicios/cloradores_salinos_domesticos.png" alt="CLORADORES SALINOS – DOMÉSTICOS">
+          <img class="cloradores-img" src="assets/images/servicios/cloradores_salinos_domesticos.png" alt="CLORADORES SALINOS – DOMÉSTICOS">
 
           <div class="col-md-12 mb-5 presupuesto-ser wow slideInUp">
             <a href="#contacto" class="boton-presupuesto" style="text-decoration:none;">SOLICITAR PRESUPUESTO</a>
@@ -139,7 +139,7 @@
           <h4 class="texto2 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">SEMI – INDUSTRIALES</h4>
           <p class="texto3 wow slideInUp">En Innowater disponemos de cloradores salinos de alto rendimiento para explotación comercial o intensiva.
             Se trata de la mejor solución para el mantenimiento y desinfección de piscinas comunitarias y hoteles.</p>
-          <img class="cloradores-img" src="img/servicios/cloradores_salinos_semi_industriales.png" alt="SEMI – INDUSTRIALES">
+          <img class="cloradores-img" src="assets/images/servicios/cloradores_salinos_semi_industriales.png" alt="SEMI – INDUSTRIALES">
 
           <div class="col-md-12 mb-5 presupuesto-ser wow slideInUp">
             <a href="#contacto" class="boton-presupuesto" style="text-decoration:none;">SOLICITAR PRESUPUESTO</a>
@@ -150,7 +150,7 @@
             de piscinas de instalaciones públicas. Estas piscinas destacan por su gran capacidad de agua y por la gran
             cantidad de usuarios que reciben a lo largo del día, por lo que necesitan de los sistemas más potentes para
             el tratamiento del agua.</p>
-          <img class="cloradores-img" src="img/servicios/cloradores_salinos_industriales.png" alt="INDUSTRIALES">
+          <img class="cloradores-img" src="assets/images/servicios/cloradores_salinos_industriales.png" alt="INDUSTRIALES">
 
           <div class="col-md-12 mb-5 presupuesto-ser wow slideInUp">
             <a href="#contacto" class="boton-presupuesto" style="text-decoration:none;">SOLICITAR PRESUPUESTO</a>
@@ -160,7 +160,7 @@
           <p class="texto3 wow slideInUp">Instrumento para medición del PH y dosificación del ácido que la piscina requiera. Configuración
             electrónica comandada por el clorador salino.
             <br>Poseen control Wireless.</p>
-          <img class="cloradores-img" src="img/servicios/cloradores_salinos_reguladores_ph.png" alt="REGULADORES DE PH">
+          <img class="cloradores-img" src="assets/images/servicios/cloradores_salinos_reguladores_ph.png" alt="REGULADORES DE PH">
 
           <div class="col-md-12 mb-5  presupuesto-ser wow slideInUp">
             <a href="#contacto" class="boton-presupuesto" style="text-decoration:none;">SOLICITAR PRESUPUESTO</a>
@@ -171,23 +171,23 @@
           <h2 class="texto1 wow zoomInDown mb-5" datos-wow-duracion="2s" data-wow-delay="1s">NUESTRAS ÚLTIMAS
             INSTALACIONES</h2>
           <div class="cloradores-instalaciones-wrapper">
-            <img class="cloradores-img-instalaciones" src="img/servicios/cloradores_instalaciones_1.jpg"
+            <img class="cloradores-img-instalaciones" src="assets/images/servicios/cloradores_instalaciones_1.jpg"
               alt="Instalación Cloradores">
-            <img class="cloradores-img-instalaciones" src="img/servicios/cloradores_instalaciones_2.jpg"
+            <img class="cloradores-img-instalaciones" src="assets/images/servicios/cloradores_instalaciones_2.jpg"
               alt="Instalación Cloradores">
-            <img class="cloradores-img-instalaciones" src="img/servicios/cloradores_instalaciones_3.jpg"
+            <img class="cloradores-img-instalaciones" src="assets/images/servicios/cloradores_instalaciones_3.jpg"
               alt="Instalación Cloradores">
-            <img class="cloradores-img-instalaciones" src="img/servicios/cloradores_instalaciones_4.jpg"
+            <img class="cloradores-img-instalaciones" src="assets/images/servicios/cloradores_instalaciones_4.jpg"
               alt="Instalación Cloradores">
-            <img class="cloradores-img-instalaciones" src="img/servicios/cloradores_instalaciones_5.jpg"
+            <img class="cloradores-img-instalaciones" src="assets/images/servicios/cloradores_instalaciones_5.jpg"
               alt="Instalación Cloradores">
-            <img class="cloradores-img-instalaciones" src="img/servicios/cloradores_instalaciones_6.jpg"
+            <img class="cloradores-img-instalaciones" src="assets/images/servicios/cloradores_instalaciones_6.jpg"
               alt="Instalación Cloradores">
-            <img class="cloradores-img-instalaciones" src="img/servicios/cloradores_instalaciones_7.jpg"
+            <img class="cloradores-img-instalaciones" src="assets/images/servicios/cloradores_instalaciones_7.jpg"
               alt="Instalación Cloradores">
-            <img class="cloradores-img-instalaciones" src="img/servicios/cloradores_instalaciones_8.jpg"
+            <img class="cloradores-img-instalaciones" src="assets/images/servicios/cloradores_instalaciones_8.jpg"
               alt="Instalación Cloradores">
-            <img class="cloradores-img-instalaciones" src="img/servicios/cloradores_instalaciones_9.jpg"
+            <img class="cloradores-img-instalaciones" src="assets/images/servicios/cloradores_instalaciones_9.jpg"
               alt="Instalación Cloradores">
           </div>
         </div>
@@ -446,8 +446,8 @@
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js"
     integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous">
   </script>
-  <script src="js/scripts.js"></script>
-  <script src="js/wow.js"></script>
+  <script src="assets/scripts/scripts.js"></script>
+  <script src="assets/scripts/wow.js"></script>
   <script>
     new WOW().init();
   </script>

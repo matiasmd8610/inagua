@@ -12,7 +12,7 @@
       <div class="container">
         <div class="row">
             <div class="col-md-12 wow slideInLeft" align="center">
-                <img src="img/alguicida-mak-killer-hongo-negro-x-1-lt.png" alt="filtro-de-piscina" class="img_produc_pintura">
+                <img src="assets/images/alguicida-mak-killer-hongo-negro-x-1-lt.png" alt="filtro-de-piscina" class="img_produc_pintura">
             </div>
             
         </div>
@@ -36,9 +36,9 @@ Si esto se repite y ademas pasan semanas sin cepillar las paredes y el piso es p
             
 <br><br>
    <b> Lo mejor es prevenirlo. ¿Cómo?</b> <br>
-   <img src="img/punto1.jpg" width="10" height="10" alt=""/ > Manteniendo el nivel de cloro libre en 2 ppm (partes por millon). <br><br>
+   <img src="assets/images/punto1.jpg" width="10" height="10" alt=""/ > Manteniendo el nivel de cloro libre en 2 ppm (partes por millon). <br><br>
    <b>¿Cómo sabemos cuanto cloro libre hay en la pileta?</b> <br>
-   <img src="img/punto1.jpg" width="10" height="10" alt=""/ > Midiendo con un test kit que podes comprar en cualquier casa del ramo/ ferreterias. 
+   <img src="assets/images/punto1.jpg" width="10" height="10" alt=""/ > Midiendo con un test kit que podes comprar en cualquier casa del ramo/ ferreterias. 
 <br><br>
 
 <b>Una vez que el cloro esta en su nivel y se mantiene durante TODA la temporada, agregar la dosis recomendada de acuerdo a la cantidad de litros de nuestra piscina de ALGUICIDA una vez por semana. NO se olviden de cepillar toda la piscina al menos una vez por semana.</b> 
@@ -66,9 +66,9 @@ Si esto se repite y ademas pasan semanas sin cepillar las paredes y el piso es p
                   </div> 
                   
                   <div class="seguinos20">
-                    <a href="javascript:window.open('https://www.facebook.com/sharer/sharer.php?u=http://inagua.com.ar/articulo.php?id=39','','width=600,height=400,left=50,top=50,toolbar=yes');void 0" rel="image_src"><img src="img/logo_face.png" class="icono_face_compa" alt=""></a>
-                    <a  href="javascript:window.open('https://twitter.com/?status= El articulo http://inagua.com.ar/articulo.php?id=39 es muy interesante. Te invito a que lo leas y compartas','','width=600,height=400,left=50,top=50,toolbar=yes');void 0""><img src="img/logo_tw.png" alt="" class="icono_face_compa"></a>
-                   <a href="whatsapp://send?text=URL" data-action="share/whatsapp/share"><img src="img/whatsapp.png" alt="" class="icono_face_compa2"></a>
+                    <a href="javascript:window.open('https://www.facebook.com/sharer/sharer.php?u=http://inagua.com.ar/articulo.php?id=39','','width=600,height=400,left=50,top=50,toolbar=yes');void 0" rel="image_src"><img src="assets/images/logo_face.png" class="icono_face_compa" alt=""></a>
+                    <a  href="javascript:window.open('https://twitter.com/?status= El articulo http://inagua.com.ar/articulo.php?id=39 es muy interesante. Te invito a que lo leas y compartas','','width=600,height=400,left=50,top=50,toolbar=yes');void 0""><img src="assets/images/logo_tw.png" alt="" class="icono_face_compa"></a>
+                   <a href="whatsapp://send?text=URL" data-action="share/whatsapp/share"><img src="assets/images/whatsapp.png" alt="" class="icono_face_compa2"></a>
                     
                   </div> 
 <br><br>

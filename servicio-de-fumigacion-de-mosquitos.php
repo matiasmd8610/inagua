@@ -16,12 +16,12 @@
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo">
   <title>Fumigación de Mosquitos | SERVICIOS | INAGUA</title>
   <link rel="canonical" href="http://www.inagua.com.ar/servicio-de-fumigacion-de-mosquitos">
-  <link rel="icon" href="img/logo.png">
+  <link rel="icon" href="assets/images/logo.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-  <link href="css/fileinput.css" rel="stylesheet">
-  <link href="styles/css/main.css" rel="stylesheet">
-  <link rel="stylesheet" href="css/animate/animate.css">
-  <link href="styles/css/main.css" rel="stylesheet">
+  <link href="assets/styles/css/fileinput.css" rel="stylesheet">
+  <link href="assets/styles/css/main.css" rel="stylesheet">
+  <link rel="stylesheet" href="assets/styles/css/animate/animate.css">
+  <link href="assets/styles/css/main.css" rel="stylesheet">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;600&family=Rubik:wght@300;400;600&display=swap"
@@ -68,7 +68,7 @@
     <?php include "include/chat.php"; ?>
 
   </section>
-  <span class="ir-arriba"><img src="img/up.png" alt=""></span>
+  <span class="ir-arriba"><img src="assets/images/up.png" alt=""></span>
   <div id="top"></div>
 
   <header>
@@ -88,10 +88,10 @@
 
             <div class="grid-services-images my-5">
               <div class="wow fadeInLeft">
-                <img src="img/servicios/fumigacion_01.jpg" alt="Fumigacion" width="800">
+                <img src="assets/images/servicios/fumigacion_01.jpg" alt="Fumigacion" width="800">
               </div>
               <div class="wow fadeInLeft">
-                <img src="img/servicios/fumigacion_02.png" alt="Fumigacion" width="800">
+                <img src="assets/images/servicios/fumigacion_02.png" alt="Fumigacion" width="800">
               </div>
             </div>
 
@@ -109,7 +109,7 @@
             <h2 class="texto2 mt-5 wow slideInUp">Equipos y Poductos Utilizados</h2>
             <p class="texto3 wow slideInUp">Usamos herramientas y productos de primera calidad. Fumigamos con equipos
               atomizadores <strong>STIHL SR420.</strong></p>
-            <img class="img-fluid mx-auto d-block my-5" src="img/servicios/fumigacion_mosquitos_01.png" alt="">
+            <img class="img-fluid mx-auto d-block my-5" src="assets/images/servicios/fumigacion_mosquitos_01.png" alt="">
           </div>
 
           <div class="div-texto">
@@ -119,7 +119,7 @@
                 OLOR NI TIENE SOLVENTES</strong>.</p>
             <a href="http://www.anmat.gob.ar/boletin_anmat/diciembre_2018/Dispo_MSYDS_2851-18.pdf"
               target="_blank">APROBADO POR ANMAT</a>
-            <img class="img-fluid mx-auto d-block my-5" src="img/servicios/insecticida_demoledor.png"
+            <img class="img-fluid mx-auto d-block my-5" src="assets/images/servicios/insecticida_demoledor.png"
               alt="Insecticida Demoledor">
             <p><strong>DEMOLEDOR</strong> contiene dos ingredientes activos que producen una acción dual:
               Betacipermetrina (piretroide) y regulador de crecimiento, actúan por contacto e ingestión otorgándole
@@ -131,7 +131,7 @@
             <p>Producto sin olor, no mancha.</p>
             <div class="banner-dengue">
               <p>¡Sin Mosquito No Hay Dengue!</p>
-              <img src="img/servicios/dengue.png" alt="Dengue" width="160">
+              <img src="assets/images/servicios/dengue.png" alt="Dengue" width="160">
             </div>
 
             <h2 class="texto2 mt-5 wow slideInUp">¿Qué es el Dengue?</h2>
@@ -143,7 +143,7 @@
             <p>Los síntomas son fiebre elevada (40ºC) acompañada de dos de los síntomas siguientes sintomas: dolor de
               cabeza muy intenso, dolor detrás de los globos oculares, dolores musculares y articulares, náuseas,
               vómitos, agrandamiento de ganglios linfáticos o sarpullido.</p>
-            <img class="img-fluid d-block mx-auto" src="img/servicios/mosquito_ciclo_vida.png"
+            <img class="img-fluid d-block mx-auto" src="assets/images/servicios/mosquito_ciclo_vida.png"
               alt="Ciclo de vida del dengue">
 
             <h5>Recomendaciones para prevenir el dengue (Ministerio de Salud de la República Argentina)</h5>
@@ -222,13 +222,13 @@
   </footer>
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-  <script src="js/bootstrap.min.js"></script>
-  <script src="js/fileinput.js" type="text/javascript"></script>
-  <script src="js/wow.js"></script>
+  <script src="assets/scripts/bootstrap.min.js"></script>
+  <script src="assets/scripts/fileinput.js" type="text/javascript"></script>
+  <script src="assets/scripts/wow.js"></script>
   <script>
     new WOW().init();
   </script>
-  <script src="js/scripts.js"></script>
+  <script src="assets/scripts/scripts.js"></script>
 
 </body>
 

@@ -120,9 +120,9 @@
 				<div class="mb-5">
 					<p class="seguinos_tex2">SEGUINOS</p>
 					<a href="https://www.facebook.com/Inagua.Mantenimiento.de.Piscinas/" target="new">
-						<img src="img/logo_face.png" alt="Facebook" class="hvr-grow"></a>
+						<img src="assets/images/logo_face.png" alt="Facebook" class="hvr-grow"></a>
 					<a href="https://www.instagram.com/inagua.mantenimiento/" target="new">
-						<img src="img/logo_ins.png" alt="Instagram" class="hvr-grow">
+						<img src="assets/images/logo_ins.png" alt="Instagram" class="hvr-grow">
 					</a>
 				</div>
 				<!-- Widget portal de piscinas: Begin -->
@@ -144,12 +144,12 @@
 				<div class="footer-images mt-5">
 					<div>
 						<a href="http://qr.afip.gob.ar/?qr=1qt4s-TexwFKbGmlAD-3kA,," target="new">
-							<img src="img/data_fiscal.png" width="44" heigth="59" alt="Data Fiscal"
+							<img src="assets/images/data_fiscal.png" width="44" heigth="59" alt="Data Fiscal"
 								class="hvr-grow img-fiscal2">
 						</a>
 					</div>
 					<div>
-						<img src="img/sello_premiun.png" align="right" class="sello_premiun" alt="Sello Premium">
+						<img src="assets/images/sello_premiun.png" align="right" class="sello_premiun" alt="Sello Premium">
 					</div>
 				</div>
 			</div>

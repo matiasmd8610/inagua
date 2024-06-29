@@ -14,13 +14,13 @@
   <meta name="description" content="Empresa profesional de limpieza de piletas.">
   <title>Mantenimiento de piletas en consorcios, hoteles y embajadas | SERVICIOS | INAGUA</title>
   <link rel="canonical" href="http://www.inagua.com.ar/servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-edificios-consorcios-departamentos">
-  <link rel="icon" href="img/logo.png">
+  <link rel="icon" href="assets/images/logo.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-  <link href="css/fileinput.css" rel="stylesheet">
+  <link href="assets/styles/css/fileinput.css" rel="stylesheet">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-  <script src="js/fileinput.js" type="text/javascript"></script>
-  <link rel="stylesheet" href="css/animate/animate.css">
-  <link href="styles/css/main.css" rel="stylesheet">
+  <script src="assets/scripts/fileinput.js" type="text/javascript"></script>
+  <link rel="stylesheet" href="assets/styles/css/animate/animate.css">
+  <link href="assets/styles/css/main.css" rel="stylesheet">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;600&family=Rubik:wght@300;400;600&display=swap"
@@ -47,7 +47,7 @@
     <?php include "include/chat.php"; ?>
   </section>
 
-  <span class="ir-arriba"><img src="img/up.png" alt=""></span>
+  <span class="ir-arriba"><img src="assets/images/up.png" alt=""></span>
   <div id="top"></div>
 
   <header>
@@ -70,15 +70,15 @@
 
           <div class="grid-services-images mb-5">
             <div class="wow slideInRight">
-              <img src="img/servicios/consorcios_hoteles_embajadas_01.jpg" alt="Mantenimiento de piletas en
+              <img src="assets/images/servicios/consorcios_hoteles_embajadas_01.jpg" alt="Mantenimiento de piletas en
               consorcios, hoteles y embajadas">
             </div>
             <div class="wow slideInRight">
-              <img src="img/servicios/consorcios_hoteles_embajadas_02.jpg" alt="Mantenimiento de piletas en
+              <img src="assets/images/servicios/consorcios_hoteles_embajadas_02.jpg" alt="Mantenimiento de piletas en
               consorcios, hoteles y embajadas">
             </div>
             <div class="wow slideInRight">
-              <img src="img/servicios/consorcios_hoteles_embajadas_03.jpg" alt="Mantenimiento de piletas en
+              <img src="assets/images/servicios/consorcios_hoteles_embajadas_03.jpg" alt="Mantenimiento de piletas en
               consorcios, hoteles y embajadas">
             </div>
           </div>
@@ -159,11 +159,11 @@
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js"
     integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous">
   </script>
-    <script src="js/wow.js"></script>
+    <script src="assets/scripts/wow.js"></script>
   <script>
     new WOW().init();
   </script>
-  <script src="js/scripts.js"></script>
+  <script src="assets/scripts/scripts.js"></script>
 
 </body>
 

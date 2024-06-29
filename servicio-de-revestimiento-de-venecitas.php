@@ -18,12 +18,12 @@
   <meta property="fb:app_id" content="383820332074788">
   <title>Revestimiento de Venecitas | SERVICIOS | INAGUA</title>
   <link rel="canonical" href="https://inagua.com.ar/servicio-de-revestimiento-de-venecitas">
-  <link rel="icon" href="img/logo.png">
+  <link rel="icon" href="assets/images/logo.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-  <link href="css/fileinput.css" rel="stylesheet">
-  <link rel="stylesheet" href="css/animate/animate.css">
-  <link type="text/css" rel="stylesheet" href="styles/css/lightgallery-bundle.css">
-  <link href="styles/css/main.css" rel="stylesheet">
+  <link href="assets/styles/css/fileinput.css" rel="stylesheet">
+  <link rel="stylesheet" href="assets/styles/css/animate/animate.css">
+  <link type="text/css" rel="stylesheet" href="assets/styles/css/lightgallery-bundle.css">
+  <link href="assets/styles/css/main.css" rel="stylesheet">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;600&family=Rubik:wght@300;400;600&display=swap"
@@ -68,7 +68,7 @@
     <?php include "include/chat.php"; ?>
   </section>
 
-  <span class="ir-arriba"><img src="img/up.png" alt="Ir arriba"></span>
+  <span class="ir-arriba"><img src="assets/images/up.png" alt="Ir arriba"></span>
   <div id="top"></div>
 
   <div id="fb-root"></div>
@@ -110,213 +110,213 @@
 
             <!-- Venecitas Gallery: Begin -->
             <div class="gallery-container" id="animated-thumbnails-gallery-01">
-              <a href="img/servicios/revestimientos-para-piletas/venecitas/mix_de_celestes.jpg" class="gallery-item"
+              <a href="assets/images/servicios/revestimientos-para-piletas/venecitas/mix_de_celestes.jpg" class="gallery-item"
                 data-sub-html="<p>VENECITAS MIX DE CELESTES</p>">
                 <img alt="VENECITAS MIX DE CELESTES" class="img-responsive"
-                  src="img/servicios/revestimientos-para-piletas/venecitas/mix_de_celestes.jpg">
+                  src="assets/images/servicios/revestimientos-para-piletas/venecitas/mix_de_celestes.jpg">
                 <span class="name">VENECITAS MIX DE CELESTES</span>
                 <span class="gallery-item-zoom"><i class="fa-solid fa-magnifying-glass"></i></span>
               </a>
-              <a href="img/servicios/revestimientos-para-piletas/venecitas/celeste_intermedio_niebla.jpg"
+              <a href="assets/images/servicios/revestimientos-para-piletas/venecitas/celeste_intermedio_niebla.jpg"
                 class="gallery-item" data-sub-html="<p>VENECITAS CELESTE INTERMEDIO NIEBLA - 5124</p>">
                 <img alt="VENECITAS CELESTE INTERMEDIO NIEBLA - 5124" class="img-responsive"
-                  src="img/servicios/revestimientos-para-piletas/venecitas/celeste_intermedio_niebla.jpg">
+                  src="assets/images/servicios/revestimientos-para-piletas/venecitas/celeste_intermedio_niebla.jpg">
                 <span class="name">VENECITAS CELESTE INTERMEDIO NIEBLA - 5124</span>
                 <span class="gallery-item-zoom"><i class="fa-solid fa-magnifying-glass"></i></span>
               </a>
-              <a href="img/servicios/revestimientos-para-piletas/venecitas/mix_de_celestes_y_blanco.jpg"
+              <a href="assets/images/servicios/revestimientos-para-piletas/venecitas/mix_de_celestes_y_blanco.jpg"
                 class="gallery-item" data-sub-html="<p>VENECITAS MIX DE CELESTES Y BLANCO</p>">
                 <img alt="VENECITAS MIX DE CELESTES Y BLANCO" class="img-responsive"
-                  src="img/servicios/revestimientos-para-piletas/venecitas/mix_de_celestes_y_blanco.jpg">
+                  src="assets/images/servicios/revestimientos-para-piletas/venecitas/mix_de_celestes_y_blanco.jpg">
                 <span class="name">VENECITAS MIX DE CELESTES Y BLANCO</span>
                 <span class="gallery-item-zoom"><i class="fa-solid fa-magnifying-glass"></i></span>
               </a>
-              <a href="img/servicios/revestimientos-para-piletas/venecitas/effect_gris_claro.jpg" class="gallery-item"
+              <a href="assets/images/servicios/revestimientos-para-piletas/venecitas/effect_gris_claro.jpg" class="gallery-item"
                 data-sub-html="<p>VENECITAS EFFECT GRIS CLARO - PM 104</p>">
                 <img alt="VENECITAS EFFECT GRIS CLARO - PM 104" class="img-responsive"
-                  src="img/servicios/revestimientos-para-piletas/venecitas/effect_gris_claro.jpg">
+                  src="assets/images/servicios/revestimientos-para-piletas/venecitas/effect_gris_claro.jpg">
                 <span class="name">VENECITAS EFFECT GRIS CLARO - PM 104</span>
                 <span class="gallery-item-zoom"><i class="fa-solid fa-magnifying-glass"></i></span>
               </a>
-              <a href="img/servicios/revestimientos-para-piletas/venecitas/exclusive_gris_claro_niebla.webp"
+              <a href="assets/images/servicios/revestimientos-para-piletas/venecitas/exclusive_gris_claro_niebla.webp"
                 class="gallery-item" data-sub-html="<p>VENECITAS EXCLUSIVE GRIS CLARO NIEBLA - DK72</p>">
                 <img alt="VENECITAS EXCLUSIVE GRIS CLARO NIEBLA - DK72" class="img-responsive"
-                  src="img/servicios/revestimientos-para-piletas/venecitas/exclusive_gris_claro_niebla.webp">
+                  src="assets/images/servicios/revestimientos-para-piletas/venecitas/exclusive_gris_claro_niebla.webp">
                 <span class="name">VENECITAS EXCLUSIVE GRIS CLARO NIEBLA - DK72</span>
                 <span class="gallery-item-zoom"><i class="fa-solid fa-magnifying-glass"></i></span>
               </a>
-              <a href="img/servicios/revestimientos-para-piletas/venecitas/exclusive_cocos.jpg" class="gallery-item"
+              <a href="assets/images/servicios/revestimientos-para-piletas/venecitas/exclusive_cocos.jpg" class="gallery-item"
                 data-sub-html="<p>VENECITAS EXCLUSIVE COCOS</p>">
                 <img alt="VENECITAS EXCLUSIVE COCOS" class="img-responsive"
-                  src="img/servicios/revestimientos-para-piletas/venecitas/exclusive_cocos.jpg">
+                  src="assets/images/servicios/revestimientos-para-piletas/venecitas/exclusive_cocos.jpg">
                 <span class="name">VENECITAS EXCLUSIVE COCOS</span>
                 <span class="gallery-item-zoom"><i class="fa-solid fa-magnifying-glass"></i></span>
               </a>
-              <a href="img/servicios/revestimientos-para-piletas/venecitas/exclusive_celeste_oscuro.jpg"
+              <a href="assets/images/servicios/revestimientos-para-piletas/venecitas/exclusive_celeste_oscuro.jpg"
                 class="gallery-item" data-sub-html="<p>VENECITAS EXCLUSIVE CELESTE OSCURO PS-50</p>">
                 <img alt="VENECITAS EXCLUSIVE CELESTE OSCURO PS-50" class="img-responsive"
-                  src="img/servicios/revestimientos-para-piletas/venecitas/exclusive_celeste_oscuro.jpg">
+                  src="assets/images/servicios/revestimientos-para-piletas/venecitas/exclusive_celeste_oscuro.jpg">
                 <span class="name">VENECITAS EXCLUSIVE CELESTE OSCURO PS-50</span>
                 <span class="gallery-item-zoom"><i class="fa-solid fa-magnifying-glass"></i></span>
               </a>
-              <a href="img/servicios/revestimientos-para-piletas/venecitas/mix_de_verdes.jpg" class="gallery-item"
+              <a href="assets/images/servicios/revestimientos-para-piletas/venecitas/mix_de_verdes.jpg" class="gallery-item"
                 data-sub-html="<p>VENECITAS MIX DE VERDES</p>">
                 <img alt="VENECITAS MIX DE VERDES" class="img-responsive"
-                  src="img/servicios/revestimientos-para-piletas/venecitas/mix_de_verdes.jpg">
+                  src="assets/images/servicios/revestimientos-para-piletas/venecitas/mix_de_verdes.jpg">
                 <span class="name">VENECITAS MIX DE VERDES</span>
                 <span class="gallery-item-zoom"><i class="fa-solid fa-magnifying-glass"></i></span>
               </a>
-              <a href="img/servicios/revestimientos-para-piletas/venecitas/exclusive_verde_oscuro_niebla.webp"
+              <a href="assets/images/servicios/revestimientos-para-piletas/venecitas/exclusive_verde_oscuro_niebla.webp"
                 class="gallery-item" data-sub-html="<p>VENECITAS EXCLUSIVE VERDE OSCURO NIEBLA DK-87</p>">
                 <img alt="VENECITAS EXCLUSIVE VERDE OSCURO NIEBLA DK-87" class="img-responsive"
-                  src="img/servicios/revestimientos-para-piletas/venecitas/exclusive_verde_oscuro_niebla.webp">
+                  src="assets/images/servicios/revestimientos-para-piletas/venecitas/exclusive_verde_oscuro_niebla.webp">
                 <span class="name">VENECITAS EXCLUSIVE VERDE OSCURO NIEBLA DK-87</span>
                 <span class="gallery-item-zoom"><i class="fa-solid fa-magnifying-glass"></i></span>
               </a>
-              <a href="img/servicios/revestimientos-para-piletas/venecitas/exclusive_azul_niebla.jpg"
+              <a href="assets/images/servicios/revestimientos-para-piletas/venecitas/exclusive_azul_niebla.jpg"
                 class="gallery-item" data-sub-html="<p>VENECITAS EXCLUSIVE AZUL NIEBLA - PS53</p>">
                 <img alt="VENECITAS EXCLUSIVE AZUL NIEBLA - PS53" class="img-responsive"
-                  src="img/servicios/revestimientos-para-piletas/venecitas/exclusive_azul_niebla.jpg">
+                  src="assets/images/servicios/revestimientos-para-piletas/venecitas/exclusive_azul_niebla.jpg">
                 <span class="name">VENECITAS EXCLUSIVE AZUL NIEBLA - PS53</span>
                 <span class="gallery-item-zoom"><i class="fa-solid fa-magnifying-glass"></i></span>
               </a>
-              <a href="img/servicios/revestimientos-para-piletas/venecitas/blanca.jpg" class="gallery-item"
+              <a href="assets/images/servicios/revestimientos-para-piletas/venecitas/blanca.jpg" class="gallery-item"
                 data-sub-html="<p>VENECITA BLANCA - 5101</p>">
                 <img alt="VENECITA BLANCA - 5101" class="img-responsive"
-                  src="img/servicios/revestimientos-para-piletas/venecitas/blanca.jpg">
+                  src="assets/images/servicios/revestimientos-para-piletas/venecitas/blanca.jpg">
                 <span class="name">VENECITA BLANCA - 5101</span>
                 <span class="gallery-item-zoom"><i class="fa-solid fa-magnifying-glass"></i></span>
               </a>
-              <a href="img/servicios/revestimientos-para-piletas/venecitas/celeste_oscuro.jpg" class="gallery-item"
+              <a href="assets/images/servicios/revestimientos-para-piletas/venecitas/celeste_oscuro.jpg" class="gallery-item"
                 data-sub-html="<p>VENECITA CELESTE OSCURO 5125</p>">
                 <img alt="VENECITA CELESTE OSCURO 5125" class="img-responsive"
-                  src="img/servicios/revestimientos-para-piletas/venecitas/celeste_oscuro.jpg">
+                  src="assets/images/servicios/revestimientos-para-piletas/venecitas/celeste_oscuro.jpg">
                 <span class="name">VENECITA CELESTE OSCURO 5125</span>
                 <span class="gallery-item-zoom"><i class="fa-solid fa-magnifying-glass"></i></span>
               </a>
-              <a href="img/servicios/revestimientos-para-piletas/venecitas/celeste_claro.jpg" class="gallery-item"
+              <a href="assets/images/servicios/revestimientos-para-piletas/venecitas/celeste_claro.jpg" class="gallery-item"
                 data-sub-html="<p>VENECITAS CELESTE CLARO 5121</p>">
                 <img alt="VENECITAS CELESTE CLARO 5121" class="img-responsive"
-                  src="img/servicios/revestimientos-para-piletas/venecitas/celeste_claro.jpg">
+                  src="assets/images/servicios/revestimientos-para-piletas/venecitas/celeste_claro.jpg">
                 <span class="name">VENECITAS CELESTE CLARO 5121</span>
                 <span class="gallery-item-zoom"><i class="fa-solid fa-magnifying-glass"></i></span>
               </a>
-              <a href="img/servicios/revestimientos-para-piletas/venecitas/exclusive_celeste.webp" class="gallery-item"
+              <a href="assets/images/servicios/revestimientos-para-piletas/venecitas/exclusive_celeste.webp" class="gallery-item"
                 data-sub-html="<p>VENECITA EXCLUSIVE CELESTE - PS 41</p>">
                 <img alt="VENECITA EXCLUSIVE CELESTE - PS 41" class="img-responsive"
-                  src="img/servicios/revestimientos-para-piletas/venecitas/exclusive_celeste.webp">
+                  src="assets/images/servicios/revestimientos-para-piletas/venecitas/exclusive_celeste.webp">
                 <span class="name">VENECITA EXCLUSIVE CELESTE - PS 41</span>
                 <span class="gallery-item-zoom"><i class="fa-solid fa-magnifying-glass"></i></span>
               </a>
-              <a href="img/servicios/revestimientos-para-piletas/venecitas/exclusive_verde_claro_niebla.jpg"
+              <a href="assets/images/servicios/revestimientos-para-piletas/venecitas/exclusive_verde_claro_niebla.jpg"
                 class="gallery-item" data-sub-html="<p>VENECITAS EXCLUSIVE VERDE CLARO NIEBLA DK-84</p>">
                 <img alt="VENECITAS EXCLUSIVE VERDE CLARO NIEBLA DK-84" class="img-responsive"
-                  src="img/servicios/revestimientos-para-piletas/venecitas/exclusive_verde_claro_niebla.jpg">
+                  src="assets/images/servicios/revestimientos-para-piletas/venecitas/exclusive_verde_claro_niebla.jpg">
                 <span class="name">VENECITAS EXCLUSIVE VERDE CLARO NIEBLA DK-84</span>
                 <span class="gallery-item-zoom"><i class="fa-solid fa-magnifying-glass"></i></span>
               </a>
-              <a href="img/servicios/revestimientos-para-piletas/venecitas/exclusive_negra.jpg" class="gallery-item"
+              <a href="assets/images/servicios/revestimientos-para-piletas/venecitas/exclusive_negra.jpg" class="gallery-item"
                 data-sub-html="<p>VENECITA EXCLUSIVE NEGRA DK-75</p>">
                 <img alt="VENECITA EXCLUSIVE NEGRA DK-75" class="img-responsive"
-                  src="img/servicios/revestimientos-para-piletas/venecitas/exclusive_negra.jpg">
+                  src="assets/images/servicios/revestimientos-para-piletas/venecitas/exclusive_negra.jpg">
                 <span class="name">VENECITA EXCLUSIVE NEGRA DK-75</span>
                 <span class="gallery-item-zoom"><i class="fa-solid fa-magnifying-glass"></i></span>
               </a>
-              <a href="img/servicios/revestimientos-para-piletas/venecitas/exclusive_verde_niebla.jpg"
+              <a href="assets/images/servicios/revestimientos-para-piletas/venecitas/exclusive_verde_niebla.jpg"
                 class="gallery-item" data-sub-html="<p>VENECITAS EXCLUSIVE VERDE NIEBLA PS-56</p>">
                 <img alt="VENECITAS EXCLUSIVE VERDE NIEBLA PS-56" class="img-responsive"
-                  src="img/servicios/revestimientos-para-piletas/venecitas/exclusive_verde_niebla.jpg">
+                  src="assets/images/servicios/revestimientos-para-piletas/venecitas/exclusive_verde_niebla.jpg">
                 <span class="name">VENECITAS EXCLUSIVE VERDE NIEBLA PS-56</span>
                 <span class="gallery-item-zoom"><i class="fa-solid fa-magnifying-glass"></i></span>
               </a>
-              <a href="img/servicios/revestimientos-para-piletas/venecitas/exclusive_azul_oscuro_niebla.jpg"
+              <a href="assets/images/servicios/revestimientos-para-piletas/venecitas/exclusive_azul_oscuro_niebla.jpg"
                 class="gallery-item" data-sub-html="<p>VENECITAS EXCLUSIVE AZUL OSCURO NIEBLA PS-55</p>">
                 <img alt="VENECITAS EXCLUSIVE AZUL OSCURO NIEBLA PS-55" class="img-responsive"
-                  src="img/servicios/revestimientos-para-piletas/venecitas/exclusive_azul_oscuro_niebla.jpg">
+                  src="assets/images/servicios/revestimientos-para-piletas/venecitas/exclusive_azul_oscuro_niebla.jpg">
                 <span class="name">VENECITAS EXCLUSIVE AZUL OSCURO NIEBLA PS-55</span>
                 <span class="gallery-item-zoom"><i class="fa-solid fa-magnifying-glass"></i></span>
               </a>
-              <a href="img/servicios/revestimientos-para-piletas/venecitas/exclusive_gris_niebla.jpg"
+              <a href="assets/images/servicios/revestimientos-para-piletas/venecitas/exclusive_gris_niebla.jpg"
                 class="gallery-item" data-sub-html="<p>VENECITAS EXCLUSIVE GRIS NIEBLA PS-54</p>">
                 <img alt="VENECITAS EXCLUSIVE GRIS NIEBLA PS-54" class="img-responsive"
-                  src="img/servicios/revestimientos-para-piletas/venecitas/exclusive_gris_niebla.jpg">
+                  src="assets/images/servicios/revestimientos-para-piletas/venecitas/exclusive_gris_niebla.jpg">
                 <span class="name">VENECITAS EXCLUSIVE GRIS NIEBLA PS-54</span>
                 <span class="gallery-item-zoom"><i class="fa-solid fa-magnifying-glass"></i></span>
               </a>
-              <a href="img/servicios/revestimientos-para-piletas/venecitas/exclusive_mix_azules.jpg"
+              <a href="assets/images/servicios/revestimientos-para-piletas/venecitas/exclusive_mix_azules.jpg"
                 class="gallery-item" data-sub-html="<p>VENECITAS EXCLUSIVE MIX AZULES</p>">
                 <img alt="VENECITAS EXCLUSIVE MIX AZULES" class="img-responsive"
-                  src="img/servicios/revestimientos-para-piletas/venecitas/exclusive_mix_azules.jpg">
+                  src="assets/images/servicios/revestimientos-para-piletas/venecitas/exclusive_mix_azules.jpg">
                 <span class="name">VENECITAS EXCLUSIVE MIX AZULES</span>
                 <span class="gallery-item-zoom"><i class="fa-solid fa-magnifying-glass"></i></span>
               </a>
-              <a href="img/servicios/revestimientos-para-piletas/venecitas/exclusive_negra_niebla.jpg"
+              <a href="assets/images/servicios/revestimientos-para-piletas/venecitas/exclusive_negra_niebla.jpg"
                 class="gallery-item" data-sub-html="<p>VENECITAS EXCLUSIVE NEGRA NIEBLA</p>">
                 <img alt="VENECITAS EXCLUSIVE NEGRA NIEBLA" class="img-responsive"
-                  src="img/servicios/revestimientos-para-piletas/venecitas/exclusive_negra_niebla.jpg">
+                  src="assets/images/servicios/revestimientos-para-piletas/venecitas/exclusive_negra_niebla.jpg">
                 <span class="name">VENECITAS EXCLUSIVE NEGRA NIEBLA</span>
                 <span class="gallery-item-zoom"><i class="fa-solid fa-magnifying-glass"></i></span>
               </a>
-              <a href="img/servicios/revestimientos-para-piletas/venecitas/exclusive_azul_intermedio.jpg"
+              <a href="assets/images/servicios/revestimientos-para-piletas/venecitas/exclusive_azul_intermedio.jpg"
                 class="gallery-item" data-sub-html="<p>VENECITA EXCLUSIVE AZUL INTERMEDIO</p>">
                 <img alt="VENECITA EXCLUSIVE AZUL INTERMEDIO" class="img-responsive"
-                  src="img/servicios/revestimientos-para-piletas/venecitas/exclusive_azul_intermedio.jpg">
+                  src="assets/images/servicios/revestimientos-para-piletas/venecitas/exclusive_azul_intermedio.jpg">
                 <span class="name">VENECITA EXCLUSIVE AZUL INTERMEDIO</span>
                 <span class="gallery-item-zoom"><i class="fa-solid fa-magnifying-glass"></i></span>
               </a>
-              <a href="img/servicios/revestimientos-para-piletas/venecitas/exclusive_turquese_lagoon.jpg"
+              <a href="assets/images/servicios/revestimientos-para-piletas/venecitas/exclusive_turquese_lagoon.jpg"
                 class="gallery-item" data-sub-html="<p>VENECITAS EXCLUSIVE TURQUESE LAGOON PA-10</p>">
                 <img alt="VENECITAS EXCLUSIVE TURQUESE LAGOON PA-10" class="img-responsive"
-                  src="img/servicios/revestimientos-para-piletas/venecitas/exclusive_turquese_lagoon.jpg">
+                  src="assets/images/servicios/revestimientos-para-piletas/venecitas/exclusive_turquese_lagoon.jpg">
                 <span class="name">VENECITAS EXCLUSIVE TURQUESE LAGOON PA-10</span>
                 <span class="gallery-item-zoom"><i class="fa-solid fa-magnifying-glass"></i></span>
               </a>
-              <a href="img/servicios/revestimientos-para-piletas/venecitas/exclusive_jade.jpg" class="gallery-item"
+              <a href="assets/images/servicios/revestimientos-para-piletas/venecitas/exclusive_jade.jpg" class="gallery-item"
                 data-sub-html="<p>VENECITAS EXCLUSIVE JADE PA-02</p>">
                 <img alt="VENECITAS EXCLUSIVE JADE PA-02" class="img-responsive"
-                  src="img/servicios/revestimientos-para-piletas/venecitas/exclusive_jade.jpg">
+                  src="assets/images/servicios/revestimientos-para-piletas/venecitas/exclusive_jade.jpg">
                 <span class="name">VENECITAS EXCLUSIVE JADE PA-02</span>
                 <span class="gallery-item-zoom"><i class="fa-solid fa-magnifying-glass"></i></span>
               </a>
-              <a href="img/servicios/revestimientos-para-piletas/venecitas/exclusive_blue_bali.jpg" class="gallery-item"
+              <a href="assets/images/servicios/revestimientos-para-piletas/venecitas/exclusive_blue_bali.jpg" class="gallery-item"
                 data-sub-html="<p>VENECITAS EXCLUSIVE BLUE BALI</p>">
                 <img alt="VENECITAS EXCLUSIVE BLUE BALI" class="img-responsive"
-                  src="img/servicios/revestimientos-para-piletas/venecitas/exclusive_blue_bali.jpg">
+                  src="assets/images/servicios/revestimientos-para-piletas/venecitas/exclusive_blue_bali.jpg">
                 <span class="name">VENECITAS EXCLUSIVE BLUE BALI</span>
                 <span class="gallery-item-zoom"><i class="fa-solid fa-magnifying-glass"></i></span>
               </a>
-              <a href="img/servicios/revestimientos-para-piletas/venecitas/exclusive_blanco_niebla.jpg"
+              <a href="assets/images/servicios/revestimientos-para-piletas/venecitas/exclusive_blanco_niebla.jpg"
                 class="gallery-item" data-sub-html="<p>VENECITAS EXCLUSIVE BLANCO NIEBLA</p>">
                 <img alt="VENECITAS EXCLUSIVE BLANCO NIEBLA" class="img-responsive"
-                  src="img/servicios/revestimientos-para-piletas/venecitas/exclusive_blanco_niebla.jpg">
+                  src="assets/images/servicios/revestimientos-para-piletas/venecitas/exclusive_blanco_niebla.jpg">
                 <span class="name">VENECITAS EXCLUSIVE BLANCO NIEBLA</span>
                 <span class="gallery-item-zoom"><i class="fa-solid fa-magnifying-glass"></i></span>
               </a>
-              <a href="img/servicios/revestimientos-para-piletas/venecitas/exclusive_blancas.jpg" class="gallery-item"
+              <a href="assets/images/servicios/revestimientos-para-piletas/venecitas/exclusive_blancas.jpg" class="gallery-item"
                 data-sub-html="<p>VENECITAS EXCLUSIVE BLANCAS - PS25</p>">
                 <img alt="VENECITAS EXCLUSIVE BLANCAS - PS25" class="img-responsive"
-                  src="img/servicios/revestimientos-para-piletas/venecitas/exclusive_blancas.jpg">
+                  src="assets/images/servicios/revestimientos-para-piletas/venecitas/exclusive_blancas.jpg">
                 <span class="name">VENECITAS EXCLUSIVE BLANCAS - PS25</span>
                 <span class="gallery-item-zoom"><i class="fa-solid fa-magnifying-glass"></i></span>
               </a>
-              <a href="img/servicios/revestimientos-para-piletas/venecitas/exclusive_celestes.jpg" class="gallery-item"
+              <a href="assets/images/servicios/revestimientos-para-piletas/venecitas/exclusive_celestes.jpg" class="gallery-item"
                 data-sub-html="<p>VENECITAS EXCLUSIVE CELESTES - PS40</p>">
                 <img alt="VENECITAS EXCLUSIVE CELESTES - PS40" class="img-responsive"
-                  src="img/servicios/revestimientos-para-piletas/venecitas/exclusive_celestes.jpg">
+                  src="assets/images/servicios/revestimientos-para-piletas/venecitas/exclusive_celestes.jpg">
                 <span class="name">VENECITAS EXCLUSIVE CELESTES - PS40</span>
                 <span class="gallery-item-zoom"><i class="fa-solid fa-magnifying-glass"></i></span>
               </a>
-              <a href="img/servicios/revestimientos-para-piletas/venecitas/exclusive_azul_cobalto.jpg"
+              <a href="assets/images/servicios/revestimientos-para-piletas/venecitas/exclusive_azul_cobalto.jpg"
                 class="gallery-item" data-sub-html="<p>VENECITAS EXCLUSIVE AZUL COBALTO</p>">
                 <img alt="VENECITAS EXCLUSIVE AZUL COBALTO" class="img-responsive"
-                  src="img/servicios/revestimientos-para-piletas/venecitas/exclusive_azul_cobalto.jpg">
+                  src="assets/images/servicios/revestimientos-para-piletas/venecitas/exclusive_azul_cobalto.jpg">
                 <span class="name">VENECITAS EXCLUSIVE AZUL COBALTO</span>
                 <span class="gallery-item-zoom"><i class="fa-solid fa-magnifying-glass"></i></span>
               </a>
-              <a href="img/servicios/revestimientos-para-piletas/venecitas/effect_verde_claro.jpg" class="gallery-item"
+              <a href="assets/images/servicios/revestimientos-para-piletas/venecitas/effect_verde_claro.jpg" class="gallery-item"
                 data-sub-html="<p>VENECITAS EFFECT VERDE CLARO - PM 301</p>">
                 <img alt="VENECITAS EFFECT VERDE CLARO - PM 301" class="img-responsive"
-                  src="img/servicios/revestimientos-para-piletas/venecitas/effect_verde_claro.jpg">
+                  src="assets/images/servicios/revestimientos-para-piletas/venecitas/effect_verde_claro.jpg">
                 <span class="name">VENECITAS EFFECT VERDE CLARO - PM 301</span>
                 <span class="gallery-item-zoom"><i class="fa-solid fa-magnifying-glass"></i></span>
               </a>
@@ -355,22 +355,22 @@
   </footer>
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-  <script src="js/fileinput.js" type="text/javascript"></script>
   <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"
     integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous">
   </script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js"
     integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous">
   </script>
-  <script src="js/scripts.js"></script>
-  <script src="js/wow.js"></script>
+  <script src="assets/scripts/wow.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.3/jquery.min.js"
     integrity="sha512-STof4xm1wgkfm7heWqFJVn58Hm3EtS31XFaagaa8VMReCXAkQnJZ+jEy8PCC/iT18dFy95WcExNHFTqLyp72eQ=="
     crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-  <script src="js/lightgallery/lightgallery.min.js"></script>
+  <script src="assets/scripts/fileinput.js" type="text/javascript"></script>
+  <script src="assets/scripts/scripts.js"></script>
+  <script src="assets/scripts/lightgallery/lightgallery.min.js"></script>
   <!-- lightgallery plugins -->
-  <script src="js/lightgallery/plugins/zoom/lg-zoom.min.js"></script>
-  <script src="js/lightgallery/plugins/thumbnail/lg-thumbnail.min.js"></script>
+  <script src="assets/scripts/lightgallery/plugins/zoom/lg-zoom.min.js"></script>
+  <script src="assets/scripts/lightgallery/plugins/thumbnail/lg-thumbnail.min.js"></script>
   <script>
     new WOW().init();
   </script>

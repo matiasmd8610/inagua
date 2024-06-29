@@ -3,7 +3,7 @@
         <div class="row">
 
             <div class="col-md-6 wow slideInLeft" datos-wow-duracion="0.5s" data-wow-delay="0.5s">
-                <img src="img/destacamos_img.jpg" alt="Hombre trabajando" class="staff_1">
+                <img src="assets/images/destacamos_img.jpg" alt="Hombre trabajando" class="staff_1">
             </div>
 
             <div class="col-md-6 wow slideInRight" datos-wow-duracion="1s" data-wow-delay="1s">
@@ -22,7 +22,7 @@
                         vida obligatorio y ART</strong>
                 </p>
 
-                <img src="img/logo_seguro.png" alt="" class="logo_seguro" width="300">
+                <img src="assets/images/logo_seguro.png" alt="" class="logo_seguro" width="300">
             </div>
 
         </div>

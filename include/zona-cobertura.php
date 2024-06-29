@@ -9,7 +9,7 @@
 
         <div class="col-md-6 lugar_char">
           <div>
-            <img src="img/partner_2.jpg" class="chata_ind" alt="">
+            <img src="assets/images/partner_2.jpg" class="chata_ind" alt="">
           </div>
           <div class="texto_zona_1">
             <p>Brindamos servicios de mantenimiento de piletas en todos los barrios de Capital Federal y alrededores.</p>

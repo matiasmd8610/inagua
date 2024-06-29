@@ -12,7 +12,7 @@
       <div class="container">
         <div class="row">
             <div class="col-md-12 wow slideInLeft" align="center">
-                <img src="img/Recomendaciones-sobre-mantenimiento-de-piscinas.png" alt="Recomendaciones-sobre-mantenimiento-de-piscinas" class="img_produc_pintura">
+                <img src="assets/images/Recomendaciones-sobre-mantenimiento-de-piscinas.png" alt="Recomendaciones-sobre-mantenimiento-de-piscinas" class="img_produc_pintura">
             </div>
             
         </div>
@@ -106,10 +106,10 @@
 <br>
     Tienen dos grandes ventajas: 
 <br>
-            <img src="img/punto1.jpg" width="10" height="10" alt=""/ > <i>Se evidencia en menor medida la suciedad acumulada a nivel del “pelo de agua” de la piscina y facilita su limpieza.</i>
+            <img src="assets/images/punto1.jpg" width="10" height="10" alt=""/ > <i>Se evidencia en menor medida la suciedad acumulada a nivel del “pelo de agua” de la piscina y facilita su limpieza.</i>
 <br>
 
-            <img src="img/punto1.jpg" width="10" height="10" alt=""/ > <i>Mejora notablemente el aspecto estético de la piscina.Preferentemente el material adecuado debe ser el específico para piscina (Mosaico Veneciano), vienen en distintos motivos y medidas.</i>      
+            <img src="assets/images/punto1.jpg" width="10" height="10" alt=""/ > <i>Mejora notablemente el aspecto estético de la piscina.Preferentemente el material adecuado debe ser el específico para piscina (Mosaico Veneciano), vienen en distintos motivos y medidas.</i>      
 <br><br>
      <b>Hidromasaje </b> 
 <br>
@@ -119,10 +119,10 @@
 <br>
 Puede ser por medio de: 
 <br>
-             <img src="img/punto1.jpg" width="10" height="10" alt=""/ > <i>Ópticas Halógenas, llega 12 v a la piscina.</i>
+             <img src="assets/images/punto1.jpg" width="10" height="10" alt=""/ > <i>Ópticas Halógenas, llega 12 v a la piscina.</i>
 <br>
 
-            <img src="img/punto1.jpg" width="10" height="10" alt=""/ > <i>Fibra Óptica, es cero volt, o sea, solo llega luz a la piscina por medio de dicha fibra.</i> 
+            <img src="assets/images/punto1.jpg" width="10" height="10" alt=""/ > <i>Fibra Óptica, es cero volt, o sea, solo llega luz a la piscina por medio de dicha fibra.</i> 
 <br><br>
      <b>Reloj Interruptor para Filtros  </b> 
 <br>
@@ -216,9 +216,9 @@ Puede ser por medio de:
                   </div> 
                   
                  <div class="seguinos20">
-                    <a href="javascript:window.open('https://www.facebook.com/sharer/sharer.php?u=http://inagua.com.ar/articulo.php?id=33','','width=600,height=400,left=50,top=50,toolbar=yes');void 0" rel="image_src"><img src="img/logo_face.png" class="icono_face_compa" alt=""></a>
-                    <a  href="javascript:window.open('https://twitter.com/?status= El articulo http://inagua.com.ar/articulo.php?id=33 es muy interesante. Te invito a que lo leas y compartas','','width=600,height=400,left=50,top=50,toolbar=yes');void 0""><img src="img/logo_tw.png" alt="" class="icono_face_compa"></a>
-                   <a href="whatsapp://send?text=URL" data-action="share/whatsapp/share"><img src="img/whatsapp.png" alt="" class="icono_face_compa2"></a>
+                    <a href="javascript:window.open('https://www.facebook.com/sharer/sharer.php?u=http://inagua.com.ar/articulo.php?id=33','','width=600,height=400,left=50,top=50,toolbar=yes');void 0" rel="image_src"><img src="assets/images/logo_face.png" class="icono_face_compa" alt=""></a>
+                    <a  href="javascript:window.open('https://twitter.com/?status= El articulo http://inagua.com.ar/articulo.php?id=33 es muy interesante. Te invito a que lo leas y compartas','','width=600,height=400,left=50,top=50,toolbar=yes');void 0""><img src="assets/images/logo_tw.png" alt="" class="icono_face_compa"></a>
+                   <a href="whatsapp://send?text=URL" data-action="share/whatsapp/share"><img src="assets/images/whatsapp.png" alt="" class="icono_face_compa2"></a>
                     
                   </div> 
 <br><br>

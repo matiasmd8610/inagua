@@ -12,7 +12,7 @@
       <div class="container">
         <div class="row">
             <div class="col-md-12 wow slideInLeft" align="center">
-                <img src="img/cloro-vs-asma.png" alt="cloro-vs-asma" class="img_produc_pintura">
+                <img src="assets/images/cloro-vs-asma.png" alt="cloro-vs-asma" class="img_produc_pintura">
             </div>
             
         </div>
@@ -29,13 +29,13 @@
             <b>NEUMOSUR ADVIERTE QUE NADAR EN PISCINAS CON EXCESO DE CLORO PUEDE AUMENTAR LAS POSIBILIDADES DE QUE UN NIÑO DESARROLLE SÍNTOMAS ASMÁTICOS. </b> 
 <br>
 <br>
-            <img src="img/punto1.jpg" width="10" height="10" alt=""/ > <i>Esta probabilidad se incrementa, especialmente en sujetos predispuestos, cuando más pequeño sea el niño, más tiempo permanezca en el agua, más agua ingiera, menos higiene personal se requiera a la hora de zambullirse, y mayor sea la temperatura del agua.</i>
+            <img src="assets/images/punto1.jpg" width="10" height="10" alt=""/ > <i>Esta probabilidad se incrementa, especialmente en sujetos predispuestos, cuando más pequeño sea el niño, más tiempo permanezca en el agua, más agua ingiera, menos higiene personal se requiera a la hora de zambullirse, y mayor sea la temperatura del agua.</i>
 <br><br>
-            <img src="img/punto1.jpg" width="10" height="10" alt=""/> <i>El cloro y el agua, al mezclarse con el sudor, la saliva y la orina, genera cloramina, una sustancia que puede lesionar el epitelio pulmonar y provocar síntomas asmáticos o desencadenar asma en niños predispuestos (atópicos) </i>
+            <img src="assets/images/punto1.jpg" width="10" height="10" alt=""/> <i>El cloro y el agua, al mezclarse con el sudor, la saliva y la orina, genera cloramina, una sustancia que puede lesionar el epitelio pulmonar y provocar síntomas asmáticos o desencadenar asma en niños predispuestos (atópicos) </i>
 <br><br>
-            <img src="img/punto1.jpg" width="10" height="10" alt=""/> <i>El asma afecta a más de 300 millones de personas en el mundo y es la causa más frecuente de enfermedad infantil crónica. </i> 
+            <img src="assets/images/punto1.jpg" width="10" height="10" alt=""/> <i>El asma afecta a más de 300 millones de personas en el mundo y es la causa más frecuente de enfermedad infantil crónica. </i> 
 <br><br>
-            <img src="img/punto1.jpg" width="10" height="10" alt=""/> <i>Además de los niños menores de 6-7 años, el exceso de cloro en las piscinas lo acusan antes los sujetos con alergia o enfermedad respiratoria.</i> 
+            <img src="assets/images/punto1.jpg" width="10" height="10" alt=""/> <i>Además de los niños menores de 6-7 años, el exceso de cloro en las piscinas lo acusan antes los sujetos con alergia o enfermedad respiratoria.</i> 
 <br><br>
            
             Sevilla, 14 de julio de 2009.- Coincidiendo con la llegada de las vacaciones y el comienzo de la temporada de piscinas, la Asociación de Neumólogos del Sur (Neumosur) advierte a los padres que nadar en piscinas con exceso de cloro puede aumentar las posibilidades de que un niño desarrolle síntomas de asma, y que esta probabilidad aumenta cuanto más pequeño sea el niño, más tiempo permanezca en el agua, más agua ingieran los niños, menos higiene personal se requiera a la hora de zambullirse, y mayor sea la temperatura del agua. 
@@ -52,25 +52,25 @@
 <br><br>
           <b>Diez recomendaciones</b>           
 <br><br>
-            <img src="img/punto1.jpg" width="10" height="10" alt=""/ > <i>Comprobar que las instalaciones reúnen los permisos y condiciones adecuadas. </i>
+            <img src="assets/images/punto1.jpg" width="10" height="10" alt=""/ > <i>Comprobar que las instalaciones reúnen los permisos y condiciones adecuadas. </i>
 <br><br>
-            <img src="img/punto1.jpg" width="10" height="10" alt=""/> <i>Evitar el baño cuando se sospeche por el olor un exceso de cloro o inadecuado mantenimiento de condiciones higiénicas.</i>
+            <img src="assets/images/punto1.jpg" width="10" height="10" alt=""/> <i>Evitar el baño cuando se sospeche por el olor un exceso de cloro o inadecuado mantenimiento de condiciones higiénicas.</i>
 <br><br>
-            <img src="img/punto1.jpg" width="10" height="10" alt=""/> <i> Tratar de que los niños no traguen agua. </i> 
+            <img src="assets/images/punto1.jpg" width="10" height="10" alt=""/> <i> Tratar de que los niños no traguen agua. </i> 
 <br><br>
-            <img src="img/punto1.jpg" width="10" height="10" alt=""/> <i>Evitar baños y exposiciones demasiado prolongadas al cloro. </i> 
+            <img src="assets/images/punto1.jpg" width="10" height="10" alt=""/> <i>Evitar baños y exposiciones demasiado prolongadas al cloro. </i> 
 <br><br>
-          <img src="img/punto1.jpg" width="10" height="10" alt=""/ > <i>Ducharse antes de bañarse y exigir que los demás lo hagan, también a los niños.</i>
+          <img src="assets/images/punto1.jpg" width="10" height="10" alt=""/ > <i>Ducharse antes de bañarse y exigir que los demás lo hagan, también a los niños.</i>
 <br><br>
-            <img src="img/punto1.jpg" width="10" height="10" alt=""/> <i>Usar y exigir el uso de pañales es pecíficos para el baño en menores.  </i>
+            <img src="assets/images/punto1.jpg" width="10" height="10" alt=""/> <i>Usar y exigir el uso de pañales es pecíficos para el baño en menores.  </i>
 <br><br>
-            <img src="img/punto1.jpg" width="10" height="10" alt=""/> <i>Tener especial cuidado con los menores de 2-3 años y con niños predispuestos (atópicos).</i> 
+            <img src="assets/images/punto1.jpg" width="10" height="10" alt=""/> <i>Tener especial cuidado con los menores de 2-3 años y con niños predispuestos (atópicos).</i> 
 <br><br>
-            <img src="img/punto1.jpg" width="10" height="10" alt=""/> <i>Fomentar en los niños asmáticos hacer deporte, conociendo cuáles son los más adecuados y en qué condiciones deben practicarse. La natación puede ser un deporte adecuado, pero hay situaciones y condicionantes en los que puede resultar perjudicial, especialmente en lugares con alta concentración de sustancias irritantes como el cloro.</i> 
+            <img src="assets/images/punto1.jpg" width="10" height="10" alt=""/> <i>Fomentar en los niños asmáticos hacer deporte, conociendo cuáles son los más adecuados y en qué condiciones deben practicarse. La natación puede ser un deporte adecuado, pero hay situaciones y condicionantes en los que puede resultar perjudicial, especialmente en lugares con alta concentración de sustancias irritantes como el cloro.</i> 
 <br><br>
-          <img src="img/punto1.jpg" width="10" height="10" alt=""/ > <i> Mejor las piscinas al aire libre que las cubiertas. Evitar las piscinas con poca ventilación. </i>
+          <img src="assets/images/punto1.jpg" width="10" height="10" alt=""/ > <i> Mejor las piscinas al aire libre que las cubiertas. Evitar las piscinas con poca ventilación. </i>
 <br><br>
-            <img src="img/punto1.jpg" width="10" height="10" alt=""/> <i> Cuanto más fría el agua, menos riesgo (aunque se deben evitar cambios bruscos de temperatura).</i>
+            <img src="assets/images/punto1.jpg" width="10" height="10" alt=""/> <i> Cuanto más fría el agua, menos riesgo (aunque se deben evitar cambios bruscos de temperatura).</i>
 <br><br>
   
  <?php include "include/advertencia.php"; ?>
@@ -94,9 +94,9 @@ Fuente:<b> Prensa Neumosur José Julio Moreno 677 40 82 46 Manoli Hernández 651
                   </div> 
                   
                    <div class="seguinos20">
-                    <a href="javascript:window.open('https://www.facebook.com/sharer/sharer.php?u=http://inagua.com.ar/articulo.php?id=22','','width=600,height=400,left=50,top=50,toolbar=yes');void 0" rel="image_src"><img src="img/logo_face.png" class="icono_face_compa" alt=""></a>
-                    <a  href="javascript:window.open('https://twitter.com/?status= El articulo http://inagua.com.ar/articulo.php?id=22 es muy interesante. Te invito a que lo leas y compartas','','width=600,height=400,left=50,top=50,toolbar=yes');void 0""><img src="img/logo_tw.png" alt="" class="icono_face_compa"></a>
-                   <a href="whatsapp://send?text=URL" data-action="share/whatsapp/share"><img src="img/whatsapp.png" alt="" class="icono_face_compa2"></a>
+                    <a href="javascript:window.open('https://www.facebook.com/sharer/sharer.php?u=http://inagua.com.ar/articulo.php?id=22','','width=600,height=400,left=50,top=50,toolbar=yes');void 0" rel="image_src"><img src="assets/images/logo_face.png" class="icono_face_compa" alt=""></a>
+                    <a  href="javascript:window.open('https://twitter.com/?status= El articulo http://inagua.com.ar/articulo.php?id=22 es muy interesante. Te invito a que lo leas y compartas','','width=600,height=400,left=50,top=50,toolbar=yes');void 0""><img src="assets/images/logo_tw.png" alt="" class="icono_face_compa"></a>
+                   <a href="whatsapp://send?text=URL" data-action="share/whatsapp/share"><img src="assets/images/whatsapp.png" alt="" class="icono_face_compa2"></a>
                     
                   </div> 
 <br><br>

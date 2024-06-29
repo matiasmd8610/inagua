@@ -4,7 +4,7 @@
 
         <div class="col-lg-6 contenedor_horario">
           <div class="horario_atencion">
-            <img src="img/calendario.png" alt="Calendario" class="horario_atencion_header_icon">
+            <img src="assets/images/calendario.png" alt="Calendario" class="horario_atencion_header_icon">
             <div class="horario_atencion_header_tipos">
               <p class="dias_atencion my-0"><b>LUNES A VIERNES DE 8 hs a 17 hs</b></p>
               <p class="horarios_atencion my-0">SÁBADOS DE 8 hs a 12 hs</p>
@@ -16,7 +16,7 @@
           <p class="consulta_header my-0">HACENOS TU CONSULTA:</p>
           <a href="https://wa.me/541164420848?text=Hola!%20Quisiera%20recibir%20información%20sobre..." target="_blank">
             15-6442-0848
-            <img src="img/whatsapp_white.png" alt="Whatsapp" width="25" class="imagen_wh">
+            <img src="assets/images/whatsapp_white.png" alt="Whatsapp" width="25" class="imagen_wh">
           </a>
         </div>
         
@@ -26,7 +26,7 @@
 
   <div class="container nav-container">
     <a href="/">
-      <img src="img/logo_foo.png" alt="" class="logo_h">
+      <img src="assets/images/logo_foo.png" alt="" class="logo_h">
     </a>
     <button type="button" class="btn_menu2" aria-label="Menú">
       <span></span>

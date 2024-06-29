@@ -15,13 +15,11 @@
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo" />
   <title>Desagote, limpieza y desinfección de piletas | SERVICIOS | INAGUA</title>
   <link rel="canonical" href="http://www.inagua.com.ar/servicio-de-desagote-limpieza-desinfeccion-de-piletas-y-piscinas-de-natacion">
-  <link rel="icon" href="img/logo.png">
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
-    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+  <link rel="icon" href="assets/images/logo.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-  <link href="css/fileinput.css" rel="stylesheet">
-  <link rel="stylesheet" href="css/animate/animate.css">
-  <link href="styles/css/main.css" rel="stylesheet">
+  <link href="assets/styles/css/fileinput.css" rel="stylesheet">
+  <link rel="stylesheet" href="assets/styles/css/animate/animate.css">
+  <link href="assets/styles/css/main.css" rel="stylesheet">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;600&family=Rubik:wght@300;400;600&display=swap"
@@ -68,7 +66,7 @@
     <?php include "include/chat.php"; ?>
 
   </section>
-  <span class="ir-arriba"><img src="img/up.png" alt=""></span>
+  <span class="ir-arriba"><img src="assets/images/up.png" alt=""></span>
   <div id="top"></div>
 
   <header>
@@ -85,19 +83,19 @@
         <h2 class="texto2 wow slideInUp">Queda lista para llenar, pintar o pastinar</h2>
         <div class="grid-services-images my-4">
           <div class="wow fadeInLeft">
-            <img class="img-fluid" src="img/servicios/desagote_01.jpg" alt="Desagote">
+            <img class="img-fluid" src="assets/images/servicios/desagote_01.jpg" alt="Desagote">
             <!-- <div class="name">
               <span>Desagote</span>
             </div> -->
           </div>
           <div class="wow fadeInDown">
-            <img class="img-fluid" src="img/servicios/desagote_02.jpg" alt="Desagote">
+            <img class="img-fluid" src="assets/images/servicios/desagote_02.jpg" alt="Desagote">
             <!-- <div class="name">
               <span>Limpieza</span>
             </div> -->
           </div>
           <div class="wow fadeInRight">
-            <img class="img-fluid" src="img/servicios/desagote_03.jpg" alt="Limpieza">
+            <img class="img-fluid" src="assets/images/servicios/desagote_03.jpg" alt="Limpieza">
             <!-- <div class="name">
               <span>Limpieza</span>
             </div> -->
@@ -142,13 +140,13 @@
   </footer>
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-  <script src="js/bootstrap.min.js"></script>
-  <script src="js/fileinput.js" type="text/javascript"></script>
-  <script src="js/wow.js"></script>
+  <script src="assets/scripts/bootstrap.min.js"></script>
+  <script src="assets/scripts/fileinput.js" type="text/javascript"></script>
+  <script src="assets/scripts/wow.js"></script>
   <script>
     new WOW().init();
   </script>
-  <script src="js/scripts.js"></script>
+  <script src="assets/scripts/scripts.js"></script>
 
 </body>
 

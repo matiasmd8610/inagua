@@ -18,12 +18,12 @@
   <meta property="fb:app_id" content="383820332074788">
   <title>Revestimiento en Piedra Bali | SERVICIOS | INAGUA</title>
   <link rel="canonical" href="https://inagua.com.ar/servicio-de-revestimiento-en-piedra-bali">
-  <link rel="icon" href="img/logo.png">
+  <link rel="icon" href="assets/images/logo.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-  <link href="css/fileinput.css" rel="stylesheet">
-  <link rel="stylesheet" href="css/animate/animate.css">
-  <link type="text/css" rel="stylesheet" href="styles/css/lightgallery-bundle.css">
-  <link href="styles/css/main.css" rel="stylesheet">
+  <link href="assets/styles/css/fileinput.css" rel="stylesheet">
+  <link rel="stylesheet" href="assets/styles/css/animate/animate.css">
+  <link type="text/css" rel="stylesheet" href="assets/styles/css/lightgallery-bundle.css">
+  <link href="assets/styles/css/main.css" rel="stylesheet">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;600&family=Rubik:wght@300;400;600&display=swap"
@@ -68,7 +68,7 @@
     <?php include "include/chat.php"; ?>
   </section>
 
-  <span class="ir-arriba"><img src="img/up.png" alt="Ir arriba"></span>
+  <span class="ir-arriba"><img src="assets/images/up.png" alt="Ir arriba"></span>
   <div id="top"></div>
 
   <div id="fb-root"></div>
@@ -110,31 +110,31 @@
 
             <!-- Piedra Bali Gallery: Begin -->
             <div class="gallery-container" id="animated-thumbnails-gallery-01">
-              <a href="img/servicios/revestimientos-para-piletas/pidra-bali/piedra_bali_verde_10x10.jpg"
+              <a href="assets/images/servicios/revestimientos-para-piletas/pidra-bali/piedra_bali_verde_10x10.jpg"
                 class="gallery-item" data-sub-html="<p>PIEDRA BALI VERDE 10x10 CM</p>">
                 <img alt="PIEDRA BALI VERDE 10x10 CM" class="img-responsive"
-                  src="img/servicios/revestimientos-para-piletas/pidra-bali/piedra_bali_verde_10x10.jpg">
+                  src="assets/images/servicios/revestimientos-para-piletas/pidra-bali/piedra_bali_verde_10x10.jpg">
                 <span class="name">PIEDRA BALI VERDE 10x10 CM</span>
                 <span class="gallery-item-zoom"><i class="fa-solid fa-magnifying-glass"></i></span>
               </a>
-              <a href="img/servicios/revestimientos-para-piletas/pidra-bali/piedra_bali_verde_20x20.jpg"
+              <a href="assets/images/servicios/revestimientos-para-piletas/pidra-bali/piedra_bali_verde_20x20.jpg"
                 class="gallery-item" data-sub-html="<p>PIEDRA BALI VERDE 20x20 CM</p>">
                 <img alt="PIEDRA BALI VERDE 20x20 CM" class="img-responsive"
-                  src="img/servicios/revestimientos-para-piletas/pidra-bali/piedra_bali_verde_20x20.jpg">
+                  src="assets/images/servicios/revestimientos-para-piletas/pidra-bali/piedra_bali_verde_20x20.jpg">
                 <span class="name">PIEDRA BALI VERDE 20x20 CM</span>
                 <span class="gallery-item-zoom"><i class="fa-solid fa-magnifying-glass"></i></span>
               </a>
-              <a href="img/servicios/revestimientos-para-piletas/pidra-bali/piedra_bali_negra_20x20.jpg"
+              <a href="assets/images/servicios/revestimientos-para-piletas/pidra-bali/piedra_bali_negra_20x20.jpg"
                 class="gallery-item" data-sub-html="<p>PIEDRA BALI NEGRA 20X20 CM</p>">
                 <img alt="PIEDRA BALI NEGRA 20X20 CM" class="img-responsive"
-                  src="img/servicios/revestimientos-para-piletas/pidra-bali/piedra_bali_negra_20x20.jpg">
+                  src="assets/images/servicios/revestimientos-para-piletas/pidra-bali/piedra_bali_negra_20x20.jpg">
                 <span class="name">PIEDRA BALI NEGRA 20X20 CM</span>
                 <span class="gallery-item-zoom"><i class="fa-solid fa-magnifying-glass"></i></span>
               </a>
-              <a href="img/servicios/revestimientos-para-piletas/pidra-bali/piedra_bali_negra_10x10.jpg"
+              <a href="assets/images/servicios/revestimientos-para-piletas/pidra-bali/piedra_bali_negra_10x10.jpg"
                 class="gallery-item" data-sub-html="<p>PIEDRA BALI NEGRA 10X10 CM</p>">
                 <img alt="PIEDRA BALI NEGRA 10X10 CM" class="img-responsive"
-                  src="img/servicios/revestimientos-para-piletas/pidra-bali/piedra_bali_negra_10x10.jpg">
+                  src="assets/images/servicios/revestimientos-para-piletas/pidra-bali/piedra_bali_negra_10x10.jpg">
                 <span class="name">PIEDRA BALI NEGRA 10X10 CM</span>
                 <span class="gallery-item-zoom"><i class="fa-solid fa-magnifying-glass"></i></span>
               </a>
@@ -173,22 +173,22 @@
   </footer>
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-  <script src="js/fileinput.js" type="text/javascript"></script>
   <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"
     integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous">
   </script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js"
     integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous">
   </script>
-  <script src="js/scripts.js"></script>
-  <script src="js/wow.js"></script>
+  <script src="assets/scripts/wow.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.3/jquery.min.js"
     integrity="sha512-STof4xm1wgkfm7heWqFJVn58Hm3EtS31XFaagaa8VMReCXAkQnJZ+jEy8PCC/iT18dFy95WcExNHFTqLyp72eQ=="
     crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-  <script src="js/lightgallery/lightgallery.min.js"></script>
+  <script src="assets/scripts/fileinput.js" type="text/javascript"></script>
+  <script src="assets/scripts/scripts.js"></script>
+  <script src="assets/scripts/lightgallery/lightgallery.min.js"></script>
   <!-- lightgallery plugins -->
-  <script src="js/lightgallery/plugins/zoom/lg-zoom.min.js"></script>
-  <script src="js/lightgallery/plugins/thumbnail/lg-thumbnail.min.js"></script>
+  <script src="assets/scripts/lightgallery/plugins/zoom/lg-zoom.min.js"></script>
+  <script src="assets/scripts/lightgallery/plugins/thumbnail/lg-thumbnail.min.js"></script>
   <script>
     new WOW().init();
   </script>

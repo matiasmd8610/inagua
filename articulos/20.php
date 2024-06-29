@@ -12,7 +12,7 @@
       <div class="container">
         <div class="row">
             <div class="col-md-12 wow slideInLeft" align="center">
-                <img src="img/prevencion-dengue.png" alt="pintura_piscinas" class="img_produc_pintura">
+                <img src="assets/images/prevencion-dengue.png" alt="pintura_piscinas" class="img_produc_pintura">
             </div>
             
         </div>
@@ -35,15 +35,15 @@
             <b>Para prevenir estos dos tipos de Dengue, es necesario tomar algunas medidas tales como:</b> 
 <br>
 <br>
-            <img src="img/punto1.jpg" width="10" height="10" alt="" > <i>Desechar todos los objetos inservibles capaces de acumular agua (latas, neumáticos, macetas, vasos de plástico, etc.) o mantener boca abajo a los recipientes que no estén en uso. </i>
+            <img src="assets/images/punto1.jpg" width="10" height="10" alt="" > <i>Desechar todos los objetos inservibles capaces de acumular agua (latas, neumáticos, macetas, vasos de plástico, etc.) o mantener boca abajo a los recipientes que no estén en uso. </i>
 <br><br>
-            <img src="img/punto1.jpg" width="10" height="10" alt=""> <i>También es importante tapar los recipientes que contengan agua y renovar el agua de los bebederos de los animales, floreros y jarrones por lo menos cada tres días. </i>
+            <img src="assets/images/punto1.jpg" width="10" height="10" alt=""> <i>También es importante tapar los recipientes que contengan agua y renovar el agua de los bebederos de los animales, floreros y jarrones por lo menos cada tres días. </i>
 <br><br>
-            <img src="img/punto1.jpg" width="10" height="10" alt=""> <i>Despejar canaletas y recodos para permitir la circulación del agua y eliminar toda la basura abandonada en torno a las viviendas.</i> 
+            <img src="assets/images/punto1.jpg" width="10" height="10" alt=""> <i>Despejar canaletas y recodos para permitir la circulación del agua y eliminar toda la basura abandonada en torno a las viviendas.</i> 
 <br><br>
-            <img src="img/punto1.jpg" width="10" height="10" alt=""> <i>Otras medidas preventivas son: la utilización de espirales, pastillas y líquidos fumigantes para evitar la picadura del Aedes Aegypti.</i> 
+            <img src="assets/images/punto1.jpg" width="10" height="10" alt=""> <i>Otras medidas preventivas son: la utilización de espirales, pastillas y líquidos fumigantes para evitar la picadura del Aedes Aegypti.</i> 
 <br><br>
-            <img src="img/punto1.jpg" width="10" height="10" alt=""> <i>La aplicación de repelentes en las partes del cuerpo expuestas y la colocación de mosquiteros o telas metálicas en las casas.</i> 
+            <img src="assets/images/punto1.jpg" width="10" height="10" alt=""> <i>La aplicación de repelentes en las partes del cuerpo expuestas y la colocación de mosquiteros o telas metálicas en las casas.</i> 
 <br><br>
             El Dengue es la enfermedad virósica más importante causada por el mosquito a los humanos y hay cuatro tipos de virus diferentes que contagian esta enfermedad, por lo que una persona puede infectarse cuatro veces. 
 <br>
@@ -78,9 +78,9 @@ Fuente:<b> Oficina de Prensa y Comunicación Ministerio de Salud de la Nación.<
                   </div> 
                   
                    <div class="seguinos20">
-                    <a href="javascript:window.open('https://www.facebook.com/sharer/sharer.php?u=http://inagua.com.ar/articulo.php?id=20','','width=600,height=400,left=50,top=50,toolbar=yes');void 0" rel="image_src"><img src="img/logo_face.png" class="icono_face_compa" alt=""></a>
-                    <a  href="javascript:window.open('https://twitter.com/?status= El articulo http://inagua.com.ar/articulo.php?id=20 es muy interesante. Te invito a que lo leas y compartas','','width=600,height=400,left=50,top=50,toolbar=yes');void 0""><img src="img/logo_tw.png" alt="" class="icono_face_compa"></a>
-                   <a href="whatsapp://send?text=URL" data-action="share/whatsapp/share"><img src="img/whatsapp.png" alt="" class="icono_face_compa2"></a>
+                    <a href="javascript:window.open('https://www.facebook.com/sharer/sharer.php?u=http://inagua.com.ar/articulo.php?id=20','','width=600,height=400,left=50,top=50,toolbar=yes');void 0" rel="image_src"><img src="assets/images/logo_face.png" class="icono_face_compa" alt=""></a>
+                    <a  href="javascript:window.open('https://twitter.com/?status= El articulo http://inagua.com.ar/articulo.php?id=20 es muy interesante. Te invito a que lo leas y compartas','','width=600,height=400,left=50,top=50,toolbar=yes');void 0""><img src="assets/images/logo_tw.png" alt="" class="icono_face_compa"></a>
+                   <a href="whatsapp://send?text=URL" data-action="share/whatsapp/share"><img src="assets/images/whatsapp.png" alt="" class="icono_face_compa2"></a>
                     
                   </div> 
 <br><br>

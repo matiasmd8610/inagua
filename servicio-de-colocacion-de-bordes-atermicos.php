@@ -17,21 +17,19 @@
   <meta property="fb:app_id" content="383820332074788">
   <title>Colocación de Bordes Atérmicos | SERVICIOS | INAGUA</title>
   <link rel="canonical" href="http://www.inagua.com.ar/servicio-de-colocacion-de-bordes-atermicos">
-  <link rel="icon" href="img/logo.png">
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
-    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+  <link rel="icon" href="assets/images/logo.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-  <link href="css/fileinput.css" rel="stylesheet">
-  <link href="styles/css/main.css" rel="stylesheet">
+  <link href="assets/styles/css/fileinput.css" rel="stylesheet">
+  <link href="assets/styles/css/main.css" rel="stylesheet">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-  <script src="js/fileinput.js" type="text/javascript"></script>
-  <link rel="stylesheet" href="css/animate/animate.css">
-  <link href="styles/css/main.css" rel="stylesheet">
+  <script src="assets/scripts/fileinput.js" type="text/javascript"></script>
+  <link rel="stylesheet" href="assets/styles/css/animate/animate.css">
+  <link href="assets/styles/css/main.css" rel="stylesheet">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;600&family=Rubik:wght@300;400;600&display=swap"
     rel="stylesheet">
-  <script src="js/wow.js"></script>
+  <script src="assets/scripts/wow.js"></script>
   <script>
     new WOW().init();
   </script>
@@ -76,7 +74,7 @@
     <?php include "include/chat.php"; ?>
 
   </section>
-  <span class="ir-arriba"><img src="img/up.png" alt="Ir arriba"></span>
+  <span class="ir-arriba"><img src="assets/images/up.png" alt="Ir arriba"></span>
   <div id="top"></div>
 
   <div id="fb-root"></div>
@@ -107,10 +105,10 @@
             <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Colocación de Bordes Atérmicos</h1>
             <div class="grid-services-images my-5">
               <div class="wow slideInRight">
-                <img src="img/servicios/colocacion_bordes_atermicos_01.webp" width="800" alt="Colocación de Bordes Atérmicos">
+                <img src="assets/images/servicios/colocacion_bordes_atermicos_01.webp" width="800" alt="Colocación de Bordes Atérmicos">
               </div>
               <div class="wow slideInRight">
-                <img src="img/servicios/colocacion_bordes_atermicos_02.jpg" width="800" alt="Colocación de Bordes Atérmicos">
+                <img src="assets/images/servicios/colocacion_bordes_atermicos_02.jpg" width="800" alt="Colocación de Bordes Atérmicos">
               </div>
             </div>
             <div class="texto3sc wow slideInUp">
@@ -157,7 +155,7 @@
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js"
     integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous">
   </script>
-  <script src="js/scripts.js"></script>
+  <script src="assets/scripts/scripts.js"></script>
 
 </body>
 

@@ -10,7 +10,7 @@
 
                 <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
                     <figure>
-                        <img src="img/servicios/servicios_mantenimiento.jpg" class="icon-suge" alt="Mantenimiento de piletas en casas y residencias particulares">
+                        <img src="assets/images/servicios/servicios_mantenimiento.jpg" class="icon-suge" alt="Mantenimiento de piletas en casas y residencias particulares">
                     </figure>
                     <h4 class="td07pp">Mantenimiento</h4>
                     <p class="td08bac">Mantenimiento de piletas en casas y residencias particulares</p>
@@ -21,7 +21,7 @@
                 
                 <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
                     <figure>
-                        <img src="img/servicios/servicios_analisis_bacteriologico.jpg" alt="Análisis Bacteriológico">
+                        <img src="assets/images/servicios/servicios_analisis_bacteriologico.jpg" alt="Análisis Bacteriológico">
                     </figure>
                     <h4 class="td07pp">Análisis Bacteriológico</h4>
                     <p class="td08bac">No corra riesgos de infecciones.</p>
@@ -31,7 +31,7 @@
 
                 <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
                     <figure>
-                        <img src="img/servicios/servicios_cambio_arena.png" alt="Cambio de arena">
+                        <img src="assets/images/servicios/servicios_cambio_arena.png" alt="Cambio de arena">
                     </figure>
                     <h4 class="td07pp">Cambio de arena</h4>
                     <p class="td08bac">El filtrado dará agua cristalina</p>
@@ -40,7 +40,7 @@
 
                 <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
                     <figure>
-                        <img src="img/servicios/servicios_cambio_multivalvula.jpg"
+                        <img src="assets/images/servicios/servicios_cambio_multivalvula.jpg"
                             alt="Cambio de Multivalvula y conexiones">
                     </figure>
                     <h4 class="td07pp">Cambio de Multivalvula y conexiones</h4>
@@ -50,7 +50,7 @@
 
                 <!-- <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
                     <figure>
-                        <img src="img/servicios/servicios_cloradores_salinos.png" alt="Cloradores Salinos">
+                        <img src="assets/images/servicios/servicios_cloradores_salinos.png" alt="Cloradores Salinos">
                     </figure>
                     <h4 class="td07pp">Cloradores Salinos</h4>
                     <p class="td08bac">Nuevo tratamiento alternativo para el cuidado, mantenimiento y desinfección del
@@ -60,7 +60,7 @@
 
                 <!-- <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
                     <figure>
-                        <img src="img/servicios/servicios_colocacion_bordes_atermicos.jpg"
+                        <img src="assets/images/servicios/servicios_colocacion_bordes_atermicos.jpg"
                             alt="Colocación de Bordes Atérmicos">
                     </figure>
                     <h4 class="td07pp">Colocación de Bordes Atérmicos</h4>
@@ -70,7 +70,7 @@
 
                 <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
                     <figure>
-                        <img src="img/servicios/servicios_hoteles.jpg" alt="Consorcios, Hoteles y Embajadas">
+                        <img src="assets/images/servicios/servicios_hoteles.jpg" alt="Consorcios, Hoteles y Embajadas">
                     </figure>
                     <h4 class="td07pp">Consorcios, Hoteles y Embajadas</h4>
                     <p class="td08bac">Especialistas en consorcios</p>
@@ -81,7 +81,7 @@
 
                 <!-- <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
                     <figure>
-                        <img src="img/servicios/servicios_construccion_piscinas.jpg" alt="Construcción de Piscinas">
+                        <img src="assets/images/servicios/servicios_construccion_piscinas.jpg" alt="Construcción de Piscinas">
                     </figure>
                     <h4 class="td07pp">Construcción de Piscinas</h4>
                     <p class="td08bac">Utilizamos los mejores materiales y mano de obra experimentada.</p>
@@ -90,7 +90,7 @@
 
                 <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
                     <figure>
-                        <img src="img/servicios/servicios_corte_cesped.jpg" alt="Corte de cesped">
+                        <img src="assets/images/servicios/servicios_corte_cesped.jpg" alt="Corte de cesped">
                     </figure>
                     <h4 class="td07pp">Corte de cesped</h4>
                     <p class="td08bac">Cortamos el césped con máquinas propias.</p>
@@ -99,7 +99,7 @@
 
                 <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
                     <figure>
-                        <img src="img/servicios/servicios_desagote_y_desinfeccion.jpg" alt="Desagote y desinfección">
+                        <img src="assets/images/servicios/servicios_desagote_y_desinfeccion.jpg" alt="Desagote y desinfección">
                     </figure>
                     <h4 class="td07pp">DESAGOTE Y DESINFECCIÓN</h4>
                     <p class="td08bac">Vaciamos, limpiamos y desinfectamos</p>
@@ -110,7 +110,7 @@
 
                 <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
                     <figure>
-                        <img src="img/servicios/servicios_destapacion_canerias.jpg"
+                        <img src="assets/images/servicios/servicios_destapacion_canerias.jpg"
                             alt="Destapación de Cañerias de Piscinas">
                     </figure>
                     <h4 class="td07pp">Destapación de Cañerias de Piscinas</h4>
@@ -121,7 +121,7 @@
 
                 <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
                     <figure>
-                        <img src="img/servicios/fuga_canerias.webp" alt="Detección de fugas en piscinas">
+                        <img src="assets/images/servicios/fuga_canerias.webp" alt="Detección de fugas en piscinas">
                     </figure>
                     <h4 class="td07pp">Detección de fugas en piscinas</h4>
                     <p class="td08bac">Trabajamos con expertos en la detección de fugas en piscinas.</p>
@@ -131,7 +131,7 @@
 
                 <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
                     <figure>
-                        <img src="img/servicios/servicios_fumigacion_mosquitos.png" class="icon-suge" alt="Fumigación de Mosquitos">
+                        <img src="assets/images/servicios/servicios_fumigacion_mosquitos.png" class="icon-suge" alt="Fumigación de Mosquitos">
                     </figure>
                     <h4 class="td07pp">Fumigación de Mosquitos</h4>
                     <p class="td08bac">Brindamos el servicio de Fumigación De Mosquitos en todos los barrios
@@ -141,7 +141,7 @@
 
                 <!-- <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
                     <figure>
-                        <img src="img/servicios/servicios_iluminacion_led.jpg" alt="Iluminación Led">
+                        <img src="assets/images/servicios/servicios_iluminacion_led.jpg" alt="Iluminación Led">
                     </figure>
                     <h4 class="td07pp">Iluminación Led</h4>
                     <p class="td08bac">Instalación de sistema de iluminación led con o sin control remoto.</p>
@@ -150,7 +150,7 @@
 
                 <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
                     <figure>
-                        <img src="img/servicios/servicios_pintura_bordes_atermicos.jpg"
+                        <img src="assets/images/servicios/servicios_pintura_bordes_atermicos.jpg"
                             alt="Servicio de Limpieza y Pintura de bordes atérmicos">
                     </figure>
                     <h4 class="td07pp">Limpieza y Pintura de bordes atérmicos</h4>
@@ -161,7 +161,7 @@
 
                 <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
                     <figure>
-                        <img src="img/servicios/servicios_limpieza_tanque.jpg"
+                        <img src="assets/images/servicios/servicios_limpieza_tanque.jpg"
                             alt="Servicio de limpieza y desinfección de tanques de agua">
                     </figure>
                     <h4 class="td07pp">Limpieza y desinfección de tanques de agua</h4>
@@ -173,7 +173,7 @@
 
                 <!-- <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
                     <figure>
-                        <img src="img/servicios/servicios_marmolite.jpg" class="icon-suge" alt="Marmolite">
+                        <img src="assets/images/servicios/servicios_marmolite.jpg" class="icon-suge" alt="Marmolite">
                     </figure>
                     <h4 class="td07pp">Marmolite</h4>
                     <p class="td08bac">Revestimiento para interior de piscinas</p>
@@ -183,7 +183,7 @@
 
                 <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
                     <figure>
-                        <img src="img/servicios/servicios_pastinado.jpg" class="icon-suge" alt="Pastinado de Piscinas">
+                        <img src="assets/images/servicios/servicios_pastinado.jpg" class="icon-suge" alt="Pastinado de Piscinas">
                     </figure>
                     <h4 class="td07pp">PASTINADO DE PILETAS CON VENECITAS</h4>
                     <p class="td08bac">Rejuvenecemos su pileta</p>
@@ -192,7 +192,7 @@
 
                 <!-- <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
                     <figure>
-                        <img src="img/servicios/servicios_pintura_piletas.png" alt="Pintura de Piletas">
+                        <img src="assets/images/servicios/servicios_pintura_piletas.png" alt="Pintura de Piletas">
                     </figure>
                     <h4 class="td07pp">Pintura de Piletas</h4>
                     <p class="td08bac">Pintamos tu piscina de material o plastico</p>
@@ -202,7 +202,7 @@
 
                 <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
                     <figure>
-                        <img src="img/servicios/servicios_reparacion_bomba.jpg" alt="Reparación de bomba">
+                        <img src="assets/images/servicios/servicios_reparacion_bomba.jpg" alt="Reparación de bomba">
                     </figure>
                     <h4 class="td07pp">Reparación de bomba</h4>
                     <p class="td08bac">El filtrado dará agua cristalina</p>
@@ -211,7 +211,7 @@
 
                 <!-- <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
                     <figure>
-                        <img src="img/servicios/servicios_venecitas.jpg" alt="Revestimiento de Venecitas">
+                        <img src="assets/images/servicios/servicios_venecitas.jpg" alt="Revestimiento de Venecitas">
                     </figure>
                     <h4 class="td07pp">Revestimiento de Venecitas</h4>
                     <p class="td08bac">Ofrecemos una amplia gama de colores, tipos y diseños.</p>
@@ -220,7 +220,7 @@
 
                 <!-- <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
                     <figure>
-                        <img src="img/servicios/servicios_piedra_bali.jpg" alt="Revestimiento de Piedra Bali">
+                        <img src="assets/images/servicios/servicios_piedra_bali.jpg" alt="Revestimiento de Piedra Bali">
                     </figure>
                     <h4 class="td07pp">Revestimiento en Piedra Bali</h4>
                     <p class="td08bac">Ofrecemos una amplia gama de colores, tipos y diseños.</p>
@@ -229,7 +229,7 @@
 
                 <!-- <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
                     <figure>
-                        <img src="img/servicios/servicios_reparacion_piscinas.jpg"
+                        <img src="assets/images/servicios/servicios_reparacion_piscinas.jpg"
                             alt="Reparación de Piletas y Piscinas de hormigón">
                     </figure>
                     <h4 class="td07pp">Reparación de Piletas y Piscinas de hormigón</h4>
@@ -239,7 +239,7 @@
 
                 <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
                     <figure>
-                        <img src="img/servicios/servicios_venta_productos.jpg" alt="Venta de Productos y Accesorios">
+                        <img src="assets/images/servicios/servicios_venta_productos.jpg" alt="Venta de Productos y Accesorios">
                     </figure>
                     <h4 class="td07pp">Venta de Productos y Accesorios</h4>
                     <p class="td08bac">Marcas líderes de primera calidad</p>

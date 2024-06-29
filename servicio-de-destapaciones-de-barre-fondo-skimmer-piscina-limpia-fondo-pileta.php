@@ -17,12 +17,12 @@
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo" />
   <title>Destapación de Cañerias de Piscinas SERVICIOS | INAGUA</title>
   <link rel="canonical" href="http://www.inagua.com.ar/servicio-de-destapaciones-de-barre-fondo-skimmer-piscina-limpia-fondo-pileta">
-  <link rel="icon" href="img/logo.png">
+  <link rel="icon" href="assets/images/logo.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-  <link href="css/fileinput.css" rel="stylesheet">
-  <link href="styles/css/main.css" rel="stylesheet">
-  <link rel="stylesheet" href="css/animate/animate.css">
-  <link href="styles/css/main.css" rel="stylesheet">
+  <link href="assets/styles/css/fileinput.css" rel="stylesheet">
+  <link href="assets/styles/css/main.css" rel="stylesheet">
+  <link rel="stylesheet" href="assets/styles/css/animate/animate.css">
+  <link href="assets/styles/css/main.css" rel="stylesheet">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;600&family=Rubik:wght@300;400;600&display=swap"
@@ -63,7 +63,7 @@
 </head>
 
 <body>
-  <span class="ir-arriba"><img src="img/up.png" alt=""></span>
+  <span class="ir-arriba"><img src="assets/images/up.png" alt=""></span>
   <div id="top"></div>
   
   <header>
@@ -88,19 +88,19 @@
     <div class="container my-lg-4">
       <div class="grid-services-images">
         <div class="wow fadeInLeft">
-          <img src="img/servicios/barre_fondo.jpg" alt="Barre fondo">
+          <img src="assets/images/servicios/barre_fondo.jpg" alt="Barre fondo">
           <!-- <div class="name">
             <span>Barre Fondo</span>
           </div> -->
         </div>
         <div class="wow fadeInDown">
-          <img src="img/servicios/skimmer.jpg" alt="Skimmer">
+          <img src="assets/images/servicios/skimmer.jpg" alt="Skimmer">
           <!-- <div class="name">
             <span>Skimmer</span>
           </div> -->
         </div>
         <div class="wow fadeInRight">
-          <img src="img/servicios/camara_de_fondo.jpg" alt="Camara de fondo">
+          <img src="assets/images/servicios/camara_de_fondo.jpg" alt="Camara de fondo">
           <!-- <div class="name">
             <span>Camara de fondo</span>
           </div> -->
@@ -169,14 +169,14 @@
     <?php include "include/footer.php"; ?>
   </footer>
 
-  <script src="js/wow.js"></script>
+  <script src="assets/scripts/wow.js"></script>
   <script>
     new WOW().init();
   </script>
-  <script src="js/scripts.js"></script>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-  <script src="js/bootstrap.min.js"></script>
-  <script src="js/fileinput.js" type="text/javascript"></script>
+  <script src="assets/scripts/bootstrap.min.js"></script>
+  <script src="assets/scripts/fileinput.js" type="text/javascript"></script>
+  <script src="assets/scripts/scripts.js"></script>
 </body>
 
 </html>

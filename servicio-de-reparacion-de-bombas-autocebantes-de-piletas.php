@@ -29,12 +29,12 @@ function get_template( $id ) {
   <meta property="fb:app_id" content="383820332074788" />
   <title>Soluciones sobre bombas autocebantes | SERVICIOS | INAGUA</title>
   <link rel="canonical" href="https://inagua.com.ar/servicio-de-reparacion-de-bombas-autocebantes-de-piletas">
-  <link rel="icon" href="img/logo.png">
+  <link rel="icon" href="assets/images/logo.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-  <link href="css/fileinput.css" rel="stylesheet">
-  <link href="styles/css/main.css" rel="stylesheet">
-  <link rel="stylesheet" href="css/animate/animate.css">
-  <link href="styles/css/main.css" rel="stylesheet">
+  <link href="assets/styles/css/fileinput.css" rel="stylesheet">
+  <link href="assets/styles/css/main.css" rel="stylesheet">
+  <link rel="stylesheet" href="assets/styles/css/animate/animate.css">
+  <link href="assets/styles/css/main.css" rel="stylesheet">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;600&family=Rubik:wght@300;400;600&display=swap"
@@ -61,7 +61,7 @@ function get_template( $id ) {
     <?php include "include/chat.php"; ?>
 
   </section>
-  <span class="ir-arriba"><img src="img/up.png" alt=""></span>
+  <span class="ir-arriba"><img src="assets/images/up.png" alt=""></span>
   <div id="top"></div>
 
   <div id="fb-root"></div>
@@ -93,7 +93,7 @@ function get_template( $id ) {
 
           <div class="grid-services-images mb-5">
             <div class="wow slideInLeft">
-              <img src="img/mantenimiento-bombas-notas.png" alt="ejercicios-piscinas" class="img_produc_pintura">
+              <img src="assets/images/mantenimiento-bombas-notas.png" alt="ejercicios-piscinas" class="img_produc_pintura">
             </div>
           </div>
 
@@ -144,10 +144,10 @@ function get_template( $id ) {
 
         <!-- <div class="seguinos20">
           <a href="javascript:window.open('https://www.facebook.com/sharer/sharer.php?u=http://inagua.com.ar/articulo.php?id=27','','width=600,height=400,left=50,top=50,toolbar=yes');void 0"
-            rel="image_src"><img src="img/logo_face.png" class="icono_face_compa" alt=""></a>
+            rel="image_src"><img src="assets/images/logo_face.png" class="icono_face_compa" alt=""></a>
           <a href="javascript:window.open('https://twitter.com/?status= El articulo http://inagua.com.ar/articulo.php?id=27 es muy interesante. Te invito a que lo leas y compartas','','width=600,height=400,left=50,top=50,toolbar=yes');void 0""><img src="
             img/logo_tw.png" alt="" class="icono_face_compa"></a>
-          <a href="whatsapp://send?text=URL" data-action="share/whatsapp/share"><img src="img/whatsapp.png" alt=""
+          <a href="whatsapp://send?text=URL" data-action="share/whatsapp/share"><img src="assets/images/whatsapp.png" alt=""
               class="icono_face_compa2"></a>
         </div>
         <br><br>
@@ -185,10 +185,10 @@ function get_template( $id ) {
   </footer>
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-  <script src="js/bootstrap.min.js"></script>
-  <script src="js/fileinput.js" type="text/javascript"></script>
-  <script src="js/scripts.js"></script>
-  <script src="js/wow.js"></script>
+  <script src="assets/scripts/bootstrap.min.js"></script>
+  <script src="assets/scripts/fileinput.js" type="text/javascript"></script>
+  <script src="assets/scripts/scripts.js"></script>
+  <script src="assets/scripts/wow.js"></script>
   <script>
     new WOW().init();
   </script>

@@ -12,7 +12,7 @@
       <div class="container">
         <div class="row">
             <div class="col-md-12 wow slideInLeft" align="center">
-                <img src="img/ejercicios-piscinas.png" alt="ejercicios-piscinas" class="img_produc_pintura">
+                <img src="assets/images/ejercicios-piscinas.png" alt="ejercicios-piscinas" class="img_produc_pintura">
             </div>
             
         </div>
@@ -32,9 +32,9 @@
             <b>Ventajas</b> 
 <br>
 <br>
-            <img src="img/punto1.jpg" width="10" height="10" alt=""/ > <i>La actividad en piscina está especialmente indicada para personas en rehabilitación física o que necesitan actividades de bajo impacto para las articulaciones, ya que el ejercicio acuático proporciona un mayor control y estabilidad.</i>
+            <img src="assets/images/punto1.jpg" width="10" height="10" alt=""/ > <i>La actividad en piscina está especialmente indicada para personas en rehabilitación física o que necesitan actividades de bajo impacto para las articulaciones, ya que el ejercicio acuático proporciona un mayor control y estabilidad.</i>
 <br><br>
-            <img src="img/punto1.jpg" width="10" height="10" alt=""/> <i>También es recomendable 
+            <img src="assets/images/punto1.jpg" width="10" height="10" alt=""/> <i>También es recomendable 
 para aquellos que desean adelgazar. </i>
 <br><br>
          
@@ -44,15 +44,15 @@ para aquellos que desean adelgazar. </i>
 
          <b>Quiénes no pueden practicarlo</b>  
 <br><br>
-            <img src="img/punto1.jpg" width="10" height="10" alt=""/ > <i> Personas con enfermedades infecciosas o que se pueden transmitir a través del agua</i>
+            <img src="assets/images/punto1.jpg" width="10" height="10" alt=""/ > <i> Personas con enfermedades infecciosas o que se pueden transmitir a través del agua</i>
 <br><br>
-            <img src="img/punto1.jpg" width="10" height="10" alt=""/> <i>Con problemas gástricos o intestinales </i>
+            <img src="assets/images/punto1.jpg" width="10" height="10" alt=""/> <i>Con problemas gástricos o intestinales </i>
 <br><br>
-            <img src="img/punto1.jpg" width="10" height="10" alt=""/ > <i>Hipertensión descontrolada</i>
+            <img src="assets/images/punto1.jpg" width="10" height="10" alt=""/ > <i>Hipertensión descontrolada</i>
 <br><br>
-            <img src="img/punto1.jpg" width="10" height="10" alt=""/> <i>Erupciones o heridas abiertas en la piel</i>
+            <img src="assets/images/punto1.jpg" width="10" height="10" alt=""/> <i>Erupciones o heridas abiertas en la piel</i>
 <br><br>
-            <img src="img/punto1.jpg" width="10" height="10" alt=""/> <i>Incontinencia renal o perforaciones en los tímpanos </i>
+            <img src="assets/images/punto1.jpg" width="10" height="10" alt=""/> <i>Incontinencia renal o perforaciones en los tímpanos </i>
 <br><br>
  <b>Consideraciones sobre la temperatura del agua   </b>  
   
@@ -60,13 +60,13 @@ para aquellos que desean adelgazar. </i>
          La Aquatic Exercises Association 
 (asociación estadounidense de ejercicios acuáticos) establece algunos parámetros sobre la temperatura del agua [REFERENCIA: Aquatic Exercise Association, 2008 Standards and Guidelines for Aquatic Fitness Programming: The Global Resource in Aquatic Fitness, págs. 2-4, 2008]  
  <br><br>
-          <img src="img/punto1.jpg" width="10" height="10" alt=""/> <i>Entre 28ºC y 30ºC: es la media más cómoda y beneficiosa para la práctica general de actividades, especialmente de resistencia muscular</i>
+          <img src="assets/images/punto1.jpg" width="10" height="10" alt=""/> <i>Entre 28ºC y 30ºC: es la media más cómoda y beneficiosa para la práctica general de actividades, especialmente de resistencia muscular</i>
 <br><br>
-           <img src="img/punto1.jpg" width="10" height="10" alt=""/> <i>Entre 25ºC y 28ºC: está indicada para ejercicios intensos y de competición</i>
+           <img src="assets/images/punto1.jpg" width="10" height="10" alt=""/> <i>Entre 25ºC y 28ºC: está indicada para ejercicios intensos y de competición</i>
 <br><br>
-           <img src="img/punto1.jpg" width="10" height="10" alt=""/> <i>Entre 26,5ºC y 30ºC: es la recomendada para personas obesas</i>
+           <img src="assets/images/punto1.jpg" width="10" height="10" alt=""/> <i>Entre 26,5ºC y 30ºC: es la recomendada para personas obesas</i>
 <br><br>
-           <img src="img/punto1.jpg" width="10" height="10" alt=""/> <i>Entre 32ºC y 35ºC: es la mejor para actividades terapéuticas y de rehabilitación</i>
+           <img src="assets/images/punto1.jpg" width="10" height="10" alt=""/> <i>Entre 32ºC y 35ºC: es la mejor para actividades terapéuticas y de rehabilitación</i>
 <br><br>
      <?php include "include/advertencia.php"; ?>
  <br>
@@ -89,9 +89,9 @@ para aquellos que desean adelgazar. </i>
                   </div> 
                   
                   <div class="seguinos20">
-                    <a href="javascript:window.open('https://www.facebook.com/sharer/sharer.php?u=http://inagua.com.ar/articulo.php?id=44','','width=600,height=400,left=50,top=50,toolbar=yes');void 0" rel="image_src"><img src="img/logo_face.png" class="icono_face_compa" alt=""></a>
-                    <a  href="javascript:window.open('https://twitter.com/?status= El articulo http://inagua.com.ar/articulo.php?id=44 es muy interesante. Te invito a que lo leas y compartas','','width=600,height=400,left=50,top=50,toolbar=yes');void 0""><img src="img/logo_tw.png" alt="" class="icono_face_compa"></a>
-                   <a href="whatsapp://send?text=URL" data-action="share/whatsapp/share"><img src="img/whatsapp.png" alt="" class="icono_face_compa2"></a>
+                    <a href="javascript:window.open('https://www.facebook.com/sharer/sharer.php?u=http://inagua.com.ar/articulo.php?id=44','','width=600,height=400,left=50,top=50,toolbar=yes');void 0" rel="image_src"><img src="assets/images/logo_face.png" class="icono_face_compa" alt=""></a>
+                    <a  href="javascript:window.open('https://twitter.com/?status= El articulo http://inagua.com.ar/articulo.php?id=44 es muy interesante. Te invito a que lo leas y compartas','','width=600,height=400,left=50,top=50,toolbar=yes');void 0""><img src="assets/images/logo_tw.png" alt="" class="icono_face_compa"></a>
+                   <a href="whatsapp://send?text=URL" data-action="share/whatsapp/share"><img src="assets/images/whatsapp.png" alt="" class="icono_face_compa2"></a>
                     
                   </div> 
 <br><br>

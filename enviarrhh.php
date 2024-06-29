@@ -10,8 +10,8 @@ $telefono = $_POST['telefono'];
 $email = $_POST['email'];
 $mensaje = $_POST['mensaje'];
 
-$mensajeDeEnviado = '<div style="position: relative; margin-top:50px;"  align="center"><div><img src="img/logo.png"></div><div style="color:#1fcdff; font-size:18px; font-family:Verdana, Geneva, sans-serif; margin-top: 10px;">MENSAJE ENVIADO CON EXITO</div></div>';
-$mensajeDeError = '<div style="position: relative; margin-top:50px;"  align="center"><div><img src="img/logo.png"></div><div style="color:#1fcdff; font-size:18px; font-family:Verdana, Geneva, sans-serif; margin-top: 10px;"HUBO UN ERROR, COMUNIQUESE POR TELÉFONO</div></div>';
+$mensajeDeEnviado = '<div style="position: relative; margin-top:50px;"  align="center"><div><img src="assets/images/logo.png"></div><div style="color:#1fcdff; font-size:18px; font-family:Verdana, Geneva, sans-serif; margin-top: 10px;">MENSAJE ENVIADO CON EXITO</div></div>';
+$mensajeDeError = '<div style="position: relative; margin-top:50px;"  align="center"><div><img src="assets/images/logo.png"></div><div style="color:#1fcdff; font-size:18px; font-family:Verdana, Geneva, sans-serif; margin-top: 10px;"HUBO UN ERROR, COMUNIQUESE POR TELÉFONO</div></div>';
 // VALORES A MODIFICAR //
 
 // Datos de la cuenta de correo utilizada para enviar vía SMTP

@@ -12,7 +12,7 @@
       <div class="container">
         <div class="row">
             <div class="col-md-12 wow slideInLeft" align="center">
-                <img src="img/mantenimiento-filtros-notas.png" alt="ejercicios-piscinas" class="img_produc_pintura">
+                <img src="assets/images/mantenimiento-filtros-notas.png" alt="ejercicios-piscinas" class="img_produc_pintura">
             </div>
             
         </div>
@@ -26,21 +26,21 @@
                    
             <b>Los chorros del retorno ya no salen con tanta fuerza. </b> 
 <br>
-            <img src="img/punto1.jpg" width="10" height="10" alt=""/ > <i>Realice un retrolavado de su filtro por 3 minutos y un enjuague por 30 segundos. Si persiste el problema, ponga el filtro en la función recircular y si el agua sale bien por los retornos el problema es la arena del filtro. Solución: habria que cambiar la arena de su filtro.</i>
+            <img src="assets/images/punto1.jpg" width="10" height="10" alt=""/ > <i>Realice un retrolavado de su filtro por 3 minutos y un enjuague por 30 segundos. Si persiste el problema, ponga el filtro en la función recircular y si el agua sale bien por los retornos el problema es la arena del filtro. Solución: habria que cambiar la arena de su filtro.</i>
 <br><br>
             
            <b>¿Cada cuánto se cambia la carga filtrante (arenas)?  </b> 
 <br>
-            <img src="img/punto1.jpg" width="10" height="10" alt=""/ > <i>Se estima, que bajo un uso normal, la carga filtrante debe cambiarse cada 2 o 3 años.</i>
+            <img src="assets/images/punto1.jpg" width="10" height="10" alt=""/ > <i>Se estima, que bajo un uso normal, la carga filtrante debe cambiarse cada 2 o 3 años.</i>
 <br><br>
               <b>¿Cada cuánto debo hacer un retrolavado? </b> 
 <br>
-            <img src="img/punto1.jpg" width="10" height="10" alt=""/ > <i>El tiempo entre retrolavados está en relación con la cantidad de suciedad recogida. Lo recomendable es después de cada limpieza del canasto de bomba si utilizamos el barrefondo en posición de filtrado, o 12 días si no lo hemos utilizado. 
+            <img src="assets/images/punto1.jpg" width="10" height="10" alt=""/ > <i>El tiempo entre retrolavados está en relación con la cantidad de suciedad recogida. Lo recomendable es después de cada limpieza del canasto de bomba si utilizamos el barrefondo en posición de filtrado, o 12 días si no lo hemos utilizado. 
 </i>
 <br><br>
              <b>Pierde agua por el desagote cuando esta filtrando ¿Qué hago?  </b> 
 <br>
-            <img src="img/punto1.jpg" width="10" height="10" alt=""/ > <i>Seguramente hay que cambiar la junta estrella del cabezal. 
+            <img src="assets/images/punto1.jpg" width="10" height="10" alt=""/ > <i>Seguramente hay que cambiar la junta estrella del cabezal. 
 
 </i>
 <br><br>
@@ -66,9 +66,9 @@
                   </div> 
                   
                    <div class="seguinos20">
-                    <a href="javascript:window.open('https://www.facebook.com/sharer/sharer.php?u=http://inagua.com.ar/articulo.php?id=26','','width=600,height=400,left=50,top=50,toolbar=yes');void 0" rel="image_src"><img src="img/logo_face.png" class="icono_face_compa" alt=""></a>
-                    <a  href="javascript:window.open('https://twitter.com/?status= El articulo http://inagua.com.ar/articulo.php?id=26 es muy interesante. Te invito a que lo leas y compartas','','width=600,height=400,left=50,top=50,toolbar=yes');void 0""><img src="img/logo_tw.png" alt="" class="icono_face_compa"></a>
-                   <a href="whatsapp://send?text=URL" data-action="share/whatsapp/share"><img src="img/whatsapp.png" alt="" class="icono_face_compa2"></a>
+                    <a href="javascript:window.open('https://www.facebook.com/sharer/sharer.php?u=http://inagua.com.ar/articulo.php?id=26','','width=600,height=400,left=50,top=50,toolbar=yes');void 0" rel="image_src"><img src="assets/images/logo_face.png" class="icono_face_compa" alt=""></a>
+                    <a  href="javascript:window.open('https://twitter.com/?status= El articulo http://inagua.com.ar/articulo.php?id=26 es muy interesante. Te invito a que lo leas y compartas','','width=600,height=400,left=50,top=50,toolbar=yes');void 0""><img src="assets/images/logo_tw.png" alt="" class="icono_face_compa"></a>
+                   <a href="whatsapp://send?text=URL" data-action="share/whatsapp/share"><img src="assets/images/whatsapp.png" alt="" class="icono_face_compa2"></a>
                     
                   </div> 
 <br><br>

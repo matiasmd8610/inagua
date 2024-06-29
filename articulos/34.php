@@ -12,7 +12,7 @@
       <div class="container">
         <div class="row">
             <div class="col-md-12 wow slideInLeft" align="center">
-                <img src="img/limpieza-de-piletas-1.png" alt="ejercicios-piscinas" class="img_produc_pintura">
+                <img src="assets/images/limpieza-de-piletas-1.png" alt="ejercicios-piscinas" class="img_produc_pintura">
             </div>
             
         </div>
@@ -31,30 +31,30 @@
             
            <b>¿Como? </b> 
             <br>
-            <img src="img/punto1.jpg" width="10" height="10" alt=""> <i>Aspirando el fondo de su pileta</i>
+            <img src="assets/images/punto1.jpg" width="10" height="10" alt=""> <i>Aspirando el fondo de su pileta</i>
 <br><br>
             
-            <img src="img/punto1.jpg" width="10" height="10" alt=""> <i>Limpiando los canastos del skimmer y bomba </i>
+            <img src="assets/images/punto1.jpg" width="10" height="10" alt=""> <i>Limpiando los canastos del skimmer y bomba </i>
 <br><br>
 
-            <img src="img/punto1.jpg" width="10" height="10" alt=""> <i>Limpiando el elemento flotante (pasar el saca hojas en criollo) </i>
+            <img src="assets/images/punto1.jpg" width="10" height="10" alt=""> <i>Limpiando el elemento flotante (pasar el saca hojas en criollo) </i>
 
 <br><br>
-            <img src="img/punto1.jpg" width="10" height="10" alt=""> <i>Controlando los niveles de Cloro y PH del agua</i>
+            <img src="assets/images/punto1.jpg" width="10" height="10" alt=""> <i>Controlando los niveles de Cloro y PH del agua</i>
 
             <br><br>                
 
-            <img src="img/punto1.jpg" width="10" height="10" alt=""><i>Aplicando los productos químicos</i>
+            <img src="assets/images/punto1.jpg" width="10" height="10" alt=""><i>Aplicando los productos químicos</i>
 
             <br><br>
-            <img src="img/punto1.jpg" width="10" height="10" alt=""><i>Cepillado paredes y piso de la pileta</i>
+            <img src="assets/images/punto1.jpg" width="10" height="10" alt=""><i>Cepillado paredes y piso de la pileta</i>
 
             <br><br>
-            <img src="img/punto1.jpg" width="10" height="10" alt=""><i>Limpiando los bordes para la prevención de la formación de larvas de mosquitos</i>
+            <img src="assets/images/punto1.jpg" width="10" height="10" alt=""><i>Limpiando los bordes para la prevención de la formación de larvas de mosquitos</i>
 
             <br><br>                
 
-            <img src="img/punto1.jpg" width="10" height="10" alt=""><i>Retrolavando y enjuagando el sistema de filtrado. </i>
+            <img src="assets/images/punto1.jpg" width="10" height="10" alt=""><i>Retrolavando y enjuagando el sistema de filtrado. </i>
 
         <br><br>
              
@@ -83,9 +83,9 @@
                   </div> 
                   
                    <div class="seguinos20">
-                    <a href="javascript:window.open('https://www.facebook.com/sharer/sharer.php?u=http://inagua.com.ar/articulo.php?id=34','','width=600,height=400,left=50,top=50,toolbar=yes');void 0" rel="image_src"><img src="img/logo_face.png" class="icono_face_compa" alt=""></a>
-                    <a  href="javascript:window.open('https://twitter.com/?status= El articulo http://inagua.com.ar/articulo.php?id=34 es muy interesante. Te invito a que lo leas y compartas','','width=600,height=400,left=50,top=50,toolbar=yes');void 0""><img src="img/logo_tw.png" alt="" class="icono_face_compa"></a>
-                   <a href="whatsapp://send?text=URL" data-action="share/whatsapp/share"><img src="img/whatsapp.png" alt="" class="icono_face_compa2"></a>
+                    <a href="javascript:window.open('https://www.facebook.com/sharer/sharer.php?u=http://inagua.com.ar/articulo.php?id=34','','width=600,height=400,left=50,top=50,toolbar=yes');void 0" rel="image_src"><img src="assets/images/logo_face.png" class="icono_face_compa" alt=""></a>
+                    <a  href="javascript:window.open('https://twitter.com/?status= El articulo http://inagua.com.ar/articulo.php?id=34 es muy interesante. Te invito a que lo leas y compartas','','width=600,height=400,left=50,top=50,toolbar=yes');void 0""><img src="assets/images/logo_tw.png" alt="" class="icono_face_compa"></a>
+                   <a href="whatsapp://send?text=URL" data-action="share/whatsapp/share"><img src="assets/images/whatsapp.png" alt="" class="icono_face_compa2"></a>
                     
                   </div> 
 <br><br>

@@ -16,11 +16,11 @@
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo">
   <title>EMPRESA DE LIMPIEZA DE PILETAS - PILETEROS PROFESIONALES</title>
   <link rel="canonical" href="https://inagua.com.ar/empresa-de-mantenimiento-y-limpieza-de-piscinas-de-natacion-y-piletas">
-  <link rel="icon" href="img/logo.png">
+  <link rel="icon" href="assets/images/logo.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-  <link href="css/fileinput.css" rel="stylesheet">
-  <link rel="stylesheet" href="css/animate/animate.css">
-  <link href="styles/css/main.css" rel="stylesheet">
+  <link href="assets/styles/css/fileinput.css" rel="stylesheet">
+  <link rel="stylesheet" href="assets/styles/css/animate/animate.css">
+  <link href="assets/styles/css/main.css" rel="stylesheet">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;600&family=Rubik:wght@300;400;600&display=swap"
@@ -66,7 +66,7 @@
     <?php include "include/chat.php"; ?>
   </section>
 
-  <span class="ir-arriba"><img src="img/up.png" alt=""></span>
+  <span class="ir-arriba"><img src="assets/images/up.png" alt=""></span>
   <div id="top"></div>
 
   <!-- HEADER: Begin -->
@@ -103,7 +103,7 @@
     <div class="container sobre_nosotros_1">
       <div class="row">
         <div class="col-md-6 wow slideInLeft" datos-wow-duracion="0.5s" data-wow-delay="0.5s">
-          <img src="img/destacamos_img.jpg" alt="Hombre trabajando" class="staff_1">
+          <img src="assets/images/destacamos_img.jpg" alt="Hombre trabajando" class="staff_1">
         </div>
 
         <div class="col-md-6 wow slideInRight" datos-wow-duracion="1s" data-wow-delay="1s">
@@ -142,32 +142,32 @@
           <div class="wow slideInLeft hvr-shrink">
             <a
               href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-casas-countries-casas-quintas-edificios-consorcios-departamentos-hoteles-embajadas.php"><img
-                src="img/particulares.png" alt="Mantenimiento de piscinas casas , quintas, countries"></a>
+                src="assets/images/particulares.png" alt="Mantenimiento de piscinas casas , quintas, countries"></a>
           </div>
           <div class="wow slideInDown hvr-shrink">
             <a
               href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-casas-countries-casas-quintas-edificios-consorcios-departamentos-hoteles-embajadas.php"><img
-                src="img/consorcio.png" alt="Mantenimiento de piscinas consorcios"></a>
+                src="assets/images/consorcio.png" alt="Mantenimiento de piscinas consorcios"></a>
           </div>
           <div class="wow slideInRight hvr-shrink">
             <a
               href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-casas-countries-casas-quintas-edificios-consorcios-departamentos-hoteles-embajadas.php"><img
-                src="img/hoteles.png" alt="Mantenimiento de piscinas hoteles"></a>
+                src="assets/images/hoteles.png" alt="Mantenimiento de piscinas hoteles"></a>
           </div>
           <div class="wow slideInLeft hvr-shrink">
             <a
               href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-casas-countries-casas-quintas-edificios-consorcios-departamentos-hoteles-embajadas.php"><img
-                src="img/emba.png" alt="Mantenimiento de piscinas embajadas"></a>
+                src="assets/images/emba.png" alt="Mantenimiento de piscinas embajadas"></a>
           </div>
           <div class="wow slideInUp hvr-shrink">
             <a
               href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-casas-countries-casas-quintas-edificios-consorcios-departamentos-hoteles-embajadas.php"><img
-                src="img/inst.png" alt="Mantenimiento de piscinas instituciones educativas"></a>
+                src="assets/images/inst.png" alt="Mantenimiento de piscinas instituciones educativas"></a>
           </div>
           <div class="wow slideInRight hvr-shrink">
             <a
               href="servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-casas-countries-casas-quintas-edificios-consorcios-departamentos-hoteles-embajadas.php"><img
-                src="img/depor.png" alt="Mantenimiento de piscinas instituciones deportivas"></a>
+                src="assets/images/depor.png" alt="Mantenimiento de piscinas instituciones deportivas"></a>
           </div>
         </div>
 
@@ -189,13 +189,13 @@
   </footer>
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-  <script src="js/bootstrap.min.js"></script>
-  <script src="js/fileinput.js" type="text/javascript"></script>
-  <script src="js/wow.js"></script>
+  <script src="assets/scripts/bootstrap.min.js"></script>
+  <script src="assets/scripts/fileinput.js" type="text/javascript"></script>
+  <script src="assets/scripts/wow.js"></script>
   <script>
     new WOW().init();
   </script>
-  <script src="js/scripts.js"></script>
+  <script src="assets/scripts/scripts.js"></script>
 
 </body>
 

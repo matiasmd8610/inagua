@@ -16,19 +16,19 @@
     content="Problemas con tu tu pileta. Consejos y tips utiles para el mantenimiento y limpieza.">
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo">
   <title>TODO SOBRE PILETAS - PILETEROS - PISCINAS</title>
-  <link rel="icon" href="img/logo.png">
+  <link rel="icon" href="assets/images/logo.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-  <script src="js/bootstrap.min.js"></script>
-  <script src="js/fileinput.js" type="text/javascript"></script>
-  <link href="css/fileinput.css" rel="stylesheet">
-  <link rel="stylesheet" href="css/animate/animate.css">
-  <link href="styles/css/main.css" rel="stylesheet">
+  <script src="assets/scripts/bootstrap.min.js"></script>
+  <script src="assets/scripts/fileinput.js" type="text/javascript"></script>
+  <link href="assets/styles/css/fileinput.css" rel="stylesheet">
+  <link rel="stylesheet" href="assets/styles/css/animate/animate.css">
+  <link href="assets/styles/css/main.css" rel="stylesheet">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;600&family=Rubik:wght@300;400;600&display=swap"
     rel="stylesheet">
-  <script src="js/wow.js"></script>
+  <script src="assets/scripts/wow.js"></script>
   <script>
     new WOW().init();
   </script>
@@ -73,7 +73,7 @@
     <?php include "include/chat.php"; ?>
 
   </section>
-  <span class="ir-arriba"><img src="img/up.png" alt=""></span>
+  <span class="ir-arriba"><img src="assets/images/up.png" alt=""></span>
   <div id="top"></div>
 
   <header>
@@ -198,7 +198,7 @@
         </div>
 
         <div class="col-lg-6">
-          <img src="img/imagen-indice-articulos.jpg" alt="" class="imgen-moviles-casas212 wow slideInRight">
+          <img src="assets/images/imagen-indice-articulos.jpg" alt="" class="imgen-moviles-casas212 wow slideInRight">
         </div>
 
         <div>
@@ -220,7 +220,7 @@
     <?php include "include/footer.php"; ?>
   </footer>
 
-  <script src="js/scripts.js"></script>
+  <script src="assets/scripts/scripts.js"></script>
 
 </body>
 

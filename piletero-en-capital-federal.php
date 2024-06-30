@@ -103,144 +103,100 @@
   <section>
     <div class="container">
       <div class="row wow slideInUp">
-        <div class="col-md-3 barrios-a"><a href="piletero-en-agronomia.php" class="texto3Zona"
-            style="text-decoration: none;">Agronomía</a></div>
-        <div class="col-md-3 barrios-a"><a href="piletero-en-flores.php" class="texto3Zona"
-            style="text-decoration: none;">Flores</a></div>
-        <div class="col-md-3 barrios-a"><a href="piletero-en-parque-avellaneda.php" class="texto3Zona"
-            style="text-decoration: none;">Parque Avellaneda</a></div>
-        <div class="col-md-3 barrios-a"><a href="piletero-en-velez-sarfield.php" class="texto3Zona"
-            style="text-decoration: none;">Velez Sarfield</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-agronomia.php" class="texto3Zona">Agronomía</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-flores.php" class="texto3Zona">Flores</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-parque-avellaneda.php" class="texto3Zona">Parque Avellaneda</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-velez-sarfield.php" class="texto3Zona">Velez Sarfield</a></div>
       </div>
     </div>
 
     <div class="container">
       <div class="row wow slideInUp">
-        <div class="col-md-3 barrios-a"><a href="piletero-en-almagro.php" class="texto3Zona"
-            style="text-decoration: none;">Almagro</a></div>
-        <div class="col-md-3 barrios-a"><a href="piletero-en-floresta.php" class="texto3Zona"
-            style="text-decoration: none;">Floresta</a></div>
-        <div class="col-md-3 barrios-a"><a href="piletero-en-parque-chacabuco.php" class="texto3Zona"
-            style="text-decoration: none;">Parque Chacabuco</a></div>
-        <div class="col-md-3 barrios-a"><a href="piletero-en-versalles.php" class="texto3Zona"
-            style="text-decoration: none;">Versalles</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-almagro.php" class="texto3Zona">Almagro</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-floresta.php" class="texto3Zona">Floresta</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-parque-chacabuco.php" class="texto3Zona">Parque Chacabuco</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-versalles.php" class="texto3Zona">Versalles</a></div>
       </div>
     </div>
 
     <div class="container">
       <div class="row wow slideInUp">
-        <div class="col-md-3 barrios-a"><a href="piletero-en-balvanera.php" class="texto3Zona"
-            style="text-decoration: none;">Balvanera</a></div>
-        <div class="col-md-3 barrios-a"><a href="piletero-en-la-boca.php" class="texto3Zona"
-            style="text-decoration: none;">La Boca</a></div>
-        <div class="col-md-3 barrios-a"><a href="piletero-en-parque-chas.php" class="texto3Zona"
-            style="text-decoration: none;">Parque Chas</a></div>
-        <div class="col-md-3 barrios-a"><a href="piletero-en-villa-crespo.php" class="texto3Zona"
-            style="text-decoration: none;">Villa Crespo</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-balvanera.php" class="texto3Zona">Balvanera</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-la-boca.php" class="texto3Zona">La Boca</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-parque-chas.php" class="texto3Zona">Parque Chas</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-villa-crespo.php" class="texto3Zona">Villa Crespo</a></div>
       </div>
     </div>
 
     <div class="container">
       <div class="row wow slideInUp">
-        <div class="col-md-3 barrios-a"><a href="piletero-en-barracas.php" class="texto3Zona"
-            style="text-decoration: none;">Barracas</a></div>
-        <div class="col-md-3 barrios-a"><a href="piletero-en-la-paternal.php" class="texto3Zona"
-            style="text-decoration: none;">La Paternal</a></div>
-        <div class="col-md-3 barrios-a"><a href="piletero-en-parque-patricios.php" class="texto3Zona"
-            style="text-decoration: none;">Parque Patricios</a></div>
-        <div class="col-md-3 barrios-a"><a href="piletero-en-villa-del-parque.php" class="texto3Zona"
-            style="text-decoration: none;">Villa del Parque</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-barracas.php" class="texto3Zona">Barracas</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-la-paternal.php" class="texto3Zona">La Paternal</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-parque-patricios.php" class="texto3Zona">Parque Patricios</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-villa-del-parque.php" class="texto3Zona">Villa del Parque</a></div>
       </div>
     </div>
 
     <div class="container">
       <div class="row wow slideInUp">
-        <div class="col-md-3 barrios-a"><a href="piletero-en-belgrano.php" class="texto3Zona"
-            style="text-decoration: none;">Belgrano</a></div>
-        <div class="col-md-3 barrios-a"><a href="piletero-en-liniers.php" class="texto3Zona"
-            style="text-decoration: none;">Liniers</a></div>
-        <div class="col-md-3 barrios-a"><a href="piletero-en-puerto-madero.php" class="texto3Zona"
-            style="text-decoration: none;">Puerto Madero</a></div>
-        <div class="col-md-3 barrios-a"><a href="piletero-en-villa-devoto.php" class="texto3Zona"
-            style="text-decoration: none;">Villa Devoto</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-belgrano.php" class="texto3Zona">Belgrano</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-liniers.php" class="texto3Zona">Liniers</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-puerto-madero.php" class="texto3Zona">Puerto Madero</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-villa-devoto.php" class="texto3Zona">Villa Devoto</a></div>
       </div>
     </div>
 
     <div class="container">
       <div class="row wow slideInUp">
-        <div class="col-md-3 barrios-a"><a href="piletero-en-boedo.php" class="texto3Zona"
-            style="text-decoration: none;">Boedo</a></div>
-        <div class="col-md-3 barrios-a"><a href="piletero-en-mataderos.php" class="texto3Zona"
-            style="text-decoration: none;">Mataderos</a></div>
-        <div class="col-md-3 barrios-a"><a href="piletero-en-recoleta.php" class="texto3Zona"
-            style="text-decoration: none;">Recoleta</a></div>
-        <div class="col-md-3 barrios-a"><a href="piletero-en-villa-gral-mitre.php" class="texto3Zona"
-            style="text-decoration: none;">Villa Gral. Mitre</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-boedo.php" class="texto3Zona">Boedo</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-mataderos.php" class="texto3Zona">Mataderos</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-recoleta.php" class="texto3Zona">Recoleta</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-villa-gral-mitre.php" class="texto3Zona">Villa Gral. Mitre</a></div>
       </div>
     </div>
 
     <div class="container">
       <div class="row wow slideInUp">
-        <div class="col-md-3 barrios-a"><a href="piletero-en-caballito.php" class="texto3Zona"
-            style="text-decoration: none;">Caballito</a></div>
-        <div class="col-md-3 barrios-a"><a href="piletero-en-montecastro.php" class="texto3Zona"
-            style="text-decoration: none;">Montecastro</a></div>
-        <div class="col-md-3 barrios-a"><a href="piletero-en-retiro.php" class="texto3Zona"
-            style="text-decoration: none;">Retiro</a></div>
-        <div class="col-md-3 barrios-a"><a href="piletero-en-capital-federal.php" class="texto3Zona"
-            style="text-decoration: none;">Capital Federal</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-caballito.php" class="texto3Zona">Caballito</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-montecastro.php" class="texto3Zona">Montecastro</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-retiro.php" class="texto3Zona">Retiro</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-capital-federal.php" class="texto3Zona">Capital Federal</a></div>
       </div>
     </div>
 
     <div class="container">
       <div class="row wow slideInUp">
-        <div class="col-md-3 barrios-a"><a href="piletero-en-chacarita.php" class="texto3Zona"
-            style="text-decoration: none;">Chacarita</a></div>
-        <div class="col-md-3 barrios-a"><a href="piletero-en-monserrat.php" class="texto3Zona"
-            style="text-decoration: none;">Monserrat</a></div>
-        <div class="col-md-3 barrios-a"><a href="piletero-en-saavedra.php" class="texto3Zona"
-            style="text-decoration: none;">Saavedra</a></div>
-        <div class="col-md-3 barrios-a"><a href="piletero-en-villa-lugano.php" class="texto3Zona"
-            style="text-decoration: none;">Villa Lugano</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-chacarita.php" class="texto3Zona">Chacarita</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-monserrat.php" class="texto3Zona">Monserrat</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-saavedra.php" class="texto3Zona">Saavedra</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-villa-lugano.php" class="texto3Zona">Villa Lugano</a></div>
       </div>
     </div>
 
     <div class="container">
       <div class="row wow slideInUp">
-        <div class="col-md-3 barrios-a"><a href="piletero-en-coghlan.php" class="texto3Zona"
-            style="text-decoration: none;">Coghlan</a></div>
-        <div class="col-md-3 barrios-a"><a href="piletero-en-nueva-pompeya.php" class="texto3Zona"
-            style="text-decoration: none;">Nueva Pompeya</a></div>
-        <div class="col-md-3 barrios-a"><a href="piletero-en-san-cristobal.php" class="texto3Zona"
-            style="text-decoration: none;">San Cristobal</a></div>
-        <div class="col-md-3 barrios-a"><a href="piletero-en-villa-luro.php" class="texto3Zona"
-            style="text-decoration: none;">Villa Luro</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-coghlan.php" class="texto3Zona">Coghlan</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-nueva-pompeya.php" class="texto3Zona">Nueva Pompeya</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-san-cristobal.php" class="texto3Zona">San Cristobal</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-villa-luro.php" class="texto3Zona">Villa Luro</a></div>
       </div>
     </div>
 
     <div class="container">
       <div class="row wow slideInUp">
-        <div class="col-md-3 barrios-a"><a href="piletero-en-colegiales.php" class="texto3Zona"
-            style="text-decoration: none;">Colegiales</a></div>
-        <div class="col-md-3 barrios-a"><a href="piletero-en-nunez.php" class="texto3Zona"
-            style="text-decoration: none;">Nuñez</a></div>
-        <div class="col-md-3 barrios-a"><a href="piletero-en-san-nicolas.php" class="texto3Zona"
-            style="text-decoration: none;">San Nicolas</a></div>
-        <div class="col-md-3 barrios-a"><a href="piletero-en-villa-ortuzar.php" class="texto3Zona"
-            style="text-decoration: none;">Villa Ortúzar</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-colegiales.php" class="texto3Zona">Colegiales</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-nunez.php" class="texto3Zona">Nuñez</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-san-nicolas.php" class="texto3Zona">San Nicolas</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-villa-ortuzar.php" class="texto3Zona">Villa Ortúzar</a></div>
       </div>
     </div>
 
     <div class="container">
       <div class="row wow slideInUp">
-        <div class="col-md-3 barrios-a"><a href="piletero-en-constitucion.php" class="texto3Zona"
-            style="text-decoration: none;">Constitucion</a></div>
-        <div class="col-md-3 barrios-a"><a href="piletero-en-palermo.php" class="texto3Zona"
-            style="text-decoration: none;">Palermo</a></div>
-        <div class="col-md-3 barrios-a"><a href="piletero-en-san-telmo.php" class="texto3Zona"
-            style="text-decoration: none;">San Telmo</a></div>
-        <div class="col-md-3 barrios-a"><a href="piletero-en-villa-pueyrredon.php" class="texto3Zona"
-            style="text-decoration: none;">Villa Pueyrredon</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-constitucion.php" class="texto3Zona">Constitucion</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-palermo.php" class="texto3Zona">Palermo</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-san-telmo.php" class="texto3Zona">San Telmo</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-villa-pueyrredon.php" class="texto3Zona">Villa Pueyrredon</a></div>
       </div>
     </div>
 
@@ -253,36 +209,21 @@
     <br>
     <div class="container">
       <div class="row wow slideInUp">
-        <div class="col-md-3 barrios-a"><a href="piletero-en-san-isidro.php" class="texto3Zona"
-            style="text-decoration: none;">San Isidro</a></div>
-        <div class="col-md-3 barrios-a"><a href="piletero-en-vicente-lopez.php" class="texto3Zona"
-            style="text-decoration: none;">Vicente López</a></div>
-        <div class="col-md-3 barrios-a"><a href="piletero-en-avellaneda.php" class="texto3Zona"
-            style="text-decoration: none;">Avellaneda</a></div>
-        <div class="col-md-3 barrios-a"><a href="piletero-en-lanus.php" class="texto3Zona"
-            style="text-decoration: none;">Lanús</a></div>
-        <div class="col-md-3 barrios-a"><a href="piletero-en-lomas-de-zamora.php" class="texto3Zona"
-            style="text-decoration: none;">Lomas de Zamora</a></div>
-        <div class="col-md-3 barrios-a"><a href="piletero-en-moron.php" class="texto3Zona"
-            style="text-decoration: none;">Morón</a></div>
-        <div class="col-md-3 barrios-a"><a href="piletero-en-hurlingham.php" class="texto3Zona"
-            style="text-decoration: none;">Hurlingham</a></div>
-        <div class="col-md-3 barrios-a"><a href="piletero-en-ituizaingo.php" class="texto3Zona"
-            style="text-decoration: none;">Ituizaingo</a></div>
-        <div class="col-md-3 barrios-a"><a href="piletero-en-ramos-mejia.php" class="texto3Zona"
-            style="text-decoration: none;">Ramos Mejía</a></div>
-        <div class="col-md-3 barrios-a"><a href="piletero-en-tres-de-febrero.php" class="texto3Zona"
-            style="text-decoration: none;">Tres de Febrero</a></div>
-        <div class="col-md-3 barrios-a"><a href="piletero-en-san-justo.php" class="texto3Zona"
-            style="text-decoration: none;">San Justo</a></div>
-        <div class="col-md-3 barrios-a"><a href="piletero-en-la-tablada.php" class="texto3Zona"
-            style="text-decoration: none;">La Tablada</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-san-isidro.php" class="texto3Zona">San Isidro</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-vicente-lopez.php" class="texto3Zona">Vicente López</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-avellaneda.php" class="texto3Zona">Avellaneda</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-lanus.php" class="texto3Zona">Lanús</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-lomas-de-zamora.php" class="texto3Zona">Lomas de Zamora</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-moron.php" class="texto3Zona">Morón</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-hurlingham.php" class="texto3Zona">Hurlingham</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-ituizaingo.php" class="texto3Zona">Ituizaingo</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-ramos-mejia.php" class="texto3Zona">Ramos Mejía</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-tres-de-febrero.php" class="texto3Zona">Tres de Febrero</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-san-justo.php" class="texto3Zona">San Justo</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-la-tablada.php" class="texto3Zona">La Tablada</a></div>
       </div>
     </div>
   </section>
-
-
-
 
   <section id="contacto">
     <?php include "include/formulario.php"; ?>
@@ -302,5 +243,4 @@
   <script src="assets/scripts/scripts.js"></script>
 
 </body>
-
 </html>

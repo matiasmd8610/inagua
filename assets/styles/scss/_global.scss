@@ -106,3 +106,10 @@ section {
 		background-color: #2a58a4;
 	}
 }
+
+@keyframes popup {
+	100% {
+		visibility: visible;
+		opacity: 1;
+	}
+}

@@ -104,6 +104,9 @@
             <li>
               <a href="servicio-de-pastinado-de-piletas-revestidas.php">Pastinado de piscinas</a>
             </li>
+            <li>
+              <a href="servicio-de-plastificado-de-piscinas.php">Plastificado de piscinas</a>
+            </li>
             <!-- <li>
               <a href="servicio-de-pintado-de-piletas-de-cemento-y-plastico-o-fibra-de-vidrio.php">Pintura de
                 piscinas</a>

@@ -157,7 +157,7 @@
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
   <script src="assets/scripts/bootstrap.min.js"></script>
-  <script src="form/custom.js" type="text/javascript"></script>
+  <!-- <script src="form/custom.js" type="text/javascript"></script> -->
   <script src="assets/scripts/fileinput.js" type="text/javascript"></script>
   <script src="assets/scripts/wow.js"></script>
   <script>

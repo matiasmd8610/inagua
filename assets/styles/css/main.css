@@ -10881,6 +10881,12 @@ section {
   background-color: #2a58a4;
 }
 
+@keyframes popup {
+  100% {
+    visibility: visible;
+    opacity: 1;
+  }
+}
 header .contacto_hea {
   width: 100%;
   background: #2f4598;
@@ -11890,16 +11896,17 @@ header .imagen_cabesal .sello_premiun {
 
 .barrios-a {
   text-align: center;
+  margin-bottom: 0.25rem;
 }
 
 .texto3Zona {
-  color: #333333;
+  color: #333;
   font-size: 20px;
   font-family: "Rubik", sans-serif;
   font-weight: 600;
   text-align: center;
   text-transform: uppercase;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 @media screen and (max-width: 768px) {
@@ -11938,13 +11945,6 @@ header .imagen_cabesal .sello_premiun {
   margin-top: auto;
 }
 
-/* @media (max-width:1200px) {
-	.icon-sugeridos-tama {
-		width: 100%;
-		padding-top: 20px;
-	}
-
-} */
 .td07pp {
   font-size: 1.1rem;
   font-family: "Oswald", sans-serif;
@@ -11992,6 +11992,7 @@ header .imagen_cabesal .sello_premiun {
   margin-top: -80px;
   margin-left: 180px;
   border-radius: 0.5rem;
+  min-width: 100px;
 }
 
 .text_file2 {
@@ -12036,7 +12037,7 @@ header .imagen_cabesal .sello_premiun {
   text-decoration: none;
   font-family: "Oswald", sans-serif;
   margin-top: 6px;
-  color: white;
+  color: #fff;
 }
 
 .tel_1:hover {
@@ -12457,9 +12458,11 @@ form {
 
 .btn_file {
   position: relative;
-  border: 1px solid #0192D5;
+  border: 1px solid #0192d5;
   width: 170px;
   height: 50px;
+  display: flex;
+  align-items: center;
 }
 
 .text_file {
@@ -12728,12 +12731,6 @@ input.btn-primary {
   display: none;
 }
 
-@keyframes popup {
-  100% {
-    visibility: visible;
-    opacity: 1;
-  }
-}
 /*CLORADORES SALINOS
 ********************************************/
 .cloradores-img {

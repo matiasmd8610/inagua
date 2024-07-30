@@ -109,7 +109,7 @@
 </head>
 
 <body>
-  <span class="ir-arriba"><img src="assets/images/up.png" alt=""></span>
+  <span class="ir-arriba"><img src="assets/images/up.png" alt="Flecha arriba"></span>
   <div id="top"></div>
 
   <!-- HEADER - Begin -->

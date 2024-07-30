@@ -87,9 +87,9 @@
             <li>
               <a href="servicio-de-fumigacion-de-mosquitos.php">Fumigación de mosquitos</a>
             </li>
-            <!-- <li>
-              <a href="servicio-de-iluminacion-led.php">Iluminación Led</a>
-            </li> -->
+            <li>
+              <a href="servicio-de-iluminacion-de-piscinas.php">Iluminación Led</a>
+            </li>
             <li>
               <a href="servicio-de-limpieza-y-pintura-de-bordes-atermicos.php">Limpieza y pintura de bordes
                 atérmicos</a>

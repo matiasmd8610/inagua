@@ -139,14 +139,14 @@
                     <a class="boton-click-aqui" href="servicio-de-fumigacion-de-mosquitos.php">MÁS INFO</a>
                 </div>
 
-                <!-- <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
+                <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
                     <figure>
-                        <img src="assets/images/servicios/servicios_iluminacion_led.jpg" alt="Iluminación Led">
+                        <img src="assets/images/servicios/servicios_iluminacion_de_piscinas.jpg" alt="Iluminación de piscinas">
                     </figure>
-                    <h4 class="td07pp">Iluminación Led</h4>
+                    <h4 class="td07pp">Iluminación de piscinas</h4>
                     <p class="td08bac">Instalación de sistema de iluminación led con o sin control remoto.</p>
-                    <a class="boton-click-aqui" href="servicio-de-iluminacion-led.php">MÁS INFO</a>
-                </div> -->
+                    <a class="boton-click-aqui" href="servicio-de-iluminacion-de-piscinas.php">MÁS INFO</a>
+                </div>
 
                 <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
                     <figure>
@@ -188,6 +188,15 @@
                     <h4 class="td07pp">PASTINADO DE PILETAS CON VENECITAS</h4>
                     <p class="td08bac">Rejuvenecemos su pileta</p>
                     <a class="boton-click-aqui" href="servicio-de-pastinado-de-piletas-revestidas.php">MÁS INFO</a>
+                </div>
+
+                <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
+                    <figure>
+                        <img src="assets/images/servicios/plastificado_de_psicinas_02.jpg" class="icon-suge" alt="Plastificado de Piscinas">
+                    </figure>
+                    <h4 class="td07pp">Plastificado de piscinas</h4>
+                    <p class="td08bac">Solución en pérdidas de agua de piscinas</p>
+                    <a class="boton-click-aqui" href="servicio-de-plastificado-de-piscinas.php">MÁS INFO</a>
                 </div>
 
                 <!-- <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">

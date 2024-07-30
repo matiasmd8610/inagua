@@ -12766,43 +12766,73 @@ input.btn-primary {
 } */
 /*REVESTIMIENTO DE VENECITAS
 ********************************************/
-#revestimiento-venecitas .revestimientoVenecitas-wrapper .gallery-container {
+#revestimiento-venecitas .revestimientoVenecitas-wrapper .gallery-container,
+#revestimiento-venecitas .gallery-wrapper .gallery-container,
+#gallery-images .revestimientoVenecitas-wrapper .gallery-container,
+#gallery-images .gallery-wrapper .gallery-container {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   grid-gap: 1rem;
 }
 @media (min-width: 992px) {
-  #revestimiento-venecitas .revestimientoVenecitas-wrapper .gallery-container {
+  #revestimiento-venecitas .revestimientoVenecitas-wrapper .gallery-container,
+  #revestimiento-venecitas .gallery-wrapper .gallery-container,
+  #gallery-images .revestimientoVenecitas-wrapper .gallery-container,
+  #gallery-images .gallery-wrapper .gallery-container {
     grid-template-columns: repeat(4, 1fr);
   }
 }
 @media (min-width: 1200px) {
-  #revestimiento-venecitas .revestimientoVenecitas-wrapper .gallery-container {
+  #revestimiento-venecitas .revestimientoVenecitas-wrapper .gallery-container,
+  #revestimiento-venecitas .gallery-wrapper .gallery-container,
+  #gallery-images .revestimientoVenecitas-wrapper .gallery-container,
+  #gallery-images .gallery-wrapper .gallery-container {
     grid-template-columns: repeat(5, 1fr);
   }
 }
-#revestimiento-venecitas .revestimientoVenecitas-wrapper .gallery-container a {
+#revestimiento-venecitas .revestimientoVenecitas-wrapper .gallery-container a,
+#revestimiento-venecitas .gallery-wrapper .gallery-container a,
+#gallery-images .revestimientoVenecitas-wrapper .gallery-container a,
+#gallery-images .gallery-wrapper .gallery-container a {
   display: flex;
   flex-direction: column;
   align-items: center;
   text-decoration: none !important;
 }
-#revestimiento-venecitas .revestimientoVenecitas-wrapper .gallery-container a:hover img {
+#revestimiento-venecitas .revestimientoVenecitas-wrapper .gallery-container a:hover img,
+#revestimiento-venecitas .gallery-wrapper .gallery-container a:hover img,
+#gallery-images .revestimientoVenecitas-wrapper .gallery-container a:hover img,
+#gallery-images .gallery-wrapper .gallery-container a:hover img {
   opacity: 0.7;
 }
-#revestimiento-venecitas .revestimientoVenecitas-wrapper .gallery-container a img {
+#revestimiento-venecitas .revestimientoVenecitas-wrapper .gallery-container a img,
+#revestimiento-venecitas .gallery-wrapper .gallery-container a img,
+#gallery-images .revestimientoVenecitas-wrapper .gallery-container a img,
+#gallery-images .gallery-wrapper .gallery-container a img {
   width: 100%;
+  height: 100%;
+  object-fit: cover;
   transition: all 0.3s ease;
+  max-height: 250px;
 }
-#revestimiento-venecitas .revestimientoVenecitas-wrapper .gallery-container a .name {
+#revestimiento-venecitas .revestimientoVenecitas-wrapper .gallery-container a .name,
+#revestimiento-venecitas .gallery-wrapper .gallery-container a .name,
+#gallery-images .revestimientoVenecitas-wrapper .gallery-container a .name,
+#gallery-images .gallery-wrapper .gallery-container a .name {
   padding: 0.7rem 0;
   display: block;
   line-height: 1.2;
 }
-#revestimiento-venecitas .revestimientoVenecitas-wrapper .nav-tabs {
+#revestimiento-venecitas .revestimientoVenecitas-wrapper .nav-tabs,
+#revestimiento-venecitas .gallery-wrapper .nav-tabs,
+#gallery-images .revestimientoVenecitas-wrapper .nav-tabs,
+#gallery-images .gallery-wrapper .nav-tabs {
   margin-bottom: 1.2rem;
 }
-#revestimiento-venecitas .revestimientoVenecitas-wrapper .nav-tabs .nav-link {
+#revestimiento-venecitas .revestimientoVenecitas-wrapper .nav-tabs .nav-link,
+#revestimiento-venecitas .gallery-wrapper .nav-tabs .nav-link,
+#gallery-images .revestimientoVenecitas-wrapper .nav-tabs .nav-link,
+#gallery-images .gallery-wrapper .nav-tabs .nav-link {
   font-weight: 500;
   color: #000 !important;
 }

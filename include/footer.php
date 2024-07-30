@@ -47,9 +47,9 @@
             <li>
               <a href="servicio-de-fumigacion-de-mosquitos.php">Fumigación de mosquitos</a>
             </li>
-            <!-- <li>
-              <a href="servicio-de-iluminacion-led.php">Iluminación Led</a>
-            </li> -->
+            <li>
+              <a href="servicio-de-iluminacion-de-piscinas.php">Iluminación de piscinas</a>
+            </li>
             <li>
               <a href="servicio-de-limpieza-y-pintura-de-bordes-atermicos.php">Limpieza y pintura de bordes
                 atérmicos</a>
@@ -62,6 +62,9 @@
             </li> -->
             <li>
               <a href="servicio-de-pastinado-de-piletas-revestidas.php">Pastinado de piscinas</a>
+            </li>
+            <li>
+              <a href="servicio-de-plastificado-de-piscinas.php">Plastificado de piscinas</a>
             </li>
             <!-- <li>
               <a href="servicio-de-pintado-de-piletas-de-cemento-y-plastico-o-fibra-de-vidrio.php">Pintura de

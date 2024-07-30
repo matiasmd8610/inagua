@@ -206,7 +206,6 @@
           controls: false,
           showCloseIcon: true
         }
-        // ... other settings
       });
     });
   </script>

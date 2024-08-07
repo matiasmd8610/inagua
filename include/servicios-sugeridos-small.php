@@ -48,7 +48,7 @@
                     <a class="boton-click-aqui" href="servicio-de-cambio-de-multivalvula-selectora-de-filtro.php">MÁS INFO</a>
                 </div>
 
-                <!-- <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
+                <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
                     <figure>
                         <img src="assets/images/servicios/servicios_cloradores_salinos.png" alt="Cloradores Salinos">
                     </figure>
@@ -56,7 +56,7 @@
                     <p class="td08bac">Nuevo tratamiento alternativo para el cuidado, mantenimiento y desinfección del
                         agua</p>
                     <a class="boton-click-aqui" href="servicio-de-cloradores-salinos.php">MÁS INFO</a>
-                </div> -->
+                </div>
 
                 <!-- <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
                     <figure>

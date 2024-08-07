@@ -18,9 +18,9 @@
               <a href="servicio-de-cambio-de-multivalvula-selectora-de-filtro.php">Cambio de Multivalvula y
                 conexiones</a>
             </li>
-            <!-- <li>
+            <li>
               <a href="servicio-de-cloradores-salinos.php">Cloradores Salinos</a>
-            </li> -->
+            </li>
             <!-- <li>
               <a href="servicio-de-colocacion-de-bordes-atermicos.php">Colocación de Bordes Atérmicos</a>
             </li> -->

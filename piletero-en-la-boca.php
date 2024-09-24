@@ -26,7 +26,6 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#2F4598">
-
   <meta name="robots" content="index, follow, all" />
   <meta name="googlebot" content="index, follow, all" />
   <meta name="keywords" content="pileta, piletas, piscinas, piletero, pileteros, desagote, la boca" />
@@ -47,13 +46,6 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;600&family=Rubik:wght@300;400;600&display=swap"
     rel="stylesheet">
-  <script src="assets/scripts/wow.js"></script>
-  <script>
-    new WOW().init();
-  </script>
-
-
-  <!-- Animate Fin-->
 
   <script>
     $(function () {
@@ -113,28 +105,12 @@
   </section>
   <span class="ir-arriba"><img src="assets/images/up.png" alt=""></span>
   <div id="top"></div>
+   
   <header>
-
-
-
     <div class="botoner_completa animated slideInDown">
-
-
-
       <?php include "include/navegacion.php"; ?>
-
-
-
     </div>
   </header>
-
-
-
-
-
-
-
-
 
   <section id="cobertura">
     <div class="container">
@@ -164,6 +140,10 @@
     <?php include "include/footer.php"; ?>
   </footer>
 
+  <script src="assets/scripts/wow.js"></script>
+  <script>
+    new WOW().init();
+  </script>
   <script src="assets/scripts/scripts.js"></script>
 
 </body>

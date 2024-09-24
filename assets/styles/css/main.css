@@ -11110,6 +11110,7 @@ header .nav-container .menu ul a {
   text-decoration: none;
   color: #000;
   text-transform: uppercase;
+  border-radius: 0.5rem;
 }
 header .nav-container .menu ul a:hover {
   background-image: linear-gradient(to right, rgb(0, 166, 231) 0%, rgb(34, 107, 179) 25%, rgb(43, 84, 161) 50%, rgb(47, 69, 152) 75%);
@@ -11129,6 +11130,7 @@ header .nav-container .menu .submenu {
   justify-content: flex-start;
   padding: 10px 20px;
   position: relative;
+  border-radius: 0.5rem 0.5rem 0 0;
 }
 @media (max-width: 991px) {
   header .nav-container .menu .submenu {
@@ -11250,6 +11252,7 @@ header .imagen_cabesal .sello_premiun {
   align-content: center;
   margin-bottom: 20px;
   display: block;
+  max-width: 100%;
 }
 
 .hero-home {
@@ -11442,13 +11445,27 @@ header .imagen_cabesal .sello_premiun {
 .boton-zona2 {
   padding: 10px;
   background-color: #0192d5;
-  width: 100%;
-  color: #fff;
+  display: inline-block;
+  color: #fff !important;
   font-size: 18px;
   font-family: "Rubik", sans-serif;
   font-weight: 300;
   text-align: center;
-  margin-bottom: 50px;
+  margin: 30px 0 50px;
+  border-radius: 0.5rem;
+  padding: 0.75rem 3rem;
+  text-decoration: none !important;
+  width: auto;
+  transition: all 0.3s ease;
+}
+.boton-zona2:hover {
+  background-color: #2f4598;
+}
+@media (max-width: 992px) {
+  .boton-zona2 {
+    margin: 2rem auto 0;
+    font-size: 16px;
+  }
 }
 
 @media (min-width: 992px) {
@@ -11600,10 +11617,6 @@ header .imagen_cabesal .sello_premiun {
     width: 30%;
   }
 }
-.logo_footer_1 {
-  margin-top: 50px;
-}
-
 .colum-1 {
   margin-top: 30px;
   text-align: left;
@@ -11746,6 +11759,12 @@ header .imagen_cabesal .sello_premiun {
   font-family: "Rubik", sans-serif;
   font-size: 16px;
   padding-left: 1rem;
+}
+
+@media (max-width: 767px) {
+  .imgen-moviles-casas212 {
+    max-width: 100%;
+  }
 }
 
 .imagen-casas {
@@ -12140,9 +12159,6 @@ header .imagen_cabesal .sello_premiun {
 }
 
 @media (max-width: 991px) {
-  .logo_footer_1 {
-    margin-bottom: 2em;
-  }
   .img-fiscal {
     padding-bottom: 11em;
     padding-left: 1em;

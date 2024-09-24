@@ -10,6 +10,7 @@
 	align-content: center;
 	margin-bottom: 20px;
 	display: block;
+	max-width: 100%;
 }
 
 .hero-home {
@@ -205,16 +206,29 @@
 
 .boton-zona2 {
 	padding: 10px;
-	background-color: #0192d5;
-	width: 100%;
-	color: #fff;
+	background-color: $color-blue-main;
+	display: inline-block;
+	color: $color-white !important;
 	font-size: 18px;
 	font-family: $primary-font;
 	font-weight: 300;
 	text-align: center;
-	margin-bottom: 50px;
-}
+	margin: 30px 0 50px;
+	border-radius: .5rem;
+	padding: .75rem 3rem;
+	text-decoration: none !important;
+	width: auto;
+	transition: all 0.3s ease;
 
+	&:hover {
+		background-color: $color-blue-dark;
+	}
+
+	@media (max-width: 992px) {
+		margin: 2rem auto 0;
+		font-size: 16px;
+	}
+}
 
 .btn_zona {
 	@include media-breakpoint-up(lg) {
@@ -371,10 +385,6 @@
 }
 
 
-.logo_footer_1 {
-	margin-top: 50px;
-}
-
 .colum-1 {
 	margin-top: 30px;
 	text-align: left;
@@ -528,18 +538,15 @@
 }
 
 
-// .imgen-moviles-casas212 {
-// 	margin: 0 auto 2rem;
-// 	display: block;
-// 	width: 650px;
+.imgen-moviles-casas212 {
+	// margin: 0 auto 2rem;
+	// display: block;
+	// width: 650px;
 
-// 	@media (max-width: 767px) {
-// 		display: inline-flex;
-// 		width: 100%;
-// 		align-content: center;
-// 		margin-bottom: 2rem;
-// 	}
-// }
+	@media (max-width: 767px) {
+		max-width: 100%;
+	}
+}
 
 .imagen-casas {
 	width: 50%;
@@ -961,11 +968,7 @@
 
 
 
-@media(max-width:991px) {
-	.logo_footer_1 {
-		margin-bottom: 2em;
-	}
-
+@media(max-width: 991px) {
 	.img-fiscal {
 		padding-bottom: 11em;
 		padding-left: 1em;

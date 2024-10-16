@@ -181,14 +181,14 @@
                         href="servicio-de-revestimiento-para-interior-de-piscinas-piletas-solum-marmolite-premecol.php">MÁS INFO</a>
                 </div> -->
 
-                <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
+                <!-- <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
                     <figure>
                         <img src="assets/images/servicios/servicios_pastinado.jpg" class="icon-suge" alt="Pastinado de Piscinas">
                     </figure>
                     <h4 class="td07pp">PASTINADO DE PILETAS CON VENECITAS</h4>
                     <p class="td08bac">Rejuvenecemos su pileta</p>
                     <a class="boton-click-aqui" href="servicio-de-pastinado-de-piletas-revestidas.php">MÁS INFO</a>
-                </div>
+                </div> -->
 
                 <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
                     <figure>
@@ -246,7 +246,7 @@
                     <a class="boton-click-aqui" href="servicio-de-reparacion-de-piletas-y-piscinas-de-hormigon.php">MÁS INFO</a>
                 </div> -->
 
-                <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
+                <!-- <div class="icon-sugeridos-tama wow fadeIn" datos-wow-duracion="1s" data-wow-delay="1s">
                     <figure>
                         <img src="assets/images/servicios/servicios_venta_productos.jpg" alt="Venta de Productos y Accesorios">
                     </figure>
@@ -254,7 +254,7 @@
                     <p class="td08bac">Marcas líderes de primera calidad</p>
                     <a class="boton-click-aqui"
                         href="productos-quimicos-y-accesorios-para-piletas-y-piscinas-de-natacion.php">MÁS INFO</a>
-                </div>
+                </div> -->
 
             </div>
         </div>

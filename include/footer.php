@@ -60,9 +60,9 @@
             <!-- <li>
               <a href="servicio-de-revestimiento-para-interior-de-piscinas-piletas-solum-marmolite-premecol.php">Marmolite</a>
             </li> -->
-            <li>
+            <!-- <li>
               <a href="servicio-de-pastinado-de-piletas-revestidas.php">Pastinado de piscinas</a>
-            </li>
+            </li> -->
             <li>
               <a href="servicio-de-plastificado-de-piscinas.php">Plastificado de piscinas</a>
             </li>
@@ -83,10 +83,10 @@
               <a href="servicio-de-reparacion-de-piletas-y-piscinas-de-hormigon.php">Reparación de Piletas y Piscinas de
                 hormigón</a>
             </li> -->
-            <li>
+            <!-- <li>
               <a href="productos-quimicos-y-accesorios-para-piletas-y-piscinas-de-natacion.php">Venta de productos y
                 accesorios</a>
-            </li>
+            </li> -->
 				</ul>
 			</div>
 			<div class="col-md-3 colum-1">
@@ -162,5 +162,5 @@
 
 </div>
 <div class="copy">
-  <p class="m-0">© 2023 INAGUA. Todos los derechos reservados.</p>
+  <p class="m-0">© 2024 INAGUA. Todos los derechos reservados.</p>
 </div>

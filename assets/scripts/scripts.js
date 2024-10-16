@@ -70,19 +70,19 @@ $(document).ready(function () {
 	}
 
 	//Modal Publicidad
-	let modalHome = $(".modal");
-	if (modalHome) {
-		let modalClose = modalHome.find(".modal-close");
-		modalClose.click(function () {
-			modalHome.hide();
-			modalHome.find("video")[0].pause();
-		});
-	}
+	// let modalHome = $(".modal");
+	// if (modalHome) {
+	// 	let modalClose = modalHome.find(".modal-close");
+	// 	modalClose.click(function () {
+	// 		modalHome.hide();
+	// 		modalHome.find("video")[0].pause();
+	// 	});
+	// }
 
-	closeModal = () => {
-		modalHome.hide();
-	}
+	// closeModal = () => {
+	// 	modalHome.hide();
+	// }
 
-	setTimeout(closeModal, 16000);
+	// setTimeout(closeModal, 16000);
 
 });

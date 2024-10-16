@@ -169,7 +169,7 @@
   <?php include "include/chat.php"; ?>
   <!-- CHAT BOOT: End -->
 
-  <div class="modal">
+  <!-- <div class="modal">
     <button type="button" class="modal-close" aria-label="Close">
       <span aria-hidden="true">&times;</span>
     </button>
@@ -179,7 +179,7 @@
         Your browser does not support the video tag.
       </video>
     </div>
-  </div>
+  </div> -->
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
   <script src="assets/scripts/bootstrap.min.js"></script>

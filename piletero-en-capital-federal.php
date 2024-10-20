@@ -212,15 +212,20 @@
         <div class="col-md-3 barrios-a"><a href="piletero-en-san-isidro.php" class="texto3Zona">San Isidro</a></div>
         <div class="col-md-3 barrios-a"><a href="piletero-en-vicente-lopez.php" class="texto3Zona">Vicente López</a></div>
         <div class="col-md-3 barrios-a"><a href="piletero-en-avellaneda.php" class="texto3Zona">Avellaneda</a></div>
-        <div class="col-md-3 barrios-a"><a href="piletero-en-lanus.php" class="texto3Zona">Lanús</a></div>
-        <div class="col-md-3 barrios-a"><a href="piletero-en-lomas-de-zamora.php" class="texto3Zona">Lomas de Zamora</a></div>
+        <!-- <div class="col-md-3 barrios-a"><a href="piletero-en-lanus.php" class="texto3Zona">Lanús</a></div> -->
+        <!-- <div class="col-md-3 barrios-a"><a href="piletero-en-lomas-de-zamora.php" class="texto3Zona">Lomas de Zamora</a></div> -->
         <div class="col-md-3 barrios-a"><a href="piletero-en-moron.php" class="texto3Zona">Morón</a></div>
         <div class="col-md-3 barrios-a"><a href="piletero-en-hurlingham.php" class="texto3Zona">Hurlingham</a></div>
-        <div class="col-md-3 barrios-a"><a href="piletero-en-ituizaingo.php" class="texto3Zona">Ituizaingo</a></div>
+        <!-- <div class="col-md-3 barrios-a"><a href="piletero-en-ituizaingo.php" class="texto3Zona">Ituizaingo</a></div> -->
         <div class="col-md-3 barrios-a"><a href="piletero-en-ramos-mejia.php" class="texto3Zona">Ramos Mejía</a></div>
         <div class="col-md-3 barrios-a"><a href="piletero-en-tres-de-febrero.php" class="texto3Zona">Tres de Febrero</a></div>
         <div class="col-md-3 barrios-a"><a href="piletero-en-san-justo.php" class="texto3Zona">San Justo</a></div>
         <div class="col-md-3 barrios-a"><a href="piletero-en-la-tablada.php" class="texto3Zona">La Tablada</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-lomas-del-mirador.php" class="texto3Zona">Lomas del Mirador</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-villa-luzuriaga.php" class="texto3Zona">Villa Luzuriaga</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-haedo.php" class="texto3Zona">Haedo</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-el-palomar.php" class="texto3Zona">El Palomar</a></div>
+        <div class="col-md-3 barrios-a"><a href="piletero-en-san-martin.php" class="texto3Zona">San Martín</a></div>
       </div>
     </div>
   </section>

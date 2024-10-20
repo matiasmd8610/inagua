@@ -7,19 +7,16 @@
             </div>
 
             <div class="col-md-6 wow slideInRight" datos-wow-duracion="1s" data-wow-delay="1s">
-                <h2 class="texto223">NOS DESTACAMOS EN</h2>
+                <h2 class="texto223">POR QUE ELEGIRNOS</h2>
                 <ul class="destacamos-list">
-                    <li>Puntualidad</li>
-                    <li>Educación</li>
-                    <li>Debidamente uniformados</li>
-                    <li>Amplio conocimiento en piscinas y servicios afines</li>
-                    <li>Seguridad personal y a terceros</li>
-                    <li>Equipamiento adecuado</li>
+                    <li><strong>Puntualidad Garantizada:</strong> Cumplimos con los plazos acordados, respetando su tiempo.</li>
+                    <li><strong>Profesionalismo y Educación:</strong> Nuestro equipo está capacitado para brindar un trato cortés y eficiente.</li>
+                    <li><strong>Presentación Impecable:</strong> Colaboradores uniformados que transmiten confianza y seriedad.</li>
+                    <li><strong>Expertos en Piscinas:</strong> Contamos con amplio conocimiento en mantenimiento de piscinas y servicios afines.</li>
+                    <li><strong>Tecnología de Vanguardia:</strong> Utilizamos herramientas y equipos de última generación para garantizar resultados óptimos.</li>
                 </ul>
                 <p class="texto_seguro_3">
-                    <strong>Para su seguridad nuestro personal se encuentra debidamente registrado y cuentan con los
-                        seguros de
-                        vida obligatorio y ART</strong>
+                    <strong>Para su seguridad nuestro personal está registrado y cuenta con seguros de vida obligatorios y cobertura ART, asegurando su tranquilidad.</strong>
                 </p>
 
                 <img src="assets/images/logo_seguro.png" alt="" class="logo_seguro" width="300">

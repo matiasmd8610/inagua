@@ -1,24 +1,20 @@
 <!DOCTYPE html>
 <html lang="es">
 
-<head>
+<head> 
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#2F4598">
-  <meta name="robots" content="index, follow, all">
-  <meta name="googlebot" content="index, follow, all">
-  <meta name="keywords" content="pileta, piletas, piscinas, piletero, pileteros, desagote, Ituizaingo">
-  <meta name="title" content="Piletero en Ituizaingo">
-  <meta name="author" content="Administrator">
-  <meta name="description" content="Servicios de limpieza y mantenimiento de piletas. Pileteros profesionales.">
-  <title>Piletero en Ituizaingo</title>
+  <meta name="robots" content="index, follow, all" />
+  <meta name="googlebot" content="index, follow, all" />
+  <meta name="keywords" content="pileta, piletas, piscinas, piletero, pileteros, desagote, San Martín" />
+  <meta name="title" content="Piletero en San Martín" />
+  <meta name="author" content="Administrator" />
+  <meta name="description" content="Servicios de limpieza y mantenimiento de piletas. Pileteros profesionales." />
+  <title>Piletero en San Martín</title>
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo" />
   <link rel="icon" href="assets/images/logo.png">
-  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-  <script src="assets/scripts/bootstrap.min.js"></script>
-  <script src="assets/scripts/fileinput.js" type="text/javascript"></script>
   <link href="assets/styles/css/fileinput.css" rel="stylesheet">
   <link rel="stylesheet" href="assets/styles/css/animate/animate.css">
   <link href="assets/styles/css/main.css" rel="stylesheet">
@@ -57,8 +53,8 @@
     gtag('config', 'UA-5539254-2');
   </script>
 
-    <!-- Google Tag Manager -->
-    <script>
+  <!-- Google Tag Manager -->
+  <script>
     (function (w, d, s, l, i) {
       w[l] = w[l] || [];
       w[l].push({
@@ -79,39 +75,31 @@
 </head>
 
 <body>
-  <section>
-
-    <?php include "include/chat.php"; ?>
-
-  </section>
   <span class="ir-arriba"><img src="assets/images/up.png" alt=""></span>
   <div id="top"></div>
-  <header>
 
+  <header>
     <div class="botoner_completa animated slideInDown">
       <?php include "include/navegacion.php"; ?>
     </div>
   </header>
-
 
   <section id="cobertura">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
           <div class="div-texto">
-            <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Mantenimiento de Piletas en
-              Ituizaingo</h1>
+            <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Mantenimiento de Piletas en San Martín</h1>
           </div>
         </div>
-
       </div>
     </div>
   </section>
 
+  
   <section id="contacto">
     <?php include "include/formulario.php"; ?>
   </section>
-
 
   <!-- SERVICIOS SUGERIDOS: Begin -->
   <?php include "include/servicios-sugeridos-small.php"; ?>
@@ -121,12 +109,15 @@
     <?php include "include/footer.php"; ?>
   </footer>
 
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="assets/scripts/bootstrap.min.js"></script>
+  <script src="assets/scripts/fileinput.js" type="text/javascript"></script>
+  <script src="assets/scripts/scripts.js"></script>
   <script src="assets/scripts/wow.js"></script>
   <script>
     new WOW().init();
   </script>
-  <script src="assets/scripts/scripts.js"></script>
 
-</body>
+  </body>
 
 </html>

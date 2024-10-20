@@ -85,16 +85,10 @@
           Piscinas</h1>
         <h2 class="texto2 wow slideInUp">Somos especialistas</h2>
         <p class="texto3n wow slideInUp"><strong>INAGUA</strong> es una empresa con más de <span class="years-experience"></span> años de experiencia en
-          MANTENIMIENTO
-          DE PISCINAS, brindando soluciones integrales a consorcios y particulares.
+          MANTENIMIENTO DE PISCINAS, brindando soluciones integrales a consorcios y particulares.
         </p>
-        <p class="texto3n wow slideInUp">
-          En INAGUA cubrimos todas las necesidades de servicios de mantenimiento para su piscina, la venta de
-          productos para cuidarla, y nos encargamos de las refacciones necesarias para un correcto funcionamiento.
-        </p>
-        <p class="texto3n wow slideInUp">Todo en un solo lugar, y con un equipo especializado.</p>
-        <p class="texto3n wow slideInUp">El personal de INAGUA está capacitado con los niveles más altos del
-          mercado para realizar tareas de mantenimiento, limpieza y desinfección de piscinas.</p>
+        <p class="texto3n wow slideInUp">En INAGUA cubrimos todas las necesidades de servicios de mantenimiento de piscina y nos encargamos de las refacciones necesarias para un correcto funcionamiento.</p>
+        <p class="texto3n wow slideInUp">El personal de INAGUA está capacitado con los niveles más altos del mercado para realizar tareas de mantenimiento integral, limpieza y desinfección de piscinas, así como también servicios complementarios y afines. Todo en un solo lugar, y con un equipo especializado.</p>
       </div>
     </div>
   </section>
@@ -110,12 +104,9 @@
           <p class="texto223"><b>¿Por qué elegir INAGUA?</b></p>
           <ul class="destacamos-list">
             <li>Tenemos más de <span class="years-experience"></span> años de experiencia en el mantenimiento de piscinas.</li>
-            <li>No solo cuidamos el agua de su pileta, sino que también brindamos soluciones a cualquier problema de
-              funcionamiento y mantenimiento de la misma.</li>
-            <li>Todos nuestros operadores son técnicos especializados, cuentan con protección de ART y brindan los
-              servicios conforme todas las medidas de seguridad establecidas.</li>
-            <li>Todos los productos que utilizamos para el tratamiento de piscinas están aprobados por la ANMAT
-              (Administración Nacional de Medicamentos, Alimentos y Tecnología Médica).</li>
+            <li>Además de cuidar el agua de su piscina, también brindamos soluciones y asesoramiento a cualquier problema de funcionamiento y mantenimiento de la misma.</li>
+            <li>Todos nuestros operadores son técnicos especializados, cuentan con protección de ART.</li>
+            <li>Todos los productos que utilizamos para el tratamiento de piscinas están aprobados por la ANMAT (Administración Nacional de Medicamentos, Alimentos y Tecnología Médica).</li>
             <li>Acordamos con cada cliente un día y franja horaria que le sea cómodo para brindar el servicio.</li>
             <li>Si el día de la visita llueve o es feriado, intentamos reprogramarla para otra fecha cercana.</li>
           </ul>

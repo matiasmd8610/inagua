@@ -11339,6 +11339,7 @@ header .imagen_cabesal .sello_premiun {
   font-family: "Oswald", sans-serif;
   font-weight: 600;
   text-transform: uppercase;
+  margin-bottom: 1rem;
 }
 
 .staff_1 {
@@ -11350,6 +11351,12 @@ header .imagen_cabesal .sello_premiun {
     margin-bottom: 2rem;
   }
 }
+@media (min-width: 1200px) {
+  .staff_1 {
+    height: 470px;
+    object-fit: cover;
+  }
+}
 
 .logo_seguro {
   width: 45%;
@@ -11357,13 +11364,12 @@ header .imagen_cabesal .sello_premiun {
 }
 @media (max-width: 991.98px) {
   .logo_seguro {
-    margin: 0 auto;
+    margin: 2rem auto 0;
   }
 }
 
 .texto_seguro_3 {
   font-size: 1em;
-  max-width: 560px;
 }
 
 .bannerAdvertencia {
@@ -11421,8 +11427,13 @@ header .imagen_cabesal .sello_premiun {
 }
 
 .chata_ind {
-  width: 90%;
+  width: 100%;
   margin: auto;
+}
+@media (min-width: 1200px) {
+  .chata_ind {
+    width: 90%;
+  }
 }
 
 .boton-zona {

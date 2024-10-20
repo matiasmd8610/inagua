@@ -12,7 +12,7 @@
             <img src="assets/images/partner_2.jpg" class="chata_ind" alt="">
           </div>
           <div class="texto_zona_1">
-            <p>Brindamos servicios de mantenimiento de piletas en todos los barrios de Capital Federal y alrededores.</p>
+            <p>Brindamos servicios de mantenimiento integral de piscinas y afines en todos los barrios de Capital Federal y alrededores.</p>
           </div>
 
           <div class="btn_zona">

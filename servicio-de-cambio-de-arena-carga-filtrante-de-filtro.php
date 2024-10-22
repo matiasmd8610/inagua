@@ -15,7 +15,7 @@
   <meta name="description" content="Remplazo de arena y reparación de filtros de piscinas.">
   <title>Cambio de arena y reparación de filtro de Piscina | SERVICIOS | INAGUA</title>
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo">
-  <link rel="canonical" href="http://www.inagua.com.ar/servicio-de-cambio-de-arena-carga-filtrante-de-filtro">
+  <link rel="canonical" href="https://www.inagua.com.ar/servicio-de-cambio-de-arena-carga-filtrante-de-filtro">
   <link rel="icon" href="assets/images/logo.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="assets/styles/css/fileinput.css" rel="stylesheet">

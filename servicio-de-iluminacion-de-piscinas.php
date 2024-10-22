@@ -8,19 +8,18 @@
   <meta name="theme-color" content="#2F4598">
   <meta name="robots" content="index, follow, all">
   <meta name="googlebot" content="index, follow, all">
-  <meta name="keywords"
-    content="servicio de limpieza, bordes atérmicos, pisos perimetrales, propiedades atérmicas y antideslizantes, formación de manchas y algas, mantenimiento">
+  <meta name="keywords"  content="servicio de limpieza, bordes atérmicos, pisos perimetrales, propiedades atérmicas y antideslizantes, formación de manchas y algas, mantenimiento">
   <meta name="title" content="Instalación de sistema de iluminación led con o sin control remoto.">
   <meta name="author" content="Administrator">
   <meta name="description" content="Instalación de sistema de iluminación led con o sin control remoto.">
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo">
   <meta property="fb:app_id" content="383820332074788">
   <title>Iluminación Led | SERVICIOS | INAGUA</title>
-  <link rel="canonical" href="http://www.inagua.com.ar/servicio-de-iluminacion-led">
+  <link rel="canonical" href="https://www.inagua.com.ar/servicio-de-iluminacion-led">
   <link rel="icon" href="assets/images/logo.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-  <link href="assets/styles/css/fileinput.css" rel="stylesheet">
-  <link rel="stylesheet" href="assets/styles/css/animate/animate.css">
+  <!-- <link href="assets/styles/css/fileinput.css" rel="stylesheet"> -->
+  <!-- <link rel="stylesheet" href="assets/styles/css/animate/animate.css"> -->
   <link type="text/css" rel="stylesheet" href="assets/styles/css/lightgallery-bundle.css">
   <link href="assets/styles/css/main.css" rel="stylesheet">
   <link rel="preconnect" href="https://fonts.googleapis.com">

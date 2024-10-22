@@ -6,7 +6,6 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#2F4598">
-
   <meta name="robots" content="index, follow, all" />
   <meta name="googlebot" content="index, follow, all" />
   <meta name="keywords" content="pileta, piletas, piscinas, piletero, pileteros, desagote, flores" />
@@ -20,9 +19,9 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
   <script src="assets/scripts/bootstrap.min.js"></script>
   <script src="assets/scripts/fileinput.js" type="text/javascript"></script>
-  <link href="assets/styles/css/fileinput.css" rel="stylesheet">
+  <!-- <link href="assets/styles/css/fileinput.css" rel="stylesheet"> -->
   <link href="assets/styles/css/main.css" rel="stylesheet">
-  <link rel="stylesheet" href="assets/styles/css/animate/animate.css">
+  <!-- <link rel="stylesheet" href="assets/styles/css/animate/animate.css"> -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;600&family=Rubik:wght@300;400;600&display=swap"

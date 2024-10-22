@@ -15,12 +15,12 @@
   <meta name="description" content="Servicios de pastinado de piletas con venecitas.">
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo">
   <title>Fumigación de Mosquitos | SERVICIOS | INAGUA</title>
-  <link rel="canonical" href="http://www.inagua.com.ar/servicio-de-fumigacion-de-mosquitos">
+  <link rel="canonical" href="https://www.inagua.com.ar/servicio-de-fumigacion-de-mosquitos">
   <link rel="icon" href="assets/images/logo.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-  <link href="assets/styles/css/fileinput.css" rel="stylesheet">
+  <!-- <link href="assets/styles/css/fileinput.css" rel="stylesheet"> -->
   <link href="assets/styles/css/main.css" rel="stylesheet">
-  <link rel="stylesheet" href="assets/styles/css/animate/animate.css">
+  <!-- <link rel="stylesheet" href="assets/styles/css/animate/animate.css"> -->
   <link href="assets/styles/css/main.css" rel="stylesheet">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -117,8 +117,7 @@
             <p><strong>DEMOLEDOR</strong> es un insecticida de amplio espectro, que controla los estadios de plagas y
               regula su crecimiento. Cuando se aplica, tiene un efecto residual excelente. Este producto <strong>NO DEJA
                 OLOR NI TIENE SOLVENTES</strong>.</p>
-            <a href="http://www.anmat.gob.ar/boletin_anmat/diciembre_2018/Dispo_MSYDS_2851-18.pdf"
-              target="_blank">APROBADO POR ANMAT</a>
+            <a href="http://www.anmat.gob.ar/boletin_anmat/diciembre_2018/Dispo_MSYDS_2851-18.pdf" target="_blank" rel="noopener noreferrer">APROBADO POR ANMAT</a>
             <img class="img-fluid mx-auto d-block my-5" src="assets/images/servicios/insecticida_demoledor.png"
               alt="Insecticida Demoledor">
             <p><strong>DEMOLEDOR</strong> contiene dos ingredientes activos que producen una acción dual:

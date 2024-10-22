@@ -26,8 +26,6 @@
         Durante el verano, resulta habitual el uso de las piletas de natación para combatir el calor y como modo de
         esparcimiento. Sin embargo, para evitar problemas para la salud, es necesario tener en cuenta algunas
         recomendaciones necesarias para el buen mantenimiento del agua de las piscinas.
-
-
         <br><br>
         A través del agua pueden transmitirse enfermedades como otitis, conjuntivitis y diversas infecciones
         intestinales. El mantenimiento del agua en condiciones saludables ayuda a prevenir esos inconvenientes, y para
@@ -35,7 +33,6 @@
         <br><br>
         Clases de productos
         <br><br>
-
         <b>Existe una variedad de productos según las necesidades: </b>
         <br>
         <br>
@@ -48,19 +45,16 @@
         <img src="assets/images/punto1.jpg" width="10" height="10" alt="" /> <i>Floculantes – coagulantes –
           clarificadores.</i>
         <br><br>
-
         Todos estos productos son regulados por la ANMAT. Al momento de comprarlos debemos recordar que en su rótulo
         deberá constar el número de registro nacional de establecimiento (RNE) y el número de registro nacional de
         producto de uso doméstico (RNPUD). Para confirmar la legitimidad del producto es importante consultar el listado
         de productos para tratamiento de aguas de piscinas.
         <br><br>
-
         A fin de asegurar la efectividad de los productos para piscinas, es muy importante respetar estrictamente las
         indicaciones del rótulo, en lo que se refiere a dosificación, precauciones y condiciones de almacenamiento.
         Además, siempre deben mantenerse fuera del alcance de los niños y de las mascotas.
         <br><br>
         <b>Cloro</b>
-
         <br>
         El cloro mantiene el agua libre de bacterias, ya que su función es destruir estos microorganismos. Por eso, es
         importante realizar el tratamiento con la cantidad de cloro adecuada, teniendo en cuenta el volumen de agua que
@@ -71,11 +65,8 @@
         <br>
         El nivel de cloro debe mantenerse en 2 partes por millón (ppm). No es aconsejable que se encuentre en un valor
         mayor y, por otra parte, los bajos niveles de cloro pueden permitir el desarrollo de bacterias.
-
-
         <br><br>
         <b>PH del agua </b>
-
         <br>
         En las piletas de natación es importante controlar el pH del agua al menos una vez por semana, utilizando el kit
         de medición, pues ello influye directamente en la efectividad del cloro.
@@ -87,7 +78,6 @@
         incrementador (alcalinizante) o reductor (acidificante) del mismo.
         <br><br>
         <b>Alguicidas </b>
-
         <br>
         También puede requerirse la utilización de alguicidas para eliminar las algas presentes en la piscina, las
         cuales provocan que el agua se torne verdosa y que las paredes y el fondo de la pileta se vuelvan resbaladizos.
@@ -96,14 +86,12 @@
         renueve el agua de la piscina.
         <br><br>
         <b>Floculantes </b>
-
         <br>
         Estas sustancias son utilizadas en el mantenimiento de piscinas en las que el agua se ha vuelto turbia debido a
         la presencia de partículas en suspensión. Los floculantes aumentan el tamaño de dichas partículas y provocan su
         decantación al fondo de la pileta, facilitando su limpieza mediante la utilización del barrefondos.
         <br><br>
         <?php include "include/advertencia.php"; ?>
-
       </p>
     </div>
     <br>
@@ -113,16 +101,14 @@
     <br>
     <div class="texto31">
       Fuente:<b> ANMAT - Administración Nacional de Medicamentos, Alimentos y Tecnología Médica<a
-          href="http://www.anmat.gov.ar/Domisanitarios/Productos_para_piletas.pdf" target="new" style="margin-left: ">
-          DOCUMENTACION - ANMAT </a></b>
+          href="http://www.anmat.gov.ar/Domisanitarios/Productos_para_piletas.pdf" target="new" rel="noopener noreferrer">
+          DOCUMENTACION - ANMAT</a></b>
     </div>
 
     <br><br>
 
     <div class="seguinos22">
-
       <p class="seguinos_tex2">COMPARTI LA NOTA</p>
-
     </div>
 
     <div class="seguinos20">
@@ -132,21 +118,15 @@
         assets/images/logo_tw.png" alt="" class="icono_face_compa"></a>
       <a href="whatsapp://send?text=URL" data-action="share/whatsapp/share"><img src="assets/images/whatsapp.png" alt=""
           class="icono_face_compa2"></a>
-
     </div>
     <br><br>
     <p class=" seguinos22 seguinos_tex2">DEJANOS TUS COMENTARIOS</p>
 
-
-
-
     <div class="fb-comments" data-href="http://inagua.com.ar/articulo.php?id=40" data-width="100%" data-numposts="3">
     </div>
-
 
     <a class="boton-zona2" href="piscinas-piscina-piletas-pileta-pileteros-piletero.php">VOLVER AL ÍNDICE DE
       ARTÍCULOS</a>
   </div>
-
 
 </div>

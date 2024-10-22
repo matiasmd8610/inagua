@@ -16,7 +16,7 @@
   <meta name="description" content="Especialistas en destapaciones de cañerias de piscinas y piscinas de natación." />
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo" />
   <title>Destapación de Cañerias de Piscinas SERVICIOS | INAGUA</title>
-  <link rel="canonical" href="http://www.inagua.com.ar/servicio-de-destapaciones-de-barre-fondo-skimmer-piscina-limpia-fondo-pileta">
+  <link rel="canonical" href="https://www.inagua.com.ar/servicio-de-destapaciones-de-barre-fondo-skimmer-piscina-limpia-fondo-pileta">
   <link rel="icon" href="assets/images/logo.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="assets/styles/css/fileinput.css" rel="stylesheet">

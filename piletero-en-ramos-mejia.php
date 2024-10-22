@@ -19,8 +19,8 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
   <script src="assets/scripts/bootstrap.min.js"></script>
   <script src="assets/scripts/fileinput.js" type="text/javascript"></script>
-  <link href="assets/styles/css/fileinput.css" rel="stylesheet">
-  <link rel="stylesheet" href="assets/styles/css/animate/animate.css">
+  <!-- <link href="assets/styles/css/fileinput.css" rel="stylesheet"> -->
+  <!-- <link rel="stylesheet" href="assets/styles/css/animate/animate.css"> -->
   <link href="assets/styles/css/main.css" rel="stylesheet">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

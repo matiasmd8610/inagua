@@ -12,16 +12,15 @@
     content="cloradores, cloración, innowater, cloración salina, clorador salino, piscinas, piletas, mantenimiento piscinas, natación, agua">
   <meta name="title" content="Cloradores Salinos para el mantenimiento del agua de piscinas en Capital Federal.">
   <meta name="author" content="Administrator">
-  <meta name="description"
-    content="Cloradores Salinos Innowater en Buenos Aires para el mantenimiento del agua de piletas.">
+  <meta name="description" content="Cloradores Salinos Innowater en Buenos Aires para el mantenimiento del agua de piletas.">
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo">
   <meta property="fb:app_id" content="383820332074788">
   <title>Cloradores salinos para piscinas | SERVICIOS | INAGUA</title>
-  <link rel="canonical" href="http://www.inagua.com.ar/servicio-de-cloradores-salinos">
+  <link rel="canonical" href="https://www.inagua.com.ar/servicio-de-cloradores-salinos">
   <link rel="icon" href="assets/images/logo.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-  <link href="assets/styles/css/fileinput.css" rel="stylesheet">
-  <link rel="stylesheet" href="assets/styles/css/animate/animate.css">
+  <!-- <link href="assets/styles/css/fileinput.css" rel="stylesheet"> -->
+  <!-- <link rel="stylesheet" href="assets/styles/css/animate/animate.css"> -->
   <link href="assets/styles/css/main.css" rel="stylesheet">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

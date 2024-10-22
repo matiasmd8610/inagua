@@ -129,14 +129,13 @@
     </div>
   </section>
 
-    <!-- NOS DESTACAMOS: Begin -->
-    <?php include "include/destacamos.php"; ?>
+  <!-- NOS DESTACAMOS: Begin -->
+  <?php include "include/destacamos.php"; ?>
   <!-- NOS DESTACAMOS: End -->
 
-  <!-- ZONA DE COBERTURA: Begin -->
-  <?php include "include/zona-cobertura.php"; ?>
-  <!-- ZONA DE COBERTURA: End -->
-
+  <!-- ZONA DE COBERTURA ALL: Begin -->
+  <?php include "include/zona-cobertura-servicios-all.php"; ?>
+  <!-- ZONA DE COBERTURA ALL: End -->
 
   <section id="contacto">
     <?php include "include/formulario.php"; ?>

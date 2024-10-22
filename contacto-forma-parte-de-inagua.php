@@ -62,9 +62,6 @@
 </head>
 
 <body>
-  <section>
-    <?php include "include/chat.php"; ?>
-  </section>
   <span class="ir-arriba"><img src="assets/images/up.png" alt=""></span>
   <div id="top"></div>
 
@@ -74,82 +71,75 @@
     </div>
   </header>
 
-  <div id="contenedor_trabajo">
-    <section id="contacto">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12">
-            <div class="div-texto">
-              <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Trabajá con nosotros</h1>
-              <h2 class="texto2 wow slideInUp">Envianos tus datos</h2>
+  <section id="contacto">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="div-texto">
+            <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Trabajá con nosotros</h1>
+            <h2 class="texto2 wow slideInUp">Envianos tus datos</h2>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <section id="trabaja">
+    <div class="container">
+      <div class="row">
+
+        <div class="col-md-12 wow shake" datos-wow-duracion="5s" data-wow-delay="1s" data-wow-iteration="3">
+
+          <form method="POST" name="fcontacto" id="fcontacto" action="enviarrhh.php" enctype="multipart/form-data">
+            <div class="form-group">
+              <input type="text" name="puesto" id="puesto" class="form-control" placeholder="Puesto" required>
             </div>
-          </div>
+            <div class="form-group">
+              <input type="text" name="remuneracion" id="remuneracion" class="form-control"
+                placeholder="Remuneración pretendida" required>
+            </div>
+            <div class="form-group">
+              <input type="text" name="name" id="name" class="form-control" placeholder="Ingrese su nombre" required>
+            </div>
+            <div class="form-group">
+              <input type="text" name="apellido" id="apellido" class="form-control" placeholder="Ingrese su apellido"
+                required>
+            </div>
+            <div class="form-group">
+              <input type="text" name="telefono" id="telefono" class="form-control" placeholder="Ingrese su telefono"
+                required>
+            </div>
+            <div class="form-group">
+              <input type="text" name="email" id="email" class="form-control" placeholder="Ingrese su correo"
+                required>
+            </div>
+            <div class="form-group">
+              <textarea name="mensaje" id="mensaje" cols="30" rows="5" class="form-control"
+                placeholder="Dejenos su mensaje" required></textarea>
+            </div>
+            <div class="btn_file" style="margin-bottom: 30px;">
+              <p class="text_file" style="cursor: pointer;">AGREGAR CV</p>
+              <input type="file" multiple="true" id="imagen" class="file" name="imagen[]" value="adjuntar" multiple
+                data-show-upload="false" style="cursor: pointer;">
+            </div>
+            <div class="btn_file2">
+              <p class="text_file2" align="center" onClick="location.reload();">BORRAR
+                <input type="reset" class="adjuntar"></p>
+            </div>
+            <button type="submit" class="btn-submit wow shake" datos-wow-duracion="5s" data-wow-delay="1s"
+              data-wow-iteration="10">ENVIANOS SUS REFERENCIAS</button>
+            <div id="respuesta1" style="display: none;"></div>
+          </form>
 
         </div>
       </div>
-    </section>
+    </div>
+  </section>
 
-
-    <section id="trabaja">
-      <div class="container">
-        <div class="row">
-
-          <div class="col-md-12 wow shake" datos-wow-duracion="5s" data-wow-delay="1s" data-wow-iteration="3">
-
-            <form method="POST" name="fcontacto" id="fcontacto" action="enviarrhh.php" enctype="multipart/form-data">
-
-              <div class="form-group">
-                <input type="text" name="puesto" id="puesto" class="form-control" placeholder="Puesto" required>
-              </div>
-
-              <div class="form-group">
-                <input type="text" name="remuneracion" id="remuneracion" class="form-control"
-                  placeholder="Remuneración pretendida" required>
-              </div>
-
-              <div class="form-group">
-                <input type="text" name="name" id="name" class="form-control" placeholder="Ingrese su nombre" required>
-              </div>
-
-              <div class="form-group">
-                <input type="text" name="apellido" id="apellido" class="form-control" placeholder="Ingrese su apellido"
-                  required>
-              </div>
-
-              <div class="form-group">
-                <input type="text" name="telefono" id="telefono" class="form-control" placeholder="Ingrese su telefono"
-                  required>
-              </div>
-
-              <div class="form-group">
-                <input type="text" name="email" id="email" class="form-control" placeholder="Ingrese su correo"
-                  required>
-              </div>
-
-              <div class="form-group">
-                <textarea name="mensaje" id="mensaje" cols="30" rows="5" class="form-control"
-                  placeholder="Dejenos su mensaje" required></textarea>
-              </div>
-
-
-              <div class="btn_file" style="margin-bottom: 30px;">
-
-                <p class="text_file" style="cursor: pointer;">AGREGAR CV</p>
-                <input type="file" multiple="true" id="imagen" class="file" name="imagen[]" value="adjuntar" multiple
-                  data-show-upload="false" style="cursor: pointer;">
-              </div>
-              <div class="btn_file2">
-                <p class="text_file2" align="center" onClick="location.reload();">BORRAR
-                  <input type="reset" class="adjuntar"></p>
-              </div>
-              <button type="submit" class="btn-submit wow shake" datos-wow-duracion="5s" data-wow-delay="1s"
-                data-wow-iteration="10">ENVIANOS SUS REFERENCIAS</button>
-              <div id="respuesta1" style="display: none;"></div>
-            </form>
-          </div>
-        </div>
-      </div>
-    </section>
+  <section>
+    <?php include "include/chat.php"; ?>
+  </section>
 
   <footer>
     <?php include "include/footer.php"; ?>

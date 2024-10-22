@@ -18,8 +18,6 @@
   <link rel="canonical" href="http://www.inagua.com.ar/servicio-de-cambio-de-multivalvula-selectora-de-filtro">
   <link rel="icon" href="assets/images/logo.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-  <script src="assets/scripts/bootstrap.min.js"></script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;600&family=Rubik:wght@300;400;600&display=swap"
@@ -67,7 +65,7 @@
   <section>
     <?php include "include/chat.php"; ?>
   </section>
-  <span class="ir-arriba"><img src="assets/images/up.png" alt=""></span>
+  <span class="ir-arriba"><img src="assets/images/up.png" alt="Flecha ir arriba"></span>
   <div id="top"></div>
 
   <header>
@@ -87,7 +85,7 @@
               filtro de piscinas</h1>
             <h2 class="texto2 wow slideInUp">Reemplazo de filtros y cañerias</h2>
           </div>
-          <br><br>
+          <br>
 
           <div class="grid-services-images">
             <div class="wow slideInLeft foto-arena">
@@ -151,23 +149,24 @@
   <?php include "include/destacamos.php"; ?>
   <!-- NOS DESTACAMOS: End -->
 
-  <!-- ZONA DE COBERTURA: Begin -->
-  <?php include "include/zona-cobertura.php"; ?>
-  <!-- ZONA DE COBERTURA: End -->
-
+  <!-- ZONA DE COBERTURA ALL: Begin -->
+  <?php include "include/zona-cobertura-servicios-all.php"; ?>
+  <!-- ZONA DE COBERTURA ALL: End -->
 
   <section id="contacto">
     <?php include "include/formulario.php"; ?>
   </section>
 
-    <!-- SERVICIOS SUGERIDOS SMALL: Begin -->
-    <?php include "include/servicios-sugeridos-small.php"; ?>
+  <!-- SERVICIOS SUGERIDOS SMALL: Begin -->
+  <?php include "include/servicios-sugeridos-small.php"; ?>
   <!-- SERVICIOS SUGERIDOS SMALL: End -->
 
   <footer>
     <?php include "include/footer.php"; ?>
   </footer>
 
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="assets/scripts/bootstrap.min.js"></script>
   <script src="assets/scripts/wow.js"></script>
   <script>
     new WOW().init();

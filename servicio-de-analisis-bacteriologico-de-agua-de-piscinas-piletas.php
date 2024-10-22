@@ -20,7 +20,7 @@
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="assets/styles/css/fileinput.css" rel="stylesheet">
   <link href="assets/styles/css/main.css" rel="stylesheet">
-  <link rel="stylesheet" href="assets/styles/css/animate/animate.css">
+  <!-- <link rel="stylesheet" href="assets/styles/css/animate/animate.css"> -->
   <link href="assets/styles/css/main.css" rel="stylesheet">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -132,10 +132,9 @@
   <?php include "include/destacamos.php"; ?>
   <!-- NOS DESTACAMOS: End -->
 
-  <!-- ZONA DE COBERTURA: Begin -->
-  <?php include "include/zona-cobertura.php"; ?>
-  <!-- ZONA DE COBERTURA: End -->
-
+  <!-- ZONA DE COBERTURA ALL: Begin -->
+  <?php include "include/zona-cobertura-servicios-all.php"; ?>
+  <!-- ZONA DE COBERTURA ALL: End -->
 
   <section id="contacto">
     <?php include "include/formulario.php"; ?>

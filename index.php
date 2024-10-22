@@ -10,14 +10,14 @@
   <meta name="keywords" content="piscina, piscinas, piletero, pileteros, desagote">
   <meta name="title" content="INAGUA | Pileteros - Limpieza de piscinas - Desagote de piscinass">
   <meta name="author" content="Administrator">
-  <meta name="description" content="Empresa profesional de Limpieza y desagote de piscina. Pileteros en Capital Federal.">
+  <meta name="description" content="Empresa de Mantenimiento Integral de Piscinas y afines en Capital Federal y alrededores.">
   <title>INAGUA | Pileteros - Limpieza de piscinas - Desagote de piscinas</title>
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo">
   <link rel="canonical" href="https://www.inagua.com.ar/">
   <link rel="icon" href="assets/images/logo.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="assets/styles/css/fileinput.css" rel="stylesheet">
-  <link rel="stylesheet" href="assets/styles/css/animate/animate.css">
+  <!-- <link rel="stylesheet" href="assets/styles/css/animate/animate.css"> -->
   <link href="assets/styles/css/main.css" rel="stylesheet">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -125,8 +125,7 @@
       <div class="row">
         <div class="col-md-12">
           <div class="div-texto">
-            <h1 class="texto1 text-white wow zoomInDown" datos-wow-duracion="2s">Empresa de Mantenimiento
-              Integral de Piscinas</h1>
+            <h1 class="texto1 text-white wow zoomInDown" datos-wow-duracion="2s">Empresa de Mantenimiento Integral de Piscinas y afines</h1>
             <h2 class="texto2 wow zoomInUp" data-wow-delay="1s">Pileteros profesionales</h2>
           </div>
           <div class="div-texto">
@@ -151,7 +150,6 @@
   <!-- ZONA DE COBERTURA: Begin -->
   <?php include "include/zona-cobertura.php"; ?>
   <!-- ZONA DE COBERTURA: End -->
-
 
   <section id="contacto">
     <?php include "include/formulario.php"; ?>
@@ -185,7 +183,7 @@
   <script src="assets/scripts/bootstrap.min.js"></script>
   <script src="assets/scripts/fileinput.js" type="text/javascript"></script>
   <script src="assets/scripts/wow.js"></script>
-  <script src="assets/scripts/scripts.js"></script>
+  <script defer src="assets/scripts/scripts.js"></script>
   <script>
     new WOW().init();
   </script>

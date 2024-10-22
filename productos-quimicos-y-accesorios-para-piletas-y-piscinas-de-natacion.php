@@ -28,10 +28,6 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;600&family=Rubik:wght@300;400;600&display=swap"
     rel="stylesheet">
-  <script src="assets/scripts/wow.js"></script>
-  <script>
-    new WOW().init();
-  </script>
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-5539254-2"></script>
@@ -70,9 +66,7 @@
 <body>
 
   <section>
-
     <?php include "include/chat.php"; ?>
-
   </section>
   <span class="ir-arriba"><img src="assets/images/up.png" alt=""></span>
 
@@ -124,7 +118,6 @@
   <?php include "include/destacamos.php"; ?>
   <!-- NOS DESTACAMOS: End -->
 
-
   <!-- ZONA DE COBERTURA: Begin -->
   <?php include "include/zona-cobertura.php"; ?>
   <!-- ZONA DE COBERTURA: End -->
@@ -133,10 +126,16 @@
     <?php include "include/formulario.php"; ?>
   </section>
 
+
   <footer>
     <?php include "include/footer.php"; ?>
   </footer>
 
+
+  <script src="assets/scripts/wow.js"></script>
+  <script>
+    new WOW().init();
+  </script>
   <script src="assets/scripts/scripts.js"></script>
 
 </body>

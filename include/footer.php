@@ -105,17 +105,28 @@
 			<div class="col-md-3 colum-1">
 				<h2 class="seguinos_tex">WEB</h2>
 				<ul class="texto_pie_lis">
-					<li><a href="index.php">Inicio</a></li>
-					<li><a href="empresa-de-mantenimiento-y-limpieza-de-piscinas-de-natacion-y-piletas.php">Nosotros</a>
+					<li>
+            <a href="index.php">Inicio</a>
+          </li>
+					<li>
+            <a href="empresa-de-mantenimiento-y-limpieza-de-piscinas-de-natacion-y-piletas.php">Nosotros</a>
 					</li>
-					<li><a href="productos-quimicos-y-accesorios-para-piletas-y-piscinas-de-natacion.php">Productos</a>
+					<li>
+            <a href="productos-quimicos-y-accesorios-para-piletas-y-piscinas-de-natacion.php">Productos</a>
 					</li>
-					<li><a href="piletero-en-capital-federal.php">Cobertura</a></li>
-					<li><a href="contacto-forma-parte-de-inagua.php">Empleo</a></li>
-					<li><a href="https://inagua.com.ar/piscinas-piscina-piletas-pileta-pileteros-piletero.php">Notas</a>
+					<!-- <li>
+            <a href="piletero-en-capital-federal.php">Cobertura</a>
+          </li> -->
+					<li>
+            <a href="contacto-forma-parte-de-inagua.php">Empleo</a>
+          </li>
+					<li>
+            <a href="https://inagua.com.ar/piscinas-piscina-piletas-pileta-pileteros-piletero.php">Notas</a>
 					</li>
-					<li><a href="https://inagua.com.ar/pileteros-mantenimiento-piscinas-preguntas-frecuentes.php">Preguntas
-							Frecuentes</a></li>
+					<li>
+            <a href="https://inagua.com.ar/pileteros-mantenimiento-piscinas-preguntas-frecuentes.php">Preguntas
+							Frecuentes</a>
+          </li>
 				</ul>
 
 			</div>

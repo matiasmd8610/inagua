@@ -14,7 +14,10 @@
 }
 
 .hero-home {
-	background-image: url('../../images/banner_home_bg.jpg');
+	// background-image: url('../../images/banner_home_bg.jpg');
+	background-image: image-set(
+		url("../../images/banner_home_bg_mobile.jpg") 1x, 
+		url("../../images/banner_home_bg.jpg") 2x);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center center;
@@ -189,11 +192,13 @@
 
 .chata_ind {
 	width: 100%;
-	margin: auto;
-	// margin-top: 20px;
+	margin: 0 auto;
+	margin-top: 30px;
+	display: block;
 
 	@include media-breakpoint-up(xl) {
-		width: 90%;
+		width: 80%;
+		margin-top: 9rem;
 	}
 }
 
@@ -253,10 +258,7 @@
 
 .img_mapa_2 {
 	width: 100%;
-	margin: 2rem auto 0;
-	@include media-breakpoint-up(lg) {
-		width: 90%;
-	}
+	margin: 1rem auto 0;
 }
 
 .btn_zona p a {
@@ -496,6 +498,7 @@
 
 	@include media-breakpoint-up(xl) {
 		grid-template-columns: repeat(3, 1fr);
+		grid-gap: 2rem;
 	}
 
 	img {
@@ -710,7 +713,7 @@
 .imagen-lugar {
 	width: 100%;
 	text-align: center;
-	margin-bottom: 40px;
+	margin-bottom: 30px;
 }
 
 .barrios-a {
@@ -720,9 +723,9 @@
 
 .texto3Zona {
 	color: $color-font-main;
-	font-size: 20px;
+	font-size: 19px;
 	font-family: $primary-font;
-	font-weight: 600;
+	font-weight: 500;
 	text-align: center;
 	text-transform: uppercase;
 	text-decoration: underline;
@@ -1177,10 +1180,11 @@
 	font-family: $secondary-font;
 	font-weight: 600;
 	text-align: center;
-	margin: 0 0 2rem;
+	margin: 0 0 1rem;
 	font-size: 1.5rem;
-
+	
 	@include media-breakpoint-up(lg) {
+		margin: 0 0 2rem;
 		font-size: 1.75rem;
 	}
 }
@@ -1817,6 +1821,17 @@ input.btn-primary {
 		
 		@include media-breakpoint-up(lg) {
 			right: 1rem;
+		}
+	}
+}
+
+.zona-cobertura {
+	h3 {
+		margin-top: 2.2rem;
+		margin-bottom: 1.5rem;
+
+		@include media-breakpoint-down(lg) {
+			margin-bottom: 0;
 		}
 	}
 }

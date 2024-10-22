@@ -134,10 +134,9 @@
   <?php include "include/destacamos.php"; ?>
   <!-- NOS DESTACAMOS: End -->
 
-  <!-- ZONA DE COBERTURA: Begin -->
-  <?php include "include/zona-cobertura.php"; ?>
-  <!-- ZONA DE COBERTURA: End -->
-
+  <!-- ZONA DE COBERTURA CABA: Begin -->
+  <?php include "include/zona-cobertura-servicios-caba.php"; ?>
+  <!-- ZONA DE COBERTURA CABA: End -->
 
   <section id="contacto">
     <?php include "include/formulario.php"; ?>

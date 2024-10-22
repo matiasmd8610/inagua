@@ -3,7 +3,7 @@
         <div class="row">
 
             <div class="col-md-6 wow slideInLeft" datos-wow-duracion="0.5s" data-wow-delay="0.5s">
-                <img src="assets/images/destacamos_img.jpg" alt="Hombre trabajando" class="staff_1">
+                <img src="assets/images/destacamos_img.jpg" alt="Hombre trabajando" width="600" class="staff_1">
             </div>
 
             <div class="col-md-6 wow slideInRight" datos-wow-duracion="1s" data-wow-delay="1s">
@@ -19,7 +19,7 @@
                     <strong>Para su seguridad nuestro personal está registrado y cuenta con seguros de vida obligatorios y cobertura ART, asegurando su tranquilidad.</strong>
                 </p>
 
-                <img src="assets/images/logo_seguro.png" alt="" class="logo_seguro" width="300">
+                <img src="assets/images/logo_seguro.png" alt="Sancor Seguros" class="logo_seguro" width="300">
             </div>
 
         </div>

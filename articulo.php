@@ -2,19 +2,18 @@
 $id = isset($_GET['id']) ? $_GET['id'] : '0';
 
 function get_template( $id ) {
-
   if ( $id == '0' ) {
     echo 'No existe artítulo indicado';
   } else {
     include 'articulos/'.$id.'.php';
   }
 }
+
 ?>
 <!DOCTYPE html>
 <html lang="es">
 
 <head>
-
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1">

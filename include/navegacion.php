@@ -26,7 +26,7 @@
 
   <div class="container nav-container">
     <a href="/">
-      <img src="assets/images/logo_foo.png" alt="" class="logo_h">
+      <img src="assets/images/logo_foo.png" alt="Logo Inagua" width="208" class="logo_h">
     </a>
     <button type="button" class="btn_menu2" aria-label="Menú">
       <span></span>
@@ -39,8 +39,7 @@
           <a href="/">INICIO</a>
         </li>
         <li>
-          <a href="empresa-de-mantenimiento-y-limpieza-de-piscinas-de-natacion-y-piletas.php"
-            class="nosotros">NOSOTROS</a>
+          <a href="empresa-de-mantenimiento-y-limpieza-de-piscinas-de-natacion-y-piletas.php" class="nosotros">NOSOTROS</a>
         </li>
         <li class="submenu">SERVICIOS
           <ul>
@@ -130,13 +129,21 @@
             </li> -->
           </ul>
         </li>
-        <li>
+        <!-- <li>
           <a href="piletero-en-capital-federal.php">COBERTURA</a>
+        </li> -->
+        <li>
+          <a href="contacto-forma-parte-de-inagua.php">EMPLEO</a>
         </li>
-        <li><a href="contacto-forma-parte-de-inagua.php">EMPLEO</a></li>
-        <li><a href="piscinas-piscina-piletas-pileta-pileteros-piletero.php">NOTAS</a></li>
-        <li><a href="pileteros-mantenimiento-piscinas-preguntas-frecuentes.php">FAQ</a></li>
-        <li><a href="#contacto">CONTACTO</a></li>
+        <li>
+          <a href="piscinas-piscina-piletas-pileta-pileteros-piletero.php">NOTAS</a>
+        </li>
+        <li>
+          <a href="pileteros-mantenimiento-piscinas-preguntas-frecuentes.php">FAQ</a>
+        </li>
+        <li>
+          <a href="#contacto">CONTACTO</a>
+        </li>
       </ul>
     </nav>
 

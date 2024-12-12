@@ -1835,3 +1835,18 @@ input.btn-primary {
 		}
 	}
 }
+
+.page-404 {
+	margin-top: 6rem;
+
+	.text-404 {
+		font-size: 5rem;
+		display: block;
+		text-align: center;
+		line-height: 1;
+
+		@include media-breakpoint-up(lg) {
+			font-size: 8rem;
+		}
+	}
+}

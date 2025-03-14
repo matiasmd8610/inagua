@@ -1,5 +1,9 @@
 $(document).ready(function () {
 
+	/*Update copy automatically
+	**************************************************/
+	document.querySelector(".year-copy").innerText = new Date().getFullYear();
+
     $('nav a[href*="#"], .boton-presupuesto').click(function () {
         if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname ==
             this.hostname) {

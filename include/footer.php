@@ -173,5 +173,5 @@
 
 </div>
 <div class="copy">
-  <p class="m-0">© 2024 INAGUA. Todos los derechos reservados.</p>
+  <p class="m-0">© <span class="year-copy"></span> INAGUA. Todos los derechos reservados.</p>
 </div>

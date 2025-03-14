@@ -171,7 +171,7 @@
     </button>
     <div class="modal-content">
       <video width="400" height="600" controls autoplay muted>
-        <source src="assets/videos/video_promocional.mp4" type="video/mp4">
+        <source src="assets/videos/video_promocional_02.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </div>

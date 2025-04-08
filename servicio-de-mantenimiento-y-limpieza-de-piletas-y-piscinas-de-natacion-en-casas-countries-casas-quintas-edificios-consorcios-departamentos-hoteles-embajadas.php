@@ -158,9 +158,9 @@
   <?php include "include/destacamos.php"; ?>
   <!-- NOS DESTACAMOS: End -->
 
-  <!-- ZONA DE COBERTURA CABA: Begin -->
-  <?php include "include/zona-cobertura-servicios-caba.php"; ?>
-  <!-- ZONA DE COBERTURA CABA: End -->
+  <!-- ZONA DE COBERTURA ALL: Begin -->
+  <?php include "include/zona-cobertura-servicios-all.php"; ?>
+  <!-- ZONA DE COBERTURA ALL: End -->
 
   <section id="contacto">
     <?php include "include/formulario.php"; ?>

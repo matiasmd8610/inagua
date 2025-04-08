@@ -62,11 +62,8 @@
 </head>
 
 <body>
-
   <section>
-
     <?php include "include/chat.php"; ?>
-
   </section>
   <span class="ir-arriba"><img src="assets/images/up.png" alt=""></span>
   <div id="top"></div>
@@ -108,45 +105,32 @@
         </div>
 
         <div class="col-md-12 presupuesto-ser wow slideInUp">
-          <a href="#contacto" class="boton-presupuesto" style="text-decoration:none;">SOLICITAR PRESUPUESTO</a>
+          <a href="#contacto" class="boton-presupuesto">SOLICITAR PRESUPUESTO</a>
         </div>
 
       </div>
     </div>
   </section>
 
-  <!-- SERVICIOS SUGERIDOS SMALL: Begin -->
-  <?php include "include/servicios-sugeridos-small.php"; ?>
-  <!-- SERVICIOS SUGERIDOS SMALL: End -->
-
   <!-- NOS DESTACAMOS: Begin -->
   <?php include "include/destacamos.php"; ?>
   <!-- NOS DESTACAMOS: End -->
 
-  <section>
-    <div class="container">
-      <div class="col-lg-12 presupuesto-ser wow slideInUp mt-5">
-        <a href="#contacto" class="boton-presupuesto">SOLICITAR PRESUPUESTO</a>
-      </div>
-    </div>
-  </section>
-
-    <!-- NOS DESTACAMOS: Begin -->
-    <?php include "include/destacamos.php"; ?>
-  <!-- NOS DESTACAMOS: End -->
-
-  <!-- ZONA DE COBERTURA ALL: Begin -->
-  <?php include "include/zona-cobertura-servicios-all.php"; ?>
-  <!-- ZONA DE COBERTURA ALL: End -->
+  <!-- ZONA DE COBERTURA CABA: Begin -->
+  <?php include "include/zona-cobertura-servicios-caba.php"; ?>
+  <!-- ZONA DE COBERTURA CABA: End -->
 
   <section id="contacto">
     <?php include "include/formulario.php"; ?>
   </section>
 
-    <!-- ZONA DE COBERTURA: Begin -->
-    <?php include "include/zona-cobertura.php"; ?>
-  <!-- ZONA DE COBERTURA: End -->
+  <!-- SERVICIOS SUGERIDOS SMALL: Begin -->
+  <?php include "include/servicios-sugeridos-small.php"; ?>
+  <!-- SERVICIOS SUGERIDOS SMALL: End -->
 
+  <!-- ZONA DE COBERTURA: Begin -->
+  <!-- <?php include "include/zona-cobertura.php"; ?> -->
+  <!-- ZONA DE COBERTURA: End -->
 
   <footer>
     <?php include "include/footer.php"; ?>

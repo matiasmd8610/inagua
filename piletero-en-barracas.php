@@ -34,7 +34,6 @@
   <meta name="author" content="Administrator" />
   <meta name="description" content="Servicios de limpieza y mantenimiento de piletas. Pileteros profesionales." />
   <title>Piletero en Barracas</title>
-  <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo" />
   <link rel="icon" href="assets/images/logo.png">
   <!-- <link href="assets/styles/css/fileinput.css" rel="stylesheet"> -->
   <link href="assets/styles/css/main.css" rel="stylesheet">

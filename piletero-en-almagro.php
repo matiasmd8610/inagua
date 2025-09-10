@@ -13,7 +13,6 @@
   <meta name="author" content="Administrator">
   <meta name="description" content="Servicios de limpieza y mantenimiento de piscinas. Pileteros profesionales.">
   <title>Piletero en Almagro</title>
-  <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo" />
   <link rel="icon" href="assets/images/logo.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <script src="assets/scripts/fileinput.js" type="text/javascript"></script>

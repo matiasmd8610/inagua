@@ -26,7 +26,6 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#2F4598">
-
   <meta name="robots" content="index, follow, all" />
   <meta name="googlebot" content="index, follow, all" />
   <meta name="keywords" content="pileta, piletas, piscinas, piletero, pileteros, desagote, palermo" />
@@ -34,7 +33,6 @@
   <meta name="author" content="Administrator" />
   <meta name="description" content="Servicios de limpieza y mantenimiento de piletas. Pileteros profesionales." />
   <title>Piletero en Palermo</title>
-  <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo" />
   <link rel="icon" href="assets/images/logo.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>

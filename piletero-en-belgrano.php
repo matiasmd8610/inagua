@@ -12,7 +12,6 @@
   <meta name="title" content="Piletero en Belgrano" />
   <meta name="author" content="Administrator" />
   <meta name="description" content="Servicios de limpieza y mantenimiento de piletas. Pileteros profesionales." />
-  <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo" />
   <link rel="icon" href="assets/images/logo.png">
   <title>Piletero en Belgrano</title>
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">

@@ -34,7 +34,6 @@
   <meta name="author" content="Administrator" />
   <meta name="description" content="Servicios de limpieza y mantenimiento de piletas. Pileteros profesionales." />
   <title>Piletero en Caballito</title>
-  <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo" />
   <link rel="icon" href="assets/images/logo.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>

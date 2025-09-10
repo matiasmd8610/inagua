@@ -12,7 +12,6 @@
   <meta name="title" content="Desagote, limpieza y desinfección de piletas">
   <meta name="author" content="Administrator">
   <meta name="description" content="Pileteros con experiencia brindando servicios de mantenimiento de piscinas a consorcios." />
-  <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo" />
   <title>Desagote, limpieza y desinfección de piletas | SERVICIOS | INAGUA</title>
   <link rel="canonical" href="https://www.inagua.com.ar/servicio-de-desagote-limpieza-desinfeccion-de-piletas-y-piscinas-de-natacion">
   <link rel="icon" href="assets/images/logo.png">

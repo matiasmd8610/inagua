@@ -12,7 +12,6 @@
   <meta name="author" content="Administrator">
   <meta name="description" content="Empresa de Mantenimiento Integral de Piscinas y afines en Capital Federal y alrededores.">
   <title>INAGUA | Pileteros - Limpieza de piscinas - Desagote de piscinas</title>
-  <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo">
   <link rel="canonical" href="https://www.inagua.com.ar/">
   <link rel="icon" href="assets/images/logo.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -120,18 +119,14 @@
 
   <section class="hero-home m-0">
     <div class="container">
-      <div class="row">
-        <div class="col-md-12">
-          <div class="div-texto">
-            <h1 class="texto1 text-white wow zoomInDown" datos-wow-duracion="2s">Empresa de Mantenimiento Integral de Piscinas y afines</h1>
-            <h2 class="texto2 wow zoomInUp" data-wow-delay="1s">Pileteros profesionales</h2>
-          </div>
-          <div class="div-texto">
-            <p class="texto3 text-white text-center wow slideInUp">Le damos la bienvenida a nuestro sitio web donde
-              podrá acceder a toda la información sobre los servicios que ofrece nuestra empresa en la Ciudad Autónoma
-              de Buenos Aires y alrededores.</p>
-          </div>
-        </div>
+      <div class="div-texto">
+        <h1 class="texto1 text-white wow zoomInDown" datos-wow-duracion="0.5s">Empresa de Mantenimiento Integral de Piscinas y afines</h1>
+        <h2 class="texto2 wow zoomInUp" data-wow-delay="1s">Pileteros profesionales</h2>
+      </div>
+      <div class="div-texto">
+        <p class="texto3 text-white text-center wow wow zoomInDown" data-wow-delay="1.5s">Le damos la bienvenida a nuestro sitio web donde
+          podrá acceder a toda la información sobre los servicios que ofrece nuestra empresa en la Ciudad Autónoma
+          de Buenos Aires y alrededores.</p>
       </div>
     </div>
   </section>

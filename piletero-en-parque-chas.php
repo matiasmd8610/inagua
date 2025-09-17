@@ -46,10 +46,6 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;600&family=Rubik:wght@300;400;600&display=swap"
     rel="stylesheet">
-  <script src="assets/scripts/wow.js"></script>
-  <script>
-    new WOW().init();
-  </script>
 
   <script type="text/javascript">
     (function (i, s, o, g, r, a, m) {
@@ -142,6 +138,10 @@
     <?php include "include/footer.php"; ?>
   </footer>
 
+  <script src="assets/scripts/wow.js"></script>
+  <script>
+    new WOW().init();
+  </script>
   <script src="assets/scripts/scripts.js"></script>
 
 </body>

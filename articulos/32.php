@@ -4,7 +4,7 @@
     <div class="col-md-12">		
       <div class="div-texto">
           <h1 class="texto1 wow zoomInDown" datos-wow-duracion= "2s" data-wow-delay = "1s">Algunas razones para mantener el agua de la piscina en otoño/invierno</h1>
-          <h4 class="texto2 wow slideInUp">conoce mas sobre tu piscina</h4>
+          <h4 class="texto2 wow slideInUp">Conocé más sobre tu piscina</h4>
       </div>
     </div>
       <br><br>
@@ -149,7 +149,7 @@ algas y microorganismos. </i>
 
  <div class="btn_zona2">
               <p class="boton-zona2">
-              <a href="piscinas-piscina-piletas-pileta-pileteros-piletero.php" style="color: white;">VOLVER AL INDICE DE ARTICULOS DE INTERES</a>
+              <a href="noticias.php" style="color: white;">VOLVER AL INDICE DE ARTICULOS DE INTERES</a>
 
               </p>
           </div>

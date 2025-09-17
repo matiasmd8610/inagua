@@ -93,7 +93,7 @@
     <div class="fb-comments" data-href="http://inagua.com.ar/articulo.php?id=20" data-width="100%" data-numposts="3">
     </div>
 
-    <a class="boton-zona2" href="piscinas-piscina-piletas-pileta-pileteros-piletero.php">VOLVER AL ÍNDICE DE
+    <a class="boton-zona2" href="noticias.php">VOLVER AL ÍNDICE DE
       ARTÍCULOS</a>
   </div>
 

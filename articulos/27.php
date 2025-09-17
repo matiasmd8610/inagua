@@ -83,7 +83,7 @@
 
  <div class="btn_zona2">
               <p class="boton-zona2">
-              <a href="piscinas-piscina-piletas-pileta-pileteros-piletero.php" style="color: white;">VOLVER AL INDICE DE ARTICULOS DE INTERES</a>
+              <a href="noticias.php" style="color: white;">VOLVER AL INDICE DE ARTICULOS DE INTERES</a>
 
               </p>
           </div>

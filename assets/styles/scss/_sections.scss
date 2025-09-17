@@ -50,6 +50,24 @@
 		flex-direction: column;
 		justify-content: center;
 
+		h1 {
+			margin-bottom: 0.5rem;
+			font-size: 2rem;
+
+			@include media-breakpoint-up(lg) {
+				font-size: 2.6rem;
+			}
+		}
+
+		h2 {
+			font-size: 1.8rem;
+			margin-bottom: 2rem;
+
+			@include media-breakpoint-up(lg) {
+				font-size: 2.4rem;
+			}
+		}
+
 		p {
 			max-width: 800px;
 			margin: 0 auto;
@@ -144,7 +162,7 @@
 }
 
 .bannerAdvertencia {
-	background-color: #f5f5f5;
+	background-color: #eee;
 	padding: 1.5rem;
 	border-radius: 0.5rem;
 }
@@ -848,8 +866,8 @@
 	display: none;
 	cursor: pointer;
 	position: fixed;
-	bottom: 20px;
-	left: 25px;
+	bottom: 1rem;
+	right: 6rem;
 	z-index: 3000;
 }
 
@@ -1030,8 +1048,6 @@
 	.horarios_atencion2 {
 		font-family: $primary-font;
 	}
-
-
 }
 
 
@@ -1058,12 +1074,13 @@
 
 .link-td02 {
 	color: #fff;
+	
+	&:hover {
+		color: #0192d5;
+		text-decoration: none;
+	}
 }
 
-.link-td02:hover {
-	color: #0192d5;
-	text-decoration: none;
-}
 
 .td03 {
 	font-size: 14px;
@@ -1514,7 +1531,7 @@ input.btn-primary {
 	color: #fff;
 	text-decoration: none;
 	font-size: 1rem;
-	letter-spacing: 0.1em;
+	letter-spacing: 0.02em;
 	border-radius: 0.5rem;
 
 	&:hover {
@@ -1523,24 +1540,8 @@ input.btn-primary {
 	}
 }
 
-.btn-subir {
-	float: right;
-	margin-right: 80px;
-	margin-top: 50px;
-
-	@media (max-width: 767px) {
-		margin-right: 40px;
-		margin-top: 40px;
-	}
-}
-
 
 @media (max-width:470px) {
-
-	.respimg {
-		width: 200px;
-	}
-
 	.contenido {
 		width: 200px;
 		height: 150px;
@@ -1555,10 +1556,6 @@ input.btn-primary {
 }
 
 @media (min-width: 471px) {
-	.respimg {
-		width: 600px;
-	}
-
 	.contenido {
 		width: 600px;
 		height: 450px;
@@ -1591,10 +1588,6 @@ input.btn-primary {
 	border-radius: 10px;
 	cursor: pointer;
 	z-index: 50;
-}
-
-.respimg {
-	border-radius: 10px;
 }
 
 #cerrar {
@@ -1854,6 +1847,70 @@ input.btn-primary {
 
 		@include media-breakpoint-up(lg) {
 			font-size: 8rem;
+		}
+	}
+}
+
+.contact-info {
+	display: flex;
+	flex-direction: column;
+	gap: 2rem;
+	margin-top: 2.5rem;
+
+	@include media-breakpoint-up(lg) {
+		padding-left: 3rem;
+		margin-top: 1rem;
+	}
+
+	&--item {
+		display: flex;
+		gap: 1rem;
+		align-items: center;
+		
+		@include media-breakpoint-up(lg) {
+			gap: 1.2rem;
+		}
+
+		.icon {
+			padding: .55rem;
+			background-color: $color-blue-main;
+			border-radius: 50%;
+			display: flex; 
+			align-items: center;
+			justify-content: center;
+			width: 2.5rem;
+			height: 2.5rem;
+			
+			@include media-breakpoint-up(lg) {
+				padding: .7rem;
+				width: 3rem;
+				height: 3rem;
+			}
+
+			svg {
+				width: 1.5rem;
+				height: 1.5rem;
+				
+				@include media-breakpoint-up(lg) {
+					width: 2rem;
+					height: 2rem;
+				}
+
+				path {
+					fill: $color-white;
+				}
+			}
+		}
+
+		&Text {
+			span {
+				display: block;
+
+				&:first-child {
+					font-weight: 700;
+					font-size: 1.5rem;
+				}
+			}
 		}
 	}
 }

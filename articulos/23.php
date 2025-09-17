@@ -5,7 +5,7 @@
       <div class="div-texto">
         <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">¿Tiene problemas con el agua de su
           piscina?</h1>
-        <h4 class="texto2 wow slideInUp">conoce mas sobre tu piscina</h4>
+        <h4 class="texto2 wow slideInUp">Conocé más sobre tu piscina</h4>
       </div>
     </div>
     <br><br>
@@ -101,8 +101,7 @@
     </div>
 
 
-    <a class="boton-zona2" href="piscinas-piscina-piletas-pileta-pileteros-piletero.php">VOLVER AL ÍNDICE DE
-      ARTÍCULOS</a>
+    <a class="boton-zona2" href="noticias.php">VOLVER AL ÍNDICE DE ARTÍCULOS</a>
   </div>
 
 

@@ -89,8 +89,8 @@
     <div class="container">
       <div class="row">
 
-        <div class="col-md-12 wow shake" datos-wow-duracion="5s" data-wow-delay="1s" data-wow-iteration="3">
-
+        <div class="col-lg-8 mx-auto wow shake" datos-wow-duracion="5s" data-wow-delay="1s">
+          <!-- Form: Begin -->
           <form method="POST" name="fcontacto" id="fcontacto" action="enviarrhh.php" enctype="multipart/form-data">
             <div class="form-group">
               <input type="text" name="puesto" id="puesto" class="form-control" placeholder="Puesto" required>
@@ -131,10 +131,14 @@
               data-wow-iteration="10">ENVIANOS SUS REFERENCIAS</button>
             <div id="respuesta1" style="display: none;"></div>
           </form>
-
+          <!-- Form: End -->
         </div>
       </div>
     </div>
+  </section>
+
+  <section id="contacto">
+    <?php include "include/formulario.php"; ?>
   </section>
 
   <section>

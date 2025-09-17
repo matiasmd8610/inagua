@@ -37,6 +37,12 @@ h5 {
     line-height: 1.2;
 }
 
+p {
+    &:last-child {
+        margin-bottom: 0;
+    }
+}
+
 ul {
     padding-left: 1.5rem;
     li {
@@ -47,12 +53,11 @@ ul {
     }
 }
 
-
 section {
-    margin-top: 2.5rem;
+    margin-top: 3rem;
 
     @media(max-width: 767px) {
-        margin-top: 1.5rem;
+        margin-top: 2rem;
     }
 }
 
@@ -113,3 +118,25 @@ section {
 		opacity: 1;
 	}
 }
+
+@keyframes bounce {
+    0%,
+    to {
+        transform: translateY(-25%);
+        animation-timing-function: cubic-bezier(.8,0,1,1)
+    }
+
+    50% {
+        transform: none;
+        animation-timing-function: cubic-bezier(0,0,.2,1)
+    }
+}
+
+
+// @media (prefers-color-scheme: dark) {
+//   header {
+//     .logo_h {
+//         filter: invert(1);
+//     }
+//   }
+// }

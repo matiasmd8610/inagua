@@ -1,25 +1,29 @@
-  <div class="contacto_hea animated slideInRight">
+  <div class="contacto_hea">
     <div class="container">
-      <div class="row">
-
+      <div class="row animated slideInRight">
         <div class="col-lg-6 contenedor_horario">
           <div class="horario_atencion">
             <img src="assets/images/calendario.png" alt="Calendario" class="horario_atencion_header_icon">
             <div class="horario_atencion_header_tipos">
-              <p class="dias_atencion my-0"><b>LUNES A VIERNES DE 8 hs a 17 hs</b></p>
-              <p class="horarios_atencion my-0">SÁBADOS DE 8 hs a 12 hs</p>
+              <p class="dias_atencion my-0">LUNES A VIERNES DE 8 hs a 17 hs, SÁBADOS DE 8 hs a 12 hs</p>
+            </div>
+          </div>
+          <div class="horario_atencion tel">
+            <svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 36 36">
+                <path fill="#31373D" d="m34.06 26.407l-3.496-3.496a4.942 4.942 0 0 0-8.34 2.528c-5.765-1.078-11.372-6.662-11.721-11.653a4.908 4.908 0 0 0 2.586-1.36a4.943 4.943 0 0 0 0-6.99L9.594 1.94a4.943 4.943 0 0 0-6.99 0C-7.882 12.426 23.574 43.882 34.06 33.396a4.944 4.944 0 0 0 0-6.989z"/>
+            </svg>
+            <div class="horario_atencion_header_tipos">
+              <p class="dias_atencion my-0">1164420848</p>
             </div>
           </div>
         </div>
-
         <div class="col-lg-6 datos_contacto">
           <p class="consulta_header my-0">HACENOS TU CONSULTA:</p>
           <a href="https://wa.me/541164420848?text=Hola!%20Quisiera%20recibir%20información%20sobre..." target="_blank">
-            15-6442-0848
+            Whatsapp
             <img src="assets/images/whatsapp_white.png" alt="Whatsapp" width="25" class="imagen_wh">
           </a>
         </div>
-        
       </div>
     </div>
   </div>
@@ -136,10 +140,10 @@
           <a href="contacto-forma-parte-de-inagua.php">EMPLEO</a>
         </li>
         <li>
-          <a href="piscinas-piscina-piletas-pileta-pileteros-piletero.php">NOTAS</a>
+          <a href="noticias.php">NOTICIAS</a>
         </li>
         <li>
-          <a href="pileteros-mantenimiento-piscinas-preguntas-frecuentes.php">FAQ</a>
+          <a href="pileteros-mantenimiento-piscinas-preguntas-frecuentes.php">FAQs</a>
         </li>
         <li>
           <a href="#contacto">CONTACTO</a>

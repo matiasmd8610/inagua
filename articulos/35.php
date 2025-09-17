@@ -100,7 +100,7 @@
     </div>
 
 
-    <a class="boton-zona2" href="piscinas-piscina-piletas-pileta-pileteros-piletero.php">VOLVER AL ÍNDICE DE
+    <a class="boton-zona2" href="noticias.php">VOLVER AL ÍNDICE DE
       ARTÍCULOS</a>
   </div>
 

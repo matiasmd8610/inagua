@@ -173,7 +173,7 @@
         </div>
 
         <div class="col-lg-6">
-          <img src="assets/images/imagen-indice-articulos.jpg" alt="" class="imgen-moviles-casas212 wow slideInRight">
+          <img src="assets/images/imagen-indice-articulos.jpg" alt="" class="mt-4 imgen-moviles-casas212 wow slideInRight">
         </div>
 
         <div>

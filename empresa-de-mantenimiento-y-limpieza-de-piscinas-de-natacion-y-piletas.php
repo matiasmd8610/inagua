@@ -6,10 +6,6 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="theme-color" content="#2F4598">
-  <meta name="robots" content="index, follow, all">
-  <meta name="googlebot" content="index, follow, all">
-  <meta name="keywords"
-    content="limpieza de piletas, piletas, piscinas, piletero, pileteros, desagotes, mantenimiento de piletas">
   <meta name="title" content="EMPRESA DE LIMPIEZA DE PILETAS - PILETEROS PROFESIONALES">
   <meta name="author" content="Administrator" />
   <meta name="description" content="Piletero a domicilio. Pileteros en Capital Federal.">
@@ -77,8 +73,7 @@
         <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">INAGUA - Mantenimiento de
           Piscinas</h1>
         <h2 class="texto2 wow slideInUp">Somos especialistas</h2>
-        <p class="texto3n wow slideInUp"><strong>INAGUA</strong> es una empresa con más de <span class="years-experience"></span> años de experiencia en
-          MANTENIMIENTO DE PISCINAS, brindando soluciones integrales a consorcios y particulares.
+        <p class="texto3n wow slideInUp"><strong>INAGUA</strong> es una empresa con más de <span class="years-experience"></span> años de experiencia en MANTENIMIENTO DE PISCINAS, brindando soluciones integrales y afines a Casas Particulares, Consorcios / Edificios, Barrios Privados / Countries, Empresas de Alquiler Temporario, Centros de Rehabilitación, Colegios / Instituciones Deportivas, Embajadas y Hoteles.
         </p>
         <p class="texto3n wow slideInUp">En INAGUA cubrimos todas las necesidades de servicios de mantenimiento de piscina y nos encargamos de las refacciones necesarias para un correcto funcionamiento.</p>
         <p class="texto3n wow slideInUp">El personal de INAGUA está capacitado con los niveles más altos del mercado para realizar tareas de mantenimiento integral, limpieza y desinfección de piscinas, así como también servicios complementarios y afines. Todo en un solo lugar, y con un equipo especializado.</p>

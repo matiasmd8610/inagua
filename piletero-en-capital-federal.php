@@ -90,10 +90,8 @@
               width="100%" height="515" frameborder="0" style="border:0" allowfullscreen class="img_mapa_2"></iframe>
           </div>
           <div class="div-texto">
-            <p class="texto3 wow slideInUp">
-              Somos una empresa profesional de mantenimiento integral de piscinas. Brindamos servicios de limpieza y
-              mantenimiento de piscinas y afines en los siguientes barrios de Capital Federal y alrededores:
-            </p>
+            <p class="texto3 wow slideInUp">Somos una empresa profesional de mantenimiento integral de piscinas. Brindamos servicios de limpieza y
+              mantenimiento de piscinas y afines en los siguientes barrios de Capital Federal y alrededores:</p>
           </div>
         </div>
       </div>

@@ -112,11 +112,10 @@
         <div class="col-md-12 wow tada" datos-wow-duracion="3s" data-wow-delay="2s">
           <div class="pileteros_profesionales">
             <p class="td08_4">Solo confie en pileteros profesionales</p>
-            <p class="td08_3"><i>
-                ...”El tratamiento inadecuado del agua, por falta de conocimientos y experiencia, tiene efectos
+            <p class="td08_3"><>El tratamiento inadecuado del agua, por falta de conocimientos y experiencia, tiene efectos
                 desagradables provocando irritaciones en la piel, ojos y mucosas y causando enfermedades transmitidas por
                 microorganismos o agentes patógenos. Por todo esto le ofrecemos mantener su piscina y el agua en óptimas
-                condiciones durante todo el año.”...</i></p>
+                condiciones durante todo el año.</p>
           </div>
         </div>
         

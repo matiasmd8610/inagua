@@ -84,7 +84,7 @@
         <div class="col-lg-12">
           <div class="div-texto">
             <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Fumigación de Mosquitos</h1>
-            <h2 class="texto2 wow slideInUp">¡Fumigue Ya! ¡Sin Mosquito No Hay Dengue!</h2>
+            <h2 class="texto2 wow slideInUp">¡Sin mosquitos, no hay Dengue! Fumigación segura para niños, adultos y mascotas</h2>
 
             <div class="grid-services-images my-5">
               <div class="wow fadeInLeft">
@@ -95,10 +95,11 @@
               </div>
             </div>
 
-            <p class="texto3 wow slideInUp">
-              Brindamos el servicio de <strong>Fumigación De Mosquitos</strong> en todos los barrios de Capital Federal
-              y alrededores.
-            </p>
+            <p class="texto3 wow slideInUp">En INAGUA ofrecemos un servicio especializado de fumigación para exteriores, ideal para consorcios, jardines, parques y espacios comunes. Utilizamos equipos motomochila de última generación y productos aprobados por ANMAT, sin olor ni residuos tóxicos, lo que garantiza un entorno seguro para niños, adultos y mascotas.</p>  
+            <p class="texto3 wow slideInUp">Nuestro enfoque está orientado a reducir la población de mosquitos adultos —especialmente del Aedes aegypti, transmisor del Dengue— cortando el ciclo reproductivo y disminuyendo la cantidad de huevos depositados.</p>  
+            <p class="texto3 wow slideInUp">Además, brindamos asesoramiento personalizado con recomendaciones prácticas para minimizar criaderos y mantener los espacios libres de mosquitos por más tiempo.</p>  
+            <p class="texto3 wow slideInUp">Elegí una solución profesional y responsable para mantener tu entorno seguro durante toda la temporada.</p>
+            <p class="texto3 wow slideInUp">Brindamos el servicio de <strong>Fumigación De Mosquitos</strong> en todos los barrios de Capital Federal y alrededores.</p>
           </div>
           <div class="div-texto">
             <div class="presupuesto-ser wow slideInUp">
@@ -106,14 +107,14 @@
                 zona</a>
             </div>
 
-            <h2 class="texto2 mt-5 wow slideInUp">Equipos y Poductos Utilizados</h2>
-            <p class="texto3 wow slideInUp">Usamos herramientas y productos de primera calidad. Fumigamos con equipos
-              atomizadores <strong>STIHL SR420.</strong></p>
-            <img class="img-fluid mx-auto d-block my-5" src="assets/images/servicios/fumigacion_mosquitos_01.png" alt="">
+            <!-- <h2 class="texto2 mt-5 wow slideInUp">Equipos y Poductos Utilizados</h2> -->
+            <!-- <p class="texto3 wow slideInUp">Usamos herramientas y productos de primera calidad. Fumigamos con equipos
+              atomizadores <strong>STIHL SR420.</strong></p> -->
+            <!-- <img class="img-fluid mx-auto d-block my-5" src="assets/images/servicios/fumigacion_mosquitos_01.png" alt=""> -->
           </div>
 
           <div class="div-texto">
-            <h2 class="texto2 mt-5 wow slideInUp">Utilizamos insecticida DEMOLEDOR</h2>
+            <!-- <h2 class="texto2 mt-5 wow slideInUp">Utilizamos insecticida DEMOLEDOR</h2>
             <p><strong>DEMOLEDOR</strong> es un insecticida de amplio espectro, que controla los estadios de plagas y
               regula su crecimiento. Cuando se aplica, tiene un efecto residual excelente. Este producto <strong>NO DEJA
                 OLOR NI TIENE SOLVENTES</strong>.</p>
@@ -127,7 +128,7 @@
               atacando el Sistema Nervioso y el Sistema Endocrino de los insectos. </p>
             <p>Actúa por contacto e ingestión.</p>
             <p><strong>Acción dual:</strong> 2 activos trabajando JUNTOS.</p>
-            <p>Producto sin olor, no mancha.</p>
+            <p>Producto sin olor, no mancha.</p> -->
             <div class="banner-dengue">
               <p>¡Sin Mosquito No Hay Dengue!</p>
               <img src="assets/images/servicios/dengue.png" alt="Dengue" width="160">

@@ -1,19 +1,14 @@
 <!DOCTYPE html>
 <html lang="es">
-
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="theme-color" content="#2F4598">
-  <meta name="robots" content="index, follow, all" />
-  <meta name="googlebot" content="index, follow, all" />
-  <meta name="keywords"
-    content="limpieza de piletas, piletas, piscinas, piletero, pileteros, desagotes, mantenimiento de piletas">
   <meta name="title" content="Mantenimiento de piletas en casas y residencias particulares">
   <meta name="author" content="Administrator">
   <meta name="description"
-    content="Aspirado del fondo de la piscina, limpieza de canastos del skimmer y bomba, limpieza del elemento flotante, control de Cloro y PH agua, aplicación de productos químicos, cepillado del natatorio, limpieza de bordes para la prevención de la formación de larvas de mosquitos, retrolavado y enjuague del sistema de filtrado." />
+    content="Aspirado del fondo de la piscina, limpieza de canastos del skimmer y bomba, limpieza del elemento flotante, control de Cloro y pH agua, aplicación de productos químicos, cepillado del natatorio, limpieza de bordes para la prevención de la formación de larvas de mosquitos, retrolavado y enjuague del sistema de filtrado." />
   <title>Mantenimiento de piletas en casas y residencias particulares | SERVICIOS | INAGUA</title>
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo">
   <link rel="canonical" href="https://inagua.com.ar/servicio-de-mantenimiento-y-limpieza-de-piletas-y-piscinas-de-natacion-en-casas-countries-casas-quintas-edificios-consorcios-departamentos-hoteles-embajadas">
@@ -98,15 +93,15 @@
             </div> -->
           </div>
 <!--           <div class="wow fadeInDown">
-            <img class="img-fluid" src="assets/images/servicios/mantenimiento_cepillado.jpg" alt="Cepillado de Bordes">
+            <img class="img-fluid" src="assets/images/servicios/mantenimiento_cepillado.jpg" alt="Cepillado de línea de flotación">
             <div class="name">
-              <span>Cepillado de Bordes</span>
+              <span>Cepillado de línea de flotación</span>
             </div>
           </div> -->
           <div class="wow fadeInRight">
             <img class="img-fluid" src="assets/images/servicios/mantenimiento_contro_cloro_ph.jpg" alt="">
             <!-- <div class="name">
-              <span>Control de Cloro y PH</span>
+              <span>Control de Cloro y pH</span>
             </div> -->
           </div>
         </div>
@@ -118,17 +113,16 @@
             <li>Aspirado del fondo de la piscina</li>
             <li>Limpieza de canastos del skimmer y bomba</li>
             <li>Limpieza del elemento flotante (sacahojas)</li>
-            <li>Control de niveles de Cloro y PH del agua</li>
+            <li>Control de niveles de Cloro y pH del agua</li>
             <li>Aplicación de productos químicos</li>
-            <li>Cepillado de bordes</li>
+            <li>Cepillado de línea de flotación</li>
             <li>Retrolavado y enjuague del sistema de filtrado</li>
           </ul>
           <p class="texto3sc wow slideInUp">Para realizar este servicio podemos utilizar su
             equipo o contamos con el propio.</p>
 
-          <p class="texto3sc wow slideInUp">El personal de INAGUA está
-            capacitado con los niveles más altos del mercado para realizar tareas de mantenimiento, limpieza y
-            desinfección de piscinas."</p>
+          <p class="texto3sc wow slideInUp">El personal de INAGUA está capacitado con los niveles más altos del mercado para realizar tareas de mantenimiento, limpieza y
+            desinfección de piscinas.</p>
         </div>
 
         <div class="imagen-casas wow slideInRight">
@@ -138,11 +132,10 @@
       <div class="col-md-12 wow tada" datos-wow-duracion="3s" data-wow-delay="2s">
         <div class="pileteros_profesionales">
           <p class="td08_4">Solo confie en pileteros profesionales</p>
-          <p class="td08_3">
-            ...”El tratamiento inadecuado del agua, por falta de conocimientos y experiencia, tiene efectos
+          <p class="td08_3">El tratamiento inadecuado del agua, por falta de conocimientos y experiencia, tiene efectos
             desagradables provocando irritaciones en la piel, ojos y mucosas y causando enfermedades transmitidas por
             microorganismos o agentes patógenos. Por todo esto le ofrecemos mantener su piscina y el agua en óptimas
-            condiciones durante todo el año.”...</p>
+            condiciones durante todo el año.</p>
         </div>
       </div>
       

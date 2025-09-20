@@ -344,7 +344,7 @@
 	color: #333;
 	letter-spacing: 0.02em;
 	text-align: center;
-	margin-top: 20px;
+	margin-top: 10px;
 	opacity: 0.8;
 	text-transform: uppercase;
 	font-weight: 600;
@@ -1771,7 +1771,7 @@ input.btn-primary {
 	color: #fff;
 	align-items: center;
 	justify-content: center;
-	margin: 2rem 0;
+	margin: 3rem 0 2rem;
 	flex-direction: column;
 
 	@include media-breakpoint-up(lg) {

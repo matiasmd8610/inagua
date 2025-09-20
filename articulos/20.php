@@ -5,7 +5,7 @@
       <div class="div-texto">
         <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Consejos para la prevención y
           lucha contra el Dengue</h1>
-        <h4 class="texto2 wow slideInUp">Conocé más sobre tu piscina</h4>
+        <h4 class="texto2 wow slideInUp">Fuente: Oficina de Prensa y Comunicación Ministerio de Salud de la Nación</h4>
       </div>
     </div>
     <br><br>
@@ -70,32 +70,11 @@
     </div>
     <br>
     <br>
-    <div class="texto31">
-      Fuente:<b> Oficina de Prensa y Comunicación Ministerio de Salud de la Nación.</b>
-      <br><br>
+    <div class="texto31 mt-4">
+      <p></p>Fuente:<b> Oficina de Prensa y Comunicación Ministerio de Salud de la Nación.</b>
     </div>
 
-    <div class="seguinos22">
-      <p class="seguinos_tex2">COMPARTI LA NOTA</p>
-    </div>
-
-    <div class="seguinos20">
-      <a href="javascript:window.open('https://www.facebook.com/sharer/sharer.php?u=http://inagua.com.ar/articulo.php?id=20','','width=600,height=400,left=50,top=50,toolbar=yes');void 0"
-        rel="image_src"><img src="assets/images/logo_face.png" class="icono_face_compa" alt=""></a>
-      <a href="javascript:window.open('https://twitter.com/?status= El articulo http://inagua.com.ar/articulo.php?id=20 es muy interesante. Te invito a que lo leas y compartas','','width=600,height=400,left=50,top=50,toolbar=yes');void 0""><img src="
-        assets/images/logo_tw.png" alt="" class="icono_face_compa"></a>
-      <a href="whatsapp://send?text=URL" data-action="share/whatsapp/share"><img src="assets/images/whatsapp.png" alt=""
-          class="icono_face_compa2"></a>
-    </div>
-    <br><br>
-    <p class=" seguinos22 seguinos_tex2">DEJANOS TU COMENTARIOS</p>
-
-    <div class="fb-comments" data-href="http://inagua.com.ar/articulo.php?id=20" data-width="100%" data-numposts="3">
-    </div>
-
-    <a class="boton-zona2" href="noticias.php">VOLVER AL ÍNDICE DE
+    <a class="boton-zona2 mb-0" href="noticias.php">VOLVER AL ÍNDICE DE
       ARTÍCULOS</a>
   </div>
-
-
 </div>

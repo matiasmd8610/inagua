@@ -19,7 +19,7 @@
         </div>
         <div class="col-lg-6 datos_contacto">
           <p class="consulta_header my-0">HACENOS TU CONSULTA:</p>
-          <a href="https://wa.me/541164420848?text=Hola!%20Quisiera%20recibir%20información%20sobre..." target="_blank">
+          <a href="https://wa.me/541164420848?text=Hola!%20Quisiera%20recibir%20información%20sobre..." target="_blank" id="whatsapp-button-header">
             Whatsapp
             <img src="assets/images/whatsapp_white.png" alt="Whatsapp" width="25" class="imagen_wh">
           </a>

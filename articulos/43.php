@@ -3,7 +3,7 @@
 
     <div class="col-md-12">
       <div class="div-texto">
-        <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">¿Qué es el PH?</h1>
+        <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">¿Qué es el pH?</h1>
         <h4 class="texto2 wow slideInUp">Conocé más sobre tu piscina</h4>
       </div>
     </div>

@@ -5,9 +5,6 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="theme-color" content="#2F4598">
-  <meta name="googlebot" content="index, follow, all">
-  <meta name="keywords"
-    content="limpieza de piscina, piscinas, piletero, pileteros, desagotes, mantenimiento de piscinas">
   <meta name="title" content="ANALISIS BACTEREOLOGICO Y FISICO-QUIMICO DE AGUA DE PISCINAS">
   <meta name="author" content="Administrator">
   <meta name="description"
@@ -72,13 +69,11 @@
   <section id="analisis">
     <div class="container">
       <div class="row">
-
         <div class="div-texto mb-3">
           <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Análisis microbiológico y de
             cloruros del agua de piscinas</h1>
           <h2 class="texto2 wow slideInUp">Siéntase libre de microorganismos y agentes patógenos</h2>
         </div>
-
         <div class="grid-services-images mb-5">
           <div class="wow fadeInLeft">
             <img src="assets/images/servicios/analisis_bacteriologico_01.jpg" alt="Análisis bacteriológico" width="500">
@@ -90,16 +85,13 @@
             <img src="assets/images/servicios/analisis_bacteriologico_03.jpg" alt="Análisis bacteriológico" width="500">
           </div>
         </div>
-
         <div>
           <p class="texto3sc wow slideInUp">Los microorganismos causantes de problemas principalmente son los
             provenientes del cuerpo de los bañistas . Las infecciones potenciales pueden ser de oídos, vías
             respiratorias superiores, piel, aparato digestivo y urinario.</p>
-
           <p class="texto3sc wow slideInUp">Para verificar la seguridad del agua de su piscina brindamos el servicio
             de toma de muestras para llevar a cabo los análisis en laboratorio y determinar el nivel de cloruros (debe
             ser menor a 200 ppm) y microbiológico, donde se avaluará:</p>
-
           <ul>
             <li>Microorganismos aerobios mesófilos</li>
             <li>Coliformes totales</li>
@@ -107,20 +99,15 @@
             <li>Pseudomonas aeruginosa</li>
             <li>Enterococos fecales</li>
           </ul>
-
+          <p class="texto3sc wow slideInUp">Este servicio también resulta de gran utilidad en aquellos casos en los que el mantenimiento de la piscina no está a cargo de una empresa especializada. Por ejemplo, cuando el cuidado lo realiza el propio propietario o un encargado de edificio en un consorcio. En estas situaciones, el análisis bacteriológico brinda una seguridad adicional al confirmar que el agua cumple con los parámetros adecuados para el baño y la recreación.</p>
           <p class="texto3sc wow slideInUp">También ofrecemos el servicio de medición de cloro y pH del agua de su
             piscina.</p>
           <p class="texto3sc wow slideInUp">Ante cualquier duda no dude en comunicarse con <strong>INAGUA</strong>.</p>
         </div>
-
         <div class="col-md-12 presupuesto-ser wow slideInUp">
           <a href="#contacto" class="boton-presupuesto">SOLICITAR PRESUPUESTO</a>
         </div>
       </div>
-
-    </div>
-
-    </div>
     </div>
   </section>
 

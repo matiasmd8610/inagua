@@ -5,12 +5,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="theme-color" content="#2F4598">
-  <meta name="robots" content="index, follow, all">
-  <meta name="googlebot" content="index, follow, all">
-  <meta name="keywords"
-    content="destapacion, destapaciones, desobstruccion, limpia fondo, barre fondo, skimmer, camara de fondo, destapa cañerias">
-  <meta name="title"
-    content="DESTAPACIONES DE BARRE FONDO, LIMPIA FONDO, SKIMMER Y CAMARA DE FONDO DE PISCINAS Y PISCINAS DE NATACIÓN">
+  <meta name="title" content="DESTAPACIONES DE BARRE FONDO, LIMPIA FONDO, SKIMMER Y CAMARA DE FONDO DE PISCINAS Y PISCINAS DE NATACIÓN">
   <meta name="author" content="Administrator">
   <meta name="description" content="Especialistas en destapaciones de cañerias de piscinas y piscinas de natación." />
   <title>Destapación de Cañerias de Piscinas SERVICIOS | INAGUA</title>

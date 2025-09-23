@@ -42,7 +42,7 @@
           saca hojas en criollo) </i>
 
         <br><br>
-        <img src="assets/images/punto1.jpg" width="10" height="10" alt=""> <i>Controlando los niveles de Cloro y PH del
+        <img src="assets/images/punto1.jpg" width="10" height="10" alt=""> <i>Controlando los niveles de Cloro y pH del
           agua</i>
 
         <br><br>

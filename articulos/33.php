@@ -222,7 +222,7 @@
                     <b>Test Kit </b>
                     <br>
                     <i>Sirve para analizar los niveles de Cloro y Ph en el agua de la piscina. Contiene 2 reactivos 1 de
-                         cloro y 1 de PH que se vencen a los 6 meses. </i>
+                         cloro y 1 de pH que se vencen a los 6 meses. </i>
                     <br><br>
                     <b>Vaciado </b>
                     <br>

@@ -1,14 +1,10 @@
 <!DOCTYPE html>
 <html lang="es">
-
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="theme-color" content="#2F4598">
-  <meta name="robots" content="index, follow, all">
-  <meta name="googlebot" content="index, follow, all">
-  <meta name="keywords"  content="servicio de limpieza, bordes atérmicos, pisos perimetrales, propiedades atérmicas y antideslizantes, formación de manchas y algas, mantenimiento">
   <meta name="title" content="Instalación de sistema de iluminación led con o sin control remoto.">
   <meta name="author" content="Administrator">
   <meta name="description" content="Instalación de sistema de iluminación led con o sin control remoto.">

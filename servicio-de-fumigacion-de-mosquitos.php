@@ -1,15 +1,10 @@
 <!DOCTYPE html>
 <html lang="es">
-
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="theme-color" content="#2F4598">
-  <meta name="robots" content="index, follow, all">
-  <meta name="googlebot" content="index, follow, all">
-  <meta name="keywords"
-    content="pileta, piletas, piscinas, piletero, pileteros, desagote, pastinado, empastinado, pastina, venecitas, revestidas">
   <meta name="title" content="Empastinado de piletas">
   <meta name="author" content="Administrator">
   <meta name="description" content="Servicios de pastinado de piletas con venecitas.">

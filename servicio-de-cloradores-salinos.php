@@ -5,11 +5,6 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="theme-color" content="#2F4598">
-  <meta name="robots" content="index, follow, all">
-  <meta name="googlebot" content="index, follow, all">
-  <meta name="keywords"
-    content="cloradores, cloración, innowater, cloración salina, clorador salino, piscinas, piletas, mantenimiento piscinas, natación, agua">
-  <meta name="title" content="Cloradores Salinos para el mantenimiento del agua de piscinas en Capital Federal.">
   <meta name="author" content="Administrator">
   <meta name="description" content="Cloradores Salinos Innowater en Buenos Aires para el mantenimiento del agua de piletas.">
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo">
@@ -18,8 +13,6 @@
   <link rel="canonical" href="https://www.inagua.com.ar/servicio-de-cloradores-salinos">
   <link rel="icon" href="assets/images/logo.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-  <!-- <link href="assets/styles/css/fileinput.css" rel="stylesheet"> -->
-  <!-- <link rel="stylesheet" href="assets/styles/css/animate/animate.css"> -->
   <link href="assets/styles/css/main.css" rel="stylesheet">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -152,11 +145,11 @@
             <a href="#contacto" class="boton-presupuesto" style="text-decoration:none;">SOLICITAR PRESUPUESTO</a>
           </div>
 
-          <h4 class="texto2 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">REGULADORES DE PH</h4>
-          <p class="texto3 wow slideInUp">Instrumento para medición del PH y dosificación del ácido que la piscina requiera. Configuración
+          <h4 class="texto2 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">REGULADORES DE pH</h4>
+          <p class="texto3 wow slideInUp">Instrumento para medición del pH y dosificación del ácido que la piscina requiera. Configuración
             electrónica comandada por el clorador salino.
             <br>Poseen control Wireless.</p>
-          <img class="cloradores-img" src="assets/images/servicios/cloradores_salinos_reguladores_ph.png" alt="REGULADORES DE PH">
+          <img class="cloradores-img" src="assets/images/servicios/cloradores_salinos_reguladores_ph.png" alt="REGULADORES DE pH">
 
           <div class="col-md-12 mb-5  presupuesto-ser wow slideInUp">
             <a href="#contacto" class="boton-presupuesto" style="text-decoration:none;">SOLICITAR PRESUPUESTO</a>

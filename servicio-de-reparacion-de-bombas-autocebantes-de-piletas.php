@@ -10,17 +10,14 @@ function get_template( $id ) {
   }
 }
 ?>
+
 <!DOCTYPE html>
 <html lang="es">
-
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="theme-color" content="#2F4598">
-  <meta name="robots" content="index, follow, all">
-  <meta name="googlebot" content="index, follow, all">
-  <meta name="keywords" content="pileta, piletas, piscinas, piletero, pileteros, desagote">
   <meta name="title" content="Soluciones sobre bombas autocebantes">
   <meta name="author" content="Administrator">
   <meta name="description"
@@ -31,9 +28,7 @@ function get_template( $id ) {
   <link rel="canonical" href="https://inagua.com.ar/servicio-de-reparacion-de-bombas-autocebantes-de-piletas">
   <link rel="icon" href="assets/images/logo.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-  <!-- <link href="assets/styles/css/fileinput.css" rel="stylesheet"> -->
   <link href="assets/styles/css/main.css" rel="stylesheet">
-  <!-- <link rel="stylesheet" href="assets/styles/css/animate/animate.css"> -->
   <link href="assets/styles/css/main.css" rel="stylesheet">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

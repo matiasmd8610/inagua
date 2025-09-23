@@ -6,10 +6,6 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="theme-color" content="#2F4598">
-  <meta name="robots" content="index, follow, all">
-  <meta name="googlebot" content="index, follow, all">
-  <meta name="keywords"
-    content="limpieza de piscina, piscinas, piletero, pileteros, desagotes, mantenimiento de piscinas">
   <meta name="title" content="Cambio de arena y reparación de filtro de Piscina">
   <meta name="author" content="Administrator">
   <meta name="description" content="Remplazo de arena y reparación de filtros de piscinas.">

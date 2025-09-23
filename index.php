@@ -5,9 +5,6 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="theme-color" content="#2F4598">
-  <meta name="robots" content="index, follow, all">
-  <meta name="googlebot" content="index, follow, all">
-  <meta name="keywords" content="piscina, piscinas, piletero, pileteros, desagote">
   <meta name="title" content="INAGUA | Pileteros - Limpieza de piscinas - Desagote de piscinass">
   <meta name="author" content="Administrator">
   <meta name="description" content="Empresa de Mantenimiento Integral de Piscinas y afines en Capital Federal y alrededores.">

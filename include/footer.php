@@ -97,7 +97,7 @@
 					<li><a href="articulo.php?id=35">Algas</a></li>
 					<li><a href="articulo.php?id=26">Problemas Filtro</a></li>
 					<li><a href="articulo.php?id=42">Cloro</a></li>
-					<li><a href="articulo.php?id=43">¿Qué es el PH?</a></li>
+					<li><a href="articulo.php?id=43">¿Qué es el pH?</a></li>
 					<li><a href="articulo.php?id=34">Pileteros</a></li>
 					<li><a href="articulo.php?id=33">Glosario</a></li>
 				</ul>

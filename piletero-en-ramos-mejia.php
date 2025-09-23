@@ -1,14 +1,10 @@
 <!DOCTYPE html>
 <html lang="es">
-
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#2F4598">
-  <meta name="robots" content="index, follow, all" />
-  <meta name="googlebot" content="index, follow, all" />
-  <meta name="keywords" content="pileta, piletas, piscinas, piletero, pileteros, desagote, Ramos Mejia" />
   <meta name="title" content="Piletero en Ramos Mejia" />
   <meta name="author" content="Administrator" />
   <meta name="description" content="Servicios de limpieza y mantenimiento de piletas. Pileteros profesionales." />
@@ -18,17 +14,11 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
   <script src="assets/scripts/bootstrap.min.js"></script>
   <script src="assets/scripts/fileinput.js" type="text/javascript"></script>
-  <!-- <link href="assets/styles/css/fileinput.css" rel="stylesheet"> -->
-  <!-- <link rel="stylesheet" href="assets/styles/css/animate/animate.css"> -->
   <link href="assets/styles/css/main.css" rel="stylesheet">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;600&family=Rubik:wght@300;400;600&display=swap"
     rel="stylesheet">
-  <script src="assets/scripts/wow.js"></script>
-  <script>
-    new WOW().init();
-  </script>
 
   <script type="text/javascript">
     (function (i, s, o, g, r, a, m) {
@@ -104,15 +94,6 @@
     </div>
   </header>
 
-
-
-
-
-
-
-
-
-
   <section id="cobertura">
     <div class="container">
       <div class="row">
@@ -137,12 +118,14 @@
   <?php include "include/servicios-sugeridos-small.php"; ?>
   <!-- SERVICIOS SUGERIDOS SMALL: End -->
 
-
-
   <footer>
     <?php include "include/footer.php"; ?>
   </footer>
 
+  <script src="assets/scripts/wow.js"></script>
+  <script>
+    new WOW().init();
+  </script>
   <script src="assets/scripts/scripts.js"></script>
 
 </body>

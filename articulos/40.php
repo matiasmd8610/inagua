@@ -51,7 +51,7 @@
         El nivel de cloro debe mantenerse en 2 partes por millón (ppm). No es aconsejable que se encuentre en un valor
         mayor y, por otra parte, los bajos niveles de cloro pueden permitir el desarrollo de bacterias.
         <br><br>
-        <b>PH del agua </b>
+        <b>pH del agua </b>
         <br>
         En las piletas de natación es importante controlar el pH del agua al menos una vez por semana, utilizando el kit
         de medición, pues ello influye directamente en la efectividad del cloro.

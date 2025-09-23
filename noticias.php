@@ -134,7 +134,7 @@
               <a href="articulo.php?id=42" class="texto311" style="text-decoration: none;">El Cloro<br><span
                   class="boton-mas">Click Aquí</span></a>
               <hr>
-              <a href="articulo.php?id=43" class="texto311" style="text-decoration: none;">¿Qué es el PH?<br><span
+              <a href="articulo.php?id=43" class="texto311" style="text-decoration: none;">¿Qué es el pH?<br><span
                   class="boton-mas">Click Aquí</span></a>
             </div>
           </div>

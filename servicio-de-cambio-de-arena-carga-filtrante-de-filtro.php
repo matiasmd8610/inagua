@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="es">
-
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -73,72 +72,40 @@
 
   <section id="cambio_arena">
     <div class="container">
-      <div class="row">
-        <div class="col-md-12">
-
-          <div class="div-texto">
-            <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Cambio de arena y multivalvula
-              de filtro de piscinas</h1>
-            <h4 class="texto2 wow slideInUp">Reemplazo de filtros y cañerias</h4>
-          </div>
-
-          <div class="grid-services-images my-5">
-            <div class="wow slideInLeft">
-              <img src="assets/images/servicios/cambio_de_arena_01.jpg" alt="Cambio de arena y multivalvula" width="800">
-            </div>
-            <div class="wow slideInRight">
-              <img src="assets/images/servicios/cambio_de_arena_02.jpg" alt="Cambio de arena y multivalvula" width="800">
-            </div>
-            <div class="wow slideInRight">
-              <img src="assets/images/servicios/cambio_de_arena_03.jpg" alt="Cambio de arena y multivalvula" width="800">
-            </div>
-            <div class="wow slideInRight">
-              <img src="assets/images/servicios/cambio_de_arena_04.jpg" alt="Cambio de arena y multivalvula" width="800">
-            </div>
-          </div>
-
-          <div class="div-texto">
-            <p class="texto3 wow slideInUp">
-              Si al filtrar el agua de su piscina aparece arena dentro, en el piso. Esto quiere decir que los colectores
-              del filtro se han dañado y dejan
-              pasar arena en el retorno hacia la piscina. <br>
-              <b> Solución: llamarnos para desarmar filtro y cambiar
-                colectores.</b>
-            </p>
-          </div>
-          <br>
-          <div class="div-texto">
-            <p class="texto3 wow slideInUp">
-              Si al filtrar el agua de su piscina el nivel de la misma disminuye. Esto quiere decir que la junta del
-              cabezal se ha dañado producto del uso.
-              Los tipos de juntas varian de acuerdo a las marcas de los filtros.<br>
-              <b>Solución: llamarnos para cambiar junta estrella del cabezal del filtro.</b>
-            </p>
-          </div>
-          <br>
-          <div class="div-texto">
-            <p class="texto3 wow slideInUp">
-              Si al encender el motor o bomba nota que es debil la salida de agua por los jets
-              de retorno a la piscina. Una vez descartado que el motivo de esto sea la bomba,
-              el problema esta en el filtro, mas especificamente en la arena que contiene.
-              <br>
-              <b> Solución: llamarnos para cambiar la carga filtrante del filtro (arenas).</b>
-            </p>
-          </div>
-          <br>
-          <div class="div-texto">
-            <h5 class="texto3 wow slideInUp">Recuerde que un correcto filtrado del agua dara por resultado agua
-              cristalina.</h5>
-          </div>
-
+      <div class="div-texto">
+        <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Cambio de arena de filtro de piscina</h1>
+        <h2 class="texto2 wow slideInUp">Reemplazo de carga filtrante</h2>
+      </div>
+      <div class="grid-services-images my-5">
+        <div class="wow slideInLeft">
+          <img src="assets/images/servicios/cambio_de_arena_01.jpg" alt="Cambio de arena y multivalvula" width="800">
         </div>
-
+        <div class="wow slideInRight">
+          <img src="assets/images/servicios/cambio_de_arena_02.jpg" alt="Cambio de arena y multivalvula" width="800">
+        </div>
+        <div class="wow slideInRight">
+          <img src="assets/images/servicios/cambio_de_arena_03.jpg" alt="Cambio de arena y multivalvula" width="800">
+        </div>
+        <div class="wow slideInRight">
+          <img src="assets/images/servicios/cambio_de_arena_04.jpg" alt="Cambio de arena y multivalvula" width="800">
+        </div>
+      </div>
+      <div class="div-texto wow slideInUp">
+        <p class="texto3">La arena del filtro (carga filtrante) pierde eficacia con el uso y debe reemplazarse para un correcto mantenimiento del agua:</p>
+        <ul>
+          <li>Casas particulares o residenciales: cada 2 años.</li>
+          <li>Consorcios o piscinas de uso público: cada 1 año debido al mayor caudal de bañistas y suciedad.</li>
+        </ul>
+        <p class="texto3">Algunos indicios de que la arena del filtro ya debe reemplazarse:</p>
+        <p class="texto3">Si al filtrar el agua de su piscina aparece arena dentro, en el piso. Esto quiere decir que los colectores del filtro se han dañado y dejan pasar arena en el retorno hacia la piscina. La carga filtrante se apelmaza (endurece) lo que provoca mucha presión en los colectores al filtrar rompiéndose y provocando que pase arena al agua de su piscina.</p>
+        <p class="texto3">Si al encender el motor o bomba nota que es débil la salida de agua por los jets de retorno a la piscina. Una vez descartado que el motivo de esto sea la bomba, el problema esta en el filtro, mas específicamente en la arena que contiene. El agua no fluye por la carga filtrante correctamente producto de suciedad acumulada que ya no sale con retrolavado.</p>
+        <p class="texto3">Si luego de la temporada de verano el agua de su piscina no recibe mantenimiento dejando que la misma se pudra, tenga en cuenta que dentro de su filtro se forman algas que difícilmente se puedan sacar con un simple retrolavado. Sería necesario que realice el cambio de la carga filtrante.</p>
+        <p class="texto3">Recuerde que un correcto filtrado del agua dará por resultado agua cristalina.</p>
       </div>
 
-      <div class="col-md-12 presupuesto-ser wow slideInUp">
+      <div class="presupuesto-ser wow slideInUp">
         <a href="#contacto" class="boton-presupuesto" style="text-decoration:none;">SOLICITAR PRESUPUESTO</a>
       </div>
-    </div>
     </div>
   </section>
 

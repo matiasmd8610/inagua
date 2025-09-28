@@ -11806,6 +11806,10 @@ header .imagen_cabesal .sello_premiun {
   }
 }
 
+.div-texto ul li {
+  text-indent: -4px;
+}
+
 .texto3sc {
   color: #333;
   font-size: 18px;

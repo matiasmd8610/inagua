@@ -542,15 +542,22 @@
 	}
 }
 
-
 .div-texto-casas2 {
 	float: left;
 	width: 50%;
 	margin-left: 50px;
 
-	@media(max-width: 767px) {
+	@media (max-width: 767px) {
 		width: 100%;
 		margin-left: 0;
+	}
+}
+
+.div-texto {
+	ul {
+		li {
+			text-indent: -4px;
+		}
 	}
 }
 

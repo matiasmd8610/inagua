@@ -1,67 +1,48 @@
 ﻿<div class="container">
-  <div class="row">
-
-    <div class="col-md-12">
-      <div class="div-texto">
-        <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Recomendaciones sobre filtros de
-          piscinas</h1>
-        <h4 class="texto2 wow slideInUp">Conocé más sobre tu piscina</h4>
-      </div>
-    </div>
-    <br><br>
-
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12 wow slideInLeft" align="center">
-          <img src="assets/images/mantenimiento-filtros-notas.png" alt="ejercicios-piscinas" class="img_produc_pintura">
-        </div>
-
-      </div>
-    </div>
-    <br>
-    <br>
-
-    <div class="div-texto texto-art wow slideInUp">
-      <p class="texto31 ">
-
-
-        <b>Los chorros del retorno ya no salen con tanta fuerza. </b>
-        <br>
-        <img src="assets/images/punto1.jpg" width="10" height="10" alt=""/> <i>Realice un retrolavado de su filtro por 3
-          minutos y un enjuague por 30 segundos. Si persiste el problema, ponga el filtro en la función recircular y si
-          el agua sale bien por los retornos el problema es la arena del filtro. Solución: habria que cambiar la arena
-          de su filtro.</i>
-        <br><br>
-
-        <b>¿Cada cuánto se cambia la carga filtrante (arenas)? </b>
-        <br>
-        <img src="assets/images/punto1.jpg" width="10" height="10" alt=""/> <i>Se estima, que bajo un uso normal, la
-          carga filtrante debe cambiarse cada 2 o 3 años.</i>
-        <br><br>
-        <b>¿Cada cuánto debo hacer un retrolavado? </b>
-        <br>
-        <img src="assets/images/punto1.jpg" width="10" height="10" alt=""/> <i>El tiempo entre retrolavados está en
-          relación con la cantidad de suciedad recogida. Lo recomendable es después de cada limpieza del canasto de
-          bomba si utilizamos el barrefondo en posición de filtrado, o 12 días si no lo hemos utilizado.
-        </i>
-        <br><br>
-        <b>Pierde agua por el desagote cuando esta filtrando ¿Qué hago? </b>
-        <br>
-        <img src="assets/images/punto1.jpg" width="10" height="10" alt=""/> <i>Seguramente hay que cambiar la junta
-          estrella del cabezal.
-
-        </i>
-        <br><br>
-
-        <?php include "include/advertencia.php"; ?>
-        <br>
-
-
-
-      </p>
-    </div>
-    <br>
-    <br>
-    <a class="boton-zona2 mb-0" href="noticias.php">VOLVER AL ÍNDICE DE  ARTÍCULOS</a>
+  <div class="div-texto">
+    <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Cómo cuidar el filtro de tu pileta: limpieza y recambio de arena</h1>
+    <h2 class="texto2 wow slideInUp">Mantené un filtrado eficaz y prolongá la vida útil de tu piscina</h2>
   </div>
+  <br>
+  <br>
+  <div class="col-md-12 wow slideInLeft">
+    <img src="assets/images/mantenimiento-filtros-notas.png" alt="ejercicios-piscinas" class="img_produc_pintura mb-5">
+  </div>
+  <br>
+  <br>
+  <div class="div-texto texto-art wow slideInUp">
+    <p class="texto31">El filtro es el corazón del sistema de tu pileta. Si no funciona correctamente, el agua nunca estará realmente limpia ni segura, por más productos químicos que uses. En <strong>INAGUA</strong> te compartimos las claves para que siempre rinda al máximo.</p>
+    <p class="texto31"><strong>1. Limpieza y mantenimiento periódico</strong></p>
+    <ul class="texto31">
+      <li><strong>Retrolavado regular:</strong> luego de cada uso del barrefondo o al limpiar el prefiltro de la bomba, realizá un retrolavado para eliminar los residuos acumulados. Continuá hasta que el visor del filtro muestre que el agua sale limpia.</li>
+      <li><strong>Enjuague:</strong> tras el retrolavado, hacé un enjuague de unos 30 segundos para que el agua vuelva al sistema sin arrastrar suciedad.</li>
+    </ul>
+    <p class="texto31"><strong>2. Cambio de la arena del filtro</strong></p>
+    <p class="texto31">La arena pierde eficacia con el uso y necesita recambio para garantizar una filtración eficiente:</p>
+    <ul class="texto31">
+      <li><strong>Casas particulares o residenciales:</strong> cada 2 años.</li>
+      <li><strong>Consorcios o piscinas de uso público:</strong> cada 1 año, debido al mayor caudal de bañistas y suciedad.</li>
+    </ul>
+    <p class="texto31">Además, prestá atención a señales de alerta como:</p>
+    <ul class="texto31">
+      <li>Arena en el agua de la pileta.</li>
+      <li>Chorros de retorno con poca fuerza.</li>
+      <li>Filtraciones en la tapa o juntas del filtro.</li>
+    </ul>
+    <p class="texto31">Estos síntomas pueden indicar desgaste interno o problemas de sellado.</p>
+    <p class="texto31"><strong>3. Beneficios de un filtro en buen estado</strong></p>
+    <ul class="texto31">
+      <li>Agua más clara, segura y agradable.</li>
+      <li>Mayor eficiencia de la bomba, evitando sobreesfuerzo.</li>
+      <li>Menor consumo de productos químicos.</li>
+      <li>Más años de vida útil para todo el sistema de filtrado.</li>
+    </ul>
+    <p class="texto31">En <strong>INAGUA</strong> realizamos el cambio de arena en los plazos recomendados y el mantenimiento completo del filtro para que tu piscina siempre luzca impecable y disfrutes sin preocupaciones.</p>
+    <br>
+  </div>
+  
+  <?php include "include/advertencia.php"; ?>
+  <br>
+
+  <a class="boton-zona2 mb-0" href="noticias.php">VOLVER AL ÍNDICE DE  ARTÍCULOS</a>
 </div>

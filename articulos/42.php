@@ -3,22 +3,22 @@
 
     <div class="col-md-12">
       <div class="div-texto">
-        <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">El Cloro</h1>
-        <h4 class="texto2 wow slideInUp">Conocé más sobre tu piscina</h4>
+        <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Cloro libre en tu pileta</h1>
+        <h2 class="texto2 wow slideInUp">Clave para un agua segura y cristalina</h2>
       </div>
     </div>
     <br><br>
     <div class="container">
       <div class="row">
-        <div class="col-md-12 wow slideInLeft" align="center">
-          <img src="assets/images/mantenimiento-piscina.png" alt="escala-de-ph" class="img_produc_pintura">
+        <div class="col-md-12 wow slideInLeft">
+          <img src="assets/images/mantenimiento-piscina.png" alt="escala-de-ph" class="img_produc_pintura mb-5">
         </div>
       </div>
     </div>
     <br>
     <br>
     <div class="div-texto texto-art wow slideInUp">
-      <p class="texto31 ">
+      <p class="texto31">
         El contenido de CLORO LIBRE en el agua de las piscinas debe contener 1,5 miligramos de cloro libre por litro.
         <br>(También se dice -es lo mismo- que el contenido de CLORO LIBRE es de 1,5 ppm. -partes por millón-)
         <br><br>
@@ -28,8 +28,7 @@
         Para esta destrucción se necesita una cantidad determinada de cloro que actúe bajo la forma de ácido
         hipocloroso. El que se añade por encima de esa cantidad, es decir por encima del necesario para destruir las
         bacterias y oxidar la materia orgánica, queda libre en el agua bajo la forma de ACIDO HIPOCLOROSO en espera de
-        actuar contra
-        cualquier enemigo: Bacterias, materia orgánica, etc. que se introduzcan nuevamente en el agua, por cualquier
+        actuar contra cualquier enemigo: Bacterias, materia orgánica, etc. que se introduzcan nuevamente en el agua, por cualquier
         conducto, bien por el bañista o por agentes atmosféricos: Viento, lluvia, etc. o cualquier otro medio.
         <br><br>
         El cloro que queda en el agua bajo la forma de ácido hipocloroso en espera de actuar y que se ha aportado por

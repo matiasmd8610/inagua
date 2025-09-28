@@ -1,37 +1,26 @@
 <div class="container">
   <div class="row">
-
     <div class="col-md-12">
       <div class="div-texto">
-        <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Como pintar piletas nuevas o
-          repintarlas, usando pinturas a base de caucho clorado</h1>
-        <h4 class="texto2 wow slideInUp">Conocé más sobre tu piscina</h4>
+        <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Pintura para piscinas</h1>
+        <h2 class="texto2 wow slideInUp">Cómo preparar y pintar superficies nuevas o repintarlas correctamente</h2>
       </div>
     </div>
     <br><br>
-
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12 wow slideInLeft" align="center">
-          <img src="assets/images/tratamiento-acido.png" alt="cloro-vs-asma" class="img_produc_pintura">
-        </div>
-      </div>
-    </div>
+    <!-- <div class="col-md-12 wow slideInLeft" align="center">
+      <img src="assets/images/tratamiento-acido.png" alt="cloro-vs-asma" class="img_produc_pintura">
+    </div> -->
     <br>
     <br>
-
     <div class="div-texto texto-art wow slideInUp">
-      <p class="texto31 ">
+      <p class="texto31">
         En primer lugar, debemos tener en cuenta que la superficie debe estar libre de óxido, grasa, polvillo, pintura
         en mal estado (suelta, ampollada, descascarada, etc), alcalinidad, etc.
-
-
         <br><br>
         <b> Atención:</b><i> si bien la preparación de superficie es importante en todos los trabajos de pintura, en el
           caso de piletas de natación es fundamental ya que las superficies están sometidas a condiciones extremas y el
           éxito del esquema depende totalmente de la calidad de la preparación del sustrato.</i>
         <br><br>
-
         <b>Preparación </b>
         <br>
         Superficies nuevas (mampostería, revoques y hormigón)
@@ -53,10 +42,7 @@
         <b>CONSEJO: </b>Es conveniente colocar hilera de azulejos a la altura de la línea de flotación para facilitar la
         posterior limpieza de tu pileta de natación.
         <br><br>
-
-
         <b>Aplicacion </b>
-
         <br>
         Una vez preparada la superficie, desprender con un cepillo de acero toda la arena que hubiera podido quedar
         adherida. La primer mano la aplicamos con pincel. La segunda mano la podemos realizar a rodillo. Entre manos
@@ -65,10 +51,8 @@
         durante un período de tiempo mayor. Evitar pintar bajo los rayos directos del sol y/o cuando la superficie se
         encuentre con alta temperatura, ya que se perjudica la adherencia por la excesiva velocidad de evaporación del
         solvente.
-
         <br><br>
         <b>Tratamiento con ácido muriático</b>
-
         <br>
         Esta recomendado para proveer mayor anclaje y adherencia a la pintura como así también a neutralizar las
         superficies nuevas que van a ser pintadas. Limpiar a fondo la superficie con cepillo de cerdas, agua y
@@ -85,7 +69,6 @@
         <br><br>
         <b> IMPORTANTE:</b> El nivel óptimo de adherencia se logrará cuando la superficie quede con una rugosidad
         similar a la de una lija de grano 120.
-
         <br><br>
         <?php include "include/advertencia.php"; ?>
       </p>

@@ -122,9 +122,9 @@
               <a href="articulo.php?id=37" class="texto311" style="text-decoration: none;">¿Como identificar problemas
                 en la bomba?<br><span class="boton-mas">Click Aquí</span></a>
               <hr>
-              <a href="articulo.php?id=38" class="texto311" style="text-decoration: none;">¿Cómo identificar problemas
+              <!-- <a href="articulo.php?id=38" class="texto311" style="text-decoration: none;">¿Cómo identificar problemas
                 en el filtro?<br><span class="boton-mas">Click Aquí</span></a>
-              <hr>
+              <hr> -->
               <a href="articulo.php?id=39" class="texto311" style="text-decoration: none;">¿HONGOS NEGROS EN EL PISO Y
                 PARED DE LA PILETA<br><span class="boton-mas">Click Aquí</span></a>
               <hr>

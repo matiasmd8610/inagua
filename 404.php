@@ -38,7 +38,6 @@
   </script>
   <!-- End Google Tag Manager -->
 
-
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-5539254-2"></script>
   <script>

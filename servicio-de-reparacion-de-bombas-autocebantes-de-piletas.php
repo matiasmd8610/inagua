@@ -20,15 +20,13 @@ function get_template( $id ) {
   <meta name="theme-color" content="#2F4598">
   <meta name="title" content="Soluciones sobre bombas autocebantes">
   <meta name="author" content="Administrator">
-  <meta name="description"
-    content="Empresa profesional de Limpieza y desagote de pileta. Piletero en Capital Federal." />
+  <meta name="description" content="Empresa profesional de Limpieza y desagote de pileta. Piletero en Capital Federal." />
   <meta name="google-site-verification" content="VtdXUgSAs18OSNEOuGEqfMCEsFGjHU_Z447jcwFi3Fo">
   <meta property="fb:app_id" content="383820332074788" />
   <title>Soluciones sobre bombas autocebantes | SERVICIOS | INAGUA</title>
   <link rel="canonical" href="https://inagua.com.ar/servicio-de-reparacion-de-bombas-autocebantes-de-piletas">
   <link rel="icon" href="assets/images/logo.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-  <link href="assets/styles/css/main.css" rel="stylesheet">
   <link href="assets/styles/css/main.css" rel="stylesheet">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -48,18 +46,6 @@ function get_template( $id ) {
     gtag('config', 'UA-5539254-2');
   </script>
 
-</head>
-
-<body>
-  <section>
-
-    <?php include "include/chat.php"; ?>
-
-  </section>
-  <span class="ir-arriba"><img src="assets/images/up.png" alt=""></span>
-  <div id="top"></div>
-
-  <div id="fb-root"></div>
   <script>
     (function (d, s, id) {
       var js, fjs = d.getElementsByTagName(s)[0];
@@ -71,7 +57,18 @@ function get_template( $id ) {
     }(document, 'script', 'facebook-jssdk'));
   </script>
 
-
+  <!-- HEAD TAGS: Begin -->
+  <?php include "include/head-tags.php"; ?>
+  <!-- HEAD TAGS: End -->
+</head>
+<body>
+  <section>
+    <?php include "include/chat.php"; ?>
+  </section>
+  <span class="ir-arriba"><img src="assets/images/up.png" alt=""></span>
+  <div id="top"></div>
+    <div id="fb-root"></div>
+  
   <header>
     <div class="botoner_completa animated slideInDown">
       <?php include "include/navegacion.php"; ?>

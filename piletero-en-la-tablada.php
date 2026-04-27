@@ -59,6 +59,9 @@
   </script>
   <!-- End Google Tag Manager -->
 
+  <!-- HEAD TAGS: Begin -->
+  <?php include "include/head-tags.php"; ?>
+  <!-- HEAD TAGS: End -->
 </head>
 
 <body>

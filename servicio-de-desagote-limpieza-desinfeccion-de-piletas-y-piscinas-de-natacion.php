@@ -13,8 +13,6 @@
   <link rel="canonical" href="https://www.inagua.com.ar/servicio-de-desagote-limpieza-desinfeccion-de-piletas-y-piscinas-de-natacion">
   <link rel="icon" href="assets/images/logo.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-  <!-- <link href="assets/styles/css/fileinput.css" rel="stylesheet"> -->
-  <!-- <link rel="stylesheet" href="assets/styles/css/animate/animate.css"> -->
   <link href="assets/styles/css/main.css" rel="stylesheet">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -53,6 +51,9 @@
     </script>
     <!-- End Google Tag Manager -->
 
+    <!-- HEAD TAGS: Begin -->
+  <?php include "include/head-tags.php"; ?>
+  <!-- HEAD TAGS: End -->
 </head>
 
 <body>

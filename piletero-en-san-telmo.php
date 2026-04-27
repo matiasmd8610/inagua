@@ -49,6 +49,9 @@
   </script>
   <!-- End Google Tag Manager -->
 
+  <!-- HEAD TAGS: Begin -->
+  <?php include "include/head-tags.php"; ?>
+  <!-- HEAD TAGS: End -->
 </head>
 
 <body>
@@ -88,15 +91,13 @@
     <?php include "include/footer.php"; ?>
   </footer>
 
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-  <script src="assets/scripts/bootstrap.min.js"></script>
-  <script src="assets/scripts/fileinput.js" type="text/javascript"></script>
-  <script src="assets/scripts/wow.js"></script>
-  <script>
-    new WOW().init();
-  </script>
-  <script src="assets/scripts/scripts.js"></script>
-
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="assets/scripts/bootstrap.min.js"></script>
+    <script src="assets/scripts/fileinput.js" type="text/javascript"></script>
+    <script src="assets/scripts/wow.js"></script>
+    <script src="assets/scripts/scripts.js"></script>
+    <script>
+      new WOW().init();
+    </script>
   </body>
-
 </html>

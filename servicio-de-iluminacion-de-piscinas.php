@@ -14,8 +14,6 @@
   <link rel="canonical" href="https://www.inagua.com.ar/servicio-de-iluminacion-led">
   <link rel="icon" href="assets/images/logo.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-  <!-- <link href="assets/styles/css/fileinput.css" rel="stylesheet"> -->
-  <!-- <link rel="stylesheet" href="assets/styles/css/animate/animate.css"> -->
   <link type="text/css" rel="stylesheet" href="assets/styles/css/lightgallery-bundle.css">
   <link href="assets/styles/css/main.css" rel="stylesheet">
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -55,6 +53,9 @@
   </script>
   <!-- End Google Tag Manager -->
 
+  <!-- HEAD TAGS: Begin -->
+  <?php include "include/head-tags.php"; ?>
+  <!-- HEAD TAGS: End -->
 </head>
 
 <body>

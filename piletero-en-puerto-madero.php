@@ -54,38 +54,23 @@
   </script>
   <!-- End Google Tag Manager -->
 
+  <!-- HEAD TAGS: Begin -->
+  <?php include "include/head-tags.php"; ?>
+  <!-- HEAD TAGS: End -->
 </head>
 
 <body>
   <section>
-
     <?php include "include/chat.php"; ?>
-
   </section>
   <span class="ir-arriba"><img src="assets/images/up.png" alt=""></span>
   <div id="top"></div>
+  
   <header>
-
-
-
     <div class="botoner_completa animated slideInDown">
-
-
-
       <?php include "include/navegacion.php"; ?>
-
-
-
     </div>
   </header>
-
-
-
-
-
-
-
-
 
   <section id="cobertura">
     <div class="container">

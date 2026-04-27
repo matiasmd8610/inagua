@@ -78,6 +78,9 @@
       src="https://www.facebook.com/tr?id=555542968572021&ev=PageView&noscript=1" /></noscript>
   <!-- End Facebook Pixel Code -->
 
+  <!-- HEAD TAGS: Begin -->
+  <?php include "include/head-tags.php"; ?>
+  <!-- HEAD TAGS: End -->
 </head>
 
 <body>

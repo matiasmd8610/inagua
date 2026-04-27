@@ -17,7 +17,6 @@
   <link href="assets/styles/css/fileinput.css" rel="stylesheet">
   <link href="assets/styles/css/main.css" rel="stylesheet">
   <!-- <link rel="stylesheet" href="assets/styles/css/animate/animate.css"> -->
-  <link href="assets/styles/css/main.css" rel="stylesheet">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;600&family=Rubik:wght@300;400;600&display=swap"
@@ -55,7 +54,9 @@
   </script>
   <!-- End Google Tag Manager -->
 
-
+  <!-- HEAD TAGS: Begin -->
+  <?php include "include/head-tags.php"; ?>
+  <!-- HEAD TAGS: End -->
 </head>
 
 <body>

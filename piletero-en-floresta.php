@@ -11,21 +11,12 @@
   <title>Piletero en Floresta</title>
   <link rel="icon" href="assets/images/logo.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-  <script src="assets/scripts/bootstrap.min.js"></script>
-  <script src="assets/scripts/fileinput.js" type="text/javascript"></script>
-  <!-- <link href="assets/styles/css/fileinput.css" rel="stylesheet"> -->
   <link href="assets/styles/css/main.css" rel="stylesheet">
-  <!-- <link rel="stylesheet" href="assets/styles/css/animate/animate.css"> -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;600&family=Rubik:wght@300;400;600&display=swap"
     rel="stylesheet">
-  <script src="assets/scripts/wow.js"></script>
-  <script>
-    new WOW().init();
-  </script>
-
+  
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-5539254-2"></script>
   <script>
@@ -58,37 +49,23 @@
   </script>
   <!-- End Google Tag Manager -->
 
+  <!-- HEAD TAGS: Begin -->
+  <?php include "include/head-tags.php"; ?>
+  <!-- HEAD TAGS: End -->
 </head>
 <body>
   <section>
-
     <?php include "include/chat.php"; ?>
-
   </section>
+
   <span class="ir-arriba"><img src="assets/images/up.png" alt=""></span>
   <div id="top"></div>
+  
   <header>
-
-
-
     <div class="botoner_completa animated slideInDown">
-
-
-
       <?php include "include/navegacion.php"; ?>
-
-
-
     </div>
   </header>
-
-
-
-
-
-
-
-
 
   <section id="cobertura">
     <div class="container">
@@ -112,13 +89,18 @@
   <?php include "include/servicios-sugeridos-small.php"; ?>
   <!-- SERVICIOS SUGERIDOS: End -->
 
-
   <footer>
     <?php include "include/footer.php"; ?>
   </footer>
 
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="assets/scripts/wow.js"></script>
+  <script src="assets/scripts/bootstrap.min.js"></script>
+  <script src="assets/scripts/fileinput.js" type="text/javascript"></script>
   <script src="assets/scripts/scripts.js"></script>
-
+  <script>
+    new WOW().init();
+  </script>
   </body>
-
 </html>

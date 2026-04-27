@@ -10,7 +10,11 @@
             <script>
                 hbspt.forms.create({
                     portalId: "8129669",
-                    formId: "f0930fa8-e702-4c2b-9c3f-28dbd65af6b6"
+                    formId: "f0930fa8-e702-4c2b-9c3f-28dbd65af6b6",
+                    onFormReady: function($form) {
+                        $('<style>.hs-button { background-color: #0192d5 !important; border-color: #0192d5 !important; text-transform: uppercase; font-size: .9rem !important; letter-spacing: 0.05em !important; border-radius: 0.35rem !important; padding: .85rem 1.5rem;} .actions {margin-top: 0 !important; padding: 0 !important;}</style>')
+                        .appendTo($form);
+                    }
                 });
             </script>
         </div>

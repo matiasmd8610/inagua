@@ -12,7 +12,6 @@ function get_template( $id ) {
 ?>
 <!DOCTYPE html>
 <html lang="es">
-
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -47,6 +46,9 @@ function get_template( $id ) {
     gtag('config', 'UA-5539254-2');
   </script>
 
+  <!-- HEAD TAGS: Begin -->
+  <?php include "include/head-tags.php"; ?>
+  <!-- HEAD TAGS: End -->
 </head>
 
 <body>

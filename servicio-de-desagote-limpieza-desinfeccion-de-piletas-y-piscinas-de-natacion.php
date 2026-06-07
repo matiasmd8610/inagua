@@ -16,40 +16,7 @@
   <link href="assets/styles/css/main.css" rel="stylesheet">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;600&family=Rubik:wght@300;400;600&display=swap"
-    rel="stylesheet">
-
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-5539254-2"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-
-    function gtag() {
-      dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
-
-    gtag('config', 'UA-5539254-2');
-  </script>
-
-    <!-- Google Tag Manager -->
-    <script>
-      (function (w, d, s, l, i) {
-        w[l] = w[l] || [];
-        w[l].push({
-          'gtm.start': new Date().getTime(),
-          event: 'gtm.js'
-        });
-        var f = d.getElementsByTagName(s)[0],
-          j = d.createElement(s),
-          dl = l != 'dataLayer' ? '&l=' + l : '';
-        j.async = true;
-        j.src =
-          'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-        f.parentNode.insertBefore(j, f);
-      })(window, document, 'script', 'dataLayer', 'GTM-T4FLXK7');
-    </script>
-    <!-- End Google Tag Manager -->
+  <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;600&family=Rubik:wght@300;400;600&display=swap" rel="stylesheet">
 
     <!-- HEAD TAGS: Begin -->
   <?php include "include/head-tags.php"; ?>
@@ -59,9 +26,7 @@
 <body>
 
   <section>
-
     <?php include "include/chat.php"; ?>
-
   </section>
   <span class="ir-arriba"><img src="assets/images/up.png" alt=""></span>
   <div id="top"></div>
@@ -115,7 +80,6 @@
     </div>
   </section>
 
-
   <!-- NOS DESTACAMOS: Begin -->
   <?php include "include/destacamos.php"; ?>
   <!-- NOS DESTACAMOS: End -->
@@ -146,5 +110,4 @@
   <script src="assets/scripts/scripts.js"></script>
 
 </body>
-
 </html>

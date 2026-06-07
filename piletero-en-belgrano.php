@@ -57,9 +57,7 @@
 
 <body>
   <section>
-
     <?php include "include/chat.php"; ?>
-
   </section>
   <span class="ir-arriba"><img src="assets/images/up.png" alt=""></span>
   <div id="top"></div>
@@ -103,7 +101,5 @@
   <script>
     new WOW().init();
   </script>
-
 </body>
-
 </html>

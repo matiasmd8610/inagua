@@ -73,20 +73,12 @@ if (!$mail->send()) {
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>INAGUA - LIMPIEZA Y MANTENIMIENTO DE PISCINAS - Pileteros Profesionales- </title>
+  <meta http-equiv='refresh' content='4;url=index.php'>
 
-<title>INAGUA - LIMPIEZA Y MANTENIMIENTO DE PISCINAS - Pileteros Profesionales- </title>
-<meta http-equiv='refresh' content='4;url=index.php'>
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-5539254-2"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-5539254-2');
-</script>
-
+  <!-- HEAD TAGS: Begin -->
+  <?php include "include/head-tags.php"; ?>
+  <!-- HEAD TAGS: End -->
 </head>
 
 <body class="woo slide">
@@ -94,7 +86,8 @@ if (!$mail->send()) {
     <table width="100%" border="0" cellspacing="0" cellpadding="0">
        <tr>
             <td colspan="2"><p style=" text-align:center; font-family:Verdana, Geneva, sans-serif; font-size:16px; color:#333; font-style:italic">Espere a que se vuelva a cargar la pagina, lo redireccionaremos al inicio. <br> El envio del CV a sido exitoso, gracias por comunicarse. En el caso que estemos en alguna busqueda, nos pondremos en contacto a la brevedad. De no ser asi, su información sera guardada en nuestra base de datos por futuras vacantes. 
-              </p></td>
+              </p>
+            </td>
           </tr>	
         <td height="44" align="center">
       </tr>

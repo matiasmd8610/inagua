@@ -17,8 +17,7 @@
   <link href="assets/styles/css/main.css" rel="stylesheet">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;600&family=Rubik:wght@300;400;600&display=swap"
-    rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;600&family=Rubik:wght@300;400;600&display=swap" rel="stylesheet">
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-5539254-2"></script>
@@ -61,6 +60,7 @@
   <section>
     <?php include "include/chat.php"; ?>
   </section>
+
   <span class="ir-arriba"><img src="assets/images/up.png" alt=""></span>
   <div id="top"></div>
 
@@ -73,14 +73,12 @@
   <section>
     <div class="container">
       <div class="row">
-
         <div class="col-lg-12">
           <div class="div-texto">
             <h1 class="texto1 wow zoomInDown" datos-wow-duracion="2s" data-wow-delay="1s">Corte de cesped
             </h1>
           </div>
         </div>
-
         <div class="grid-services-images my-5">
           <div class="wow fadeInLeft">
             <img class="img-fluid" src="assets/images/servicios/corte_cesped_01.jpg" alt="">
@@ -92,18 +90,15 @@
             <img class="img-fluid" src="assets/images/servicios/corte_cesped_03.jpg" alt="">
           </div>
         </div>
-
         <div class="div-texto">
           <p class="texto3 wow slideInUp">
             Cortamos el césped con máquinas propias. El servicio preferentemente se coordina en una jornada distinta
             al mantenimiento de su piscina para que la
             misma no se ensucie.</p>
         </div>
-
         <div class="col-md-12 presupuesto-ser wow slideInUp">
           <a href="#contacto" class="boton-presupuesto">SOLICITAR PRESUPUESTO</a>
         </div>
-
       </div>
     </div>
   </section>
@@ -140,12 +135,5 @@
   <script>
     new WOW().init();
   </script>
-  <script>
-    $(document).on('ready', function () {
-
-    });
-  </script>
-
 </body>
-
 </html>
